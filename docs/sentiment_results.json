@@ -1,8 +1,287 @@
 {
-  "timestamp": "2025-12-03T01:19:48.696391+00:00",
+  "timestamp": "2025-12-03T01:39:02.528762+00:00",
   "news": {
-    "count": 2964,
+    "count": 2960,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/peter-schiff-says-michael-saylor-013104976.html",
+        "timestamp": "2025-12-02T01:31:04+00:00",
+        "text": "Peter Schiff Says Michael Saylor Strategy-Bitcoin Model Is 'Fraud' And MSTR Is 'Broken' \nPeter Schiff has cast doubt on Bitcoin (CRYPTO: BTC) and Strategy (NASDAQ:MSTR), accusing Michael Saylor of running an unsustainable business model that he... \nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nPeter Schiff has cast doubt on Bitcoin(CRYPTO: BTC) and Strategy (NASDAQ:MSTR), accusing Michael … [+4548 chars]",
+        "positive": 1.8067037672153674e-05,
+        "negative": 0.9939431548118591,
+        "neutral": 0.006038716994225979
+      },
+      {
+        "source": "news",
+        "id": "https://www.deseret.com/sports/2025/12/01/kalani-sitake-penn-state-byu/",
+        "timestamp": "2025-12-02T01:30:29+00:00",
+        "text": "The latest reporting on the Kalani Sitake-Penn State situation \nOn Monday evening, the Sitake/Penn State rumors became more substantial. \nOver the weekend and through much of Monday, there were a bevy of rumors swirling regarding the possibility of BYU head football coach Kalani Sitake taking the same position at Penn State with Sitake… [+1985 chars]",
+        "positive": 0.00019904729560948908,
+        "negative": 0.09464818984270096,
+        "neutral": 0.9051527380943298
+      },
+      {
+        "source": "news",
+        "id": "https://apropos.substack.com/p/notes-on-bhutan",
+        "timestamp": "2025-12-02T01:30:15+00:00",
+        "text": "Notes on Bhutan \nArticle URL: https://apropos.substack.com/p/notes-on-bhutan\nComments URL: https://news.ycombinator.com/item?id=46116179\nPoints: 4\n# Comments: 0 \nI missed my alarm and woke up at 3:05 am. The taxi was already waiting downstairs to leave for my 5 a.m. flight to Paro. I slept the whole way and mercifully missed the landing at one of the worlds m… [+12508 chars]",
+        "positive": 7.879579061409459e-05,
+        "negative": 0.00741145433858037,
+        "neutral": 0.9925097227096558
+      },
+      {
+        "source": "news",
+        "id": "https://www.newser.com/story/379622/canada-joins-european-union-defense-fund.html",
+        "timestamp": "2025-12-02T01:30:00+00:00",
+        "text": "Canada Joins European Union Defense Fund \nCanada has joined a major European Union defense fund, Prime Minister Mark Carney's office said Monday, as the country looks to diversify its military spending away from the US. The plan allows Canadian defense companies access to a 150 billion euro—$170 bill… \nFund membership will allow Canadian companies to bid for contracts financed by the fund, the Globe and Mail reports. Canada will also be allowed to make joint weapons purchases with EU nations, savin… [+1110 chars]",
+        "positive": 0.015660766512155533,
+        "negative": 1.7843047317001037e-05,
+        "neutral": 0.9843213558197021
+      },
+      {
+        "source": "news",
+        "id": "https://www.ndtvprofit.com/markets/cryptos-retail-traders-hit-hard-as-strategy-etfs-plunge-80",
+        "timestamp": "2025-12-02T01:28:51+00:00",
+        "text": "Crypto's Retail Traders Hit Hard As Strategy ETFs Plunge 80% \nRetail investors who piled into Michael Saylor’s grand Bitcoin experiment are paying a heavy price. Strategy Inc. — the company once hailed for wrapping crypto exposure into a public stock — is scrambling to calm markets after its shares plunged more than 60%… \nRetail investors who piled into Michael Saylors grand Bitcoin experiment are paying a heavy price.\r\nStrategy Inc. the company once hailed for wrapping crypto exposure into a public stock is scramblin… [+4599 chars]",
+        "positive": 0.00012777443043887615,
+        "negative": 0.002594924997538328,
+        "neutral": 0.9972773194313049
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/defence/canada-joins-eu-defense-fund-as-the-country-pivots-away-from-the-us/articleshow/125707131.cms",
+        "timestamp": "2025-12-02T01:28:11+00:00",
+        "text": "Canada joins EU defense fund as the country pivots away from the US \nCanada has joined a major European Union defense fund. This move allows Canadian defense companies access to a significant EU loan program. The initiative aims to fill capability gaps and expand markets for Canadian suppliers. Prime Minister Mark Carney state… \nCanada has joined a major European Union defense fund, Prime Minister Mark Carney's office said Monday, as the country looks to diversify its military spending away from the United States.The plan al… [+1597 chars]",
+        "positive": 0.8591974973678589,
+        "negative": 3.0815099307801574e-05,
+        "neutral": 0.14077171683311462
+      },
+      {
+        "source": "news",
+        "id": "https://www.nzherald.co.nz/business/christchurch-financial-advice-provider-hope-group-limited-has-licence-cancelled-after-misleading-clients/ANDVJDWJM5FYFN2UKXHL3WQNIE/",
+        "timestamp": "2025-12-02T01:27:46+00:00",
+        "text": "Christchurch financial advice provider Hope Group Limited has licence cancelled after misleading clients \nJunpu Wang denies all allegations. \nThe Financial Markets Authority has cancelled the licence of Hope Group Limited (HGL) and its sole director and adviser Junpu Wang. Photo / 123RFA Christchurch-based financial adviser who obtained mo… [+860 chars]",
+        "positive": 2.574823702161666e-05,
+        "negative": 0.005780607927590609,
+        "neutral": 0.9941937327384949
+      },
+      {
+        "source": "news",
+        "id": "https://www.digitaljournal.com/world/pacific-island-office-enabling-sanctions-busting-shadow-fleets/article",
+        "timestamp": "2025-12-02T01:27:20+00:00",
+        "text": "Pacific island office enabling sanctions-busting ‘shadow fleets’ \nDozens of oil tankers suspected of smuggling contraband crude for Russia and Iran have been using a beachside office in the tropical South Pacific to cover their tracks, an AFP analysis of sanctions data has revealed. Nestled next to a pizza shop in the far-f… \nThe Cook Islands was one of the 'top countries whose flags are used by shadow tankers transporting Russian crude oil', according to a European Parliament briefing from 2024 - Copyright AFP/File Marty… [+5904 chars]",
+        "positive": 5.2317609515739605e-06,
+        "negative": 1.1771259778470267e-05,
+        "neutral": 0.9999829530715942
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/06b04c0f2e502e0c",
+        "timestamp": "2025-12-02T01:26:20+00:00",
+        "text": "Australia Could Tackle Housing Crisis With ‘Gentle Density’ Plan \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did silver and gold prices surge recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Who is Trump's pick for th… [+751 chars]",
+        "positive": 0.0009141424670815468,
+        "negative": 0.00043767792521975935,
+        "neutral": 0.9986482262611389
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/47e093d18222ece3",
+        "timestamp": "2025-12-02T01:26:15+00:00",
+        "text": "Trump administration to inject up to $150 million into XLight, WSJ reports \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did silver and gold prices surge recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Who is Trump's pick for th… [+746 chars]",
+        "positive": 0.0018887019250541925,
+        "negative": 0.0001021528005367145,
+        "neutral": 0.9980091452598572
+      },
+      {
+        "source": "news",
+        "id": "https://theconversation.com/copper-theft-is-hitting-building-sites-street-lights-and-now-phones-how-do-we-stop-it-270781",
+        "timestamp": "2025-12-02T01:26:05+00:00",
+        "text": "Copper theft is hitting building sites, street lights – and now phones. How do we stop it? \nThere are different rules in different states on selling scrap copper. A 2023 inquiry found that makes it hard to stop thieves – who are even targeting cemeteries. \nLiz Minchin/The Conversation, CC BY\r\nFrom causing a major phone outage to shutting down street lights across parks, suburbs and roads, copper theft has become a clear public safety risk. \n\nLast week,… [+4848 chars]",
+        "positive": 0.0008000893285498023,
+        "negative": 0.9978429079055786,
+        "neutral": 0.0013569891452789307
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/7ce00311623f357b",
+        "timestamp": "2025-12-02T01:26:04+00:00",
+        "text": "Kentucky fires SEC's longest-tenured coach in Mark Stoops in his 13th season \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did silver and gold prices surge recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Who is Trump's pick for th… [+731 chars]",
+        "positive": 0.006235942710191011,
+        "negative": 2.25451985897962e-05,
+        "neutral": 0.9937415719032288
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbsnews.com/video/portland-coffee-roasters-and-caf-still-struggling-after-tariffs-were-lifted/",
+        "timestamp": "2025-12-02T01:26:00+00:00",
+        "text": "Portland coffee roasters and cafés still struggling after tariffs were lifted \nIn Portland, Oregon, the lingering effects of coffee tariffs are impacting small businesses. Mark Strassmann reports. \nCopyright ©2025 CBS Interactive Inc. All rights reserved.",
+        "positive": 0.00017818236665334553,
+        "negative": 0.08118181675672531,
+        "neutral": 0.9186400175094604
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/782dd12e03549d76",
+        "timestamp": "2025-12-02T01:25:53+00:00",
+        "text": "Australia rolls out AI roadmap, steps back from tougher rules \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did silver and gold prices surge recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Who is Trump's pick for th… [+743 chars]",
+        "positive": 0.07657382637262344,
+        "negative": 0.001275465008802712,
+        "neutral": 0.9221506714820862
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/unilag-vc-seeks-stronger-alumni-industry-partnerships-for-global-competitiveness/",
+        "timestamp": "2025-12-02T01:25:29+00:00",
+        "text": "UNILAG VC seeks stronger alumni–industry partnerships for global competitiveness \nUNILAG VC Prof. Folasade Ogunshola calls for stronger alumni-industry partnerships to boost global competitiveness, research, and student support.\n\nRead More: https://punchng.com/unilag-vc-seeks-stronger-alumni-industry-partnerships-for-global-competitiveness/ \nThe Vice-Chancellor, University of Lagos, Prof. Folasade Ogunshola, has called for deeper collaborations between the institution, its alumni, and industry partners to enhance global competitiveness a… [+4235 chars]",
+        "positive": 0.9999994039535522,
+        "negative": 4.4541511812212775e-08,
+        "neutral": 6.371924996528833e-07
+      },
+      {
+        "source": "news",
+        "id": "https://reason.com/podcast/2025/12/01/is-economic-anxiety-driving-people-to-socialism/",
+        "timestamp": "2025-12-02T01:23:25+00:00",
+        "text": "Is Economic Anxiety Driving People to Socialism? \nPlus: War crime allegations against Hegseth, Congress threatens the legal hemp industry, and reflections on the legacy of Tom Stoppard \nThis week, editors Peter Suderman, Katherine Mangu-Ward, Nick Gillespie, and Matt Welch dig into the disconnect between strong Black Friday spending and a public mood shaped by rising costs, economic… [+2774 chars]",
+        "positive": 9.106096695177257e-05,
+        "negative": 0.9963327646255493,
+        "neutral": 0.0035761871840804815
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-wire-news-releases-pmn/gold-reserve-provides-update-in-citgo-sale-process-multiple-parties-appeal-final-sale-order",
+        "timestamp": "2025-12-02T01:22:09+00:00",
+        "text": "Gold Reserve Provides Update in CITGO Sale Process: Multiple Parties Appeal Final Sale Order \nPEMBROKE, Bermuda — Gold Reserve Ltd. (TSX.V: GRZ) (BSX: GRZ.BH) (OTCQX: GDRZF) (“Gold Reserve” or the “Company”) announces that today it filed a notice of appeal to the U.S. Court of Appeals for the Third Circuit (the “appeals court”) from the final sale ord… \nPEMBROKE, Bermuda Gold Reserve Ltd. (TSX.V: GRZ) (BSX: GRZ.BH) (OTCQX: GDRZF) (Gold Reserve or the Company) announces that today it filed a notice of appeal to the U.S. Court of Appeals for the Third… [+8142 chars]",
+        "positive": 0.0016555625479668379,
+        "negative": 0.00019801084999926388,
+        "neutral": 0.9981464147567749
+      },
+      {
+        "source": "news",
+        "id": "https://www.ndtvprofit.com/markets/silver-retreats-from-record-high-on-concerns-of-overheating",
+        "timestamp": "2025-12-02T01:21:06+00:00",
+        "text": "Silver Retreats From Record High On Concerns Of Overheating \nSilver retreated from a record high, with a key technical indicator showing that a six-day rally has taken the white metal into overbought territory. Gold also edged down. \nSilver retreated from a record high, with a key technical indicator showing that a six-day rally has taken the white metal into overbought territory. Gold also edged down.\r\nSilver traded at around $5… [+1538 chars]",
+        "positive": 0.7262070775032043,
+        "negative": 0.24332965910434723,
+        "neutral": 0.030463283881545067
+      },
+      {
+        "source": "news",
+        "id": "https://www.fool.com.au/2025/12/02/guess-which-10-bagger-asx-gold-stock-is-surging-65-today-on-takeover-news/",
+        "timestamp": "2025-12-02T01:21:00+00:00",
+        "text": "Guess which 10-bagger ASX gold stock is surging 65% today on takeover news \nInvestors are piling into this ASX gold miner on Tuesday. Let’s see why.\nThe post Guess which 10-bagger ASX gold stock is surging 65% today on takeover news appeared first on The Motley Fool Australia. \nASX gold stock African Gold Limited (ASX: A1G) is on fire today.\r\nAfrican Gold shares closed yesterday trading for 31.5 cents. In late morning trade on Tuesday, shares are changing hands for 52 cents… [+2609 chars]",
+        "positive": 0.0005904747522436082,
+        "negative": 0.0005762169603258371,
+        "neutral": 0.9988333582878113
+      },
+      {
+        "source": "news",
+        "id": "https://www.ozbargain.com.au/node/938038",
+        "timestamp": "2025-12-02T01:20:07+00:00",
+        "text": "Westpac Altitude Rewards Platinum Card: 1st Year - 75k Points $0 Fee for Existing Customers ($3k+ Spend in 90 Days) \nFound this deal in an email in my inbox. The deal seems good. Altitude Rewards Platinum Special offer: Get up to 100,000 bonus Altitude Rewards Points> — 75,000 Rewards Points in year 1 if … \nExisting Westpac customers who currently hold an Earth Classic, Earth Platinum, Earth Platinum Plus, Earth Black, Altitude Classic, Altitude Platinum or Altitude Black credit card, or who have held o… [+57 chars]",
+        "positive": 0.9995498061180115,
+        "negative": 2.0507479803200113e-07,
+        "neutral": 0.0004499751958064735
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-edge-up-japan-bond-auction-in-focus/articleshow/125707062.cms",
+        "timestamp": "2025-12-02T01:19:12+00:00",
+        "text": "Asian stocks edge up, Japan bond auction in focus \nAsian stocks saw a tentative rebound Tuesday after Monday's selloff, with cryptocurrencies leading declines in global risk assets. Investors are watching Japanese government bond auctions and the distressed Chinese builder China Vanke, as markets begin Decemb… \nAsian stocks edged higher at the open, staging a tentative rebound after Mondays selloff which saw cryptocurrencies lead declines in global risk assets.Shares in Japan, Australia and South Korea all … [+3266 chars]",
+        "positive": 0.9652104377746582,
+        "negative": 0.034155890345573425,
+        "neutral": 0.0006335950456559658
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/global-trends/us-confirms-south-koreas-15-tariff-rate-retroactive-to-november-1/articleshow/125707065.cms",
+        "timestamp": "2025-12-02T01:16:19+00:00",
+        "text": "US confirms South Korea's 15% tariff rate retroactive to November 1 \nTariffs on South Korean imports, including cars, will now be 15 per cent, effective from November 1. The U.S. is also removing tariffs on airplane parts. South Korea has agreed to invest billions in U.S. industries. This move strengthens the economic partners… \nU.S. Commerce Secretary Howard Lutnick on Monday confirmed that the general tariff rate on imports from South Korea, including on autos, would drop to 15% retroactive to November 1 because South Kore… [+1510 chars]",
+        "positive": 0.0029752864502370358,
+        "negative": 0.0035343742929399014,
+        "neutral": 0.9934903383255005
+      },
+      {
+        "source": "news",
+        "id": "https://www.joblo.com/batman-dcu-james-gunn/",
+        "timestamp": "2025-12-02T01:15:58+00:00",
+        "text": "James Gunn on the “most requested thing” for the DCU Batman \nBatman fans have been very vocal for one particular thing they want the character to have when he makes his DCU debut.\nThe post James Gunn on the “most requested thing” for the DCU Batman appeared first on JoBlo. \nIts only a matter of time before Batman makes his grand entrance into James Gunns new DCU, and Gunn knows fans are already sharpening their opinions. Who should play him? How old should he be? What s… [+2540 chars]",
+        "positive": 0.00025185165577568114,
+        "negative": 0.0003455718688201159,
+        "neutral": 0.9994025230407715
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/27dbc26e1d6c2b45",
+        "timestamp": "2025-12-02T01:14:56+00:00",
+        "text": "Trump Official Urges Supreme Court to Take Bayer Roundup Appeal \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did silver and gold prices surge recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Who is Trump's pick for th… [+752 chars]",
+        "positive": 0.0014198602875694633,
+        "negative": 0.0003706983698066324,
+        "neutral": 0.9982094764709473
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/dc4532cd363865d5",
+        "timestamp": "2025-12-02T01:14:55+00:00",
+        "text": "Samsung Debuts Its First Trifold Months Ahead of Folding iPhone \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did silver and gold prices surge recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Who is Trump's pick for th… [+758 chars]",
+        "positive": 0.0257684588432312,
+        "negative": 3.363707583048381e-05,
+        "neutral": 0.9741978049278259
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/df1bd5189554de6d",
+        "timestamp": "2025-12-02T01:14:54+00:00",
+        "text": "Samsung unveils first multi-folding phone as competition set to heat up \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did silver and gold prices surge recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Who is Trump's pick for th… [+759 chars]",
+        "positive": 0.007866495288908482,
+        "negative": 0.00018915678083430976,
+        "neutral": 0.9919443130493164
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/59c043b9d80e07ab",
+        "timestamp": "2025-12-02T01:14:49+00:00",
+        "text": "This Options Strategy Turns Your Stock Portfolio Into a Consistent Income Generator \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did silver and gold prices surge recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Who is Trump's pick for th… [+758 chars]",
+        "positive": 0.40691816806793213,
+        "negative": 1.7074464267352596e-05,
+        "neutral": 0.5930647850036621
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/455077ca472ac848",
+        "timestamp": "2025-12-02T01:14:40+00:00",
+        "text": "Southern California man gets an unwanted housemate: A black bear in his crawl space \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did silver and gold prices surge recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Who is Trump's pick for th… [+735 chars]",
+        "positive": 0.007279315032064915,
+        "negative": 0.0005359281785786152,
+        "neutral": 0.9921848177909851
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/cfdabef5f20d8faa",
+        "timestamp": "2025-12-02T01:14:37+00:00",
+        "text": "Last-Minute Cyber Monday Beauty Deals up to 55% off — From Dyson to CosRx \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did silver and gold prices surge recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Who is Trump's pick for th… [+708 chars]",
+        "positive": 0.0034698646049946547,
+        "negative": 7.165819260990247e-05,
+        "neutral": 0.9964584708213806
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2025-12-02/perth-bears-signing-toby-sexton-harry-newman/106090798",
+        "timestamp": "2025-12-02T01:14:15+00:00",
+        "text": "Perth Bears confirm first two signings for inaugural NRL season \nThe NRL's Perth expansion team secures the signature of former Bulldogs halfback Toby Sexton and England international Harry Newman for their inaugural season in 2027. \nPerth is officially on the board after coach Mal Meninga declared Toby Sexton and Englishman Harry Newman the right men to be the club's trailblazing first signings. \r\nThe Bears confirmed Sexton and … [+2559 chars]",
+        "positive": 0.000698499905411154,
+        "negative": 3.715086450029048e-06,
+        "neutral": 0.9992977380752563
+      },
+      {
+        "source": "news",
+        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180254917",
+        "timestamp": "2025-12-02T01:12:39+00:00",
+        "text": "US Stocks Slip as Crypto Rout Deepens, BOJ Hints at Policy Shift - Bloomberg.com \nUS Stocks Slip as Crypto Rout Deepens, BOJ Hints at Policy ShiftBloomberg.com Stock market today: Dow, S&P 500, Nasdaq slide, bitcoin plummets in rocky start to DecemberYahoo Finance Wall Street ends lower as yields climb; crypto stocks dropReuters Stocks Hal… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+        "positive": 0.0037398801650851965,
+        "negative": 0.045135535299777985,
+        "neutral": 0.9511244893074036
+      },
       {
         "source": "news",
         "id": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-2nd-dec-2025/article70346484.ece",
@@ -617,48 +896,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-december-2-2025",
-        "timestamp": "2025-12-02T00:30:00+00:00",
-        "text": "All You Need To Know Going Into Trade On Tuesday \nThe Nifty closed 0.1% lower, slightly below the 26,200 mark. The BSE Sensex ended flat at 85,641. Nifty December futures is up to 26,330 at a premium of 155 points. Nifty December futures open interest down up by 3.36%. Nifty Options on Dec 2: Maximum Call op… \n<li>Bajaj Housing Finance: Bajaj Finance plans to sell a 2% stake in the company, valued at Rs 1,740 crore. Bajaj Finance currently holds 88.70% stake in the company. The deal is likely to take place… [+5433 chars]",
-        "positive": 1.6306466932292096e-05,
-        "negative": 5.6256907555507496e-05,
-        "neutral": 0.9999274015426636
-      },
-      {
-        "source": "news",
         "id": "https://www.globenewswire.com/news-release/2025/12/02/3197552/0/en/Red-White-Bloom-Brands-Files-2025-Q3-Interim-Financial-Statements.html",
         "timestamp": "2025-12-02T00:30:00+00:00",
         "text": "Red White & Bloom Brands Files 2025-Q3 Interim Financial Statements \nTORONTO, Dec. 01, 2025 (GLOBE NEWSWIRE) -- Red White & Bloom Brands Inc. (CSE: RWB) (“RWB” or the “Company”) announces that it has completed and filed its interim financial statements for the period ended September 30, 2025, together with the related manageme… \nTORONTO, Dec. 01, 2025 (GLOBE NEWSWIRE) -- Red White &amp; Bloom Brands Inc. (CSE: RWB) (RWB or the Company) announces that it has completed and filed its interim financial statements for the period … [+4998 chars]",
         "positive": 9.704392141429707e-06,
         "negative": 1.1699787592078792e-06,
         "neutral": 0.9999891519546509
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/tech/technology/ai-turbocharges-chip-design-cadence-samsung-tessolve-units-see-india-at-heart-of-next-gen-semiconductor-rd/articleshow/125701915.cms",
-        "timestamp": "2025-12-02T00:30:00+00:00",
-        "text": "AI turbocharges chip design: Cadence, Samsung, Tessolve units see India at heart of next-gen semiconductor R&D \nArtificial intelligence (AI) is rapidly reshaping how complex chips are conceived, verified and brought to market, with global players such as Cadence Design Systems, Samsung Semiconductor’s Indian R&D arm and Tessolve (all three headquartered in San Jose, Ca… \nArtificial intelligence (AI) is rapidly reshaping how complex chips are conceived, verified and brought to market, with global players such as Cadence Design Systems, Samsung Semiconductors Indian R&… [+5411 chars]",
-        "positive": 0.22243733704090118,
-        "negative": 0.00016667494492139667,
-        "neutral": 0.7773959040641785
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chronicles-of-circular-deals-experts-cautious/articleshow/125703347.cms",
-        "timestamp": "2025-12-02T00:30:00+00:00",
-        "text": "Chronicles of circular deals; experts cautious \nExperts are debating whether the current AI boom is a bubble, with some drawing parallels to the 1990s tech surge. While current market valuations are not as extreme as in the past, emerging risks within AI systems are a growing concern for analysts and econo… \nListen to this article in summarized format",
-        "positive": 9.49425100316148e-07,
-        "negative": 0.9999909400939941,
-        "neutral": 8.124492524075322e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.euractiv.com/news/compromise-on-rice-imports-paves-way-for-eu-trade-preferences-overhaul/",
-        "timestamp": "2025-12-02T00:29:14+00:00",
-        "text": "Compromise on rice imports paves way for EU trade preferences overhaul \nUnder the agreement, most-favoured-nation tariffs will be reimposed if rice imports surge by 45% compared to a baseline of 387,000 tonnes \nNegotiators from the European Parliament and Council reached a deal late on Monday to overhaul the EUs trade-preferences scheme for developing countries, ending a two-year stalemate after breaking th… [+3289 chars]",
-        "positive": 0.013730248436331749,
-        "negative": 0.004734325222671032,
-        "neutral": 0.9815355539321899
       },
       {
         "source": "news",
@@ -671,39 +914,12 @@
       },
       {
         "source": "news",
-        "id": "https://bringatrailer.com/listing/1962-lotus-elite-14/",
-        "timestamp": "2025-12-02T00:28:09+00:00",
-        "text": "47-Years-Owned 1962 Lotus Elite Series II \nThis 1962 Lotus Elite is believed to have been sold new as a kit and acquired by the current owner as a disassembled project in 1978. It was subsequently refurbished over the next two decades as part of a build completed circa 2002 and was later repainted in … \nThis 1962 Lotus Elite is believed to have been sold new as a kit and acquired by the current owner as a disassembled project in 1978. It was subsequently refurbished over the next two decades as part… [+3668 chars]",
-        "positive": 1.145946134784026e-05,
-        "negative": 1.360884834866738e-05,
-        "neutral": 0.9999749660491943
-      },
-      {
-        "source": "news",
-        "id": "https://securityaffairs.com/185217/cyber-crime/law-enforcement-shuts-down-cryptomixer-in-major-crypto-crime-takedown.html",
-        "timestamp": "2025-12-02T00:27:47+00:00",
-        "text": "Law enforcement shuts down Cryptomixer in major crypto crime takedown \nAuthorities seized $29M in Bitcoin after takedown of Cryptomixer, a service used to launder cybercrime proceeds. Europol announced the seizure of $29M in Bitcoin after shutting down Cryptomixer, a crypto-mixing service used for cybercrime and money laundering… \nLaw enforcement shuts down Cryptomixer in major crypto crime takedown\r\nEuropol announced the seizure of $29M in Bitcoin after shutting down Cryptomixer, a crypto-mixing service used for cybercrime an… [+1806 chars]",
-        "positive": 0.00018855530652217567,
-        "negative": 0.9741559624671936,
-        "neutral": 0.02565549500286579
-      },
-      {
-        "source": "news",
         "id": "https://bleedingcool.com/tv/wwe-raw-preview-tournament-heats-up-titles-on-the-line/",
         "timestamp": "2025-12-02T00:27:03+00:00",
         "text": "WWE Raw Preview: Tournament Heats Up, Titles On the Line \nGreetings, comrades! It is I, your El Presidente, reporting to you live from my luxurious presidential bunker where I am currently binge-watching wrestling while my cabinet argues about crop yields upstairs. But who cares about agriculture when we have the gl… \nPosted in: Sports, TV, WWE | Tagged: wrestling, WWE Raw\r\nEl Presidente previews tonight's WWE Raw with tournament semifinals, tag team title action, and the road to John Cena's final match. Viva la l… [+5814 chars]",
         "positive": 3.6124454254604643e-06,
         "negative": 2.766265424725134e-06,
         "neutral": 0.9999936819076538
-      },
-      {
-        "source": "news",
-        "id": "https://indianexpress.com/article/horoscope/aquarius-horoscope-today-02-december-2025-daily-astrology-prediction-for-aquarius-career-finance-money-love-10395099/",
-        "timestamp": "2025-12-02T00:25:41+00:00",
-        "text": "Aquarius Horoscope Today, 02 December 2025: A difference of opinion could stir friction today \nAquarius Horoscope Today, 02 December 2025: Use this pause to reassess and recalibrate. Even quiet days hold value. Trust the unfolding process—it’s working for you, not against you. \nAquarius Horoscope Prediction Today, 02 December 2025: The pace may feel slow, but dont mistake stillness for stagnation. Progress is happeningjust beneath the surface. Like the tortoise in the fable… [+1615 chars]",
-        "positive": 0.0019444861682131886,
-        "negative": 0.00310934754088521,
-        "neutral": 0.9949461817741394
       },
       {
         "source": "news",
@@ -716,24 +932,6 @@
       },
       {
         "source": "news",
-        "id": "https://hiconsumption.com/motors/mask-architects-solaris-electric-motorcycle/",
-        "timestamp": "2025-12-02T00:24:05+00:00",
-        "text": "This Motorcycle With Retractable Solar Panel Wings Might Be the Future of Off-Grid Travel \nMask Architects' concept motorcycle powers itself when parked so you theoretically never need to charge again. \nWhether you’re an urban courier or going off-grid, charging up your vehicle not only costs money but precious time.\r\nSardinia-based architecture firm Mask Architects acknowledges that while electrifi… [+4524 chars]",
-        "positive": 0.0001033004664350301,
-        "negative": 0.0008126520551741123,
-        "neutral": 0.9990841150283813
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/mullen-group-ltd-announces-the-completion-of-the-redemption-of-its-5-75-convertible-unsecured-subordinated-debentures-due-november-30-2026",
-        "timestamp": "2025-12-02T00:23:01+00:00",
-        "text": "Mullen Group Ltd. Announces the Completion of the Redemption of its 5.75% Convertible Unsecured Subordinated Debentures due November 30, 2026 \nOKOTOKS, Alberta, Dec. 01, 2025 (GLOBE NEWSWIRE) — (TSX: MTL) Mullen Group Ltd. (“Mullen Group” and/or the “Corporation“) announced today that it has completed the redemption of its 5.75% convertible unsecured subordinated debentures due November 30, 2026 (th… \nOKOTOKS, Alberta, Dec. 01, 2025 (GLOBE NEWSWIRE) (TSX: MTL) Mullen Group Ltd. (Mullen Group and/or the Corporation) announced today that it has completed the redemption of its 5.75% convertible unsec… [+5640 chars]",
-        "positive": 3.529759487719275e-05,
-        "negative": 2.9873074254282983e-06,
-        "neutral": 0.9999617338180542
-      },
-      {
-        "source": "news",
         "id": "https://punchng.com/sokotos-security-blueprint-earns-national-spotlight/",
         "timestamp": "2025-12-02T00:21:29+00:00",
         "text": "Sokoto’s security blueprint earns national spotlight \nDiscover how Sokoto State’s security blueprint is gaining national attention, offering a new template for Nigerian states to tackle insecurity effectively.\n\nRead More: https://punchng.com/sokotos-security-blueprint-earns-national-spotlight/ \nSokoto States security reforms have gained fresh national attention following the induction of the Governors Special Adviser on Security Matters, Col. Ahmed Usman (rtd.), as a Fellow of the Institute… [+2771 chars]",
@@ -743,66 +941,12 @@
       },
       {
         "source": "news",
-        "id": "https://punchng.com/?p=1999113",
-        "timestamp": "2025-12-02T00:21:29+00:00",
-        "text": "FCMB wins best SME bank award \nFirst City Monument Bank (FCMB) wins the Best SME Bank Award from CIBN, backed by a 24% share of SME lending. Discover their commitment to Nigerian entrepr\n\nRead More: https://punchng.com/fcmb-wins-best-sme-bank-award/ \nFirst City Monument Bank has been named Nigerias Best SME Focused Bank for 2025 by the Chartered Institute of Bankers of Nigeria. The recognition comes on the back of FCMBs leading 24 per cent share … [+2901 chars]",
-        "positive": 0.990594744682312,
-        "negative": 1.1961055861320347e-05,
-        "neutral": 0.009393353015184402
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/abductions-surge-northern-govs-demand-mining-suspension-unveil-n228bn-security-fund/",
-        "timestamp": "2025-12-02T00:21:29+00:00",
-        "text": "Abductions surge: Northern govs demand mining suspension, unveil N228bn security fund \nNorthern governors address surging abductions by demanding a mining suspension and creating a N228bn security fund to combat Northern Nigeria insecurity.\n\nRead More: https://punchng.com/abductions-surge-northern-govs-demand-mining-suspension-unveil-n228bn-sec… \nNorthern governors and traditional rulers on Monday called for a six-month suspension of mining activities across the region, blaming illegal mining for the worsening insecurity in many states.\r\nThe … [+13695 chars]",
-        "positive": 0.00026771199190989137,
-        "negative": 0.44337114691734314,
-        "neutral": 0.556361198425293
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/swest-commission-pushes-revival-of-old-rail-corridors/",
-        "timestamp": "2025-12-02T00:21:29+00:00",
-        "text": "S’West commission pushes revival of old rail corridors \nThe South-West Development Commission is spearheading a South-West rail revival to reduce transport costs, improve market access, and create jobs.\n\nRead More: https://punchng.com/swest-commission-pushes-revival-of-old-rail-corridors/ \nThe Managing Director/Chief Executive Officer of the South-West Development Commission, Dr Charles Akinola, has revealed that the commissions push for the revival of many old, unserviced rail lines i… [+3123 chars]",
-        "positive": 0.0025054055731743574,
-        "negative": 5.9719488490372896e-05,
-        "neutral": 0.9974349141120911
-      },
-      {
-        "source": "news",
-        "id": "https://www.fool.com.au/2025/12/02/how-much-higher-can-this-explosive-asx-stock-go/",
-        "timestamp": "2025-12-02T00:21:07+00:00",
-        "text": "How much higher can this explosive ASX stock go? \nAnalysts are broadly bullish and see some upside.\nThe post How much higher can this explosive ASX stock go? appeared first on The Motley Fool Australia. \nThe share price of this ASX-listed stock has increased by 44% this year. That makes Orica Ltd (ASX: ORI) one of the top-performing shares on the S&amp;P/ASX 200 Index (ASX: XJO) in 2025. \r\nFor some c… [+2630 chars]",
-        "positive": 0.9999961853027344,
-        "negative": 6.448757261523497e-08,
-        "neutral": 3.6810486108151963e-06
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/icici-pru-amc-3-others-get-ipo-approval-from-sebi/articleshow/125706746.cms",
-        "timestamp": "2025-12-02T00:20:09+00:00",
-        "text": "ICICI Pru AMC, 3 others get IPO approval from Sebi \nSebi has approved the IPOs of ICICI Prudential Asset Management and three other companies, signaling the green light for their public offerings. ICICI Prudential AMC's ₹10,000 crore IPO, slated for December, will be an entirely offer for sale, with UK-based P… \n(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
-        "positive": 0.0020768798422068357,
-        "negative": 4.081895440322114e-06,
-        "neutral": 0.9979191422462463
-      },
-      {
-        "source": "news",
         "id": "https://www.ozbargain.com.au/node/938026",
         "timestamp": "2025-12-02T00:19:25+00:00",
         "text": "[CBA Yello] Sign up to Origin Affinity Variable Plan & Get up to $350 (Diamond) or $300 (Gold) Electricity Bill Credit @ Origin \nUnsure if Targetted, so please check your CBA Yello offers Note for Information purposes only - I signed up using the Diamond link when I was on the \"Yello Plus\" tier and was able to get … \nUnsure if Targetted, so please check your CBA Yello offers\r\nNote for Information purposes only - I signed up using the Diamond link when I was on the \"Yello Plus\" tier and was able to get the full di… [+1873 chars]",
         "positive": 0.00019525174866430461,
         "negative": 7.18800220056437e-05,
         "neutral": 0.9997329115867615
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/ba72eab8acc58a5f",
-        "timestamp": "2025-12-02T00:19:11+00:00",
-        "text": "Costco sues the Trump administration, seeking a refund of tariffs \nCostco Wholesale has sued the Trump administration, asking the Court of International Trade to consider all tariffs collected under the International Emergency Economic Powers Act unlawful.\nThe company said in a filing Friday that it is seeking a “full refund… \nCostco Wholesale has sued the Trump administration, asking the Court of International Trade to consider all tariffs collected under the International Emergency Economic Powers Act unlawful.The compan… [+150 chars]",
-        "positive": 0.017123041674494743,
-        "negative": 0.9276658892631531,
-        "neutral": 0.05521112307906151
       },
       {
         "source": "news",
@@ -866,33 +1010,6 @@
         "positive": 0.00832674652338028,
         "negative": 4.327704300521873e-05,
         "neutral": 0.9916300177574158
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/d4e444945d781fc9",
-        "timestamp": "2025-12-02T00:18:32+00:00",
-        "text": "Costco joins companies suing for refunds if Trump’s tariffs fall \nCostco Wholesale Corp. joined a fast-growing list of businesses suing the Trump administration to ensure eligibility for refunds if the US Supreme Court strikes down the president’s signature global tariffs policy.\nThe nation’s biggest warehouse club chain is… \nCostco Wholesale Corp. joined a fast-growing list of businesses suing the Trump administration to ensure eligibility for refunds if the US Supreme Court strikes down the presidents signature global t… [+143 chars]",
-        "positive": 0.006037013605237007,
-        "negative": 0.031356021761894226,
-        "neutral": 0.9626070261001587
-      },
-      {
-        "source": "news",
-        "id": "https://chilledmagazine.com/chilled-media-welcomes-chai-lee-as-the-new-national-director-of-the-chilled-ambassador-network/",
-        "timestamp": "2025-12-02T00:18:03+00:00",
-        "text": "Chilled Media Welcomes Chai Lee as the New National Director of the Chilled Ambassador Network \nWe’re excited to welcome Chai Lee as the new National Director of our Chilled Ambassador Network! Chai is stepping in to lead our incredible network of bartenders across the country—helping them level up their craft and tell their stories in the way only a ba… \nChai is stepping in to lead our incredible network of bartenders across the countryhelping them level up their craft and tell their stories in the way only a bartender can.\r\nAs our Ambassador Network… [+1118 chars]",
-        "positive": 0.9998034834861755,
-        "negative": 2.1855034049167443e-07,
-        "neutral": 0.0001962647365871817
-      },
-      {
-        "source": "news",
-        "id": "https://www.irishtimes.com/ireland/2025/12/02/fifth-case-of-bird-flu-confirmed-at-turkey-farm-in-co-cavan/",
-        "timestamp": "2025-12-02T00:17:23+00:00",
-        "text": "Fifth case of bird flu confirmed at Turkey farm in Co Cavan \nLatest case follows previous outbreaks at farms in Laois, Monaghan, Meath and Carlow \nA fifth case of bird flu has been confirmed at a turkey farm, it has been confirmed.\r\nA Department of Agriculture spokesman confirmed the outbreak of the highly pathogenic avian influenza HPAI H5N1, … [+2642 chars]",
-        "positive": 2.2654536223853938e-05,
-        "negative": 0.0001299497962463647,
-        "neutral": 0.999847412109375
       },
       {
         "source": "news",
@@ -1103,21 +1220,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.nature.com/articles/s41592-025-02944-4",
-        "timestamp": "2025-12-02T00:00:00+00:00",
-        "text": "Parallel stopped-flow interrogation of diverse biological systems at the single-molecule scale \nParallelized single-molecule fluorescence and single-molecule FRET experiments enable quantitative biophysics investigations of molecular function from multiple samples in a single experiment. \nRefer to Supplementary Tables 1 and 5 for the sequences of all DNA oligonucleotides used in this study. Refer to Supplementary Table 4 for a list of materials and equipment used in this study.\r\nDNA l… [+23150 chars]",
-        "positive": 2.5805570658121724e-06,
-        "negative": 4.518610410286783e-07,
-        "neutral": 0.9999969005584717
-      },
-      {
-        "source": "news",
         "id": "https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an01083g",
         "timestamp": "2025-12-02T00:00:00+00:00",
         "text": "Electrochemical determination of copper in seawater based on a patch-type integrated electrode modified with gold nanoparticle-decorated carbon nanoflowers \nAnalyst, 2025, Advance ArticleDOI: 10.1039/D5AN01083G, PaperShengjie Chu, Fei Pan, Yuxuan Zhang, Haitao Han, Dawei Pan, Xueping HuA patch-type integrated electrochemical sensor based on carbon nanoflowers/gold nanoparticles for determination of copper in seaw… \n* \r\n Corresponding authors\r\na\r\n School of Chemistry and Chemical Engineering, Linyi University, Linyi 276000, P.R. China\r\nE-mail:xuephu@yeah.net\r\nb\r\n Shandong Key Laboratory of Coastal Environmental … [+443 chars]",
         "positive": 6.308624733719626e-07,
         "negative": 1.010926553135505e-06,
         "neutral": 0.9999984502792358
+      },
+      {
+        "source": "news",
+        "id": "https://www.nature.com/articles/s41592-025-02944-4",
+        "timestamp": "2025-12-02T00:00:00+00:00",
+        "text": "Parallel stopped-flow interrogation of diverse biological systems at the single-molecule scale \nParallelized single-molecule fluorescence and single-molecule FRET experiments enable quantitative biophysics investigations of molecular function from multiple samples in a single experiment. \nRefer to Supplementary Tables 1 and 5 for the sequences of all DNA oligonucleotides used in this study. Refer to Supplementary Table 4 for a list of materials and equipment used in this study.\r\nDNA l… [+23150 chars]",
+        "positive": 2.5805570658121724e-06,
+        "negative": 4.518610410286783e-07,
+        "neutral": 0.9999969005584717
       },
       {
         "source": "news",
@@ -1271,159 +1388,6 @@
         "positive": 0.0015104328049346805,
         "negative": 5.963693911326118e-05,
         "neutral": 0.9984299540519714
-      },
-      {
-        "source": "news",
-        "id": "https://consequence.net/2025/12/mt-joy-2026-north-american-tour-dates/",
-        "timestamp": "2025-12-01T23:41:43+00:00",
-        "text": "Mt. Joy Extend 2026 North American Tour \nThe 10th anniversary trek now wraps up in the fall with new dates in Cleveland, Los Angeles, Toronto, New York City, and Chicago.\nMt. Joy Extend 2026 North American Tour\nTrey Alston \nMt. Joy have extended their 2026 North American tour in support of their latest album, Hope We Have Fun, by nearly two dozen dates.\r\nCelebrating the band’s 10th anniversary, the new run begins on Jun… [+2755 chars]",
-        "positive": 3.781473060371354e-05,
-        "negative": 4.4761111439584056e-07,
-        "neutral": 0.9999617338180542
-      },
-      {
-        "source": "news",
-        "id": "https://rumble.com/v72h6jm-naomi-wolf-speaks-at-reproductive-health-today.html",
-        "timestamp": "2025-12-01T23:38:43+00:00",
-        "text": "\"Naomi Wolf Speaks at 'Reproductive Health Today'\" \n\"'Reproductive Health Today' was an event presented by the Berkshire County Resiliency Collaborative on November 13, 2025, which focused on various topics related to reproductive health. The event fea \n\"'Reproductive Health Today' was an event presented by the Berkshire County Resiliency Collaborative on November 13, 2025, which focused on various topics related to reproductive health. The event fe… [+926 chars]",
-        "positive": 0.00010359773295931518,
-        "negative": 1.0482885954843368e-05,
-        "neutral": 0.9998859167098999
-      },
-      {
-        "source": "news",
-        "id": "https://www.pymnts.com/bank-regulation/2025/private-credit-boom-threatens-stability-says-global-watchdog/",
-        "timestamp": "2025-12-01T23:37:42+00:00",
-        "text": "Private Credit Boom Threatens Stability, Says Global Watchdog \nPrivate credit, representing lending by nonbank entities to companies, has in recent years come to rival traditional bank lending in size and influence. According to the U.S. Federal Reserve, private credit outstanding has roughly doubled over the past five y… \nPrivate credit, representing lending by nonbank entities to companies, has in recent years come to rival traditional bank lending in size and influence. According to the U.S. Federal Reserve, private… [+4330 chars]",
-        "positive": 0.04350357875227928,
-        "negative": 0.018846949562430382,
-        "neutral": 0.9376494884490967
-      },
-      {
-        "source": "news",
-        "id": "https://www.bbc.com/sport/boxing/articles/cx2e64dyxe3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "timestamp": "2025-12-01T23:36:20+00:00",
-        "text": "I want to fight Wilder next - Usyk \nUnified heavyweight world champion Oleksandr Usyk names Deontay Wilder as the preferred opponent for his next fight. \nUnified heavyweight world champion Oleksandr Usyk has named Deontay Wilder as the \"first option\" for his next fight.\r\nThe Ukrainian stopped Londoner Daniel Dubois at Wembley Stadium in July to become… [+1774 chars]",
-        "positive": 0.0008153676753863692,
-        "negative": 5.136567779118195e-05,
-        "neutral": 0.999133288860321
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/former-cibn-president-advocates-special-court-for-loan-disputes/",
-        "timestamp": "2025-12-01T23:35:44+00:00",
-        "text": "Former CIBN president advocates special court for loan disputes \nFormer CIBN president Ken Opara calls for establishing a special loan disputes court to accelerate the resolution of commercial credit cases in Nigeria.\n\nRead More: https://punchng.com/former-cibn-president-advocates-special-court-for-loan-disputes/ \nThe immediate past president of the Chartered Institute of Bankers of Nigeria, Ken Opara, has called for the establishment of a court dedicated to credit access cases.\r\nOpara, who is also Executive D… [+3391 chars]",
-        "positive": 3.69272606803861e-06,
-        "negative": 1.616092777112499e-05,
-        "neutral": 0.999980092048645
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/sec-deepens-collaboration-to-prosecute-ponzi-scheme-perpetrators/",
-        "timestamp": "2025-12-01T23:35:44+00:00",
-        "text": "SEC deepens collaboration to prosecute Ponzi scheme perpetrators \nNigeria’s SEC is strengthening inter-agency collaboration to identify and prosecute Ponzi scheme perpetrators under the Investments and Securities Act 2025\n\nRead More: https://punchng.com/sec-deepens-collaboration-to-prosecute-ponzi-scheme-perpetrators/ \nThe Securities and Exchange Commission has reaffirmed its commitment to strengthening inter-agency collaborations to identify and prosecute the promoters of Ponzi schemes in line with the Investments… [+2285 chars]",
-        "positive": 0.014430503360927105,
-        "negative": 0.00014459769590757787,
-        "neutral": 0.9854249358177185
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/5b7ece0577c46fbd",
-        "timestamp": "2025-12-01T23:33:37+00:00",
-        "text": "S. Korea's inflation holds at 2.4% November \nSouth Korea's consumer prices rose 2.4% in November compared with a year earlier, Statistics Korea reported on Tuesday.\nThe November reading followed a 2.4% annual gain in October, showing inflat... \nSouth Korea's consumer prices rose 2.4% in November compared with a year earlier, Statistics Korea reported on Tuesday.The November reading followed a 2.4% annual gain in October, showing inflat...\r\n… [+63 chars]",
-        "positive": 0.016406401991844177,
-        "negative": 0.0029980207327753305,
-        "neutral": 0.980595588684082
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/firefly-metals-ltd-announces-c30-a33-million-canadian-bought-deal-financing-and-c96-8-a106-5-million-australian-equity-raise-2",
-        "timestamp": "2025-12-01T23:32:07+00:00",
-        "text": "Firefly Metals Ltd Announces C$30 (~A$33) Million Canadian Bought Deal Financing and C$96.8 (~A$106.5) Million Australian Equity Raise \nNot for distribution to U.S. news wire services or dissemination in the United States. PERTH, Australia, Dec. 02, 2025 (GLOBE NEWSWIRE) — FireFly Metals Ltd (ASX: FFM, TSX: FFM) (the ‘Company’ or ‘FireFly’) has announced today that it has entered into an agre… \nMetal equivalents\r\nMetal equivalents for the Mineral Resource Estimates have been calculated at a copper price of US$8,750/t, gold price of US$2,500/oz and silver price of US$25/oz. Individual Minera… [+4174 chars]",
-        "positive": 2.234040721305064e-06,
-        "negative": 4.1934532646337175e-07,
-        "neutral": 0.9999972581863403
-      },
-      {
-        "source": "news",
-        "id": "https://indianexpress.com/article/india/what-after-relief-to-sandesaras-ed-braces-for-other-defence-petitions-10396900/",
-        "timestamp": "2025-12-01T23:30:59+00:00",
-        "text": "What after relief to Sandesaras? ED braces for other defence petitions \nThe ED’s list of loan fraud accused runs long and includes, prominently, Vijay Mallya, Nirav Modi, Mehul Choksi and Jatin Mehta, among others. Like the Sandesaras, they left the country just before loan fraud charges were registered against them. \nOn November 19, in a major relief to Sterling Biotech loan fraud accused Nitin and Chetan Sandesara, the Supreme Court allowed quashing of all FIRs against them if they deposited Rs 5,100 crore as a … [+6725 chars]",
-        "positive": 0.009245522320270538,
-        "negative": 0.024856651201844215,
-        "neutral": 0.965897798538208
-      },
-      {
-        "source": "news",
-        "id": "https://www.yankodesign.com/2025/12/01/every-moonswatch-cold-moon-has-a-one-of-a-kind-laser-engraved-snowflake/",
-        "timestamp": "2025-12-01T23:30:31+00:00",
-        "text": "Every MoonSwatch Cold Moon Has a One-of-a-Kind Laser-Engraved Snowflake \nEvery MoonSwatch Cold Moon Has a One-of-a-Kind Laser-Engraved SnowflakeSwatch looked at December and thought: what if a watch could feel like the quiet before snowfall? The MoonSwatch Mission to Earthphase Moonshine Gold “Cold... \nSwatch looked at December and thought: what if a watch could feel like the quiet before snowfall? The MoonSwatch Mission to Earthphase Moonshine Gold “Cold Moon” drops the navy-and-white palette of i… [+3316 chars]",
-        "positive": 7.413174785142473e-07,
-        "negative": 2.2323513348965207e-06,
-        "neutral": 0.9999970197677612
-      },
-      {
-        "source": "news",
-        "id": "https://www.newser.com/story/379606/greek-feta-faces-crisis-as-disease-hits-sheep-goats.html",
-        "timestamp": "2025-12-01T23:28:05+00:00",
-        "text": "Greek Feta Faces Crisis as Disease Hits Sheep, Goats \nA sweeping outbreak of sheep and goat pox is threatening Greece's production of its iconic feta cheese, forcing the nationwide culling of hundreds of thousands animals and raising worries about shortages of what's widely considered the country's \"white gold.\"… \nA sweeping outbreak of sheep and goat pox is threatening Greece's production of its iconic feta cheese, forcing the nationwide culling of hundreds of thousands animals and raising worries about short… [+1916 chars]",
-        "positive": 5.225101176620228e-06,
-        "negative": 0.999992847442627,
-        "neutral": 1.945693156812922e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/01/3197545/0/en/Firefly-Metals-Ltd-Announces-C-30-A-33-Million-Canadian-Bought-Deal-Financing-and-C-96-8-A-106-5-Million-Australian-Equity-Raise.html",
-        "timestamp": "2025-12-01T23:28:00+00:00",
-        "text": "Firefly Metals Ltd Announces C$30 (~A$33) Million Canadian Bought Deal Financing and C$96.8 (~A$106.5) Million Australian Equity Raise \nNot for distribution to U.S. news wire services or dissemination in the United States.  PERTH, Australia, Dec.  02, 2025  (GLOBE NEWSWIRE) -- FireFly...... \nNot for distribution to U.S. news wire services or dissemination in the United States.\r\nPERTH, Australia, Dec. 02, 2025 (GLOBE NEWSWIRE) -- FireFly Metals Ltd (ASX: FFM, TSX: FFM) (the Company or Fir… [+16275 chars]",
-        "positive": 3.0867551004121196e-07,
-        "negative": 4.458329954104556e-07,
-        "neutral": 0.9999991655349731
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/01/3197544/0/en/Aura-Minerals-Closes-the-Acquisition-of-the-Minera%C3%A7%C3%A3o-Serra-Grande-Gold-Mine-in-Goias-Brazil-MSG.html",
-        "timestamp": "2025-12-01T23:27:00+00:00",
-        "text": "Aura Minerals Closes the Acquisition of the Mineração Serra Grande Gold Mine in Goias, Brazil (“MSG”) \nAura Minerals Closes the Acquisition of the Mineração Serra Grande Gold Mine in Goias, Brazil (“MSG”) ...... \nROAD TOWN, British Virgin Islands, Dec. 01, 2025 (GLOBE NEWSWIRE) -- Aura Minerals Inc. (NASDAQ: AUGO and B3: AURA33) (Aura or the Company) is pleased to announce that Aura, through a wholly owned su… [+6408 chars]",
-        "positive": 0.0003638119378592819,
-        "negative": 2.0088423298147973e-06,
-        "neutral": 0.9996341466903687
-      },
-      {
-        "source": "news",
-        "id": "https://www.jalopnik.com/2036609/costco-vs-sams-club-tires-best-deal/",
-        "timestamp": "2025-12-01T23:25:00+00:00",
-        "text": "Costco Vs. Sam's Club Tires: Which Retailer Has The Best Deals \nCostco offers free tire installation while Sam's Club has cheaper membership fees. For deals, the best retailer will depend on your location and preferences. \nWhereas Costco members get a no-cost installation package and warranty for every tire purchase, Sam's Club takes a different approach. It charges members $20 per tire for the install, but the added c… [+1410 chars]",
-        "positive": 1.168290418718243e-05,
-        "negative": 3.8058408335928107e-06,
-        "neutral": 0.9999845027923584
-      },
-      {
-        "source": "news",
-        "id": "https://www.israelnationalnews.com/news/418665",
-        "timestamp": "2025-12-01T23:23:15+00:00",
-        "text": "John Cleese apologizes for anti-Israel posts, condemns Hamas \nActor John Cleese apologizes for posting anti-Israel material on social media, condemns Hamas as “the nastiest terrorist group”. \nBritish actor and comedian John Cleese, famed for Monty Python and Fawlty Towers, told the London Jewish News he was extremely sorry for posting anti-Israel material online without checking it. \r\nI d… [+1567 chars]",
-        "positive": 0.00014722193009220064,
-        "negative": 0.006606787908822298,
-        "neutral": 0.9932460188865662
-      },
-      {
-        "source": "news",
-        "id": "https://www.ndtvprofit.com/economy-finance/beyond-borders-samlas-extraterritorial-application-and-the-india-russia-energy-trade-dilemma",
-        "timestamp": "2025-12-01T23:22:33+00:00",
-        "text": "Beyond Borders: Samla's Extraterritorial Application And The India-Russia Energy Trade Dilemma \nIndian enterprises in petroleum sectors and dual-use technology  face heightened compliance exposure and secondary sanctions risks, necessitating comprehensive legal risk assessments and strategic commercial reorientation. \nUK sanctions impose extraterritorial compliance obligations on Indian businesses through comprehensive asset-freeze provisions, prohibiting dealings with designated persons funds and economic resourc… [+1538 chars]",
-        "positive": 0.015531816519796848,
-        "negative": 0.8102092742919922,
-        "neutral": 0.17425888776779175
-      },
-      {
-        "source": "news",
-        "id": "https://screenrant.com/simon-cowell-american-idol-judge-apology/",
-        "timestamp": "2025-12-01T23:17:21+00:00",
-        "text": "Simon Cowell Apologizes For Harsh Critiques On American Idol \nSimon Cowell reflects on his time as an American Idol judge, apologizing for his rude behavior and sharp comments towards contestants. \nFormer American Idol judge Simon Cowell apologized for his rude behavior on the hit singing competition show. Cowell became a household name with his sharp and sometimes cruel comments about contesta… [+4090 chars]",
-        "positive": 0.00014499003009404987,
-        "negative": 0.010911630466580391,
-        "neutral": 0.988943338394165
       },
       {
         "source": "news",
@@ -26680,9 +26644,9 @@
         "neutral": 0.9999943971633911
       }
     ],
-    "nw": 0.49116102382863525,
-    "nw_norm": 74.55805119143176
+    "nw": 0.5051695255315372,
+    "nw_norm": 75.25847627657686
   },
-  "gsi": 74.55805119143176,
-  "classification": "Bullish"
+  "gsi": 75.25847627657686,
+  "classification": "Extremely Bullish"
 }
