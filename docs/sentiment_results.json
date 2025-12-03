@@ -1,8 +1,314 @@
 {
-  "timestamp": "2025-12-03T11:38:21.600609+00:00",
+  "timestamp": "2025-12-03T11:50:11.385904+00:00",
   "news": {
-    "count": 2948,
+    "count": 2942,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.resilience.org/stories/2025-12-02/marx-and-sartre-go-shopping-for-a-car/",
+        "timestamp": "2025-12-02T11:42:23+00:00",
+        "text": "Marx and Sartre go shopping for a car \nWhy is it so difficult to find a job or to buy products that align with our values? Why is it difficult to even know whether our personal choices might have effects in the right direction? \nWhy is it so difficult to find a job or to buy products that align with our values? Why is it difficult to even know whether our personal choices might have effects in the right direction?\r\nIn Alyssa… [+9006 chars]",
+        "positive": 8.348270785063505e-05,
+        "negative": 0.6814882755279541,
+        "neutral": 0.31842830777168274
+      },
+      {
+        "source": "news",
+        "id": "https://www.homedit.com/christmas-tree-decor-ideas-to-inspire-your-holiday-home/",
+        "timestamp": "2025-12-02T11:41:12+00:00",
+        "text": "25 Christmas Tree Decor Ideas to Inspire Your Holiday Home \nDiscover a curated mix of Christmas tree styles that highlight color, texture, and thoughtful ornament placement. From classic red-and-gold palettes to natural wood accents, sculptural ribbons, frosted branches, and playful themed designs. These trees show ho… \nDiscover a curated mix of Christmas tree styles that highlight color, texture, and thoughtful ornament placement. From classic red-and-gold palettes to natural wood accents, sculptural ribbons, frost… [+4130 chars]",
+        "positive": 0.0005396119086071849,
+        "negative": 4.973859631718369e-06,
+        "neutral": 0.9994553923606873
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/gunvor-buccaneering-founder-hands-reins-114109578.html",
+        "timestamp": "2025-12-02T11:41:09+00:00",
+        "text": "Gunvor’s Buccaneering Founder Hands Reins to American Oil Trader \nOn Monday, the 72-year-old Swede announced an abrupt departure from the company he cofounded in a dramatic move to contain the fallout after the US Treasury ... \nGary Pedersen\r\n(Bloomberg) -- Torbjörn Törnqvist spent three decades building Gunvor Group into one of the worlds largest energy traders from early days exporting fuel from post-Soviet Russia, to tod… [+8281 chars]",
+        "positive": 0.0016022076597437263,
+        "negative": 0.0029726307839155197,
+        "neutral": 0.9954251646995544
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/02/3197726/28124/en/Human-Leukocyte-Antigen-HLA-Targeted-Therapy-Market-Research-2026-Advances-Driven-by-Novel-CAR-Treg-and-Bispecific-T-Cell-Engager-Programs-from-Quell-Therapeutics-and-Daiichi-Sanky.html",
+        "timestamp": "2025-12-02T11:41:00+00:00",
+        "text": "Human Leukocyte Antigen (HLA) Targeted Therapy Market Research 2026: Advances Driven by Novel CAR-Treg and Bispecific T-Cell Engager Programs from Quell Therapeutics and Daiichi Sankyo \nThe market for Human Leukocyte Antigen (HLA) targeted therapies is expanding, with the first therapy approval expected by 2030. Key opportunities include developing novel immunotherapies for cancer and transplantation, broadening the spectrum of HLA targets, … \nDublin, Dec. 02, 2025 (GLOBE NEWSWIRE) -- The \"Human Leukocyte Antigen (HLA) Targeted Therapy, Clinical Trials, Therapeutic Approaches &amp; Market Opportunity Insight 2026\" report has been added to … [+6622 chars]",
+        "positive": 0.9999849796295166,
+        "negative": 2.568793036061834e-07,
+        "neutral": 1.473053271183744e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.standardmedia.co.ke/business/opinion/article/2001535521/safaricom-sh15b-bond-a-boost-for-turbulent-domestic-debt-market",
+        "timestamp": "2025-12-02T11:40:39+00:00",
+        "text": "Safaricom Sh15b bond a boost for turbulent domestic debt market \nSafaricom’s issuance of the first Sh15 billion tranche of its Sh40 billion domestic medium-note programme (MTN) is a boost to Kenya’s capital markets. \nSafaricom CEO Peter Ndegwa addresses participants during the 2025 sustainable business report launch. [Wilbrforce Okwiri, Standard]\r\nSafaricom’s issuance of the first Sh15 billion tranche of its Sh40… [+4272 chars]",
+        "positive": 0.9999319314956665,
+        "negative": 8.361649150856465e-08,
+        "neutral": 6.798631511628628e-05
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/gunvors-new-ceo-says-profits-have-rebounded-from-bad-first-half",
+        "timestamp": "2025-12-02T11:40:30+00:00",
+        "text": "Gunvor’s New CEO Says Profits Have Rebounded From Bad First Half \nThe new head of Gunvor Group — the energy merchant which announced a staff buyout on Monday — said earnings have rebounded from a poor first half amid better trading opportunities and strong oil-refining margins. \n(Bloomberg) The new head of Gunvor Group the energy merchant which announced a staff buyout on Monday said earnings have rebounded from a poor first half amid better trading opportunities and strong … [+4932 chars]",
+        "positive": 0.9999988079071045,
+        "negative": 1.1081872344220756e-06,
+        "neutral": 1.4027655481640977e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.hospitalitynet.org/opinion/4130013.html",
+        "timestamp": "2025-12-02T11:40:00+00:00",
+        "text": "HVS ANAROCK MONITOR, November 2025 \nRead the latest edition of the HVS ANAROCK monthly industry update, MONITOR (Monthly Overview of National Industry Trends and Hospitality Report), for the key trends in the Indian hospitality industry. \nRead the latest edition of the HVS ANAROCK monthly industry update, MONITOR (Monthly Overview of National Industry Trends and Hospitality Report), for the key trends in the Indian hospitality industr… [+670 chars]",
+        "positive": 4.725031976704486e-05,
+        "negative": 3.931948413082864e-06,
+        "neutral": 0.9999488592147827
+      },
+      {
+        "source": "news",
+        "id": "https://www.finextra.com/pressarticle/108149/tsb-announces-the-winners-of-2025-innovation-lab-fraud-programme",
+        "timestamp": "2025-12-02T11:40:00+00:00",
+        "text": "TSB announces the winners of 2025 innovation lab fraud programme \nTSB is today announcing that three fintech startups have won TSB’s 2025 Innovation Labs programme – with all three companies demonstrating potential in the fight against fraud. \nTSB is today announcing that three fintech startups have won TSBs 2025 Innovation Labs programme with all three companies demonstrating potential in the fight against fraud.The winners - Serene, AVIE… [+3486 chars]",
+        "positive": 0.8356833457946777,
+        "negative": 0.000153435452375561,
+        "neutral": 0.16416321694850922
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/702d6f2c69186804",
+        "timestamp": "2025-12-02T11:39:42+00:00",
+        "text": "Aura Minerals completes Mineração Serra Grande gold mine acquisition \nAura Minerals has completed the acquisition of the Mineração Serra Grande (MSG) gold mine in Crixás, Goiás, Brazil, from AngloGold Ashanti.\nThe transaction was finalised through Aura’s wholly owned subsidiary.\nAura paid AngloGold Ashanti an upfront cash consi… \nAura Minerals has completed the acquisition of the Mineração Serra Grande (MSG) gold mine in Crixás, Goiás, Brazil, from AngloGold Ashanti.The transaction was finalised through Auras wholly owned sub… [+141 chars]",
+        "positive": 0.00012818338291253895,
+        "negative": 4.5381157178780995e-06,
+        "neutral": 0.99986732006073
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/d91abf8c6c2758ef",
+        "timestamp": "2025-12-02T11:39:41+00:00",
+        "text": "Italy set to extend permission for military supplies to Ukraine, document shows \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+780 chars]",
+        "positive": 2.2351607185555622e-05,
+        "negative": 9.853572919382714e-06,
+        "neutral": 0.9999676942825317
+      },
+      {
+        "source": "news",
+        "id": "https://road.cc/content/tech-news/four-rare-colnagos-including-pogacars-y1rs-bids-317101",
+        "timestamp": "2025-12-02T11:39:30+00:00",
+        "text": "Four ultra-rare Colnagos – including Pogačar’s Ventoux Y1Rs – go under the hammer at Sotheby’s \nSotheby’s Collector’s Week in Abu Dhabi is serving up a dream quartet for bike connoisseurs: Pogačar’s Ventoux Y1Rs, Almeida’s C68 Rossa No.1, a Ferrari-developed C35 Oro, and a Merckx-era track replica \nIf youre stuck for Christmas present ideas, Sothebys is adding some serious cycling bling to Collectors Week in Abu Dhabi with four exceptionally rare Colnago bikes, including Tadej Pogaars Tour de F… [+4909 chars]",
+        "positive": 4.1076041270571295e-06,
+        "negative": 6.229880909813801e-06,
+        "neutral": 0.9999897480010986
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/486c87b3cf555763",
+        "timestamp": "2025-12-02T11:39:29+00:00",
+        "text": "Fintech platform Wealthfront aims to raise up to $485 million in US IPO \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+755 chars]",
+        "positive": 0.0010748980566859245,
+        "negative": 1.2824988289139583e-06,
+        "neutral": 0.9989237189292908
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/16f70c67d557ac02",
+        "timestamp": "2025-12-02T11:39:23+00:00",
+        "text": "Just Eat founder Jitse Groen plans to step down as CEO effective January 1, replaced by Prosus Europe head Roberto Gandolfo; Groen founded Takeaway.com in 2000 \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+762 chars]",
+        "positive": 2.720186103033484e-06,
+        "negative": 1.6784917534096166e-05,
+        "neutral": 0.9999804496765137
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/eurozone-inflation-rose-to-2-2-in-november/",
+        "timestamp": "2025-12-02T11:39:18+00:00",
+        "text": "Eurozone inflation rose to 2.2% in November \nEurozone inflation rose to 2.2% in November, driven by energy and service prices. Core inflation remains stable, reinforcing ECB rate hold expectations.\n\nRead More: https://punchng.com/eurozone-inflation-rose-to-2-2-in-november/ \nEurozone inflation inched up in November, official data showed on Tuesday, moving slightly over the European Central Bank’s two-percent target.\r\nConsumer prices rose by 2.2 percent year on the year, … [+969 chars]",
+        "positive": 0.06490092724561691,
+        "negative": 0.00038044844404794276,
+        "neutral": 0.9347186088562012
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/4345a8688b628469",
+        "timestamp": "2025-12-02T11:39:18+00:00",
+        "text": "Zelenskyy says US peace plan 'looks better' with revisions but work continues \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+754 chars]",
+        "positive": 0.011018496006727219,
+        "negative": 3.728232331923209e-05,
+        "neutral": 0.9889442920684814
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/ff8af3d0d2cd3464",
+        "timestamp": "2025-12-02T11:39:17+00:00",
+        "text": "Goldman's $2B ETF Issuer Takeover Is Both a Blessing and a Curse for Crypto \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+766 chars]",
+        "positive": 0.000255339517025277,
+        "negative": 0.0002943949948530644,
+        "neutral": 0.9994502663612366
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/0a958e5c8c675f90",
+        "timestamp": "2025-12-02T11:39:14+00:00",
+        "text": "Ex-Barclays Banker Loses Unfair Dismissal Suit Over Offhand Joke \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+767 chars]",
+        "positive": 0.0003766575828194618,
+        "negative": 0.0005647531361319125,
+        "neutral": 0.9990585446357727
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/bd05e103e5e4d4bc",
+        "timestamp": "2025-12-02T11:39:13+00:00",
+        "text": "Erasing a Home’s Risks on Zillow Doesn’t Make Them Go Away \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+765 chars]",
+        "positive": 4.595674545271322e-05,
+        "negative": 4.721040386357345e-05,
+        "neutral": 0.9999067783355713
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/0e66ba1a39e26b49",
+        "timestamp": "2025-12-02T11:39:13+00:00",
+        "text": "Euro zone inflation practically at target, ECB's Nagel says \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+754 chars]",
+        "positive": 1.8702336092246696e-05,
+        "negative": 1.2210542081447784e-05,
+        "neutral": 0.9999691247940063
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/7b0c2cb923c6ec36",
+        "timestamp": "2025-12-02T11:39:02+00:00",
+        "text": "Once Viewed as an AI Laggard, This \"Magnificent Seven\" Company May Now Be Winning the AI War \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+733 chars]",
+        "positive": 0.0011501635890454054,
+        "negative": 3.0327246349770576e-05,
+        "neutral": 0.9988194108009338
+      },
+      {
+        "source": "news",
+        "id": "https://www.notebookcheck.net/Anker-releases-new-docking-station-with-detachable-compact-hub.1175261.0.html",
+        "timestamp": "2025-12-02T11:38:00+00:00",
+        "text": "Anker releases new docking station with detachable compact hub \nThe Anker Nano Docking Station (13-in-1, Triple Display, Built-In Removable Hub) is now available in the US. This new accessory, designed for the desktop, offers a wide range of ports and can be used to connect to up to three monitors. Plus, the model feature… \nAnker has released the new Nano Docking Station (13-in-1, Triple Display, Built-In Removable Hub) in the US. This desktop accessory is an upgraded version of the older Anker 575 USB-C Docking Station… [+1591 chars]",
+        "positive": 0.03135209530591965,
+        "negative": 0.000427272665547207,
+        "neutral": 0.968220591545105
+      },
+      {
+        "source": "news",
+        "id": "https://www.thestar.com.my/news/world/2025/12/02/hungary-pm-orban039s-fidesz-narrows-gap-on-opposition-rival-opinion-poll-shows",
+        "timestamp": "2025-12-02T11:37:00+00:00",
+        "text": "Hungary PM Orban's Fidesz narrows gap on opposition rival, opinion poll shows \nBUDAPEST, Dec 2 (Reuters) - Hungarian Prime Minister Viktor Orban's Fidesz party narrowed the gap on opposition rival Tisza in November, an opinion poll showed on Tuesday, helped by large-scale spending ahead of next year's election and a slight improvement i… \nBUDAPEST, Dec 2 (Reuters) - Hungarian Prime Minister Viktor Orban's Fidesz party narrowed the gap on opposition rival Tisza in November, an opinion poll showed on Tuesday, helped by large-scale spend… [+2660 chars]",
+        "positive": 0.9879152774810791,
+        "negative": 1.2106688700441737e-05,
+        "neutral": 0.012072533369064331
+      },
+      {
+        "source": "news",
+        "id": "https://www.finextra.com/pressarticle/108148/klarna-brings-instore-tap-to-pay-for-14-new-markets",
+        "timestamp": "2025-12-02T11:37:00+00:00",
+        "text": "Klarna brings instore tap-to-pay for 14 new markets \nKlarna, the global digital bank and flexible payments provider, today launches the brand new feature Tap to Pay across 14 European markets, bringing flexible payments into physical retail at scale and transforming the Klarna app into an everyday contactless w… \nKlarna, the global digital bank and flexible payments provider, today launches the brand new feature Tap to Pay across 14 European markets, bringing flexible payments into physical retail at scale an… [+1801 chars]",
+        "positive": 0.4141543209552765,
+        "negative": 2.2046542653697543e-05,
+        "neutral": 0.5858235955238342
+      },
+      {
+        "source": "news",
+        "id": "https://www.pockettactics.com/anime-advance-codes",
+        "timestamp": "2025-12-02T11:36:07+00:00",
+        "text": "Anime Advance codes December 2025 \nYou should redeem the new Roblox Anime Advance codes if you want to get an assortment of free items, such as potions, gems, and raid keys. \nIf you enjoy anime, you definitely need to grab yourself some Anime Advance codes, as we've no doubt you're sinking hours into this Roblox experience. It's pure chaos in a good way, inviting you to f… [+3244 chars]",
+        "positive": 0.22378389537334442,
+        "negative": 0.0002406601852271706,
+        "neutral": 0.7759754657745361
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/02/3197725/0/en/Bitget-Wallet-Adds-Rupee-to-Stablecoin-Conversion-via-USDT-Marketplace.html",
+        "timestamp": "2025-12-02T11:36:00+00:00",
+        "text": "Bitget Wallet Adds Rupee-to-Stablecoin Conversion via USDT Marketplace \nBitget Wallet, the leading everyday finance app, has become the first major platform to integrate USDT Marketplace to provide users in India with an add... \nSAN SALVADOR, El Salvador, Dec. 02, 2025 (GLOBE NEWSWIRE) -- Bitget Wallet\r\n, the leading everyday finance app, has become the first major platform to integrate USDT Marketplace\r\n to provide users in… [+4313 chars]",
+        "positive": 0.9960219264030457,
+        "negative": 1.1504564554343233e-06,
+        "neutral": 0.003976861480623484
+      },
+      {
+        "source": "news",
+        "id": "https://www.sammobile.com/news/galaxy-z-trifold-vs-fold-7-spec-battle-same-dna-different-beasts/",
+        "timestamp": "2025-12-02T11:34:33+00:00",
+        "text": "Galaxy Z TriFold vs Fold 7 spec battle: Same DNA, different beasts \nSamsung's brand-new Galaxy Z TriFold phone-tablet hybrid looks like the Z Fold 7's wider brother. It's almost like Samsung stretched the Fold 7 into a 10-inch tablet. They have the same overall design and camera housing. But are these similarities only skin-d… \nSamsung's brand-new Galaxy Z TriFold phone-tablet hybrid looks like the Z Fold 7's wider brother. It's almost like Samsung stretched the Fold 7 into a 10-inch tablet. They have the same overall desig… [+2802 chars]",
+        "positive": 2.3731930923531763e-05,
+        "negative": 5.781479558208957e-06,
+        "neutral": 0.999970555305481
+      },
+      {
+        "source": "news",
+        "id": "https://m.economictimes.com/news/economy/policy/india-budget-2026-how-a-union-budget-is-drafted-reviewed-and-presented-in-parliament/what-the-union-budget-is-and-when-is-it-presented-every-year/slideshow/125717988.cms",
+        "timestamp": "2025-12-02T11:34:21+00:00",
+        "text": "India Budget 2026: How a Union Budget is drafted, reviewed and presented in Parliament \nThe Union Budget is the government’s annual plan of how much money it expects to earn and spend in the next financial year, plus policy changes on taxes and schemes for citizens and businesses. It is the country’s yearly money map. Since 2017 the Budget is pr… \nDec 02, 2025, 05:05:13 PM IST\r\nThe Union Budget is the government’s annual plan of how much money it expects to earn and spend in the next financial year, plus policy changes on taxes and schemes for… [+3225 chars]",
+        "positive": 1.0065447213492007e-06,
+        "negative": 3.321802068967372e-06,
+        "neutral": 0.9999957084655762
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/white-house-christmas-decorations-melania-trump-donald-trump-2025-12",
+        "timestamp": "2025-12-02T11:34:02+00:00",
+        "text": "Melania Trump was once the one making controversial White House design choices. Now, it's Donald Trump. \nThe 2025 White House Christmas decorations reflect Melania Trump's shift to a more low-key role while Donald Trump opts for bold design changes. \nMelania Trump and Donald Trump.Saul Loeb/AFP via Getty Images ; Alex Wong/Getty Images\r\n<ul><li>Melania Trump's 2025 White House Christmas decorations are more traditional than in past years.</li><li… [+4037 chars]",
+        "positive": 4.785236342286225e-06,
+        "negative": 1.7962263882509433e-05,
+        "neutral": 0.9999772310256958
+      },
+      {
+        "source": "news",
+        "id": "https://www.helpnetsecurity.com/2025/12/02/radiant-logic-radiantone-platform-enhancements/",
+        "timestamp": "2025-12-02T11:33:58+00:00",
+        "text": "Radiant Logic expands RadiantOne with composable remediation and unified identity observability \nRadiant Logic announced major enhancements to its RadiantOne Platform. The release introduces new AI-powered collaborative remediation, an agentic AI-first approach that leverages the Model Context Protocol (MCP) standard, and support for the Shared Signals F… \nRadiant Logic announced major enhancements to its RadiantOne Platform. The release introduces new AI-powered collaborative remediation, an agentic AI-first approach that leverages the Model Context P… [+4689 chars]",
+        "positive": 0.9948851466178894,
+        "negative": 1.545248414913658e-05,
+        "neutral": 0.005099415313452482
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/expert-view/nifty-at-record-high-but-midcaps-lag-rupen-rajguru-reveals-the-smartest-sectors-to-buy-now/articleshow/125717887.cms",
+        "timestamp": "2025-12-02T11:33:09+00:00",
+        "text": "Nifty at record high but midcaps lag: Rupen Rajguru reveals the smartest sectors to buy now \nIndian markets are consolidating even as the Nifty hits fresh highs, with midcaps and smallcaps still lagging. Julius Baer’s Rupen Rajguru says this phase offers a strong buying opportunity as earnings growth is set to accelerate from FY27. He outlines key se… \nIndias benchmark Nifty has hit fresh record highs, but the broader market continues to underperform, with the Nifty Smallcap Index still 11% below its peak. According to Rupen Rajguru, Managing Direc… [+2902 chars]",
+        "positive": 0.9991613626480103,
+        "negative": 0.0007039003539830446,
+        "neutral": 0.00013474399747792631
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/us/federal-reserve-chair-race-is-kevin-hassett-now-the-clear-frontrunner-for-the-next-fed-chair-heres-all-you-need-to-know-about-trumps-favorite/articleshow/125717806.cms",
+        "timestamp": "2025-12-02T11:33:03+00:00",
+        "text": "Federal Reserve chair race: Is Kevin Hassett now the clear frontrunner for the next Fed Chair — here’s all you need to know about Trump’s favorite? \nFederal Reserve chair race: President Donald Trump says he has chosen the next Fed chair but won’t reveal the name, even as markets bet heavily on Kevin Hassett. Prediction platforms give him up to 79% odds. Powell’s term ends in May 2026. The Fed is divided … \nKevin Hassett has rapidly become the central name in the Fed Chair race as multiple reports show he is now viewed as the leading contender to replace Jerome Powell when his term ends in May 2026. Mar… [+5387 chars]",
+        "positive": 0.00015113245171960443,
+        "negative": 1.3148677680874243e-05,
+        "neutral": 0.999835729598999
+      },
+      {
+        "source": "news",
+        "id": "https://www.resilience.org/stories/2025-12-02/broadening-science-and-bridging-divides-in-a-complex-interconnected-world/",
+        "timestamp": "2025-12-02T11:32:38+00:00",
+        "text": "Broadening Science and Bridging Divides in a Complex, Interconnected World \nInvestment in science is a pillar for any dynamic, equitable modern society, and promoting scientific literacy across all levels of society can help foster innovation, dialogue, and consensus that crosses disciplinary and cultural boundaries. \nInvestment in science is a pillar for any dynamic, equitable modern society, and promoting scientific literacy across all levels of society can help foster innovation, dialogue, and consensus that cr… [+26619 chars]",
+        "positive": 0.9592647552490234,
+        "negative": 4.887891464022687e-06,
+        "neutral": 0.04073040187358856
+      },
+      {
+        "source": "news",
+        "id": "https://variety.com/2025/film/global/brlab-kids-lab-green-push-petrobras-april-edition-1236597074/",
+        "timestamp": "2025-12-02T11:32:01+00:00",
+        "text": "Brazil’s BrLab Adds Kids Lab, Green Push for 15th Edition Next April (EXCLUSIVE) \nAs São Paulo-based development and training hub BrLab gears up for its 15th anniversary edition in 2026, one of Latin America’s most influential project labs has opened submissions and unveiled a raft of changes designed to expand its reach, deepen its suppor… \nAs São Paulo-based development and training hub BrLab gears up for its 15th anniversary edition in 2026, one of Latin America’s most influential project labs has opened submissions and unveiled a raf… [+7671 chars]",
+        "positive": 0.00397835485637188,
+        "negative": 7.768997420498636e-06,
+        "neutral": 0.9960139989852905
+      },
+      {
+        "source": "news",
+        "id": "https://www.landgrantholyland.com/ohio-state-football/108485/silver-bullets-podcast-ttun-rewind-and-indiana-preview",
+        "timestamp": "2025-12-02T11:31:00+00:00",
+        "text": "Silver Bullets Podcast: TTUN rewind and Indiana preview \nThe Game wasn’t as close as expected, but the conference championship game against Indiana likely will be. \nThe Buckeyes played like themselves (minus a few early plays on each side of the ball) and ended up mauling Michigan in The Game, 27-9.\r\nJulian Sayin threw a touchdown pass to all three of his starti… [+2739 chars]",
+        "positive": 1.4048064258531667e-05,
+        "negative": 3.441961598582566e-05,
+        "neutral": 0.9999514818191528
+      },
       {
         "source": "news",
         "id": "https://www.salon.com/2025/12/02/sorry-trump-isnt-a-lame-duck-yet/",
@@ -77,21 +383,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/02/3197722/0/en/NIP-Group-Inc-Reports-First-Half-2025-Unaudited-Financial-Results.html",
-        "timestamp": "2025-12-02T11:30:00+00:00",
-        "text": "NIP Group Inc. Reports First Half 2025 Unaudited Financial Results \nPositioned for Adjusted EBITDA Profitability in the Second Half of 2025Strategic Digital Infrastructure Expansion Accelerates Diversified Growth, Targeting 11.3 EH/s Upon Full Deployment by 2026 \nPositioned for Adjusted EBITDA Profitability in the Second Half of 2025Strategic Digital Infrastructure Expansion Accelerates Diversified Growth, Targeting 11.3 EH/s Upon Full Deployment by 2026 \r\nAB… [+40965 chars]",
-        "positive": 0.9997391104698181,
-        "negative": 2.302089541217356e-07,
-        "neutral": 0.00026063004042953253
-      },
-      {
-        "source": "news",
         "id": "https://cointelegraph.com/news/bitcoin-valuation-metric-projects-96-chance-btc-price-recovery-2026",
         "timestamp": "2025-12-02T11:30:00+00:00",
         "text": "Bitcoin valuation metric projects 96% chance of BTC price recovery in 2026 \nA similar setup in 2023 preceded a 340% Bitcoin rally, reinforcing the argument that BTC is undervalued at current prices. \nBitcoin (BTC) has been in a downtrend since early October, with the price dropping below its network value, suggesting a possible recovery in 2026.\r\nKey takeaways:\r\n<ul><li>Bitcoin price dropped belo… [+3737 chars]",
         "positive": 0.020165730267763138,
         "negative": 0.9419687986373901,
         "neutral": 0.037865426391363144
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/02/3197722/0/en/NIP-Group-Inc-Reports-First-Half-2025-Unaudited-Financial-Results.html",
+        "timestamp": "2025-12-02T11:30:00+00:00",
+        "text": "NIP Group Inc. Reports First Half 2025 Unaudited Financial Results \nPositioned for Adjusted EBITDA Profitability in the Second Half of 2025Strategic Digital Infrastructure Expansion Accelerates Diversified Growth, Targeting 11.3 EH/s Upon Full Deployment by 2026 \nPositioned for Adjusted EBITDA Profitability in the Second Half of 2025Strategic Digital Infrastructure Expansion Accelerates Diversified Growth, Targeting 11.3 EH/s Upon Full Deployment by 2026 \r\nAB… [+40965 chars]",
+        "positive": 0.9997391104698181,
+        "negative": 2.302089541217356e-07,
+        "neutral": 0.00026063004042953253
       },
       {
         "source": "news",
@@ -626,21 +932,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/02/3197707/0/en/First-Atlantic-Nickel-Reports-Highest-Awaruite-Nickel-Iron-Cobalt-Alloy-DTR-Grades-and-Recovery-to-Date-From-Expansion-Drilling-at-Pipestone-XL-Nickel-Alloy-Project.html",
-        "timestamp": "2025-12-02T11:07:00+00:00",
-        "text": "First Atlantic Nickel Reports Highest Awaruite (Nickel-Iron-Cobalt Alloy) DTR Grades and Recovery to Date From Expansion Drilling at Pipestone XL Nickel Alloy Project \nPhase 2X drilling at Pipestone XL’s RPM Zone: hole AN-25-10 returned record 0.15% DTR Ni over 228 m, 68.6% recovery, extending mineralization east....... \nHole AN-25-10 Delivers Highest DTR Nickel Grade and Magnetic Concentrate Performance at RPM Zone; Company Plans to Announce Additional Drilling Around Hole 10 with Optimized Drilling Designed to Cont… [+31881 chars]",
-        "positive": 0.9967688322067261,
-        "negative": 1.227730081154732e-06,
-        "neutral": 0.0032299975864589214
-      },
-      {
-        "source": "news",
         "id": "https://www.finextra.com/pressarticle/108143/standard-chartered-goes-live-on-clsnet",
         "timestamp": "2025-12-02T11:07:00+00:00",
         "text": "Standard Chartered goes live on CLSNet \nCLS, a financial market infrastructure group delivering settlement, processing and data solutions across the global FX ecosystem, announced today that Standard Chartered, a leading international cross-border bank, has gone live on CLSNet, its automated bilate… \nCLS, a financial market infrastructure group delivering settlement, processing and data solutions across the global FX ecosystem, announced today that Standard Chartered, a leading international cros… [+2730 chars]",
         "positive": 0.05948147550225258,
         "negative": 3.965017822338268e-05,
         "neutral": 0.9404788613319397
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/02/3197707/0/en/First-Atlantic-Nickel-Reports-Highest-Awaruite-Nickel-Iron-Cobalt-Alloy-DTR-Grades-and-Recovery-to-Date-From-Expansion-Drilling-at-Pipestone-XL-Nickel-Alloy-Project.html",
+        "timestamp": "2025-12-02T11:07:00+00:00",
+        "text": "First Atlantic Nickel Reports Highest Awaruite (Nickel-Iron-Cobalt Alloy) DTR Grades and Recovery to Date From Expansion Drilling at Pipestone XL Nickel Alloy Project \nPhase 2X drilling at Pipestone XL’s RPM Zone: hole AN-25-10 returned record 0.15% DTR Ni over 228 m, 68.6% recovery, extending mineralization east....... \nHole AN-25-10 Delivers Highest DTR Nickel Grade and Magnetic Concentrate Performance at RPM Zone; Company Plans to Announce Additional Drilling Around Hole 10 with Optimized Drilling Designed to Cont… [+31881 chars]",
+        "positive": 0.9967688322067261,
+        "negative": 1.227730081154732e-06,
+        "neutral": 0.0032299975864589214
       },
       {
         "source": "news",
@@ -689,15 +995,6 @@
       },
       {
         "source": "news",
-        "id": "https://biztoc.com/x/8486df43c2665e1f",
-        "timestamp": "2025-12-02T11:05:51+00:00",
-        "text": "Associated Banc-Corp to acquire American National for $604m \nAssociated Banc-Corp has agreed to acquire American National for up to $604m, to expand its presence across key markets in the US Midwest.\nThe acquisition will see American National’s banking subsidiary integrated into Associated Banc-Corp’s subsidiary, Assoc… \nAssociated Banc-Corp has agreed to acquire American National for up to $604m, to expand its presence across key markets in the US Midwest.The acquisition will see American Nationals banking subsidiar… [+146 chars]",
-        "positive": 0.17557771503925323,
-        "negative": 1.3195550309319515e-05,
-        "neutral": 0.8244090676307678
-      },
-      {
-        "source": "news",
         "id": "https://biztoc.com/x/3dce38dd91309cbb",
         "timestamp": "2025-12-02T11:05:47+00:00",
         "text": "Israeli Rifts Reopened by Netanyahu Graft-Pardon Bid \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+753 chars]",
@@ -734,60 +1031,6 @@
       },
       {
         "source": "news",
-        "id": "http://skift.com/2025/12/02/what-the-saudi-arabia-russia-visa-exemption-means-for-travelers-and-regional-tourism/",
-        "timestamp": "2025-12-02T11:04:50+00:00",
-        "text": "What the Saudi Arabia-Russia Visa Exemption Means for Travelers and Regional Tourism \nSaudi-Russia relations are no longer defined only by oil. Flight expansions and visa deals show the partnership widening into travel and tourism, giving both countries new levers of influence beyond energy markets. \nSaudi Arabia and Russia on Monday signed a mutual visa exemption for citizens of both countries. The announcement is significant as Russia is the first country in the world to receive visa-free acces… [+509 chars]",
-        "positive": 0.5627164840698242,
-        "negative": 5.8036690461449325e-05,
-        "neutral": 0.4372255206108093
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/sutton-group-appoints-jeremy-gulliver-as-vice-president-east-strengthening-leadership-across-ontario-and-atlantic-canada",
-        "timestamp": "2025-12-02T11:04:20+00:00",
-        "text": "Sutton Group Appoints Jeremy Gulliver as Vice-President, East, Strengthening Leadership Across Ontario and Atlantic Canada \nHigh-impact industry leader joins Sutton from RE/MAX to drive regional growth, agent enablement, and the rollout of next-generation Canadian real estate tools TORONTO, Dec. 02, 2025 (GLOBE NEWSWIRE) — Sutton Group Realty Services Ltd. (“Sutton Group”), Canada… \nHigh-impact industry leader joins Sutton from RE/MAX to drive regional growth, agent enablement, and the rollout of next-generation Canadian real estate tools\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBER… [+5127 chars]",
-        "positive": 0.42412227392196655,
-        "negative": 6.235397904674755e-06,
-        "neutral": 0.575871467590332
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/alberta-cancer-foundation-launches-the-time-store-campaign-to-bring-more-moments-to-albertans-facing-cancer",
-        "timestamp": "2025-12-02T11:04:16+00:00",
-        "text": "Alberta Cancer Foundation launches ‘The Time Store’ campaign to bring more moments to Albertans facing cancer \nProvince-wide campaign asks Albertans to give more meaningful moments for people like patient Colin Dalziel EDMONTON, Alberta, Dec. 02, 2025 (GLOBE NEWSWIRE) — This Giving Tuesday and throughout the holiday season, Albertans are asked to give the gift of time… \nProvince-wide campaign asks Albertans to give more meaningful moments for people like patient Colin Dalziel\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in yo… [+5207 chars]",
-        "positive": 3.955837382818572e-05,
-        "negative": 7.734477549092844e-06,
-        "neutral": 0.9999526739120483
-      },
-      {
-        "source": "news",
-        "id": "https://www.finextra.com/newsarticle/46996/revolut-launches-street-mode-to-combat-transfer-mugging",
-        "timestamp": "2025-12-02T11:04:00+00:00",
-        "text": "Revolut launches 'street mode' to combat transfer mugging \nRevolut has bolstered its security features ahead of the festive season in an effort to mitigate an expected rise in phone-snatching and 'transfer mugging'. \nRevolut has bolstered its security features ahead of the festive season in an effort to mitigate an expected rise in phone-snatching and 'transfer mugging'.The new feature, called 'Street Mode', will… [+1079 chars]",
-        "positive": 0.999996542930603,
-        "negative": 8.658605565869948e-07,
-        "neutral": 2.647740075190086e-06
-      },
-      {
-        "source": "news",
-        "id": "https://thefly.com/permalinks/entry.php/id4248243/TTI-Tetra-Technologies-Magrathea-Metals-to-form-JV-to-produce-magnesium-in-Arkansas",
-        "timestamp": "2025-12-02T11:03:58+00:00",
-        "text": "Tetra Technologies, Magrathea Metals to form JV to produce magnesium in Arkansas \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
-        "positive": 0.008121533319354057,
-        "negative": 2.6028105821751524e-06,
-        "neutral": 0.9918758869171143
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/economy/policy/parliamentary-panel-moots-advance-ruling-mechanism-in-ibc-framework-to-tackle-litigations/articleshow/125717266.cms",
-        "timestamp": "2025-12-02T11:02:35+00:00",
-        "text": "Parliamentary panel moots advance ruling mechanism in IBC framework to tackle litigations \nThe panel, in its report, has also recommended setting up a transparent, online mechanism for issuing 'no dues' certificates and statutory clearances immediately upon completion of a resolution plan to make sure that revitalised corporate debtors truly begin … \nA Parliamentary panel on Tuesday suggested a raft of measures to improve the insolvency law framework, including putting in place an advance ruling mechanism that will provide legal clarity at the pr… [+3266 chars]",
-        "positive": 0.005939318798482418,
-        "negative": 0.00025577342603355646,
-        "neutral": 0.993804931640625
-      },
-      {
-        "source": "news",
         "id": "https://www.project-syndicate.org/commentary/public-procurement-most-underused-driver-of-economic-growth-by-ricardo-hausmann-and-yariv-gabay-2025-12",
         "timestamp": "2025-12-02T11:01:59+00:00",
         "text": "Deeper into the Public Procurement Goldmine \nPublic procurement is one of the world’s most powerful yet underused industrial-policy tools. Rather than treating procurement as a routine administrative task, policymakers must harness it to guide innovators toward developing and scaling solutions to comple… \nPublic procurement is one of the worlds most powerful yet underused industrial-policy tools. Rather than treating procurement as a routine administrative task, policymakers must harness it to guide i… [+6155 chars]",
@@ -797,84 +1040,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.project-syndicate.org/commentary/public-procurement-most-underused-driver-of-economic-growth-by-ricardo-hausmann-and-yariv-gabay-2025-12/spanish",
-        "timestamp": "2025-12-02T11:01:59+00:00",
-        "text": "Calar hondo en la mina de oro de la contratación pública \nProject Syndicate - The World’s Opinion Page \nCAMBRIDGE Ya hace tiempo que los gobiernos reconocen que la innovación impulsa el crecimiento económico. Para incentivarla, han creado ministerios, organismos e incubadoras que otorgan préstamos, sub… [+7264 chars]",
-        "positive": 4.621960670192493e-06,
-        "negative": 1.3225750990386587e-05,
-        "neutral": 0.9999821186065674
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ai-takes-center-stage-as-the-major-threat-to-cybersecurity-in-2026",
-        "timestamp": "2025-12-02T11:01:24+00:00",
-        "text": "AI Takes Center Stage as the Major Threat to Cybersecurity in 2026 \nExperian releases its 13th Annual Data Breach Industry Forecast highlighting six predictions for 2026 that include several ways AI may have an impact COSTA MESA, Calif. — Experian® today released its 2026 Data Breach Industry Forecast, offering a look at the … \nExperian releases its 13th Annual Data Breach Industry Forecast highlighting six predictions for 2026 that include several ways AI may have an impact\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nS… [+7504 chars]",
-        "positive": 1.7944921637536027e-05,
-        "negative": 4.951879964210093e-05,
-        "neutral": 0.9999325275421143
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/company/corporate-trends/total-environment-appoints-pavankumar-hansoge-as-group-chief-operating-officer/articleshow/125717180.cms",
-        "timestamp": "2025-12-02T11:01:18+00:00",
-        "text": "Total Environment appoints Pavankumar Hansoge as Group Chief Operating Officer \nHansoge has over 34 years of global experience in engineering, manufacturing and large-scale project delivery and has led high-performing, cross-functional teams across multiple geographies, with a strong record in transformation, operational excellence, and … \nTotal Environment has appointed Pavankumar Hansoge as Group Chief Operating Officer.In his new role at Total Environment, Pavan will lead the Product Organization, overseeing all aspects of design, e… [+2202 chars]",
-        "positive": 0.9830064177513123,
-        "negative": 1.7016586753015872e-06,
-        "neutral": 0.01699182577431202
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-wire-news-releases-pmn/new-study-reveals-11-28-million-annual-opportunity-for-industrial-companies-to-boost-competitiveness-by-modernizing-closed-automation-systems",
-        "timestamp": "2025-12-02T11:01:14+00:00",
-        "text": "New Study Reveals $11.28 Million Annual Opportunity for Industrial Companies to Boost Competitiveness by Modernizing Closed Automation Systems \nHidden cost penalties: closed industrial systems cost mid-sized industrial companies 7.5 per cent of revenue through downtime, inefficiencies, and compliance retrofits every year Rigid infrastructure slows response: 77 per cent of systems need physical update… \n<ul><li>Hidden cost penalties: closed industrial systems cost mid-sized industrial companies 7.5 per cent of revenue through downtime, inefficiencies, and compliance retrofits every year</li><li>Rigi… [+7429 chars]",
-        "positive": 0.9999971389770508,
-        "negative": 2.466896944497421e-07,
-        "neutral": 2.646302618813934e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.finextra.com/pressarticle/108140/enfuce-enters-belgium-and-luxembourg-with-monizze",
-        "timestamp": "2025-12-02T11:01:00+00:00",
-        "text": "Enfuce enters Belgium and Luxembourg with Monizze \nEnfuce, Europe’s card issuing and processing powerhouse, has entered the Belgian and Luxembourg markets through a new partnership with Belgian fintech Monizze, member of the Up Group. \nEnfuce, Europes card issuing and processing powerhouse, has entered the Belgian and Luxembourg markets through a new partnership with Belgian fintech Monizze, member of the Up Group.Together, they ha… [+2782 chars]",
-        "positive": 0.00010068278788821772,
-        "negative": 7.5725047281594016e-06,
-        "neutral": 0.9998916387557983
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/02/3197706/28124/en/United-States-Professional-Coaching-Industry-Report-2025-with-Profiles-of-19-Top-Coaches-Including-PricewaterhouseCoopers-Coachgenie-YourCoach-and-International-Coaching-Federation.html",
-        "timestamp": "2025-12-02T11:01:00+00:00",
-        "text": "United States Professional Coaching Industry Report 2025 with Profiles of 19 Top Coaches Including PricewaterhouseCoopers, Coachgenie, YourCoach, and International Coaching Federation (ICF) \nThe coaching industry in the U.S. offers significant market opportunities due to its rapid growth, driven by rising demand from Millennials and diverse coaching areas like life-work balance and technology adaptation. The field’s low entry barriers and increas… \nDublin, Dec. 02, 2025 (GLOBE NEWSWIRE) -- The \"US Professional Coaching Industry: Life Coaches, Health Coaches, Executive Coaches\" report from Marketdata LLC has been added to ResearchAndMarkets.com'… [+6496 chars]",
-        "positive": 0.9999992847442627,
-        "negative": 5.906758815399371e-08,
-        "neutral": 7.234383474497008e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnet.com/deals/best-cyber-monday-laptop-deals-2025-12-02/",
-        "timestamp": "2025-12-02T11:00:49+00:00",
-        "text": "I Found 30+ Laptop Deals Lingering After Cyber Monday From Lenovo, Apple, HP and More \nI’ve been looking through hundreds of Cyber Monday deals to bring you the best last-minute deal prices on laptops from Apple, Dell, Lenovo and More. \nThe Cyber Monday sales are over, but there is still time to save at big-name retailers like Amazon, Best Buy and Walmart. There are last-minute deals available on just about everything, including som… [+4624 chars]",
-        "positive": 6.221971034392482e-06,
-        "negative": 1.9481311028357595e-05,
-        "neutral": 0.9999743700027466
-      },
-      {
-        "source": "news",
         "id": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-december-2-2025-110040668.html",
         "timestamp": "2025-12-02T11:00:40+00:00",
         "text": "Best CD rates today, December 2, 2025: Lock in up to 4.1% APY today \nSome of the highest CD rates are above 4% APY. Not sure where to find them? Learn more about where to get the best CD rates right now. \nDeposit account rates are on the decline but the good news is you can lock in a competitive return on a certificate of deposit (CD) today and preserve your earning power. In fact, the best CDs still … [+4375 chars]",
         "positive": 0.9943814873695374,
         "negative": 0.0007604584097862244,
         "neutral": 0.00485812034457922
-      },
-      {
-        "source": "news",
-        "id": "https://finance.yahoo.com/news/gasoline-prices-fall-to-3-per-gallon-to-hit-lowest-level-since-2021-110039889.html",
-        "timestamp": "2025-12-02T11:00:39+00:00",
-        "text": "Gasoline prices fall to $3 per gallon to hit lowest level since 2021 \nGas prices hit their lowest level in four years as the national average fell to $3 per gallon this week. \nGasoline prices fell to an average of $3 per gallon this week to hit their lowest level since 2021.\r\nAs of Monday, at least 30 states saw an average of less than $3 at the pump, according to AAA data… [+1984 chars]",
-        "positive": 0.0011249373201280832,
-        "negative": 0.9384080767631531,
-        "neutral": 0.06046700105071068
       },
       {
         "source": "news",
@@ -893,24 +1064,6 @@
         "positive": 7.269238722074078e-07,
         "negative": 2.6827863621292636e-05,
         "neutral": 0.9999724626541138
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/opinion/nutrien-bypass-port-vancouver-underscores-need-change",
-        "timestamp": "2025-12-02T11:00:32+00:00",
-        "text": "Opinion: Nutrien’s bypass of the Port of Vancouver underscores need for change \nCanada's largest port ranks near the bottom of world surveys of efficiency. Good luck diversifying exports without clearing this bottleneck \nVancouver seems the ideal shipping point for Saskatchewan potash. Its deep-water port faces Asias fastest growing markets, where demand for the critical mineral continues to surge. But last week Sask… [+5226 chars]",
-        "positive": 0.9999884366989136,
-        "negative": 6.436558237510326e-07,
-        "neutral": 1.0977366400766186e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.patheos.com/blogs/geneveith/2025/12/thanksgiving-leftovers-2/",
-        "timestamp": "2025-12-02T11:00:28+00:00",
-        "text": "Thanksgiving Leftovers \nSome of you are probably still eating Thanksgiving leftovers (my favorite part of the Thanksgiving feast), so hopefully you won't mind some leftover reflections on the holiday, since gratitude is appropriate year round. \nSome of you are probably still eating Thanksgiving leftovers (my favorite part of the Thanksgiving feast), so hopefully you wont mind some leftover reflections on the holiday, since gratitude is appr… [+8219 chars]",
-        "positive": 1.7511800933789345e-06,
-        "negative": 1.557098948978819e-05,
-        "neutral": 0.9999825954437256
       },
       {
         "source": "news",
@@ -977,42 +1130,6 @@
       },
       {
         "source": "news",
-        "id": "https://finance.yahoo.com/news/more-tug-of-war-between-growth-and-value-stocks-expected-next-year-110012045.html",
-        "timestamp": "2025-12-02T11:00:12+00:00",
-        "text": "More 'tug-of-war' between growth and value stocks expected next year \nRBC isn't in the AI bubble camp, but its  analysts say the fears and jitters are not unfounded and make the value vs. growth question interesting in the year... \nThis is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\r\n<ul><li>What we're watching\r\n</li><li>What we're reading\r\n</li><li>Economic … [+2400 chars]",
-        "positive": 0.00016026395314838737,
-        "negative": 0.00021536419808398932,
-        "neutral": 0.9996243715286255
-      },
-      {
-        "source": "news",
-        "id": "https://www.econlib.org/econlog/barriers-to-affordable-housing/",
-        "timestamp": "2025-12-02T11:00:11+00:00",
-        "text": "Barriers to Affordable Housing \nA recent post argued that housing affordability is not so bad as it might appear when home prices are adjusted for all relevant factors, such as size, quality, and household income growth. While houses have become more expensive in dollars, they are also sign… \nA recent post argued that housing affordability is not so bad as it might appear when home prices are adjusted for all relevant factors, such as size, quality, and household income growth. While hous… [+9631 chars]",
-        "positive": 0.0178495142608881,
-        "negative": 0.01757359690964222,
-        "neutral": 0.9645769000053406
-      },
-      {
-        "source": "news",
-        "id": "https://www.jezebel.com/miley-cyrus-future-father-in-law-might-have-already-confirmed-rumored-engagement",
-        "timestamp": "2025-12-02T11:00:07+00:00",
-        "text": "Miley Cyrus' Future Father-in-Law Might Have Already Confirmed Rumored Engagement \nMaxx Morando's dad posted Miley's new hardware on Instagram in November. \nWe all know Miley Cyrus bought herself flowers, but who bought the giant diamond on her left ring finger? Could it be her boyfriend of three years, Maxx Morando? The couple sparked engagement rumors … [+3091 chars]",
-        "positive": 6.059236329747364e-05,
-        "negative": 0.0005321920034475625,
-        "neutral": 0.999407172203064
-      },
-      {
-        "source": "news",
-        "id": "https://www.businessinsider.com/soxton-ai-native-law-firm-legal-tech-logan-brown-2025-12",
-        "timestamp": "2025-12-02T11:00:03+00:00",
-        "text": "A 30-year-old lawyer quit Big Law. Days later, she had a term sheet to raise $2.5 million for an AI law firm. \nUnlike the legal tech startup Harvey, Soxton isn't selling software to law firms. It offers legal services directly to startups. \nLogan BrownSoxton\r\n<ul><li>Logan Brown, a corporate lawyer, left Cooley to launch Soxton, an AI law firm for startups.</li><li>Soxton raised $2.5 million in pre-seed funding and has served over 270 e… [+5433 chars]",
-        "positive": 1.1481866749818437e-05,
-        "negative": 4.827603333978914e-06,
-        "neutral": 0.9999837875366211
-      },
-      {
-        "source": "news",
         "id": "https://www.theatlantic.com/ideas/2025/12/olivia-nuzzi-memoir/685106/",
         "timestamp": "2025-12-02T11:00:00+00:00",
         "text": "Olivia Nuzzi’s Tell-Nothing Memoir \nCan American Canto turn scandal into literature? \nOne of the many delights of America is that its geography is also a vocabulary. If I say Portland, Oregon, or the Hamptons, or Appalachia, the reader knows instantly which stereotypes are being invok… [+15630 chars]",
@@ -1046,24 +1163,6 @@
         "positive": 0.0004166237195022404,
         "negative": 0.2633970081806183,
         "neutral": 0.7361863851547241
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/02/3197701/0/en/Sutton-Group-Appoints-Jeremy-Gulliver-as-Vice-President-East-Strengthening-Leadership-Across-Ontario-and-Atlantic-Canada.html",
-        "timestamp": "2025-12-02T11:00:00+00:00",
-        "text": "Sutton Group Appoints Jeremy Gulliver as Vice-President, East, Strengthening Leadership Across Ontario and Atlantic Canada \nSutton Group announces the appointment of Jeremy Gulliver as Vice-President, East, expanding Sutton's presence in Ontario, Atlantic Canada and Manitoba.... \nTORONTO, Dec. 02, 2025 (GLOBE NEWSWIRE) -- Sutton Group Realty Services Ltd. (Sutton Group), Canadas leading Canadian-owned and independent national real estate brand, is pleased to announce the appo… [+3615 chars]",
-        "positive": 0.9619050025939941,
-        "negative": 1.266281287826132e-06,
-        "neutral": 0.038093745708465576
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/02/3197699/0/en/Alberta-Cancer-Foundation-launches-The-Time-Store-campaign-to-bring-more-moments-to-Albertans-facing-cancer.html",
-        "timestamp": "2025-12-02T11:00:00+00:00",
-        "text": "Alberta Cancer Foundation launches 'The Time Store' campaign to bring more moments to Albertans facing cancer \nThis Giving Tuesday and throughout the holiday season, Albertans are asked to give the gift of time to loved ones facing a cancer journey....... \nEDMONTON, Alberta, Dec. 02, 2025 (GLOBE NEWSWIRE) -- This Giving Tuesday and throughout the holiday season, Albertans are asked to give the gift of time to loved ones facing a cancer journey. The Alb… [+2895 chars]",
-        "positive": 3.622685653681401e-06,
-        "negative": 1.5403243196487892e-06,
-        "neutral": 0.9999948740005493
       },
       {
         "source": "news",
@@ -1127,159 +1226,6 @@
         "positive": 5.868435255251825e-05,
         "negative": 3.17022786475718e-05,
         "neutral": 0.9999096393585205
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/e4b029804201bbee",
-        "timestamp": "2025-12-02T10:54:58+00:00",
-        "text": "Puma Bid Talk Offers Small Solace as Stock Heads for Worst Year \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+766 chars]",
-        "positive": 0.0006235094042494893,
-        "negative": 0.0001547306019347161,
-        "neutral": 0.9992218017578125
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/3f8c1efc18f0ba3a",
-        "timestamp": "2025-12-02T10:54:55+00:00",
-        "text": "BDO UK Partner Pay Drops 14% to £589,000 After Deals Slowdown \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+762 chars]",
-        "positive": 0.00012557859008666128,
-        "negative": 3.7914487620582804e-05,
-        "neutral": 0.9998364448547363
-      },
-      {
-        "source": "news",
-        "id": "https://www.nakedcapitalism.com/2025/12/bitcoin-crypto-plunge-accelerates-as-leveraged-players-treasuries-like-strategy-dump-holdings.html",
-        "timestamp": "2025-12-02T10:54:53+00:00",
-        "text": "Bitcoin, Crypto Plunge Accelerates as Leveraged Players (“Treasuries”) Like Strategy Dump Holdings \nA big leverage unwind in Bitcoin is accelerating, dragging down other crypto. How much further will the fall go before hitting bottom? \nWarren Buffett famously said, “Only when the tide goes out do you discover who’s been swimming naked.” Buffett did not add that unlike nature-induced exposure events, market losses will feed on thems… [+9351 chars]",
-        "positive": 0.0157467070966959,
-        "negative": 0.6065443754196167,
-        "neutral": 0.37770891189575195
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/8c755ecbf07bba45",
-        "timestamp": "2025-12-02T10:54:52+00:00",
-        "text": "Morgan Stanley Says Mortgage Aid May Halt China’s Housing Slump \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+766 chars]",
-        "positive": 0.00010177562944591045,
-        "negative": 0.00019897209131158888,
-        "neutral": 0.9996992349624634
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/754fdfcc3e155541",
-        "timestamp": "2025-12-02T10:54:47+00:00",
-        "text": "Bank of England’s Bailey urges banks to boost lending after capital change \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+770 chars]",
-        "positive": 0.0001954969047801569,
-        "negative": 3.276376082794741e-05,
-        "neutral": 0.999771773815155
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/fa415de620bd4677",
-        "timestamp": "2025-12-02T10:54:46+00:00",
-        "text": "Is Travelers Companies Stock Outperforming the Dow? \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+739 chars]",
-        "positive": 0.9992467164993286,
-        "negative": 5.138517167324608e-07,
-        "neutral": 0.0007528084679506719
-      },
-      {
-        "source": "news",
-        "id": "https://indianexpress.com/article/entertainment/malayalam/who-is-cyanide-mohan-the-notorious-serial-killer-who-may-have-inspired-mammoottys-character-in-kalamkaval-10383147/",
-        "timestamp": "2025-12-02T10:54:40+00:00",
-        "text": "Who is Cyanide Mohan, the notorious serial killer who may have inspired Mammootty’s character in Kalamkaval? \nCyanide Mohan was accused of 25 killings and convicted in 20 cases. Although he was awarded the death penalty in five cases, two of them were later commuted to life imprisonment. \nWith the release of debutant director Jithin K Jose’s Kalamkaval right around the corner, Malayalam cinema audiences are all buckled up to see what Mammootty has cooked for them this time. Despite be… [+6497 chars]",
-        "positive": 0.0019910114351660013,
-        "negative": 0.056552935391664505,
-        "neutral": 0.9414560794830322
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/c834785bda643fff",
-        "timestamp": "2025-12-02T10:54:39+00:00",
-        "text": "Chinese autonomous driving firm Momenta files for Hong Kong IPO, sources say \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+773 chars]",
-        "positive": 7.55743758418248e-06,
-        "negative": 4.098446424904978e-06,
-        "neutral": 0.9999884366989136
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/430e05ee4e6d2112",
-        "timestamp": "2025-12-02T10:54:34+00:00",
-        "text": "The Best Cryptocurrency to Buy With $100 Right Now \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+730 chars]",
-        "positive": 0.000657147669699043,
-        "negative": 3.828382978099398e-05,
-        "neutral": 0.9993046522140503
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/adc7ab86bf7132d5",
-        "timestamp": "2025-12-02T10:54:33+00:00",
-        "text": "Berenberg promotes Janssens and Gottlob as it overhauls structure \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+752 chars]",
-        "positive": 0.00012326713476795703,
-        "negative": 1.4095044207351748e-05,
-        "neutral": 0.9998626708984375
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/67fc0fb64f3b1fbb",
-        "timestamp": "2025-12-02T10:54:31+00:00",
-        "text": "US gas prices drop below $3 a gallon for first time since May 2021 \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Instagram forcing full return to office in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Barricks… [+726 chars]",
-        "positive": 0.0002035034412983805,
-        "negative": 0.00020388847042340785,
-        "neutral": 0.9995926022529602
-      },
-      {
-        "source": "news",
-        "id": "https://www.channelnewsasia.com/business/european-banks-led-bnp-ing-push-ahead-euro-stablecoin-plan-5527921",
-        "timestamp": "2025-12-02T10:54:30+00:00",
-        "text": "European banks led by BNP, ING push ahead on euro stablecoin plan \nPARIS/MADRID, Dec 2 : A group of 10 European banks, including ING, UniCredit and BNP Paribas, have formed a company to launch a euro-pegged stablecoin in the second half of 2026, in a move they hope will counter U.S. dominance in digital payments.The CEO of t… \nPARIS/MADRID, Dec 2 : A group of 10 European banks, including ING, UniCredit and BNP Paribas, have formed a company to launch a euro-pegged stablecoin in the second half of 2026, in a move they hope … [+3123 chars]",
-        "positive": 2.6200963475275785e-05,
-        "negative": 2.6011884983745404e-06,
-        "neutral": 0.9999711513519287
-      },
-      {
-        "source": "news",
-        "id": "https://pypi.org/project/ragang/0.0.4b0/",
-        "timestamp": "2025-12-02T10:51:48+00:00",
-        "text": "ragang 0.0.4b0 \nRetrieval Augmented Generation Assessing tool with No Gold \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
-        "positive": 1.0871734730244498e-06,
-        "negative": 0.00010523118544369936,
-        "neutral": 0.9998936653137207
-      },
-      {
-        "source": "news",
-        "id": "https://yle.fi/a/74-20197371",
-        "timestamp": "2025-12-02T10:50:29+00:00",
-        "text": "Statistics Finland aims to make AI searches less flaky \n\"We've noticed that the information provided by search assistants is often incorrect,\" the agency's director general said. \nAfter Google started offering AI summaries of search results in Finland, the country's statistics agency saw its website visits start to decline.\r\nThe agency, Statistics Finland, told Yle that during… [+3166 chars]",
-        "positive": 0.00011316918971715495,
-        "negative": 0.9963032007217407,
-        "neutral": 0.0035836361348628998
-      },
-      {
-        "source": "news",
-        "id": "https://www.ndtvprofit.com/opinion/technology-artificial-intelligence-fy27will-be-the-year-data-centres-in-india-go-big-or-go-home",
-        "timestamp": "2025-12-02T10:49:10+00:00",
-        "text": "Opinion: FY27 To Be Year Of Consolidation For India Data Centres \nFor India's data centre market, 2025 has been nothing short of a blockbuster year. We're talking about a sector that's gone from boardroom footnote to front-page headline, drawing in billions in capital, policy tailwinds, and a stampede of global and domestic… \nTata has a semiconductor fab set to come online in December 2026. Thats not just a feather in their cap; its a long-term structural advantage. With domestic chip production finally entering the Tata … [+3729 chars]",
-        "positive": 0.9999992847442627,
-        "negative": 1.6962507842777086e-08,
-        "neutral": 6.868070272503246e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.ozbargain.com.au/node/938122",
-        "timestamp": "2025-12-02T10:45:55+00:00",
-        "text": "CBA Low Rate Credit Card Earn up to $450 cashback ($6 Monthly fee/$0 with wealth package) \nEarn up to $450 cashback to spend how you want Earn $75 each month when you spend $500 or more per month for the first 6 months on a new Low Rate credit card. Ongoing eligibility, exclusions and … \nEarn up to $450 cashback to spend how you want\r\nEarn $75 each month when you spend $500 or more per month for the first 6 months on a new Low Rate credit card. Ongoing eligibility, exclusions and off… [+926 chars]",
-        "positive": 0.07698386162519455,
-        "negative": 4.890107811661437e-05,
-        "neutral": 0.9229673147201538
-      },
-      {
-        "source": "news",
-        "id": "https://pypi.org/project/ragang/0.0.3b0/",
-        "timestamp": "2025-12-02T10:45:12+00:00",
-        "text": "ragang 0.0.3b0 \nRetrieval Augmented Generation Assessing tool with No Gold \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
-        "positive": 9.788401484911446e-07,
-        "negative": 9.313536429544911e-05,
-        "neutral": 0.9999059438705444
       },
       {
         "source": "news",
@@ -26536,9 +26482,9 @@
         "neutral": 0.9999943971633911
       }
     ],
-    "nw": 0.4972642800070236,
-    "nw_norm": 74.86321400035119
+    "nw": 0.4999744837350364,
+    "nw_norm": 74.99872418675182
   },
-  "gsi": 74.86321400035119,
+  "gsi": 74.99872418675182,
   "classification": "Bullish"
 }
