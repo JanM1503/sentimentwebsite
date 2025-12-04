@@ -1,8 +1,215 @@
 {
-  "timestamp": "2025-12-04T22:09:31.378080+00:00",
+  "timestamp": "2025-12-04T22:23:25.815469+00:00",
   "news": {
-    "count": 2975,
+    "count": 2971,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://pypi.org/project/sf-quant/0.1.16/",
+        "timestamp": "2025-12-03T22:15:01+00:00",
+        "text": "sf-quant 0.1.16 \nPython package for Silver Fund quant team research and trading tools. \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "positive": 8.739073109609308e-07,
+        "negative": 3.437221675994806e-05,
+        "neutral": 0.9999648332595825
+      },
+      {
+        "source": "news",
+        "id": "https://www.portlandmercury.com/music/2025/12/03/48163980/film-review-the-new-sun-ra-documentary-does-the-impossible",
+        "timestamp": "2025-12-03T22:15:00+00:00",
+        "text": "Film Review: The New Sun Ra Documentary Does the Impossible \nJesse Carsten\n \n by Jesse Carsten\n \n \n \n It’s clear at this point that the work of Afrofuturist jazz visionary Sun Ra is beloved by Portlanders. From his band, the Arkestra’s frequent trips to the Rose City playing packed shows (sans Ra himself, who left the … \nIts clear at this point that the work of Afrofuturist jazz visionary Sun Ra is beloved by Portlanders. From his band, the Arkestras frequent trips to the Rose City playing packed shows (sans Ra himse… [+5520 chars]",
+        "positive": 2.79093319477397e-06,
+        "negative": 2.1615574951283634e-05,
+        "neutral": 0.9999756813049316
+      },
+      {
+        "source": "news",
+        "id": "https://cointelegraph.com/news/strategy-bitcoin-buy-collapse-bracing-bear-market",
+        "timestamp": "2025-12-03T22:14:27+00:00",
+        "text": "Strategy Bitcoin buys collapse, company bracing for bear market: Analyst \nThe biggest Bitcoin treasury company in the world has lowered its pace of Bitcoin accumulation since the peak in 2024, signaling preparation for a downturn. \nStrategy, the largest corporate holder of Bitcoin, has slowed its rate of cryptocurrency accumulation in 2025, a move analysts at CryptoQuant interpret as preparation for a drawn-out bear market.\r\nSt… [+2301 chars]",
+        "positive": 0.00029526822618208826,
+        "negative": 0.9969016313552856,
+        "neutral": 0.0028031161054968834
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/business-news/financial/pvh-q3-2025-earnings-slip-beatestimates-1238370011/",
+        "timestamp": "2025-12-03T22:13:40+00:00",
+        "text": "PVH Profits Slip, but Top Q3 Estimates as Reinvention Continues \nPVH Q3 2025 earnings topped estimates and CEO Stefan Larsson said Tommy Hilfiger and Calvin Klein are primed for growth. \nPVH Corp.’s third-quarter profits slipped, but topped expectations as Stefan Larsson continued on the next leg of his journey, resetting Calvin Klein and Tommy Hilfiger while transforming the company… [+5125 chars]",
+        "positive": 0.977060854434967,
+        "negative": 0.02291751652956009,
+        "neutral": 2.1558340449701063e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.fashionbeans.com/article/girlfriend-gift-guide-skims-le-labo-acne/",
+        "timestamp": "2025-12-03T22:12:57+00:00",
+        "text": "12 Girlfriend Gifts Guaranteed to Impress — Thoughtful Picks From SKIMS, Le Labo and Acne Studios \nBuying for your girlfriend shouldn’t feel like a game of emotional roulette — but that’s exactly how it goes every Christmas. You want thoughtful, stylish, meaningful… yet somehow you end up in a panic 48 hours before Christmas Eve scrolling “gift ideas for h… \nBuying for your girlfriend shouldnt feel like a game of emotional roulette but thats exactly how it goes every Christmas. You want thoughtful, stylish, meaningful yet somehow you end up in a panic 48… [+3088 chars]",
+        "positive": 0.00010407732042949647,
+        "negative": 6.437469710363075e-05,
+        "neutral": 0.9998315572738647
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbsnews.com/news/reward-5-million-tips-arrest-of-tren-de-aragua-gang-leader-giovanni-vicente-mosquera-serrano/",
+        "timestamp": "2025-12-03T22:11:04+00:00",
+        "text": "U.S. offering $5 million for tips leading to Tren de Aragua leader's arrest \nThe U.S. has increased its reward to $5 million for information leading to the arrest of an alleged leader of the Venezuelan gang Tren de Aragua. \nThe United States government on Wednesday increased its reward for information leading to the arrest of Giovanni Vicente Mosquera Serrano, an alleged leader of the Venezuelan gang Tren de Aragua. Thr… [+3004 chars]",
+        "positive": 0.8354688882827759,
+        "negative": 0.0002373578172409907,
+        "neutral": 0.1642937958240509
+      },
+      {
+        "source": "news",
+        "id": "https://dailycaller.com/2025/12/03/opinion-affordability-a-market-lesson-washington-keeps-forgetting-james-carter/",
+        "timestamp": "2025-12-03T22:10:41+00:00",
+        "text": "JAMES CARTER: Affordability A Market Lesson Washington Keeps Forgetting \nAffordability. It is the hot, new political slogan, a catch-all lament for the frustrations of daily economic life. \nAffordability. It is the hot, new political slogan, a catch-all lament for the frustrations of daily economic life. But behind the chatter — behind the talk of grocery bills that resemble mortgage pa… [+4830 chars]",
+        "positive": 0.002902126405388117,
+        "negative": 0.03636449947953224,
+        "neutral": 0.9607334136962891
+      },
+      {
+        "source": "news",
+        "id": "http://foreignpolicy.com/2025/12/03/mali-junta-france-interventions-un-ecowas/",
+        "timestamp": "2025-12-03T22:10:36+00:00",
+        "text": "Mali’s Junta Is the Architect of Its Own Disasters \nBlaming foreign intervention is easy—but mistaken. \nJust three years ago, and even after consecutive military coups in 2020 and 2021, Mali hosted a major United Nations peacekeeping operation, a European Union military training operation, a five-natio… [+11652 chars]",
+        "positive": 0.006603435147553682,
+        "negative": 0.11611095070838928,
+        "neutral": 0.8772856593132019
+      },
+      {
+        "source": "news",
+        "id": "http://commercialobserver.com/2025/12/miami-santiago-vanegas-habitat-group-resi-short-term-rental-hotel/",
+        "timestamp": "2025-12-03T22:10:21+00:00",
+        "text": "Santiago Vanegas of Habitat Group: 5 Questions \nShort-term rental units and condominiums are a hot development trend in Miami, and Santiago Vanegas is in the middle of the action. Vanegas, founder, president and CEO of Habitat Group, said his company is building more than a third of the short-term rental u… \nShort-term rental units and condominiums are a hot development trend in Miami, and Santiago Vanegas is in the middle of the action.\r\nVanegas, founder, president and CEO of Habitat Group, said his com… [+3120 chars]",
+        "positive": 4.095561962458305e-06,
+        "negative": 6.826109256508062e-06,
+        "neutral": 0.9999891519546509
+      },
+      {
+        "source": "news",
+        "id": "https://cryptoslate.com/secret-footage-from-a-rigged-laptop-exposes-how-north-korean-spies-are-slipping-past-your-security-team/",
+        "timestamp": "2025-12-03T22:10:19+00:00",
+        "text": "Secret footage from a rigged laptop exposes how North Korean spies are slipping past your security team \nNorth Korean operatives were caught on camera, live, after security researchers lured them into a booby-trapped “developer laptop,” capturing how the Lazarus-linked crew tried to blend into a US crypto job pipeline using legitimate AI hiring tools and cloud s… \nNorth Korean operatives were caught on camera, live, after security researchers lured them into a booby-trapped developer laptop, capturing how the Lazarus-linked crew tried to blend into a US crypto… [+4839 chars]",
+        "positive": 0.0016293531516566873,
+        "negative": 0.004157627001404762,
+        "neutral": 0.9942129254341125
+      },
+      {
+        "source": "news",
+        "id": "https://trojanswire.usatoday.com/story/sports/college/trojans/football/2025/12/03/braylon-conley-three-usc-football-players-transfer-portal/87592026007/",
+        "timestamp": "2025-12-03T22:10:12+00:00",
+        "text": "Braylon Conley one of three more USC players to enter transfer portal \nWith USC's 2025 regular season in the books, transfer portal season is now in full swing \nWith USC's 2025 regular season now in the books, transfer portal season is now in full swing. On Monday, USC suffered its first loss of the portal cycle with the departure of running back Bryan Jacks… [+1058 chars]",
+        "positive": 1.0275769000145374e-06,
+        "negative": 0.9999953508377075,
+        "neutral": 3.6062897379451897e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/sports/the-buzzer-newsletter-figure-skating-grand-prix-final-9.7002087",
+        "timestamp": "2025-12-03T22:08:52+00:00",
+        "text": "Figure skating's Grand Prix Final will reveal Olympic favourites \nCBC Sports' daily newsletter previews the Grand Prix of Figure Skating Final in Japan, where the top athletes in the world are gathered for the final time before the Winter Olympics. \nThis is an excerpt from The Buzzer, which is CBC Sports' daily email newsletter. Stay up to speed on what's happening in sports by subscribing here.\r\nThe most important figure skating event in the ru… [+7583 chars]",
+        "positive": 2.396185664110817e-05,
+        "negative": 4.2866458898060955e-06,
+        "neutral": 0.9999717473983765
+      },
+      {
+        "source": "news",
+        "id": "https://reason.com/2025/12/03/university-of-oklahoma-student-is-justifiably-shocked-at-sudden-expectation-she-be-a-good-writer/",
+        "timestamp": "2025-12-03T22:08:39+00:00",
+        "text": "University of Oklahoma Student Is Justifiably Shocked at Sudden Expectation She Be a Good Writer \nWhat the controversy over Samantha Fulnecky's failing grade for a bad essay reveals about the true purpose of higher education. \nA seemingly trivial dispute over whether a University of Oklahoma student deservedly received a failing grade for a psychology class assignment has improbably become a national civil rights controver… [+5140 chars]",
+        "positive": 0.0012458577984943986,
+        "negative": 0.9951006770133972,
+        "neutral": 0.0036534846294671297
+      },
+      {
+        "source": "news",
+        "id": "http://coolhunting.com/design/the-new-circuit-culture/",
+        "timestamp": "2025-12-03T22:05:45+00:00",
+        "text": "The New Circuit Culture \nHeineken and DX7 Design's high-voltage vision for 2025's F1 Las Vegas Grand Prix blends tech and design Formula 1 has always embraced spectacle, but in Las Vegas the spectacle becomes the starting … \nHeineken and DX7 Design's high-voltage vision for 2025's F1 Las Vegas Grand Prix blends tech and design\n\n\nRead\nDesign\r\n\n\n\n\n\nThe New Circuit Culture\r\n\n\n\nHeineken and DX7 Design’s high-voltage vision f… [+5506 chars]",
+        "positive": 7.123166869860142e-05,
+        "negative": 1.0805477359099314e-05,
+        "neutral": 0.9999178647994995
+      },
+      {
+        "source": "news",
+        "id": "https://newrepublic.com/post/203936/donald-trump-backs-pete-hegseth-boat-strikes",
+        "timestamp": "2025-12-03T22:05:31+00:00",
+        "text": "Trump Backs Pete Hegseth on Boat Strikes Even as GOP Turns on Him \nDonald Trump is still backing Pete Hegseth, despite growing scrutiny over reports that the defense secretary issued orders to mercilessly kill survivors of a September 2 airstrike on a small boat in the Caribbean.“If it is found that survivors were actually k… \nLarger companies are still hiring, wrote Heather Long, chief economist at Navy Federal Credit Union, on X. Smaller firms (under 50 workers) are doing the layoffs. Its been a very tough year for small… [+724 chars]",
+        "positive": 0.00014985521556809545,
+        "negative": 0.9990968704223633,
+        "neutral": 0.0007533282623626292
+      },
+      {
+        "source": "news",
+        "id": "https://bringatrailer.com/listing/1998-mercedes-benz-slk230-kompressor-25/",
+        "timestamp": "2025-12-03T22:05:12+00:00",
+        "text": "1998 Mercedes-Benz SLK230 Kompressor at No Reserve \nThis 1998 Mercedes-Benz SLK230 Kompressor has 85k miles following registration history in California and Texas, and it was purchased by the seller earlier this year. The car is finished in Black Opal Metallic over Charcoal leather and is powered by a supercha… \nThis 1998 Mercedes-Benz SLK230 Kompressor has 85k miles following registration history in California and Texas, and it was purchased by the seller earlier this year. The car is finished in Black Opal… [+1741 chars]",
+        "positive": 3.7048801004857523e-06,
+        "negative": 3.259704044467071e-06,
+        "neutral": 0.999993085861206
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/infinico-metals-corp-announces-200000-non-brokered-private-placement-changes-to-board-of-directors-and-proposed-up-to-15-for-1-common-share-consolidation",
+        "timestamp": "2025-12-03T22:03:55+00:00",
+        "text": "Infinico Metals Corp. Announces $200,000 Non-Brokered Private Placement, Changes to Board of Directors, and Proposed up to 15-for-1 Common Share Consolidation \nTHIS NEWS RELEASE IS NOT FOR DISTRIBUTION IN THE UNITED STATES OR TO U.S. NEWS AGENCIES VANCOUVER, British Columbia, Dec. 03, 2025 (GLOBE NEWSWIRE) — Infinico Metals Corp. (“Infinico” or the “Company”) (TSX-V: INFM) is pleased to announce a proposed non-broke… \nThe Company also announces the resignation of Mr. Tom Panoulias from the Companys Board effective November 27, 2025.    \r\nInfinico wishes to thank Mr. Panoulias for his service and contribution to th… [+6792 chars]",
+        "positive": 0.0001816288713598624,
+        "negative": 3.3587868529139087e-05,
+        "neutral": 0.9997847676277161
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/agf-reports-november-2025-assets-under-management-and-fee-earning-assets",
+        "timestamp": "2025-12-03T22:03:49+00:00",
+        "text": "AGF Reports November 2025 Assets Under Management and Fee-Earning Assets \nTORONTO, Dec. 03, 2025 (GLOBE NEWSWIRE) — AGF Management Limited reported total assets under management (AUM) and fee-earning assets1 of $60.4 billion as at November 30, 2025. AUM ($ billions) November 30, 2025 October 31, 2025 % ChangeMonth-Over-Month Novemb… \nTORONTO, Dec. 03, 2025 (GLOBE NEWSWIRE) AGF Management Limited reported total assets under management (AUM) and fee-earning assets1 of $60.4 billion as at November 30, 2025.\r\nTHIS CONTENT IS RESERVED… [+6343 chars]",
+        "positive": 1.4755144093214767e-06,
+        "negative": 1.1503969972181949e-06,
+        "neutral": 0.9999973773956299
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/european-commission-review-dismisses-ngo-allegations-on-strategic-project-designation",
+        "timestamp": "2025-12-03T22:03:44+00:00",
+        "text": "European Commission Review Dismisses NGO Allegations on Strategic Project Designation \nTORONTO, Dec. 03, 2025 (GLOBE NEWSWIRE) — Euro Sun Mining Inc. (TSX: ESM) (“Euro Sun”, “ESM”, or the “Company”) acknowledges the European Commission’s published responses to allegations submitted by certain Non-Governmental Organizations (NGOs) directly to th… \nTORONTO, Dec. 03, 2025 (GLOBE NEWSWIRE) Euro Sun Mining Inc. (TSX: ESM) (Euro Sun, ESM, or the Company) acknowledges the European Commissions published responses to allegations submitted by certain N… [+5604 chars]",
+        "positive": 2.62432422459824e-05,
+        "negative": 8.496650116285309e-05,
+        "neutral": 0.9998887777328491
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/descartes-announces-fiscal-2026-third-quarter-financial-results",
+        "timestamp": "2025-12-03T22:03:39+00:00",
+        "text": "Descartes Announces Fiscal 2026 Third Quarter Financial Results \nRecord Revenues and Income from Operations; Application Filed to Commence Normal Course Issuer Bid; CFO Transition Plan Outlined for Next Fiscal Year WATERLOO, Ontario and ATLANTA, Dec. 03, 2025 (GLOBE NEWSWIRE) — The Descartes Systems Group Inc. (TSX:DSG) (N… \nAbout Descartes\r\nDescartes (Nasdaq:DSGX) (TSX:DSG) is the global leader in providing on-demand, software-as-a-service solutions focused on improving the productivity, security and sustainability of l… [+9875 chars]",
+        "positive": 0.999957799911499,
+        "negative": 3.2413705497447154e-08,
+        "neutral": 4.216397792333737e-05
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/d-box-technologies-appoints-scott-sherr-as-chief-commercial-officer",
+        "timestamp": "2025-12-03T22:03:33+00:00",
+        "text": "D-BOX Technologies Appoints Scott Sherr as Chief Commercial Officer \nMONTREAL, Dec. 03, 2025 (GLOBE NEWSWIRE) — D-BOX Technologies Inc. (TSX: DBO), a global leader in haptic and immersive entertainment technology with systems deployed on well over 1,000 theatrical screens worldwide and a growing leadership position across simu… \nMONTREAL, Dec. 03, 2025 (GLOBE NEWSWIRE) D-BOX Technologies Inc. (TSX: DBO), a global leader in haptic and immersive entertainment technology with systems deployed on well over 1,000 theatrical scree… [+5387 chars]",
+        "positive": 1.0,
+        "negative": 5.8796034707597755e-09,
+        "neutral": 4.194358282916255e-08
+      },
+      {
+        "source": "news",
+        "id": "https://www.commondreams.org/news/norway-deep-sea-mining-2674367383",
+        "timestamp": "2025-12-03T22:02:36+00:00",
+        "text": "In 'Historic Victory' for Oceans, Norway Pauses Controversial Deep-Sea Mining Plans \nIn a move celebrated by environmental advocates as a \"massive win for nature,\" the Norwegian government on Wednesday delayed the issuing of deep-sea mining licenses in its Arctic waters for a second year in a row, this time until 2029.In January 2024, Norway … \nIn a move celebrated by environmental advocates as a \"massive win for nature,\" the Norwegian government on Wednesday delayed the issuing of deep-sea mining licenses in its Arctic waters for a second … [+4056 chars]",
+        "positive": 0.010699429549276829,
+        "negative": 0.9843662977218628,
+        "neutral": 0.004934273660182953
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199407/0/en/AGF-Reports-November-2025-Assets-Under-Management-and-Fee-Earning-Assets.html",
+        "timestamp": "2025-12-03T22:02:00+00:00",
+        "text": "AGF Reports November 2025 Assets Under Management and Fee-Earning Assets \nTORONTO, Dec. 03, 2025 (GLOBE NEWSWIRE) -- AGF Management Limited reported total assets under management (AUM) and fee-earning assets1 of $60.4 billion as at November 30, 2025. \nTORONTO, Dec. 03, 2025 (GLOBE NEWSWIRE) -- AGF Management Limited reported total assets under management (AUM) and fee-earning assets1 of $60.4 billion as at November 30, 2025.\r\n<table><tr><td>AUM($ … [+4119 chars]",
+        "positive": 3.638328678334801e-07,
+        "negative": 3.082898558659508e-07,
+        "neutral": 0.9999992847442627
+      },
       {
         "source": "news",
         "id": "https://www.sportingnews.com/us/mlb/boston-red-sox/news/proposed-red-sox-trade-sees-boston-deal-jarren-duran-1325-million-ace-all-star-swap/0d0b5e188b238e2c0547abce",
@@ -815,78 +1022,6 @@
       },
       {
         "source": "news",
-        "id": "https://screenrant.com/box-office-predictions-five-nights-at-freddys-2-rings-in-december-with-a-solid-debut/",
-        "timestamp": "2025-12-03T21:20:16+00:00",
-        "text": "Five Nights at Freddy's 2 Set for Solid December Debut Amid Diverse Offerings \nDespite being outperformed by its predecessor, Five Nights at Freddy's 2 is expected to make a strong debut in early December \nThe first weekend of December is typically a less lucrative frame at the box office following the Thanksgiving weekend, but this year is shaping up to still put up a solid showing. After an abysmal f… [+5797 chars]",
-        "positive": 0.9999808073043823,
-        "negative": 1.3699898772756569e-05,
-        "neutral": 5.440168934001122e-06
-      },
-      {
-        "source": "news",
-        "id": "https://eplindex.com/139846/report-chelsea-and-man-city-hold-transfer-talks-with-austrian-wonderkid.html",
-        "timestamp": "2025-12-03T21:20:00+00:00",
-        "text": "Report: Chelsea and Man City hold transfer talks with Austrian Wonderkid \nReport: Chelsea and Man City Circle Golden Boot Star But Bundesliga Route Beckons The rise of Johannes Moser, the Austrian forward who collected the Golden Boot at the Under-17 World Cup, has underst... \nThe rise of Johannes Moser, the Austrian forward who collected the Golden Boot at the Under-17 World Cup, has understandably attracted interest from some of the continents wealthiest and most strateg… [+4741 chars]",
-        "positive": 0.16907325387001038,
-        "negative": 0.0015405042795464396,
-        "neutral": 0.8293862342834473
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199361/0/en/Symbotic-Announces-Primary-and-Secondary-Offering-of-Class-A-Common-Stock.html",
-        "timestamp": "2025-12-03T21:20:00+00:00",
-        "text": "Symbotic Announces Primary and Secondary Offering of Class A Common Stock \nWILMINGTON, Mass., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Symbotic Inc. (Nasdaq: SYM), a leader in A.I.-enabled robotics technology for the supply chain, today announced that it has commenced an underwritten public offering (the “Offering”) of 10,000,000 shares of… \nWILMINGTON, Mass., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Symbotic Inc. (Nasdaq: SYM), a leader in A.I.-enabled robotics technology for the supply chain, today announced that it has commenced an underwrit… [+5304 chars]",
-        "positive": 0.2804354727268219,
-        "negative": 1.1103388715127949e-05,
-        "neutral": 0.719553530216217
-      },
-      {
-        "source": "news",
-        "id": "http://coolhunting.com/food-drink/aaron-pauls-new-luxury-obsession/",
-        "timestamp": "2025-12-03T21:19:51+00:00",
-        "text": "Aaron Paul’s New Luxury Obsession \nThere is a particular kind of energy that happens when Aaron Paul talks about something he loves. It is bright and technical and kinetic. It is the same electricity he brought to television, now re… \nThe Only Caviar is sustainably produced in Italy and supports ocean protection initiatives\n\n\nRead\nFood + Drink\r\n\n\n\n\n\nAaron Paul’s New Luxury Obsession\r\n\n\n\nThe Only Caviar is sustainably produced in I… [+5235 chars]",
-        "positive": 0.0005285140359774232,
-        "negative": 4.408794848131947e-05,
-        "neutral": 0.9994274377822876
-      },
-      {
-        "source": "news",
-        "id": "http://deadline.com/2025/12/five-nights-at-freddys-2-box-office-opening-1236635015/",
-        "timestamp": "2025-12-03T21:19:11+00:00",
-        "text": "‘Five Nights At Freddy’s 2’ To Power Up $70M Global Opening; Post Thanksgiving Box Office Will Be Rich – Preview \nHistorically, the first weekend of December/post-Thanksgiving frame is one of the worst weekends of the year. But if you book it, they will come. Specifically, a tentpole and that’s Universal and Blumhouse’s Five Nights at Freddy’s 2 which is looking at $35M-… \nHistorically, the first weekend of December/post-Thanksgiving frame is one of the worst weekends of the year. But if you book it, they will come. Specifically, a tentpole and that’s Universal and Blu… [+2424 chars]",
-        "positive": 8.40892880660249e-06,
-        "negative": 0.007379090413451195,
-        "neutral": 0.9926124811172485
-      },
-      {
-        "source": "news",
-        "id": "https://www.androidauthority.com/meta-hires-apple-design-boss-3621913/",
-        "timestamp": "2025-12-03T21:18:49+00:00",
-        "text": "Meta is hiring the brains behind Liquid Glass to design smart glasses, headsets, and software \nAlan Dye, an Apple design leader who recently launched Liquid Glass, is joining Meta as it builds out a wearable ecosystem. \n<ul><li>Apples VP of Human Interface Design, Alan Dye, is set to join Meta on December 31 to lead the companys design efforts.</li><li>Dye will create a new Meta design studio focused on hardware, so… [+2792 chars]",
-        "positive": 0.005325874779373407,
-        "negative": 4.967632776242681e-06,
-        "neutral": 0.9946691393852234
-      },
-      {
-        "source": "news",
-        "id": "https://www.coindesk.com/markets/2025/12/03/fanatics-enters-prediction-markets-with-app-live-in-10-states",
-        "timestamp": "2025-12-03T21:18:45+00:00",
-        "text": "Fanatics Enters Prediction Markets With App Live in 10 States \nSport clothing and collectibles giant Fanatics has launched Fanatics Markets, letting users trade outcomes of sports, politics and more — with crypto and IPO bets coming by 2026. \nFanatics is expanding beyond jerseys and collectibles into the world of real-money prediction markets. The sports merchandiser said Tuesday it will launch its new platform, Fanatics Markets, across 2… [+1599 chars]",
-        "positive": 0.001159673323854804,
-        "negative": 7.979604561114684e-06,
-        "neutral": 0.9988324046134949
-      },
-      {
-        "source": "news",
-        "id": "https://abcnews.go.com/US/wireStory/fact-focus-trump-tariffs-eventually-replace-federal-income-128087097",
-        "timestamp": "2025-12-03T21:17:57+00:00",
-        "text": "FACT FOCUS: Trump says tariffs can eventually replace federal income taxes. Experts disagree \nPresident Donald Trump has long praised tariffs as key to increasing wealth in the United States, idealizing Gilded Age policies that preceded the implementation of a modern federal income tax \nPresident Donald Trump has long praised tariffs as key to increasing wealth in the United States, idealizing Gilded Age policies that preceded the implementation of a modern federal income tax.\r\nAmon… [+6616 chars]",
-        "positive": 0.04627352952957153,
-        "negative": 0.0007258917903527617,
-        "neutral": 0.953000545501709
-      },
-      {
-        "source": "news",
         "id": "https://thebloggess.com/2025/12/03/criminally-underdressed/",
         "timestamp": "2025-12-03T21:17:21+00:00",
         "text": "Criminally underdressed. \nSo. Last night I went to Windcrest (it’s part of San Antonio) because they have this decades-old tradition where people put up incredible holiday decorations and people can drive through the neighborhoods for free. I was chosen to be one of the judges of the … \nSo. Last night I went to Windcrest (it’s part of San Antonio) because they have this decades-old tradition where people put up incredible holiday decorations and people can drive through the neighbor… [+4414 chars]",
@@ -914,48 +1049,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.forbes.com/sites/annashedletsky/2025/12/03/data-transparency-in-the-ai-age/",
-        "timestamp": "2025-12-03T21:16:20+00:00",
-        "text": "Data Transparency In The AI Age \nAI is redefining trust between brands and manufacturers, opening the door to deeper data sharing, smarter decisions, and more innovative hardware. \nAn electronics assembly line. \r\nInstrumental Inc.\r\nTalk to the people building the worlds favorite devicesfrom smartphones to wireless miceand theyll tell you the real revolution happening in electro… [+5930 chars]",
-        "positive": 0.8998699188232422,
-        "negative": 2.890477298933547e-05,
-        "neutral": 0.10010122507810593
-      },
-      {
-        "source": "news",
-        "id": "https://theconversation.com/fda-claims-on-covid-19-vaccine-safety-are-unsupported-by-reliable-data-and-could-severely-hinder-vaccine-access-271028",
-        "timestamp": "2025-12-03T21:16:05+00:00",
-        "text": "FDA claims on COVID-19 vaccine safety are unsupported by reliable data – and could severely hinder vaccine access \nThe agency’s plan to change the well-established process for safety testing vaccines is not realistic. \nThe FDA has provided no evidence that children died because of receiving a COVID-19 vaccine. Anchiy/E+ via Getty Images\r\nThe Food and Drug Administration is seeking to drastically change procedures f… [+8673 chars]",
-        "positive": 0.0002794501488097012,
-        "negative": 0.9835169911384583,
-        "neutral": 0.016203587874770164
-      },
-      {
-        "source": "news",
         "id": "https://www.globenewswire.com/news-release/2025/12/03/3199360/0/en/Allison-Ames-Susan-Brandt-Steven-Ekstract-Hallmark-Dolly-Parton-and-Kevin-Smith-Join-Licensing-International-Hall-of-Fame.html",
         "timestamp": "2025-12-03T21:16:00+00:00",
         "text": "Allison Ames, Susan Brandt, Steven Ekstract, Hallmark, Dolly Parton, and Kevin Smith Join Licensing International Hall of Fame \nThe Licensing International 2025 Hall of Fame Induction and Global Rising Star Awards Event Honored Industry Greats and Ushered in the Next Generation of Leaders The Licensing International 2025 Hall of Fame Induction and Global Rising Star Awards Event Honor… \nNEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Licensing International, the leading trade organization for the $369+ billion global licensing industry, and the Licensing International Foundation, which … [+10768 chars]",
         "positive": 0.8511731028556824,
         "negative": 1.4684575944556855e-05,
         "neutral": 0.1488121896982193
-      },
-      {
-        "source": "news",
-        "id": "https://newrepublic.com/post/203931/hakeem-jeffries-trump-deserves-credit",
-        "timestamp": "2025-12-03T21:15:54+00:00",
-        "text": "Hakeem Jeffries Seriously Says Trump Deserves Some Credit \nHouse Minority Leader Hakeem Jeffries is simply not cut out to lead the Democratic Party in any kind of serious opposition against Trump, as he proved once again on Wednesday. The insipid congressman twice made a point to praise the president on two particula… \nLarger companies are still hiring, wrote Heather Long, chief economist at Navy Federal Credit Union, on X. Smaller firms (under 50 workers) are doing the layoffs. Its been a very tough year for small… [+724 chars]",
-        "positive": 0.0014726393856108189,
-        "negative": 0.974058210849762,
-        "neutral": 0.024469079449772835
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/2012-mercedes-benz-gl350-bluetec-11/",
-        "timestamp": "2025-12-03T21:15:41+00:00",
-        "text": "2012 Mercedes-Benz GL350 BlueTEC 4MATIC at No Reserve \nThis 2012 Mercedes-Benz GL350 BlueTEC is finished in Palladium Silver Metallic over gray MB-Tex and is powered by a 3.0-liter turbodiesel V6 linked with a seven-speed automatic transmission and a 4MATIC all-wheel-drive system. Features include 20\" twin five-s… \nThis 2012 Mercedes-Benz GL350 BlueTEC is finished in Palladium Silver Metallic over gray MB-Tex and is powered by a 3.0-liter turbodiesel V6 linked with a seven-speed automatic transmission and a 4MA… [+2613 chars]",
-        "positive": 1.82387993845623e-05,
-        "negative": 1.5262465922205593e-06,
-        "neutral": 0.9999802112579346
       },
       {
         "source": "news",
@@ -1010,15 +1109,6 @@
         "positive": 0.0010745447361841798,
         "negative": 1.6708887415006757e-05,
         "neutral": 0.9989087581634521
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199357/9069/en/Ocean-Power-Technologies-to-Announce-Fiscal-2026-Second-Quarter-Results-on-December-15-2025.html",
-        "timestamp": "2025-12-03T21:15:00+00:00",
-        "text": "Ocean Power Technologies to Announce Fiscal 2026 Second Quarter Results on December 15, 2025 \nMONROE TOWNSHIP, N.J., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Ocean Power Technologies, Inc. (\"OPT\" or \"the Company\") (NYSE American: OPTT), a leader in innovative and cost-effective low-carbon marine power, data, and service solutions, today announced that it wil… \nMONROE TOWNSHIP, N.J., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Ocean Power Technologies, Inc. (\"OPT\" or \"the Company\") (NYSE American: OPTT), a leader in innovative and cost-effective low-carbon marine pow… [+2506 chars]",
-        "positive": 0.15342310070991516,
-        "negative": 8.62840170157142e-06,
-        "neutral": 0.8465684056282043
       },
       {
         "source": "news",
@@ -1397,132 +1487,6 @@
         "positive": 0.00013070832937955856,
         "negative": 0.00016111043805722147,
         "neutral": 0.9997081160545349
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199306/0/en/Fanatics-Launches-Fanatics-Markets-the-First-Prediction-Market-at-the-Intersection-of-Sports-Finance-and-Culture.html",
-        "timestamp": "2025-12-03T20:17:00+00:00",
-        "text": "Fanatics Launches Fanatics Markets, the First Prediction Market at the Intersection of Sports, Finance and Culture \nFanatics Launches Fanatics Markets, the First Prediction Market at the Intersection of Sports, Finance and Culture ...... \nFanatics Markets Forms Strategic Partnership with Crypto.com\r\n | Derivatives North America (CDNA) \r\nIn July, Fanatics Acquired Paragon Global Markets, LLC, a National Futures Association Member \r\nNEW… [+4600 chars]",
-        "positive": 4.347311187302694e-05,
-        "negative": 1.0410299182694871e-05,
-        "neutral": 0.999946117401123
-      },
-      {
-        "source": "news",
-        "id": "https://www.foodiecrush.com/pomegranate-martini-recipe/",
-        "timestamp": "2025-12-03T20:15:37+00:00",
-        "text": "Pomegranate Martini \nThis pomegranate martini is bright and festive with fresh rosemary, pomegranate seeds, and a sugared rim that makes it perfect for holiday entertaining.\nThe post Pomegranate Martini appeared first on foodiecrush. \nThis pomegranate martini is bright and festive with fresh rosemary, pomegranate seeds, and a sugared rim that makes it perfect for holiday entertaining.\r\n⭐️⭐️⭐️⭐️⭐️\r\n“We do a cook off with my sister … [+4642 chars]",
-        "positive": 0.0009744500275701284,
-        "negative": 2.6223800887237303e-05,
-        "neutral": 0.9989994168281555
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/economy/indicators/union-budget-2026-will-gst-2-0-consumption-boost-help-nirmala-sitharaman-adhere-to-fiscal-glide-path/articleshow/125752499.cms",
-        "timestamp": "2025-12-03T20:13:54+00:00",
-        "text": "Union Budget 2026: Will GST 2.0 consumption boost help Nirmala Sitharaman adhere to fiscal glide path? \nIndia's economy is ending the fiscal year strongly. Landmark tax reforms and firm fiscal discipline are key drivers. Finance Minister Nirmala Sitharaman is preparing Budget 2026. This budget will focus on strategic spending and economic stability. Global chal… \nThe Indian economy is closing the fiscal year with resilient growth, underpinned by landmark tax reforms and firm fiscal discipline. This strong domestic performance comes as Finance Minister Nirmala… [+4502 chars]",
-        "positive": 0.9999997615814209,
-        "negative": 6.321541690113008e-08,
-        "neutral": 1.6810629688279732e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbssports.com/mlb/news/world-baseball-classic-team-usa-roster-aaron-judge-paul-skenes-cal-raleigh-bobby-witt-jr-pete-crow-armstrong/",
-        "timestamp": "2025-12-03T20:13:22+00:00",
-        "text": "World Baseball Classic Team USA roster: Matthew Boyd joins Aaron Judge, Paul Skenes, Cal Raleigh and more \nThe sixth WBC will be held in March \nThe sixth edition of the World Baseball Classic will be played in March 2026, three years after a thrilling 2023 finale between USA and Japan. That, of course, ended when Shohei Ohtani struck out the… [+6369 chars]",
-        "positive": 2.0500331174844177e-06,
-        "negative": 2.8205769808664627e-07,
-        "neutral": 0.9999977350234985
-      },
-      {
-        "source": "news",
-        "id": "https://www.theadvocate.com/baton_rouge/sports/high_schools/richard-anderson-signs-with-lsu/article_b99b5786-08cb-57b9-a82c-8376f00a1e34.html",
-        "timestamp": "2025-12-03T20:13:00+00:00",
-        "text": "Richard Anderson explains signing with LSU, Lane Kiffin. ‘It got a little rocky toward the end’ \nWhen all was done, Richard Anderson stood before a purple and gold backdrop with an LSU hat atop his head, just as the five-star defensive lineman from Edna Karr had planned for longer than a year. \nAnderson spoke Tuesday night with Kiffin and defensive coordinator Blake Baker, he said Wednesday, and that conversation solidified his long-held choice of LSU.\r\nIt was good, Anderson said of the tal… [+655 chars]",
-        "positive": 0.974157452583313,
-        "negative": 5.998513734084554e-05,
-        "neutral": 0.025782538577914238
-      },
-      {
-        "source": "news",
-        "id": "https://loyaltylobby.com/2025/12/03/marriott-bonvoy-bonus-points-rates-update-december-2025/",
-        "timestamp": "2025-12-03T20:10:58+00:00",
-        "text": "Marriott Bonvoy Bonus Points & Rates Update December 2025 \nHere’s a comprehensive look at the Marriott Bonvoy bonus points and rate opportunities you can use in December 2025. Remember to email us promotional offers from hotels and airlines. Of course, you can also send questions and comments! You can access Marriott… \nHeres a comprehensive look at the Marriott Bonvoy bonus points and rate opportunities you can use in December 2025.\r\nRemember to email us promotional offers from hotels and airlines. Of course, you c… [+4324 chars]",
-        "positive": 1.5916859410936013e-05,
-        "negative": 3.7696083836635808e-06,
-        "neutral": 0.9999802112579346
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/1969-plymouth-satellite-11/",
-        "timestamp": "2025-12-03T20:10:28+00:00",
-        "text": "34-Years-Owned 1969 Plymouth Satellite Hardtop 318 \nThis 1969 Plymouth Satellite hardtop was purchased out of Indiana by the seller in 1991, and it was refurbished in 2024 with a repaint in orange with a Road Runner–style hood and graphics as well as retrimmed black vinyl upholstery with orange stitching. Powe… \nThis 1969 Plymouth Satellite hardtop was purchased out of Indiana by the seller in 1991, and it was refurbished in 2024 with a repaint in orange with a Road Runnerstyle hood and graphics as well as r… [+3612 chars]",
-        "positive": 1.5924689478197251e-06,
-        "negative": 1.034052183968015e-05,
-        "neutral": 0.9999880790710449
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/international/us/who-is-jimena-araya-aka-rosita-and-why-was-venezuelan-model-and-dj-sanctioned-by-us-heres-complete-truth-her-background-links-to-tren-de-aragua-gang-television-ofac-tda-us-treasury/articleshow/125752510.cms",
-        "timestamp": "2025-12-03T20:08:56+00:00",
-        "text": "Who is Jimena Araya aka Rosita and why was Venezuelan model and DJ sanctioned by US? Here's complete truth, her background, links to Tren de Aragua gang \nWho is Jimena Araya aka Rosita and why was Venezuelan model and DJ sanctioned by US? This explainer covers the background of Venezuelan model and DJ Jimena Araya, her rise to fame, her alleged links with the Tren de Aragua gang, and why the US Treasury impose… \nWho is Jimena Araya aka Rosita and why was Venezuelan model and DJ sanctioned by US? This question gained attention after the US Treasury announced sanctions on Jimena Araya. The action linked her to… [+3961 chars]",
-        "positive": 3.94581775253755e-06,
-        "negative": 0.00011767128307837993,
-        "neutral": 0.9998784065246582
-      },
-      {
-        "source": "news",
-        "id": "https://www.boxingnews24.com/2025/12/wbc-pushes-buatsi-vs-whittaker-but-will-hearn-block-it/",
-        "timestamp": "2025-12-03T20:08:30+00:00",
-        "text": "WBC Pushes Buatsi vs Whittaker — But Will Hearn Block It? \nThe WBC ordered Joshua Buatsi and Ben Whittaker to meet in a final light heavyweight title eliminator today at their convention in Bangkok, Thailand. \nThe WBC ordered Joshua Buatsi and Ben Whittaker to meet in a final light heavyweight title eliminator today at their convention in Bangkok, Thailand.\r\nThe Buatsi-Whittaker fight being ordered was jus… [+2462 chars]",
-        "positive": 3.840006684185937e-06,
-        "negative": 6.667104753432795e-05,
-        "neutral": 0.9999295473098755
-      },
-      {
-        "source": "news",
-        "id": "https://www.bostonherald.com/2025/12/03/autism-vaccines-center-latest-battle-between-gov-healey-and-trump-admin/",
-        "timestamp": "2025-12-03T20:03:09+00:00",
-        "text": "Autism, vaccines center latest battle between Healey and Trump administration \nGovernor Maura Healey is slamming Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. over statements he made relating to childhood vaccines and their potential links to Autism Spectrum Disorder. Healey hosted a forum Wednesday at the Department o… \nGovernor Maura Healey is slamming Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. over statements he made relating to childhood vaccines and their potential links to Autism Spectrum D… [+4849 chars]",
-        "positive": 0.0007237349054776132,
-        "negative": 4.610961696016602e-05,
-        "neutral": 0.999230146408081
-      },
-      {
-        "source": "news",
-        "id": "https://www.coindesk.com/tech/2025/12/03/solana-mobile-to-launch-skr-token-in-january-with-10b-supply",
-        "timestamp": "2025-12-03T20:01:32+00:00",
-        "text": "Solana Mobile to Launch SKR Token in January With 10B Supply \nDistribution is designed to go to the ecosystem: 30% will go toward airdrops, 25% to growth initiatives, and 10% for liquidity and launch support. \nSolana Mobile has released new details Wednesday about SKR, the forthcoming native token for its Seeker smartphone ecosystem. The company said SKR will launch in January 2026, forming the economic an… [+1217 chars]",
-        "positive": 9.025247709359974e-05,
-        "negative": 1.2477679547373555e-06,
-        "neutral": 0.9999085664749146
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbsnews.com/news/how-much-interest-can-18-month-cd-earn-december-2025-is-it-worth-opening/",
-        "timestamp": "2025-12-03T20:01:20+00:00",
-        "text": "How much interest can an 18-month CD earn now (and is it worth opening)? \nThe interest-earning potential of an 18-month CD remains strong right now, but is it really worth opening? \nSavers can effectively and securely grow their money with a top 18-month CD now.\r\njonya/Getty Images\r\nIn today's cooling interest rate environment, profitable savings account options are becoming sca… [+4225 chars]",
-        "positive": 1.0,
-        "negative": 7.775641464036198e-09,
-        "neutral": 5.323222396214078e-08
-      },
-      {
-        "source": "news",
-        "id": "http://comicbook.com/tv-shows/list/every-batman-animated-series-ranked-by-rotten-tomatoes-score/",
-        "timestamp": "2025-12-03T20:00:00+00:00",
-        "text": "Every Batman Animated Series, Ranked By Rotten Tomatoes Score \nImage courtesy of Warner Bros. Animation\nBatman is indisputably the crown jewel of the DC Comics library, generating more profit and cultural footprint than any other superhero in existence. While Superman may have been the prototype, the Dark Knight has prov… \nBatman is indisputably the crown jewel of the DC Comics library, generating more profit and cultural footprint than any other superhero in existence. While Superman may have been the prototype, the D… [+10768 chars]",
-        "positive": 0.865230143070221,
-        "negative": 1.8649789126357064e-05,
-        "neutral": 0.13475115597248077
-      },
-      {
-        "source": "news",
-        "id": "http://robbreport.com/style/watch-collector/hworlds-top-watchmakers-miami-boutiques-popups-1237391854/",
-        "timestamp": "2025-12-03T20:00:00+00:00",
-        "text": "Here’s Why the World’s Top Watchmakers Are Flocking to Miami \nArt Basel and Design Miami have led the world's top watchmakers to flock to Miami this December, with new boutiques and pop-ups on the horizon. \nThis story is from an installment of In the Loupe, our weekly insider newsletter about the best of the watch world. Sign up here.\r\nIn the watch world, the start of December means one thing: It’s time… [+5496 chars]",
-        "positive": 0.0010412760311737657,
-        "negative": 2.270951881655492e-05,
-        "neutral": 0.9989359974861145
       },
       {
         "source": "news",
@@ -26779,9 +26743,9 @@
         "neutral": 0.9999943971633911
       }
     ],
-    "nw": 0.48661532003758945,
-    "nw_norm": 74.33076600187947
+    "nw": 0.4666705243394432,
+    "nw_norm": 73.33352621697216
   },
-  "gsi": 74.33076600187947,
+  "gsi": 73.33352621697216,
   "classification": "Bullish"
 }
