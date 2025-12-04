@@ -1,8 +1,206 @@
 {
-  "timestamp": "2025-12-04T21:42:29.025727+00:00",
+  "timestamp": "2025-12-04T21:53:18.775275+00:00",
   "news": {
-    "count": 2977,
+    "count": 2982,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://bringatrailer.com/listing/power-wheels-2/",
+        "timestamp": "2025-12-03T21:45:11+00:00",
+        "text": "1995 Power Wheels Lamborghini Countach Mini Car at No Reserve \nThis go-kart was designed to resemble a Lamborghini Countach and was built under license in 1995 by Power Wheels of Fort Wayne, Indiana. The car features plastic bodywork finished in blue with white accents over a moulded frame, and power comes from a direct-… \nThis go-kart was designed to resemble a Lamborghini Countach and was built under license in 1995 by Power Wheels of Fort Wayne, Indiana. The car features plastic bodywork finished in blue with white … [+1853 chars]",
+        "positive": 2.4254242816823535e-05,
+        "negative": 5.701811460312456e-05,
+        "neutral": 0.9999188184738159
+      },
+      {
+        "source": "news",
+        "id": "https://www.clickondetroit.com/business/2025/12/03/americans-gave-4b-on-givingtuesday-2025-as-donations-and-volunteering-gain-big-over-last-year/",
+        "timestamp": "2025-12-03T21:45:09+00:00",
+        "text": "Americans gave $4B on GivingTuesday 2025 as donations and volunteering gain big over last year \nAmericans gave $4 billion to nonprofits on GivingTuesday in 2025, an increase from the $3.6 billion they gave in 2024. \nAmericans gave $4 billion to nonprofits on GivingTuesday in 2025, an increase from the $3.6 billion they gave in 2024, according to estimates from the nonprofit GivingTuesday. \r\nMore people also volu… [+3467 chars]",
+        "positive": 0.5175480246543884,
+        "negative": 7.6795649874839e-06,
+        "neutral": 0.4824443757534027
+      },
+      {
+        "source": "news",
+        "id": "https://www.nextgov.com/ideas/2025/12/three-years-rebuild-internet-or-lose-ai-race/409824/",
+        "timestamp": "2025-12-03T21:45:00+00:00",
+        "text": "Three Years to Rebuild the Internet or Lose the AI Race \nCOMMENTARY | The nation that builds Cloud 2.0 first will shape the innovation economy for decades. \nWhen the United States built railroads, power grids and interstate highways, it didnt just expand the old infrastructure it created entirely new ones. Each leap unleashed decades of growth, strengthe… [+4844 chars]",
+        "positive": 0.999871015548706,
+        "negative": 1.3607394976133946e-05,
+        "neutral": 0.00011534132499946281
+      },
+      {
+        "source": "news",
+        "id": "https://www.nzherald.co.nz/the-country/news/emissions-trading-scheme-years-final-auction-fails-to-sell-a-single-carbon-unit/EXQL5WRCL5DETJICW562SIWYYY/",
+        "timestamp": "2025-12-03T21:44:35+00:00",
+        "text": "Emissions Trading Scheme: Year’s final auction fails to sell a single carbon unit \n2025 is the second calendar year in which all four quarterly ETS auctions have failed. \nEmitters captured within the ETS still have to pay for their greenhouse gas emissions - but at the moment it is significantly cheaper to buy carbon units from elsewhere, such as forestry owners.\r\nThe… [+1338 chars]",
+        "positive": 0.007665680721402168,
+        "negative": 0.037794385105371475,
+        "neutral": 0.954539954662323
+      },
+      {
+        "source": "news",
+        "id": "https://michellecavanaugh.substack.com/p/marketing-with-ai",
+        "timestamp": "2025-12-03T21:42:59+00:00",
+        "text": "Marketing with AI \nMarketing with AIsubstack.com \nI recently wrapped up a consulting engagement with a large, well-known tech company, helping their marketing department navigate the brave new world of artificial intelligence. What I witnessed was b… [+17165 chars]",
+        "positive": 0.32843783497810364,
+        "negative": 4.1431118006585166e-05,
+        "neutral": 0.6715206503868103
+      },
+      {
+        "source": "news",
+        "id": "https://www.nbcnews.com/business/consumer/trump-tariffs-surprise-bills-ups-rcna247051",
+        "timestamp": "2025-12-03T21:42:45+00:00",
+        "text": "Surprise tariffs are hitting shoppers this holiday season \nIf you order products from abroad this holiday season, you could end up with an unwanted surprise: a pricey tariff bill \nIf you order products from abroad this holiday season, you could end up with an unwanted surprise: a pricey tariff bill.\r\nThis is the first holiday shopping season since the Trump administration made… [+6686 chars]",
+        "positive": 0.00242416188120842,
+        "negative": 0.0007837721495889127,
+        "neutral": 0.9967920184135437
+      },
+      {
+        "source": "news",
+        "id": "https://www.nbcnews.com/business/consumer/trump-plans-roll-back-fuel-efficiency-rules-cars-rcna247236",
+        "timestamp": "2025-12-03T21:42:36+00:00",
+        "text": "Trump says he will roll back fuel efficiency standards for vehicles \nPresident Donald Trump said his administration would \"reset\" fuel efficiency standards for passenger cars in an effort to put a lid rising auto prices. \nPresident Donald Trump on Wednesday said his administration would \"reset\" fuel efficiency standards for passenger cars in an effort to put a lid on rising auto prices, as the administration battles i… [+3622 chars]",
+        "positive": 0.0045389821752905846,
+        "negative": 0.002141011646017432,
+        "neutral": 0.9933199882507324
+      },
+      {
+        "source": "news",
+        "id": "https://www.techradar.com/phones/samsung-galaxy-phones/the-galaxy-s25-fe-has-all-the-looks-of-the-galaxy-s25-plus-but-none-of-the-snap",
+        "timestamp": "2025-12-03T21:40:20+00:00",
+        "text": "The Galaxy S25 FE has all the looks of the Galaxy S25 Plus, but none of the snap \nThe Galaxy S25 FE has the looks, durability, and great features of the Galaxy S25 Plus, but its poor performance lags behind and holds this phone back. \nWhy you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you're buying the best. Find out more about how we test.Samsung Galaxy S25 Edge review: One-… [+19584 chars]",
+        "positive": 0.0016729042399674654,
+        "negative": 0.08257346600294113,
+        "neutral": 0.9157537221908569
+      },
+      {
+        "source": "news",
+        "id": "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s25-fe-review",
+        "timestamp": "2025-12-03T21:40:20+00:00",
+        "text": "The Galaxy S25 FE has all the looks of the Galaxy S25 Plus, but none of the snap \nThe Galaxy S25 FE has the looks, durability, and great features of the Galaxy S25 Plus, but its poor performance lags behind and holds this phone back. \nWhy you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you're buying the best. Find out more about how we test.Samsung Galaxy S25 Edge review: One-… [+19584 chars]",
+        "positive": 0.0016729042399674654,
+        "negative": 0.08257346600294113,
+        "neutral": 0.9157537221908569
+      },
+      {
+        "source": "news",
+        "id": "https://acquiremag.com/watches/jaeger-lecoultre-revisits-a-style-from-1995-with-the-master-control-classic/",
+        "timestamp": "2025-12-03T21:39:55+00:00",
+        "text": "Jaeger-LeCoultre revisits a style from 1995 with the Master Control Classic \nA stunning and simple dress watch inspired by a 1995 Master Control reference. \nInspired by a Master Control reference from 1995, the Master Control Classic is a dress watch for the purists. Sized at 36mm, the steel timepiece features a silver sunray dial with triangular indexes… [+760 chars]",
+        "positive": 2.166036210837774e-06,
+        "negative": 1.3542743317884742e-06,
+        "neutral": 0.999996542930603
+      },
+      {
+        "source": "news",
+        "id": "https://hackread.com/best-dark-web-intelligence-platforms/",
+        "timestamp": "2025-12-03T21:39:42+00:00",
+        "text": "Best 5 Dark Web Intelligence Platforms \nCybersecurity today is about a lot more than just firewalls and antivirus software. As organisations adopt cloud computing,… \nCybersecurity today is about a lot more than just firewalls and antivirus software. As organisations adopt cloud computing, remote work, and global supply chains, their exposure increases exponential… [+10502 chars]",
+        "positive": 0.9237106442451477,
+        "negative": 0.00013971734733786434,
+        "neutral": 0.07614962756633759
+      },
+      {
+        "source": "news",
+        "id": "https://japantoday.com/category/world/german-president%27s-uk-state-visit-will-celebrate-strategic-ties-and-recall-historic-scars",
+        "timestamp": "2025-12-03T21:38:38+00:00",
+        "text": "German president gets royal welcome at start of first UK state visit in 27 years \nKing Charles III opened his arms wide in welcome as he greeted German President Frank-Walter Steinmeier on Wednesday at the start of a state visit that will celebrate the close ties between the countries while also remembering the scars of the past. Charles r… \nKing Charles III opened his arms wide in welcome as he greeted German President Frank-Walter Steinmeier on Wednesday at the start of a state visit that will celebrate the close ties between the count… [+3850 chars]",
+        "positive": 0.002322898944839835,
+        "negative": 1.2544479432108346e-05,
+        "neutral": 0.9976645708084106
+      },
+      {
+        "source": "news",
+        "id": "https://japantoday.com/category/world/eu-moves-to-break-dependence-on-china-for-rare-earths",
+        "timestamp": "2025-12-03T21:38:32+00:00",
+        "text": "EU moves to break dependence on China for rare earths \nThe EU on Wednesday presented a multi-billion-euro plan to help curb the 27-nation bloc's dependence on China for rare earths, as Beijing's stranglehold on the critical materials threatens key industries. China, the world's top producer of rare earths, in Oct… \nThe EU on Wednesday presented a multi-billion-euro plan to help curb the 27-nation bloc's dependence on China for rare earths, as Beijing's stranglehold on the critical materials threatens key indust… [+3441 chars]",
+        "positive": 0.002531141974031925,
+        "negative": 0.6230559349060059,
+        "neutral": 0.37441298365592957
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/peruvian-supreme-court-mandates-full-company-ownership-of-disputed-claims",
+        "timestamp": "2025-12-03T21:38:01+00:00",
+        "text": "Peruvian Supreme Court Mandates Full Company Ownership of Disputed Claims \nVANCOUVER, British Columbia, Dec. 03, 2025 (GLOBE NEWSWIRE) — American Lithium Corp. (“American Lithium” or the “Company”) (TSX-V:LI | OTCQX:AMLIF | Frankfurt:5LA1) reports that its Peruvian subsidiary, Macusani Yellowcake S.A.C., has been notified of Resolut… \nFor more information, please contact the Company at info@americanlithiumcorp.com\r\n or visit our website at www.americanlithiumcorp.com\r\n.\r\nFollow us on Facebook\r\n, Twitter\r\n and LinkedIn\r\n.\r\nOn behal… [+4817 chars]",
+        "positive": 1.7504853531136177e-05,
+        "negative": 7.298099808394909e-05,
+        "neutral": 0.999909520149231
+      },
+      {
+        "source": "news",
+        "id": "https://japantoday.com/category/world/belgium-rejects-eu-plan-to-use-frozen-russian-assets-for-ukraine-saying-the-move-is-too-risky",
+        "timestamp": "2025-12-03T21:37:59+00:00",
+        "text": "EU lays out plan to fund Ukraine using frozen Russian assets but Belgium says it's too risky \nThe European Union on Wednesday revealed details of its plan to use billions of euros in frozen Russian assets to fund Ukraine's needs over the next two years, but Belgium rejected the scheme and insisted that it poses major financial and legal risks. Europea… \nThe European Union on Wednesday revealed details of its plan to use billions of euros in frozen Russian assets to fund Ukraine's needs over the next two years, but Belgium rejected the scheme and ins… [+5154 chars]",
+        "positive": 1.2152353519923054e-05,
+        "negative": 0.00047437779721803963,
+        "neutral": 0.9995135068893433
+      },
+      {
+        "source": "news",
+        "id": "https://www.digitaljournal.com/world/trump-to-scrap-bidens-fuel-economy-standards-sparking-climate-outcry/article",
+        "timestamp": "2025-12-03T21:37:20+00:00",
+        "text": "Trump to scrap Biden’s fuel-economy standards, sparking climate outcry \nPresident Donald Trump announced Wednesday a rollback of Joe Biden’s fuel-economy standards, arguing it will lower US car prices — but critics warned it would worsen climate change and leave drivers paying more to re-fuel. Trump was joined in the Oval Office … \nPresident Donald Trump cast his rollback of fuel-economy standards as a way to lower the price of new cars - Copyright GETTY IMAGES NORTH AMERICA/AFP/File JOE RAEDLE\r\nPresident Donald Trump announced… [+3652 chars]",
+        "positive": 0.17247037589550018,
+        "negative": 0.009517185389995575,
+        "neutral": 0.8180124163627625
+      },
+      {
+        "source": "news",
+        "id": "https://medicine.yale.edu/news-article/bridging-medicine-and-technology-yales-new-ai-distinction-pathway/",
+        "timestamp": "2025-12-03T21:37:09+00:00",
+        "text": "Bridging medicine and technology: Yale’s new AI distinction pathway \nArtificial intelligence is revolutionizing both how medicine is practiced and how it’s taught. The AI and Innovation in Medicine Distinction Pathway at Yale School of Medicine was launched this past year for internal medicine residents interested in engaging … \nResidents start the pathway by learning the basics of coding and understanding large language models. They then proceed to explore how AI and machine learning may be applied in clinical care, medical… [+2751 chars]",
+        "positive": 0.008593334816396236,
+        "negative": 1.5444160453625955e-05,
+        "neutral": 0.9913911819458008
+      },
+      {
+        "source": "news",
+        "id": "https://bleedingcool.com/movies/avatar-fire-and-ash-wraps-up-the-first-saga-4-and-5-are-another/",
+        "timestamp": "2025-12-03T21:37:06+00:00",
+        "text": "Avatar: Fire and Ash Wraps Up The First Saga, 4 And 5 Are Another \nThere has been an ongoing sentiment that everyone is talking about Avatar: Fire and Ash as if it is the end of the franchise, even though there are two more movies on the way. The conversations around movies four and five have gotten a lot more vague, like no… \nPosted in: 20th Century Studios, Movies | Tagged: Avatar: Fire and Ash\r\nDirector James Cameron has confirmed that Avatar: Fire and Ash is \"a culmination of a saga,\" and this film is more a third act … [+3638 chars]",
+        "positive": 2.392554779362399e-05,
+        "negative": 0.005324935540556908,
+        "neutral": 0.9946511387825012
+      },
+      {
+        "source": "news",
+        "id": "https://urbanomnibus.net/2025/12/from-creek-to-fountain/",
+        "timestamp": "2025-12-03T21:36:50+00:00",
+        "text": "From Creek to Fountain \nPolluted and repressed, the buried streams of Flushing Creek will once again see the light of day. \nThe post From Creek to Fountain appeared first on Urban Omnibus. \nOn any given day between April and August, the sky might rip open and release a deluge on New York City. That rain will hit hard surfaces, mixing with the carbon and heavy metals of roads and buildin… [+4177 chars]",
+        "positive": 8.691154107509647e-07,
+        "negative": 1.1020328201993834e-05,
+        "neutral": 0.9999881982803345
+      },
+      {
+        "source": "news",
+        "id": "http://electrek.co/2025/12/03/sparkcharge-and-zipcar-bring-off%e2%80%91grid-fast-charging-to-east-boston/",
+        "timestamp": "2025-12-03T21:36:33+00:00",
+        "text": "SparkCharge and Zipcar bring off‑grid fast charging to East Boston \nSparkCharge has partnered with the Massachusetts Clean Energy Center (MassCEC) and Zipcar to launch the Northeast’s first off‑grid, mobile DC fast‑charging hub for shared EVs. The goal is to bring fast, reliable EV charging infrastructure into communities wit… \nPhoto: SparkCharge\r\nSparkCharge has partnered with the Massachusetts Clean Energy Center (MassCEC) and Zipcar to launch the Northeasts first offgrid, mobile DC fastcharging hub for shared EVs. The go… [+3411 chars]",
+        "positive": 0.007999480701982975,
+        "negative": 1.9075796444667503e-05,
+        "neutral": 0.9919814467430115
+      },
+      {
+        "source": "news",
+        "id": "https://www.techradar.com/pro/thats-what-i-call-a-dip-worlds-largest-derivatives-exchange-shut-down-by-embarrassing-data-center-cooling-issue",
+        "timestamp": "2025-12-03T21:36:00+00:00",
+        "text": "That's what I call a dip - world's largest derivatives exchange shut down by embarrassing data center cooling issue \nCME halted global trading due to a cooling failure at its data center, revealing risks in automated systems and high-value transactions. \n<ul><li>Cooling failure at CME data center halted most electronic trading systems worldwide</li><li>BrokerTec US Actives and BrokerTec EU reopened quickly; others stayed offline</li><li>Temporary chi… [+3305 chars]",
+        "positive": 0.00028196070343255997,
+        "negative": 0.9936112761497498,
+        "neutral": 0.0061067030765116215
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199389/0/en/Peruvian-Supreme-Court-Mandates-Full-Company-Ownership-of-Disputed-Claims.html",
+        "timestamp": "2025-12-03T21:35:00+00:00",
+        "text": "Peruvian Supreme Court Mandates Full Company Ownership of Disputed Claims \nVANCOUVER, British Columbia, Dec. 03, 2025 (GLOBE NEWSWIRE) -- American Lithium Corp. (“American Lithium” or the “Company”) (TSX-V:LI | OTCQX:AMLIF | Frankfurt:5LA1) reports that its Peruvian subsidiary, Macusani Yellowcake S.A.C., has been notified of Resolu… \nVANCOUVER, British Columbia, Dec. 03, 2025 (GLOBE NEWSWIRE) -- American Lithium Corp. (American Lithium or the Company) (TSX-V:LI | OTCQX:AMLIF | Frankfurt:5LA1) reports that its Peruvian subsidiary,… [+7969 chars]",
+        "positive": 2.7827214580611326e-05,
+        "negative": 7.892747089499608e-05,
+        "neutral": 0.999893307685852
+      },
       {
         "source": "news",
         "id": "https://www.digitaljournal.com/business/tech-growth-singapore-dominates-the-ai-hub-sector/article",
@@ -149,21 +347,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199379/0/en/NowVertical-Promotes-Christine-Nelson-to-Permanent-Chief-Financial-Officer.html",
-        "timestamp": "2025-12-03T21:30:00+00:00",
-        "text": "NowVertical Promotes Christine Nelson to Permanent Chief Financial Officer \nTORONTO, Dec. 03, 2025 (GLOBE NEWSWIRE) -- NowVertical Group Inc. (TSXV: NOW) (\"NowVertical\" or the \"Company\"), a leading data and AI solutions provider, today announced the promotion of Christine Nelson, the current interim Chief Financial Officer of the Com… \nTORONTO, Dec. 03, 2025 (GLOBE NEWSWIRE) -- NowVertical Group Inc. (TSXV: NOW) (\"NowVertical\" or the \"Company\"), a leading data and AI solutions provider, today announced the promotion of Christine Ne… [+5470 chars]",
-        "positive": 0.00014825967082288116,
-        "negative": 1.138616767093481e-06,
-        "neutral": 0.9998505115509033
-      },
-      {
-        "source": "news",
         "id": "https://www.globenewswire.com/news-release/2025/12/03/3199383/0/en/WTW-Announces-Regular-Quarterly-Dividend.html",
         "timestamp": "2025-12-03T21:30:00+00:00",
         "text": "WTW Announces Regular Quarterly Dividend \nLONDON, Dec. 03, 2025 (GLOBE NEWSWIRE) -- WTW (NASDAQ: WTW), a leading global advisory, broking and solutions company, announced that its Board of Directors approved a regular quarterly cash dividend of $0.92 per common share for the quarter ended September 3… \nLONDON, Dec. 03, 2025 (GLOBE NEWSWIRE) -- WTW (NASDAQ: WTW), a leading global advisory, broking and solutions company, announced that its Board of Directors approved a regular quarterly cash dividend… [+775 chars]",
         "positive": 0.004755597561597824,
         "negative": 4.1329694795422256e-05,
         "neutral": 0.9952031373977661
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199379/0/en/NowVertical-Promotes-Christine-Nelson-to-Permanent-Chief-Financial-Officer.html",
+        "timestamp": "2025-12-03T21:30:00+00:00",
+        "text": "NowVertical Promotes Christine Nelson to Permanent Chief Financial Officer \nTORONTO, Dec. 03, 2025 (GLOBE NEWSWIRE) -- NowVertical Group Inc. (TSXV: NOW) (\"NowVertical\" or the \"Company\"), a leading data and AI solutions provider, today announced the promotion of Christine Nelson, the current interim Chief Financial Officer of the Com… \nTORONTO, Dec. 03, 2025 (GLOBE NEWSWIRE) -- NowVertical Group Inc. (TSXV: NOW) (\"NowVertical\" or the \"Company\"), a leading data and AI solutions provider, today announced the promotion of Christine Ne… [+5470 chars]",
+        "positive": 0.00014825967082288116,
+        "negative": 1.138616767093481e-06,
+        "neutral": 0.9998505115509033
       },
       {
         "source": "news",
@@ -302,21 +500,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199364/0/en/The-Gross-Law-Firm-Reminds-Shareholders-of-a-Lead-Plaintiff-Deadline-of-December-8-2025-in-aTyr-Lawsuit-ATYR.html",
-        "timestamp": "2025-12-03T21:21:00+00:00",
-        "text": "The Gross Law Firm Reminds Shareholders of a Lead Plaintiff Deadline of December 8, 2025 in aTyr Lawsuit – ATYR \nNEW YORK, Dec.  03, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of aTyr Pharma, Inc. (NASDAQ: ATYR). ...... \nNEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of aTyr Pharma, Inc. (NASDAQ: ATYR).\r\nShareholders who purchased shares of ATYR during the c… [+2795 chars]",
-        "positive": 5.524430889636278e-06,
-        "negative": 8.208260624087416e-06,
-        "neutral": 0.9999862909317017
-      },
-      {
-        "source": "news",
         "id": "https://www.globenewswire.com/news-release/2025/12/03/3199363/0/en/MoonLake-Immunotherapeutics-Sued-for-Securities-Law-Violations-Investors-Should-Contact-The-Gross-Law-Firm-for-More-Information-MLTX.html",
         "timestamp": "2025-12-03T21:21:00+00:00",
         "text": "MoonLake Immunotherapeutics Sued for Securities Law Violations – Investors Should Contact The Gross Law Firm for More Information – MLTX \nNEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of MoonLake Immunotherapeutics (NASDAQ: MLTX). \nNEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of MoonLake Immunotherapeutics (NASDAQ: MLTX).\r\nShareholders who purchased shares of MLTX du… [+2451 chars]",
         "positive": 9.459557077207137e-06,
         "negative": 0.00020489671442192048,
         "neutral": 0.9997857213020325
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199364/0/en/The-Gross-Law-Firm-Reminds-Shareholders-of-a-Lead-Plaintiff-Deadline-of-December-8-2025-in-aTyr-Lawsuit-ATYR.html",
+        "timestamp": "2025-12-03T21:21:00+00:00",
+        "text": "The Gross Law Firm Reminds Shareholders of a Lead Plaintiff Deadline of December 8, 2025 in aTyr Lawsuit – ATYR \nNEW YORK, Dec.  03, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of aTyr Pharma, Inc. (NASDAQ: ATYR). ...... \nNEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of aTyr Pharma, Inc. (NASDAQ: ATYR).\r\nShareholders who purchased shares of ATYR during the c… [+2795 chars]",
+        "positive": 5.524430889636278e-06,
+        "negative": 8.208260624087416e-06,
+        "neutral": 0.9999862909317017
       },
       {
         "source": "news",
@@ -779,30 +977,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199329/19871/en/Supernus-Pharmaceuticals-to-Participate-in-the-Bank-of-America-Securities-2025-CNS-Therapeutics-Virtual-Conference.html",
-        "timestamp": "2025-12-03T21:05:00+00:00",
-        "text": "Supernus Pharmaceuticals to Participate in the Bank of America Securities 2025 CNS Therapeutics Virtual Conference \nROCKVILLE, Md., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Supernus Pharmaceuticals, Inc. (Nasdaq: SUPN), a biopharmaceutical company focused on developing and commercializing products for the treatment of central nervous system (CNS) diseases, announced today that Ja… \nROCKVILLE, Md., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Supernus Pharmaceuticals, Inc. (Nasdaq: SUPN), a biopharmaceutical company focused on developing and commercializing products for the treatment of ce… [+4696 chars]",
-        "positive": 0.0029025166295468807,
-        "negative": 3.778478640015237e-05,
-        "neutral": 0.9970596432685852
-      },
-      {
-        "source": "news",
         "id": "https://www.globenewswire.com/news-release/2025/12/03/3199337/0/en/Digital-Realty-Announces-Redemption-of-2-500-Guaranteed-Notes-due-2026.html",
         "timestamp": "2025-12-03T21:05:00+00:00",
         "text": "Digital Realty Announces Redemption of 2.500% Guaranteed Notes due 2026 \nAUSTIN, Texas, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Digital Realty (NYSE: DLR), the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced today that Digital Euro Finco, LLC, a wholly owned indirect… \nAUSTIN, Texas, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Digital Realty (NYSE: DLR), the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced… [+2211 chars]",
         "positive": 0.04693777859210968,
         "negative": 2.2057820387999527e-05,
         "neutral": 0.9530401825904846
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199336/11543/en/Coherent-Expands-Silicon-Carbide-Platform-with-300mm-Capability-to-Support-Growing-Demand-of-AI-and-Datacenters.html",
-        "timestamp": "2025-12-03T21:05:00+00:00",
-        "text": "Coherent Expands Silicon Carbide Platform with 300mm Capability to Support Growing Demand of AI and Datacenters \nCoherent announced a major milestone in its next-generation 300mm silicon carbide (SiC) platform to address increasing thermal efficiency demands in AI...... \nSAXONBURG, Pa., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Coherent Corp. (NYSE: COHR), a global leader in photonics, today announced a major milestone in its next-generation 300mm silicon carbide (SiC) platf… [+2773 chars]",
-        "positive": 0.9999868869781494,
-        "negative": 1.858667353360488e-08,
-        "neutral": 1.3076641153020319e-05
       },
       {
         "source": "news",
@@ -815,12 +995,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199339/6948/en/Nasdaq-to-Present-at-Upcoming-Investor-Conference.html",
+        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199329/19871/en/Supernus-Pharmaceuticals-to-Participate-in-the-Bank-of-America-Securities-2025-CNS-Therapeutics-Virtual-Conference.html",
         "timestamp": "2025-12-03T21:05:00+00:00",
-        "text": "Nasdaq to Present at Upcoming Investor Conference \nNEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Nasdaq (Nasdaq: NDAQ) will be presenting at the following conference with webcast available at Nasdaq’s Investor Relations website: ir.nasdaq.com/events.cfm. \nNEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Nasdaq (Nasdaq: NDAQ) will be presenting at the following conference with webcast available at Nasdaqs Investor Relations website: ir.nasdaq.com/events.cfm… [+1147 chars]",
-        "positive": 3.3855119454528904e-06,
-        "negative": 4.579817698413535e-07,
-        "neutral": 0.9999961853027344
+        "text": "Supernus Pharmaceuticals to Participate in the Bank of America Securities 2025 CNS Therapeutics Virtual Conference \nROCKVILLE, Md., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Supernus Pharmaceuticals, Inc. (Nasdaq: SUPN), a biopharmaceutical company focused on developing and commercializing products for the treatment of central nervous system (CNS) diseases, announced today that Ja… \nROCKVILLE, Md., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Supernus Pharmaceuticals, Inc. (Nasdaq: SUPN), a biopharmaceutical company focused on developing and commercializing products for the treatment of ce… [+4696 chars]",
+        "positive": 0.0029025166295468807,
+        "negative": 3.778478640015237e-05,
+        "neutral": 0.9970596432685852
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199336/11543/en/Coherent-Expands-Silicon-Carbide-Platform-with-300mm-Capability-to-Support-Growing-Demand-of-AI-and-Datacenters.html",
+        "timestamp": "2025-12-03T21:05:00+00:00",
+        "text": "Coherent Expands Silicon Carbide Platform with 300mm Capability to Support Growing Demand of AI and Datacenters \nCoherent announced a major milestone in its next-generation 300mm silicon carbide (SiC) platform to address increasing thermal efficiency demands in AI...... \nSAXONBURG, Pa., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Coherent Corp. (NYSE: COHR), a global leader in photonics, today announced a major milestone in its next-generation 300mm silicon carbide (SiC) platf… [+2773 chars]",
+        "positive": 0.9999868869781494,
+        "negative": 1.858667353360488e-08,
+        "neutral": 1.3076641153020319e-05
       },
       {
         "source": "news",
@@ -830,6 +1019,15 @@
         "positive": 3.1544566354568815e-06,
         "negative": 3.1720966831016995e-07,
         "neutral": 0.999996542930603
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/03/3199339/6948/en/Nasdaq-to-Present-at-Upcoming-Investor-Conference.html",
+        "timestamp": "2025-12-03T21:05:00+00:00",
+        "text": "Nasdaq to Present at Upcoming Investor Conference \nNEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Nasdaq (Nasdaq: NDAQ) will be presenting at the following conference with webcast available at Nasdaq’s Investor Relations website: ir.nasdaq.com/events.cfm. \nNEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Nasdaq (Nasdaq: NDAQ) will be presenting at the following conference with webcast available at Nasdaqs Investor Relations website: ir.nasdaq.com/events.cfm… [+1147 chars]",
+        "positive": 3.3855119454528904e-06,
+        "negative": 4.579817698413535e-07,
+        "neutral": 0.9999961853027344
       },
       {
         "source": "news",
@@ -860,30 +1058,12 @@
       },
       {
         "source": "news",
-        "id": "http://wwd.com/fashion-news/denim/denim-premiere-vision-milan-2025-sustainable-trends-1238369928/",
-        "timestamp": "2025-12-03T21:03:49+00:00",
-        "text": "Efficiency Key for Denim Première Vision Exhibitors \nDenim Première Vision highlights spring 2027 trends, sustainable innovations, advanced technologies, and insights from top denim experts. \nMILAN — At the fifth edition of Denim Première Vision in Milan, it was clear that exhibitors had a strategy in mind for spring 2027: efficient innovations.  \r\nThe two-day trade show was held at Super… [+10577 chars]",
-        "positive": 0.014101183041930199,
-        "negative": 3.262273594373255e-06,
-        "neutral": 0.9858954548835754
-      },
-      {
-        "source": "news",
         "id": "https://financialpost.com/globe-newswire/ncino-appoints-two-new-independent-board-members",
         "timestamp": "2025-12-03T21:02:43+00:00",
         "text": "nCino Appoints Two New Independent Board Members \nTechnology executives Andy Yasutake and Diego Dugatkin bring deep AI product innovation and expertise to nCino’s Board of Directors WILMINGTON, N.C., Dec. 03, 2025 (GLOBE NEWSWIRE) — nCino, Inc. (NASDAQ: NCNO), the leading provider of intelligent, best-in-cla… \nnCino (NASDAQ: NCNO) is powering a new era in financial services. The Company was founded to help financial institutions digitize and reengineer business processes to boost efficiencies and create be… [+4132 chars]",
         "positive": 0.9989960789680481,
         "negative": 1.0876550504690385e-06,
         "neutral": 0.0010028829565271735
-      },
-      {
-        "source": "news",
-        "id": "https://kotaku.com/finance-bro-thinks-it-would-be-cool-to-turn-your-entire-life-into-the-stock-market-2000650201",
-        "timestamp": "2025-12-03T21:01:05+00:00",
-        "text": "Finance Bro Thinks It Would Be Cool To Turn Your Entire Life Into The Stock Market \nHaven't you always wanted to use shady financial instruments to own the haters?\nThe post Finance Bro Thinks It Would Be Cool To Turn Your Entire Life Into The Stock Market appeared first on Kotaku. \nKalshi’s CEO is bullish on the future of prediction market betting to solve disagreements for people, or at least make him very, very rich. What if every outcome in your life could be turned into a w… [+3479 chars]",
-        "positive": 0.9999990463256836,
-        "negative": 6.312862410595699e-08,
-        "neutral": 7.789499250066001e-07
       },
       {
         "source": "news",
@@ -896,15 +1076,6 @@
       },
       {
         "source": "news",
-        "id": "https://bringatrailer.com/listing/2002-mercedes-benz-g55-amg-4/",
-        "timestamp": "2025-12-03T21:00:28+00:00",
-        "text": "Japanese-Market 2002 Mercedes-Benz G55 AMG at No Reserve \nThis 2002 Mercedes-Benz G55 AMG is a Japanese-market example that is said to have remained with its original owner for 20 years before it was imported to Canada and acquired by the selling dealer in 2025. Wearing a repaint in black over matching leather uphol… \nThis 2002 Mercedes-Benz G55 AMG is a Japanese-market example that is said to have remained with its original owner for 20 years before it was imported to Canada and acquired by the selling dealer in … [+2560 chars]",
-        "positive": 6.412474704120541e-06,
-        "negative": 1.201596296596108e-05,
-        "neutral": 0.9999815225601196
-      },
-      {
-        "source": "news",
         "id": "https://www.cnet.com/home/kitchen-and-household/thousands-of-cases-of-shredded-cheese-recalled-due-to-possible-metal-fragments/",
         "timestamp": "2025-12-03T21:00:18+00:00",
         "text": "Thousands of Cases of Shredded Cheese Recalled Due to Possible Metal Fragments \nThe cheeses were recalled from Aldi, Target, Walmart and more by Great Lakes Cheese. \nThe US Food and Drug Administration has announced an extensive recall of shredded cheese due to the possibility that it contains metal fragments. According to the report, the cheeses were distributed… [+6091 chars]",
@@ -914,30 +1085,12 @@
       },
       {
         "source": "news",
-        "id": "http://www.newsbtc.com/news/tron-trx/tron-hits-80-2b-stablecoin-milestone-after-tether-mints-1b-usdt-on-the-network/",
-        "timestamp": "2025-12-03T21:00:18+00:00",
-        "text": "Tron Hits $80.2B Stablecoin Milestone After Tether Mints 1B USDT On The Network \nthe heldTron has emerged as one of the strongest performers during the latest market downturn, showing a level of resilience rarely seen among major altcoins. While most large-cap cryptocurrencies have suffered drawdowns of 40% or more since August, Tron has … \nthe heldTron has emerged as one of the strongest performers during the latest market downturn, showing a level of resilience rarely seen among major altcoins. While most large-cap cryptocurrencies ha… [+3943 chars]",
-        "positive": 0.9999970197677612,
-        "negative": 2.6972686555382097e-06,
-        "neutral": 2.863932593299978e-07
-      },
-      {
-        "source": "news",
         "id": "https://observer.com/2025/12/ev-subscriptions-flexible-ownership-adoption/",
         "timestamp": "2025-12-03T21:00:04+00:00",
         "text": "How Subscriptions and Flexible Ownership Models Are Rewriting the EV Adoption Curve \nRei Vardi, founder and CEO of Eon, examines how subscriptions and flexible ownership models are transforming the EV adoption curve, offering a practical bridge between consumer interest and affordability. Vardi argues that the next wave of adoption will be dr… \nSubscriptions, long-term rentals and adaptable ownership structures are helping pragmatic, cost-conscious drivers shift to electric. Unsplash+\r\nWhile electric vehicle (EV) sales continue to rise glob… [+5424 chars]",
         "positive": 0.9816083312034607,
         "negative": 0.0001394082501064986,
         "neutral": 0.018252253532409668
-      },
-      {
-        "source": "news",
-        "id": "https://bleedingcool.com/tv/boston-blue-sheriff-country-score-season-2-renewals-return-2026-2027/",
-        "timestamp": "2025-12-03T21:00:04+00:00",
-        "text": "Boston Blue, Sheriff Country Score Season 2 Renewals; Return 2026-2027 \nCBS had some good news to share with fans of Donnie Wahlberg and Sonequa Martin-Green-starring \"Blue Blood\" spinoff, Boston Blue, and Morena Baccarin-starring \"Fire Country\" spinoff, Sheriff Country. Both freshman series will be back for the 2026-2027 televis… \nPosted in: CBS, TV | Tagged: boston blue, sheriff country\r\nCBS's Donnie Wahlberg and Sonequa Martin-Green-starring Boston Blue, and Morena Baccarin-starring Sheriff Country, will be back for Season 2… [+3658 chars]",
-        "positive": 0.9999665021896362,
-        "negative": 2.314912279643977e-07,
-        "neutral": 3.320386167615652e-05
       },
       {
         "source": "news",
@@ -959,75 +1112,12 @@
       },
       {
         "source": "news",
-        "id": "http://robbreport.com/food-drink/spirits/volcan-tequila-marble-bottle-1237391821/",
-        "timestamp": "2025-12-03T21:00:00+00:00",
-        "text": "This New Sherry-Cask Matured Tequila Comes in an Italian Marble Bottle \nVolcan's new tequila is a high-end anejo that comes in an Italian marble bottle. De mi Tierra spent 414 days in sherry casks. \nThere are a few luxury tequilas that come in bottles that can easily double as art pieces, with Clase Azul perhaps being the most popular example. But Volcan de mi Tierra just upped the game with the… [+2354 chars]",
-        "positive": 0.00026613494264893234,
-        "negative": 4.4510110456030816e-05,
-        "neutral": 0.9996894598007202
-      },
-      {
-        "source": "news",
-        "id": "https://www.wallpaper.com/architecture/residential/riba-house-of-the-year-2025-shortlist-three-more-reveals",
-        "timestamp": "2025-12-03T21:00:00+00:00",
-        "text": "RIBA reveals more three shortlisted structures for 2025’s House of the Year award \nThree more houses join the shortlist for the UK’s highest domestic architectural accolade. We explore the Triangle House, Amento and Jankes Barn \nFollowing on from works by Izat Arundell and Hugh Strange Architects, the RIBA is now up to five shortlisted houses for its 2025 House of the Year award. The RIBA annual award is given to the UK’s be… [+3739 chars]",
-        "positive": 0.010540574789047241,
-        "negative": 5.064351171313319e-06,
-        "neutral": 0.9894543886184692
-      },
-      {
-        "source": "news",
-        "id": "https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-37-tourism-launch-first-wheelchair-user-in-space",
-        "timestamp": "2025-12-03T21:00:00+00:00",
-        "text": "Next Blue Origin tourist launch will fly wheelchair user to space for 1st time \nBlue Origin's next space tourist launch will make history, sending a wheelchair user to the final frontier for the first time. \nMichi Benthaus is about to make history.\r\nBenthaus, an aerospace engineer at the European Space Agency\r\n, is one of the six passengers on Blue Origin\r\n's next space tourism launch, the company announ… [+3129 chars]",
-        "positive": 2.225979187642224e-06,
-        "negative": 1.1049029353671358e-06,
-        "neutral": 0.9999966621398926
-      },
-      {
-        "source": "news",
-        "id": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pat-freiermuth-everyone-shows-up-for-film-sessions",
-        "timestamp": "2025-12-03T20:59:49+00:00",
-        "text": "Pat Freiermuth: \"Everyone shows up\" for film sessions \nFreiermuth disputes Aaron Rodgers's claim of no-shows. \nSteelers quarterback Aaron Rodgers made major waves on Sunday, with comments strongly suggesting that pass-catchers werent showing up for film sessions and not running the right routes.\r\nOn Tuesday, … [+954 chars]",
-        "positive": 0.008770379237830639,
-        "negative": 0.00038364712963812053,
-        "neutral": 0.9908459782600403
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/2013-mercedes-benz-sl63-amg-100/",
-        "timestamp": "2025-12-03T20:57:46+00:00",
-        "text": "2013 Mercedes-Benz SL63 AMG \nThis 2013 Mercedes-Benz SL63 AMG is a Canadian-market example that has been registered in Manitoba, Canada, since new and has 71k kilometers (~44k miles). Power is provided by a twin-turbocharged 5.5-liter V8 paired with a seven-speed automatic transmission a… \nThis 2013 Mercedes-Benz SL63 AMG is a Canadian-market example that has been registered in Manitoba, Canada, since new and has 71k kilometers (~44k miles). Power is provided by a twin-turbocharged 5.5… [+2274 chars]",
-        "positive": 4.048690971103497e-05,
-        "negative": 8.735918868296721e-07,
-        "neutral": 0.9999586343765259
-      },
-      {
-        "source": "news",
-        "id": "https://www.thewrap.com/hbo-max-united-kingdom-launch-march-2026/",
-        "timestamp": "2025-12-03T20:57:13+00:00",
-        "text": "HBO Max to Launch Across the UK in March 2026 \nThe streamer will be available in Germany, Italy, Austria and more on Jan. 13, 2026\nThe post HBO Max to Launch Across the UK in March 2026 appeared first on TheWrap. \nHBO Max is making its way to land across the United Kingdom for full availability to viewers in late March.\r\nBy Jan. 13, 2026, the streamer will be available in Germany, Italy, Austria, Switzerland, … [+1743 chars]",
-        "positive": 2.8314258088357747e-05,
-        "negative": 3.0535770747519564e-06,
-        "neutral": 0.9999685287475586
-      },
-      {
-        "source": "news",
         "id": "https://apnews.com/article/federal-reserve-trump-bessent-6ddd9c8b204668551caecf6c5fe51388",
         "timestamp": "2025-12-03T20:56:20+00:00",
         "text": "Bessent says White House may 'veto' Federal Reserve presidents \nTreasury Secretary Scott Bessent said Wednesday he would push a new requirement that the Federal Reserve’s regional bank presidents live in their districts for at least three years before taking office, a move that could give the White House more power over t… \nWASHINGTON (AP) Treasury Secretary Scott Bessent said Wednesday he would push a new requirement that the Federal Reserves regional bank presidents live in their districts for at least three years bef… [+4446 chars]",
         "positive": 0.0015591372502967715,
         "negative": 0.0007124817930161953,
         "neutral": 0.9977284073829651
-      },
-      {
-        "source": "news",
-        "id": "https://www.lawyersgunsmoneyblog.com/2025/12/the-scandal-of-american-political-journalism",
-        "timestamp": "2025-12-03T20:56:01+00:00",
-        "text": "The scandal of American political journalism \nHere’s an excerpt from the strategy memo that Olivia Nuzzi wrote on behalf of her virtual sex partner Robert F. Kennedy, while she was writing acclaimed and influential content on behalf of the candidate who would make her sext partner one of the most powerfu… \nHere’s an excerpt from the strategy memo that Olivia Nuzzi wrote on behalf of her virtual sex partner Robert F. Kennedy, while she was writing acclaimed and influential content on behalf of the candi… [+5471 chars]",
-        "positive": 0.0004402710183057934,
-        "negative": 0.09142093360424042,
-        "neutral": 0.9081388115882874
       },
       {
         "source": "news",
@@ -1040,15 +1130,6 @@
       },
       {
         "source": "news",
-        "id": "https://gizmodo.com/ubers-robotaxi-rolls-out-in-dallas-with-human-supervision-2000695289",
-        "timestamp": "2025-12-03T20:55:21+00:00",
-        "text": "Uber’s Robotaxi Rolls Out in Dallas With Human Supervision \nUber will have its targets set on Waymo in 2026. \nUber announced on Wednesday that it is launching its Robotaxi service in Dallas as the company prepares to introduce its Waymo rival into other major cities next year. But it wont be totally human-le… [+1592 chars]",
-        "positive": 7.536706107202917e-06,
-        "negative": 3.105985524598509e-05,
-        "neutral": 0.9999613761901855
-      },
-      {
-        "source": "news",
         "id": "https://www.usmagazine.com/celebrity-news/news/billy-ray-cyrus-reacts-to-miley-cyrus-engagement-to-maxx-morando/#article",
         "timestamp": "2025-12-03T20:55:17+00:00",
         "text": "Billy Ray Cyrus Reacts to Daughter Miley Cyrus' Engagement to Maxx Morando \nBilly Ray Cyrus is celebrating his daughter Miley Cyrus’ engagement to Maxx Morando. “No wonder you turned out so special, you have the greatest godmother in the world!!!” Billy Ray, 64, captioned an Instagram photo with Miley, 33, and Dolly Parton on Wednesd… \nBilly Ray Cyrusis celebrating his daughter Miley Cyrus’ engagement to Maxx Morando.\r\n“No wonder you turned out so special, you have the greatest godmother in the world!!!” Billy Ray, 64, captioned an… [+3119 chars]",
@@ -1058,30 +1139,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.edf.org/media/trump-administration-announces-plan-weaken-fuel-economy-standards-cars-and-trucks",
-        "timestamp": "2025-12-03T20:54:56+00:00",
-        "text": "Trump Administration Announces Plan to Weaken Fuel Economy Standards for Cars and Trucks \nThe proposed rule would waste gas, cost American families money, and put more pollution in the air we breathe. \n(Washington, D.C. December 3, 2025) Today the Trump administration proposed a new rule that would substantially weaken the nations fuel economy standards an action that would waste gas, cost American… [+1917 chars]",
-        "positive": 0.002483568387106061,
-        "negative": 0.030522175133228302,
-        "neutral": 0.9669942259788513
-      },
-      {
-        "source": "news",
         "id": "https://www.abc.net.au/news/2025-12-04/eu-proposes-using-frozen-russian-assets-to-fund-ukraine/106099644",
         "timestamp": "2025-12-03T20:54:08+00:00",
         "text": "EU proposes using frozen Russian assets to fund Ukraine \nBelgium is pushing back on a European proposal to use frozen Russian assets to help financially support Ukraine. \nThe European Commission has proposed an unprecedented use of frozen Russian assets to raise 90 billion euros ($160 billion) for Ukraine to cover its struggling military and basic services against Rus… [+4541 chars]",
         "positive": 3.696688145282678e-05,
         "negative": 0.00015941853052936494,
         "neutral": 0.9998036026954651
-      },
-      {
-        "source": "news",
-        "id": "https://triplepundit.com/2025/virtual-power-plants-homes-businesses/",
-        "timestamp": "2025-12-03T20:53:59+00:00",
-        "text": "Virtual Power Plants Create New Pathways for Business Action on Climate Change \nThese software systems manage power supply from multiple sources and sell it to utilities as if it came from a single power plant. This takes serious strain off the grid, while creating financial incentive for homes and businesses to cut energy use during pea… \nLeading businesses in the U.S. have already shown how corporate purchasing power can stimulate the renewable energy transition at the hardware level, with wind turbines, solar panels, and energy stor… [+8242 chars]",
-        "positive": 0.523266077041626,
-        "negative": 0.002472594380378723,
-        "neutral": 0.4742613136768341
       },
       {
         "source": "news",
@@ -1523,24 +1586,6 @@
         "positive": 0.001024981145747006,
         "negative": 1.927825724123977e-05,
         "neutral": 0.9989557266235352
-      },
-      {
-        "source": "news",
-        "id": "https://www.businessinsider.com/where-wealthiest-americans-live-then-and-now",
-        "timestamp": "2025-12-03T19:41:46+00:00",
-        "text": "THEN AND NOW: Photos show where America's wealthiest lived a century ago versus today \nA hundred years ago, America's wealth concentrated in New York's Fifth Avenue. Today, the richest Americans reside in places like Miami and Hawaii. \nA century ago, the wealthiest people in America often lived in ornate residences reminiscent of European royal palaces.\r\nToday, some of the richest citizens are more discreet about their wealth, opti… [+11770 chars]",
-        "positive": 2.2650729079032317e-05,
-        "negative": 1.106538184103556e-05,
-        "neutral": 0.9999662637710571
-      },
-      {
-        "source": "news",
-        "id": "https://www.aljazeera.com/news/2025/12/3/western-cuba-faces-blackout-as-government-seeks-to-update-energy-grid",
-        "timestamp": "2025-12-03T19:40:17+00:00",
-        "text": "Western Cuba faces blackout as government seeks to update energy grid \nElectrical failures due to ageing infrastructure, hurricanes and a struggling economy have prompted widespread protests. \nCuba has suffered another blackout that temporarily knocked out power to the western side of the Caribbean island, a region that includes the capital Havana.\r\nThe countrys Ministry of Energy and Mine… [+4869 chars]",
-        "positive": 6.731269240844995e-05,
-        "negative": 0.9999115467071533,
-        "neutral": 2.1160505639272742e-05
       },
       {
         "source": "news",
@@ -26797,9 +26842,9 @@
         "neutral": 0.9999943971633911
       }
     ],
-    "nw": 0.4982310917843398,
-    "nw_norm": 74.91155458921699
+    "nw": 0.49325012276397406,
+    "nw_norm": 74.66250613819871
   },
-  "gsi": 74.91155458921699,
+  "gsi": 74.66250613819871,
   "classification": "Bullish"
 }
