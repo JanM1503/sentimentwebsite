@@ -1,8 +1,161 @@
 {
-  "timestamp": "2025-12-04T05:50:33.293139+00:00",
+  "timestamp": "2025-12-04T06:06:38.072248+00:00",
   "news": {
-    "count": 2967,
+    "count": 2960,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/commodities/news/silver-futures-hit-record-of-rs-1-84-lakh/kg-as-rupee-slumps-to-new-low/articleshow/125735112.cms",
+        "timestamp": "2025-12-03T05:58:20+00:00",
+        "text": "Silver futures hit record of Rs 1.84 lakh/kg as rupee slumps to new low \nSilver prices surged to a record Rs 1,84,727 per kilogram on Wednesday. Gold futures also advanced to Rs 1,30,766 per 10 grams. A steep fall in the rupee to an all-time low against the US dollar further pushed up bullion prices. Global trends of expected US F… \nSilver prices surged by Rs 3,126 to hit a fresh record of Rs 1,84,727 per kilogram on Wednesday while gold futures advanced to Rs 1,30,766 per 10 grams, tracking firm global trends.A steep fall in th… [+2056 chars]",
+        "positive": 0.9999161958694458,
+        "negative": 3.5104774724459276e-05,
+        "neutral": 4.866825111093931e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/news/articles/cx2pygp9y4po",
+        "timestamp": "2025-12-03T05:57:23+00:00",
+        "text": "Childminders on moving beyond the living room \nChildminders are now allowed to work in places like churches and schools - but will this stop so many leaving the profession? \nChildminders can now operate in community hubs such as schools and churches\r\nChildminders play a vital role in the UK's childcare ecosystem, offering nurturing and flexible home-based care that often… [+5427 chars]",
+        "positive": 0.0005774793680757284,
+        "negative": 3.0506571420119144e-05,
+        "neutral": 0.999392032623291
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/world-news/we-are-building-a-tech-bridge-between-russia-and-indiaherman-gref-of-sberbank-on-bilateral-tech-ties/articleshow/125734817.cms",
+        "timestamp": "2025-12-03T05:56:58+00:00",
+        "text": "“We are building a tech bridge between Russia and India”—Herman Gref of Sberbank on bilateral tech ties \nSberbank CEO Herman Gref highlights Russia's leadership in payment technologies and generative AI, emphasizing unique solutions like biometric payments and the open-source GigaChat model. He discusses collaborations with India, the development of AI robots, a… \nRussia, today, is a world leader in payment technologies, stated Herman Gref, CEO and Chairman of the Executive Board at Sberbank, Russias and Eastern Europes biggest bank, in an exclusive interview … [+19157 chars]",
+        "positive": 0.04875679686665535,
+        "negative": 2.4046626094786916e-06,
+        "neutral": 0.9512408971786499
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2025-12-03/gdp-figures-interest-rates-australian-economy-what-it-means/106095708",
+        "timestamp": "2025-12-03T05:55:25+00:00",
+        "text": "GDP figures a beautiful set of numbers with a sting in the tail \nAustralia's latest economic growth numbers show an economy in generally rude health, but that might result in a rude shock for mortgage borrowers earlier rather than later in 2026. \nOn a couple of occasions, former treasurer and prime minister Paul Keating described favourable gross domestic product figures as \"a beautiful set of numbers\".\r\nOnce those comments preceded a nasty r… [+5767 chars]",
+        "positive": 0.003964554518461227,
+        "negative": 0.10747812688350677,
+        "neutral": 0.8885573744773865
+      },
+      {
+        "source": "news",
+        "id": "https://indianexpress.com/article/business/rupee-breaches-90-mark-us-india-trade-deal-uncertainty-fpi-weighing-sentiments-10399539/",
+        "timestamp": "2025-12-03T05:55:20+00:00",
+        "text": "Rupee breaches 90-mark against dollar: US-India trade deal uncertainty, FPI outflows weighing on sentiments \nForex market participants that the Reserve Bank of India (RBI) was active in the market to moderate the fall in the rupee, though its intervention seems limited. \nThe Indian rupee continued its free-fall, breaching the 90-mark for the first time on Wednesday against the dollar, weighed down by uncertainty around the US-India trade deal, persistent equity selli… [+3026 chars]",
+        "positive": 1.078054447134491e-05,
+        "negative": 0.9999537467956543,
+        "neutral": 3.545854997355491e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/sport/curler-williams-gets-fresh-lease-life-australia-5530141",
+        "timestamp": "2025-12-03T05:55:03+00:00",
+        "text": "Curler Williams gets fresh lease of life with Australia \nDec 3 : Nearly three decades ago, Helen Williams was part of a team led by future curling great Rhona Martin which was hoping to represent Britain at the 1998 Winter Olympics in Nagano, Japan.However, she injured her ankle the year before and missed those Gam… \nDec 3 : Nearly three decades ago, Helen Williams was part of a team led by future curling great Rhona Martin which was hoping to represent Britain at the 1998 Winter Olympics in Nagano, Japan.\r\nHowev… [+3738 chars]",
+        "positive": 9.588774446456227e-06,
+        "negative": 4.685894600697793e-05,
+        "neutral": 0.9999436140060425
+      },
+      {
+        "source": "news",
+        "id": "https://worldsoccertalk.com/news/manuel-neuer-set-to-retire-germany-legend-opens-up-on-future-as-bayern-munich-contract-nears-end/",
+        "timestamp": "2025-12-03T05:53:59+00:00",
+        "text": "Manuel Neuer set to retire? Germany legend opens up on future as Bayern Munich contract nears end \nGermany legend Manuel Neuer has his contract expiring with Bayern Munich at the end of the 2025-26 season, and with rumors about a potential retirement looming, the goalkeeper opened up on his future.\n Manuel Neuer, one of the greatest goalkeepers in soccer h… \nManuel Neuer, one of the greatest goalkeepers in soccer history, has maintained an elite level for more than 14 years guarding Bayern Munichs net. Now 39, and with his contract at the Bavarian club s… [+2441 chars]",
+        "positive": 0.10703717917203903,
+        "negative": 0.00019739056006073952,
+        "neutral": 0.892765462398529
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/budget-faqs/union-budget-2026-what-you-need-to-know-about-stagflation-and-is-it-a-real-risk-for-india/articleshow/125734848.cms",
+        "timestamp": "2025-12-03T05:51:08+00:00",
+        "text": "Union Budget 2026: What you need to know about stagflation & is it a real risk for India? \n2026 Budget approaches amid concerns about stagflation. This economic condition combines slow growth with rising prices and unemployment. India's risk is currently low, but past events like the 1970s US stagflation highlight its dangers. Policymakers face a t… \nFrom the common man to captains of industry, as with every year, everyone will have expectations from Budget 202627, which will be presented by Finance Minister Nirmala Sitharaman on February 1. Befo… [+3457 chars]",
+        "positive": 4.713252201327123e-05,
+        "negative": 0.972043514251709,
+        "neutral": 0.027909329161047935
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-millie-bobby-brown-had-major-hesitation-over-season-5-costume/articleshow/125734873.cms",
+        "timestamp": "2025-12-03T05:50:34+00:00",
+        "text": "'Stranger Things': Millie Bobby Brown had major hesitation over season 5 costume? \nMillie Bobby Brown initially questioned Eleven's bold Season 5 costume, a layered athletic look inspired by 1980s fashion. Costume designer Amy Parris explained the outfit reflects Eleven's emotional state and real '80s trends, aiming to keep the character gr… \n<ul><li>News</li>\r\n<li>'Stranger Things': Millie Bobby Brown had major hesitation over season 5 costume?</li></ul>\r\nMillie Bobby Brown initially questioned Eleven's bold Season 5 costume, a layered a… [+3656 chars]",
+        "positive": 1.0415976248623338e-05,
+        "negative": 0.00024497631238773465,
+        "neutral": 0.9997445940971375
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/ai-boom-tariffs-and-a-softening-labour-market-shape-a-cautious-2026-outlook/articleshow/125734913.cms",
+        "timestamp": "2025-12-03T05:50:28+00:00",
+        "text": "AI boom, tariffs and a softening labour market shape a cautious 2026 outlook \nWall Street remains largely bullish for 2026, but optimism is tempered by an unusual economic scenario unseen in over 60 years. Despite the AI investment boom driving capital spending, it hasn’t boosted job creation, creating an unprecedented mix of strong ma… \nAs Wall Street firms publish their 2026 investment playbooks, outright stock market bears remain scarce. Yet optimism is tempered by an unusual economic backdropone not seen in more than half a centu… [+3144 chars]",
+        "positive": 0.42817234992980957,
+        "negative": 0.5703585147857666,
+        "neutral": 0.0014690993120893836
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/portfolio/technical-analysis/commodity-calls/mcx-copper-makes-a-bullish-breakout-and-regains-momentum/article70352222.ece",
+        "timestamp": "2025-12-03T05:48:08+00:00",
+        "text": "MCX Copper: Makes a bullish breakout and regains momentum \nMCX Copper Futures contract can rise to ₹1,090-1,100 \nCopper prices have surged over 4 per cent in the past week. This has brough the month-long sideways consolidation to an end. The rise last week also indicates that the broader uptrend is intact and a… [+1133 chars]",
+        "positive": 1.0,
+        "negative": 9.099371922616228e-09,
+        "neutral": 7.55480389358354e-09
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/bofa-joins-growing-chorus-expecting-fed-rate-cut-in-december/articleshow/125734868.cms",
+        "timestamp": "2025-12-03T05:48:00+00:00",
+        "text": "BofA joins growing chorus expecting Fed rate cut in December \nBank of America has joined major brokerages, including Goldman Sachs and J.P. Morgan, in forecasting a 25-bps Fed rate cut at the December meeting, as softer labour data and dovish FOMC commentary boost expectations. Markets now price an 87% probability of ea… \nBank of America (BofA) Global Research has become the latest major brokerage to project an interest rate cut by the US Federal Reserve at its December policy meeting, adding to the building consensus… [+2421 chars]",
+        "positive": 0.999036431312561,
+        "negative": 8.10138681117678e-06,
+        "neutral": 0.0009554350399412215
+      },
+      {
+        "source": "news",
+        "id": "https://roundtable.io/rodeo/barrel-racing/kassie-mowry-reveals-she-will-chase-second-gold-buckle-without-jarvis",
+        "timestamp": "2025-12-03T05:47:29+00:00",
+        "text": "Kassie Mowry Reveals She Will Chase Second Gold Buckle Without Jarvis \nThe rodeo world got some major news tonight. Defending world champion Kassie Mowry, the No. 1 ranked cowgirl entering the 2025 Wrangler National Finals Rodeo, publicly confirmed that her superstar gelding Force the Goodbye “Jarvis” will not be running down th… \nThe rodeo world got some major news tonight. Defending world champion Kassie Mowry, the No. 1 ranked cowgirl entering the 2025 Wrangler National Finals Rodeo, publicly confirmed that her superstar ge… [+3069 chars]",
+        "positive": 0.0002461258845869452,
+        "negative": 9.22035105759278e-05,
+        "neutral": 0.9996616840362549
+      },
+      {
+        "source": "news",
+        "id": "https://www.currentaffairs.org/news/ai-is-destroying-the-university-and-learning-itself",
+        "timestamp": "2025-12-03T05:47:01+00:00",
+        "text": "AI is Destroying the University and Learning Itself \nStudents use AI to write papers, professors use AI to grade them, degrees become meaningless, and tech companies make fortunes. Welcome to the death of higher education. \nI used to think that the hype surrounding artificial intelligence was just thathype. I was skeptical when ChatGPT made its debut. The media frenzy, the breathless proclamations of a new erait all fel… [+40979 chars]",
+        "positive": 0.00031156145269051194,
+        "negative": 0.9673269391059875,
+        "neutral": 0.0323614627122879
+      },
+      {
+        "source": "news",
+        "id": "https://cointelegraph.com/news/crypto-treasury-companies-lead-stock-recovery-after-shaky-start-to-december",
+        "timestamp": "2025-12-03T05:45:56+00:00",
+        "text": "Crypto treasuries lead stock recovery after shaky start to December \nDigital asset treasury stocks surged Tuesday, with Ether-focused firms leading gains up to 12.35% as crypto markets rebounded from the sell-off. \nDigital asset treasuries (DATs) are leading a crypto stock recovery as markets rebound following a significant leverage flush at the start of the month.\r\nEther DATs recovered strongly on Tuesday, inc… [+2006 chars]",
+        "positive": 0.9999985694885254,
+        "negative": 1.3154763109923806e-06,
+        "neutral": 1.194019176864458e-07
+      },
+      {
+        "source": "news",
+        "id": "https://english.khabarhub.com/2025/03/509951/",
+        "timestamp": "2025-12-03T05:45:03+00:00",
+        "text": "Gold price rises by Rs 800 per tola; silver hits new record for fourth straight day \nKATHMANDU: The domestic bullion market witnessed a notable surge on Wednesday, with gold prices increasing by Rs 800 per tola. According to the Federation of Nepal Gold and Silver Dealers’ Association, the price of fine gold has been set at Rs 254,100 per tol… \nKATHMANDU: The domestic bullion market witnessed a notable surge on Wednesday, with gold prices increasing by Rs 800 per tola.\r\nAccording to the Federation of Nepal Gold and Silver Dealers Associatio… [+745 chars]",
+        "positive": 0.9999918937683105,
+        "negative": 6.891193606861634e-07,
+        "neutral": 7.417871984216617e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.motorsport.com/nascar-cup/news/what-happened-in-day-2-of-nascars-antitrust-trial-/10781882/",
+        "timestamp": "2025-12-03T05:43:40+00:00",
+        "text": "What happened in Day 2 of NASCAR’s antitrust trial \nEVP of strategy and innovation Scott Prime was questioned \nOn the second day of the 23XI Racing and Front Row Motorsport versus NASCAR antitrust case trial, the Executive Vice President and Chief Strategy Officer of the Sanctioning Body was called to the wit… [+7484 chars]",
+        "positive": 1.1014129768227576e-06,
+        "negative": 0.05442775413393974,
+        "neutral": 0.9455711245536804
+      },
       {
         "source": "news",
         "id": "https://freerepublic.com/focus/f-news/4355707/posts",
@@ -608,15 +761,6 @@
       },
       {
         "source": "news",
-        "id": "http://digiday.com/media/tiktok-shop-sheds-bargain-bin-reputation-as-average-prices-climb-across-categories/",
-        "timestamp": "2025-12-03T05:01:00+00:00",
-        "text": "TikTok Shop sheds bargain-bin reputation as average prices climb across categories \nAn analysis by e-commerce intelligence firm Charm shows average prices climbing across more than a dozen key categories. \nTikTok Shop, once synonymous with rock-bottom prices, is getting more expensive.While TikTok doesnt publish aggregate marketplace metrics, product-level prices and sales counts are visible in the app… [+5997 chars]",
-        "positive": 0.005231201648712158,
-        "negative": 0.003292520996183157,
-        "neutral": 0.9914762377738953
-      },
-      {
-        "source": "news",
         "id": "https://www.challies.com/a-la-carte/a-la-carte-december-3-2025/",
         "timestamp": "2025-12-03T05:01:00+00:00",
         "text": "A La Carte (December 3) \nA La Carte: Christ or Christian culture? / How to see your own blind spots / Kevin DeYoung's questions for Christian Nationalists / Beware of desensitization / I want to be the princess / and more.See Also\r\n<ul><li>A La Carte (November 28)</li><li>A La Carte … \nGood morning from South Africa! Aileen and I spent a lovely evening with friends here after leaving Zambia yesterday. Today we begin our journey back to North AmericaAileen to home in Canada and me t… [+1849 chars]",
@@ -626,12 +770,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.hrw.org/news/2025/12/03/malawian-disability-rights-advocate-honored",
+        "id": "http://digiday.com/media/tiktok-shop-sheds-bargain-bin-reputation-as-average-prices-climb-across-categories/",
         "timestamp": "2025-12-03T05:01:00+00:00",
-        "text": "Malawian Disability Rights Advocate Honored \n(New York) – Hilda Macheso, a Malawian disability rights advocate, is the 2025/2026 recipient of the Human Rights Watch Marca Bristo Fellowship for Courageous Leadership in Disability Rights, Human Rights Watch announced today on the International Day of Pers… \n(New York) Hilda Macheso, a Malawian disability rights advocate, is the 2025/2026 recipient of the Human Rights Watch Marca Bristo Fellowship for Courageous Leadership in Disability Rights, Human Rig… [+5602 chars]",
-        "positive": 0.00709532480686903,
-        "negative": 1.681808862485923e-05,
-        "neutral": 0.9928879141807556
+        "text": "TikTok Shop sheds bargain-bin reputation as average prices climb across categories \nAn analysis by e-commerce intelligence firm Charm shows average prices climbing across more than a dozen key categories. \nTikTok Shop, once synonymous with rock-bottom prices, is getting more expensive.While TikTok doesnt publish aggregate marketplace metrics, product-level prices and sales counts are visible in the app… [+5997 chars]",
+        "positive": 0.005231201648712158,
+        "negative": 0.003292520996183157,
+        "neutral": 0.9914762377738953
       },
       {
         "source": "news",
@@ -644,12 +788,12 @@
       },
       {
         "source": "news",
-        "id": "http://wwd.com/business-news/markets/joie-equipment-current-elliott-sold-to-republic-brands-group-1238367573/",
+        "id": "https://www.hrw.org/news/2025/12/03/malawian-disability-rights-advocate-honored",
         "timestamp": "2025-12-03T05:01:00+00:00",
-        "text": "Republic Brands Group Acquires Joie, Equipment and Current/Elliott Brands \nThe brands were owned by Los Angeles-based Sunrise Brands \nRepublic Brands Group, a New York-based brand management firm, has acquired a new portfolio of fashion brands, including Joie, Equipment and Current/Elliott, to form the Lux Group.\r\nThe brands, which… [+4846 chars]",
-        "positive": 0.00047556080971844494,
-        "negative": 0.00013511035649571568,
-        "neutral": 0.9993892908096313
+        "text": "Malawian Disability Rights Advocate Honored \n(New York) – Hilda Macheso, a Malawian disability rights advocate, is the 2025/2026 recipient of the Human Rights Watch Marca Bristo Fellowship for Courageous Leadership in Disability Rights, Human Rights Watch announced today on the International Day of Pers… \n(New York) Hilda Macheso, a Malawian disability rights advocate, is the 2025/2026 recipient of the Human Rights Watch Marca Bristo Fellowship for Courageous Leadership in Disability Rights, Human Rig… [+5602 chars]",
+        "positive": 0.00709532480686903,
+        "negative": 1.681808862485923e-05,
+        "neutral": 0.9928879141807556
       },
       {
         "source": "news",
@@ -659,6 +803,15 @@
         "positive": 0.002495669759809971,
         "negative": 1.48039207488182e-05,
         "neutral": 0.9974895715713501
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/business-news/markets/joie-equipment-current-elliott-sold-to-republic-brands-group-1238367573/",
+        "timestamp": "2025-12-03T05:01:00+00:00",
+        "text": "Republic Brands Group Acquires Joie, Equipment and Current/Elliott Brands \nThe brands were owned by Los Angeles-based Sunrise Brands \nRepublic Brands Group, a New York-based brand management firm, has acquired a new portfolio of fashion brands, including Joie, Equipment and Current/Elliott, to form the Lux Group.\r\nThe brands, which… [+4846 chars]",
+        "positive": 0.00047556080971844494,
+        "negative": 0.00013511035649571568,
+        "neutral": 0.9993892908096313
       },
       {
         "source": "news",
@@ -950,24 +1103,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-flat-after-industry-data-show-increase-in-us-inventories/article70352069.ece",
-        "timestamp": "2025-12-03T04:50:42+00:00",
-        "text": "Crude oil flat after industry data show increase in US inventories \nCrude oil futures traded flat on Wednesday morning after industry data showed an increase in US inventories for the week ending November 28. \nCrude oil futures traded flat on Wednesday morning after industry data showed an increase in US inventories for the week ending November 28. \r\nAt 9.56 am on Wednesday, February Brent oil futures were… [+2127 chars]",
-        "positive": 0.002067740773782134,
-        "negative": 0.00012367554882075638,
-        "neutral": 0.9978085160255432
-      },
-      {
-        "source": "news",
-        "id": "https://www.straitstimes.com/business/digital-bank-gxs-cuts-82-jobs-across-the-group-about-10-of-its-workforce",
-        "timestamp": "2025-12-03T04:50:26+00:00",
-        "text": "Digital bank GXS cuts 82 jobs across the group, about 10% of its workforce \nDigital bank GXS, backed by Grab and Singtel, has cut 82 jobs across its group, affecting staff in Singapore and Malaysia. Read more at straitstimes.com. Read more at straitstimes.com. \nSINGAPORE - Digital bank GXS, which is backed by Grab Holdings and telco Singtel, is cutting 82 jobs across the group. That works out to about 10 per cent of roles which have been made redundant, gro… [+1844 chars]",
-        "positive": 1.9906005945813376e-06,
-        "negative": 0.00022301878198049963,
-        "neutral": 0.9997749924659729
-      },
-      {
-        "source": "news",
         "id": "https://www.abc.net.au/news/2025-12-03/australian-caravan-manufacturers-shutting-down/106092872",
         "timestamp": "2025-12-03T04:48:35+00:00",
         "text": "Why are so many Australian caravan companies collapsing? \nZone RV is just one in a series of caravan companies that have gone under in recent years. Here are the major challenges plaguing the industry. \nWhen the news broke earlier this week that luxury caravan manufacturer Zone RV had collapsed into administration, it left hundreds of customers and employees reeling.\r\nBut this is just the latest in … [+5128 chars]",
@@ -995,39 +1130,12 @@
       },
       {
         "source": "news",
-        "id": "https://english.khabarhub.com/2025/03/509923/",
-        "timestamp": "2025-12-03T04:45:50+00:00",
-        "text": "Oranges worth over Rs 20 million sold from a single village \nTANAHUN: Farmers in Benikot village of Byas Municipality–13, Tanahun, have sold more than Rs 20 million worth of oranges this year. Benikot, located seven kilometers from the district headquarters in Damauli, is currently bustling as farmers pick and sort ora… \nTANAHUN: Farmers in Benikot village of Byas Municipality13, Tanahun, have sold more than Rs 20 million worth of oranges this year.\r\nBenikot, located seven kilometers from the district headquarters in… [+1604 chars]",
-        "positive": 4.882496682512283e-07,
-        "negative": 1.2505390714068199e-06,
-        "neutral": 0.9999983310699463
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/03/3198531/0/en/Correction-Vantage-Drilling-International-Ltd-Key-information-relating-to-the-cash-dividend-to-be-paid.html",
-        "timestamp": "2025-12-03T04:45:00+00:00",
-        "text": "Correction: Vantage Drilling International Ltd. – Key information relating to the cash dividend to be paid \nDubai, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The board of directors of Vantage Drilling International Ltd. on 1 December 2025 resolved to distribute a dividend. The key dates have been corrected as summarised below. The shares will trade inclusive of the right to… \nDubai, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The board of directors of Vantage Drilling International Ltd. on 1 December 2025 resolved to distribute a dividend. The key dates have been corrected as summa… [+1236 chars]",
-        "positive": 3.4843724279198796e-06,
-        "negative": 2.2223721316549927e-06,
-        "neutral": 0.9999942779541016
-      },
-      {
-        "source": "news",
         "id": "https://biztoc.com/x/ddb5b09fd90a9b0e",
         "timestamp": "2025-12-03T04:44:09+00:00",
         "text": "JLR's chief creative officer departs, Autocar India reports \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner merger affect consumer costs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What fueled America… [+729 chars]",
         "positive": 0.0003877618000842631,
         "negative": 4.047491165692918e-05,
         "neutral": 0.9995717406272888
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitaljournal.com/world/opium-poppy-farming-hits-10-year-high-in-war-torn-myanmar/article",
-        "timestamp": "2025-12-03T04:43:13+00:00",
-        "text": "Opium poppy farming hits 10-year high in war-torn Myanmar \nMyanmar’s opium poppy cultivation has hit a decade-record level, the United Nations warned Wednesday, with early indications its heroin output is now being trafficked to Western markets. War-ravaged Myanmar is a hive of black market activity ranging from ille… \nMyanmar’s opium poppy cultivation has hit a decade-record level, the United Nations warned Wednesday, with early indications its heroin output is now being trafficked to Western markets.\r\nWar-ravaged… [+2027 chars]",
-        "positive": 0.12010283768177032,
-        "negative": 0.6512073874473572,
-        "neutral": 0.2286897748708725
       },
       {
         "source": "news",
@@ -1046,33 +1154,6 @@
         "positive": 7.407547400362091e-06,
         "negative": 2.882634726120159e-05,
         "neutral": 0.9999637603759766
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/commodities/brokerages-turn-bullish-on-metals-as-non-ferrous-leads-q2-beat/article70352042.ece",
-        "timestamp": "2025-12-03T04:41:56+00:00",
-        "text": "Brokerages turn bullish on metals as non-ferrous leads Q2 beat \nIndia’s metals sector is riding a wave of optimism after a strong second-quarter performance in FY26, with brokerages projecting robust growth through the remainder of the year even as corporate capex slows. \nIndias metals sector is riding a wave of optimism after a strong second-quarter performance in FY26, with brokerages projecting robust growth through the remainder of the year even as corporate capex… [+3625 chars]",
-        "positive": 0.9999998807907104,
-        "negative": 1.0535507044551196e-07,
-        "neutral": 1.4728383845863391e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitaljournal.com/entertainment/interview-luca-pietro-finds-satisfaction-in-the-acting-profession/article",
-        "timestamp": "2025-12-03T04:41:53+00:00",
-        "text": "Interview: Luca Pietro finds ‘satisfaction’ in the acting profession \nActor Luca Pietro chatted about his acting career, and being a part of the digital age.\nThe post Interview: Luca Pietro finds ‘satisfaction’ in the acting profession appeared first on Digital Journal. \nActor Luca Pietro. Photo Credit: Gabe Ayala.\r\nActor Luca Pietro chatted about his acting career, and being a part of the digital age.\r\nMargaret Mead once said: Never doubt that a small group of thoug… [+4551 chars]",
-        "positive": 0.00013792231038678437,
-        "negative": 0.00033148788497783244,
-        "neutral": 0.999530553817749
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/markets/forex/rupee-dips-below-psychologically-crucial-90-per-us-dollar-mark/article70352030.ece",
-        "timestamp": "2025-12-03T04:39:19+00:00",
-        "text": "Rupee dips below psychologically crucial 90 per US dollar mark \nThe rupee falls below 90/USD amid FPI outflows and trade deal uncertainties, raising concerns over currency stability. \nThe rupee on Wednesday breached the psychologically crucial 90 per US dollar mark, weighed down by factors such as continued FPI outflows from the equity markets, lack of clarity on a trade deal with… [+3175 chars]",
-        "positive": 1.2008549674646929e-06,
-        "negative": 0.9999980926513672,
-        "neutral": 6.661339853053505e-07
       },
       {
         "source": "news",
@@ -1121,24 +1202,6 @@
       },
       {
         "source": "news",
-        "id": "https://variety.com/2025/film/news/saiyaara-ahaan-panday-aneet-padda-imdb-chart-1236597997/",
-        "timestamp": "2025-12-03T04:30:00+00:00",
-        "text": "‘Saiyaara’ Actors Ahaan Panday and Aneet Padda Top IMDb’s Most Popular Indian Stars of 2025 Chart (EXCLUSIVE) \nAhaan Panday and Aneet Padda have claimed the top two positions on IMDb’s Most Popular Indian Stars of 2025 list following their performances in Yash Raj Films’ romantic drama “Saiyaara.” The ranking, based on page views from more than 250 million monthly vis… \nAhaan Panday and Aneet Padda have claimed the top two positions on IMDb‘s Most Popular Indian Stars of 2025 list following their performances in Yash Raj Films’ romantic drama “Saiyaara.” \r\nThe ranki… [+2924 chars]",
-        "positive": 0.0002646895300131291,
-        "negative": 7.310159162443597e-06,
-        "neutral": 0.9997280240058899
-      },
-      {
-        "source": "news",
-        "id": "https://m.economictimes.com/markets/stocks/news/icici-bank-infosys-among-20-stocks-that-will-ride-indias-2026-rally-nomura/poised-for-growth/slideshow/125733454.cms",
-        "timestamp": "2025-12-03T04:25:25+00:00",
-        "text": "ICICI Bank, Infosys among 20 stocks that will ride India's 2026 rally: Nomura \nNomura said Indian equities are entering a fresh upswing, backed by “calmer geopolitics, stable macros, and a cyclical recovery in economic and corporate earnings growth.” The brokerage has pegged the Nifty 50 at 29,300 by end-2026, a roughly 12% rise from cu… \nDec 03, 2025, 10:05:28 AM IST\r\nNomura said Indian equities are entering a fresh upswing, backed by “calmer geopolitics, stable macros, and a cyclical recovery in economic and corporate earnings growt… [+3169 chars]",
-        "positive": 0.9991716146469116,
-        "negative": 9.718075489217881e-06,
-        "neutral": 0.0008186980267055333
-      },
-      {
-        "source": "news",
         "id": "https://www.foxnews.com/media/marco-rubio-says-trump-not-suckered-maduro-like-biden",
         "timestamp": "2025-12-03T04:25:25+00:00",
         "text": "Marco Rubio says Trump will not be 'suckered' by Maduro like Biden \nSecretary of State Marco Rubio criticized the regime of Venezuelan President Nicolas Maduro as the Trump administration continues striking down alleged drug boats in the Caribbean. \nSecretary of State Marco Rubio sharply criticized the regime of Venezuelan President Nicolás Maduro in an interview with \"Hannity\"  Tuesday as President Donald Trump intensifies pressure on the leade… [+3294 chars]",
@@ -1148,21 +1211,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/03/3198528/0/en/ReVisionz-Launches-Main-Information-Contractor-to-Deliver-Lifecycle-Ready-Asset-Data-for-Owner-Operators.html",
-        "timestamp": "2025-12-03T04:23:00+00:00",
-        "text": "ReVisionz Launches Main Information Contractor+ to Deliver Lifecycle-Ready Asset Data for Owner-Operators \nNew AI-powered service from leading digital transformation consulting firm aims to bring structure, consistency and confidence to asset information New AI-powered service from leading digital transformation consulting firm aims to bring structure, consistency… \nCalgary, Alberta , Dec. 02, 2025 (GLOBE NEWSWIRE) -- ReVisionz announced today the launch of its newest offering, a service designed to bridge the longstanding gap between project delivery and operat… [+3700 chars]",
-        "positive": 0.7229604125022888,
-        "negative": 1.754242111928761e-05,
-        "neutral": 0.27702200412750244
-      },
-      {
-        "source": "news",
-        "id": "https://clutchpoints.com/ncaa-football/north-texas-football-news-head-coach-candidate-eric-morris-exit",
-        "timestamp": "2025-12-03T04:22:38+00:00",
-        "text": "North Texas football identifies top head coaching candidate after Eric Morris exit for Oklahoma State \nThe North Texas Mean Grean football program targets Neal Brown as top candidate to replace Eric Morris after move to Oklahoma State. \nThe post North Texas football identifies top head coaching candidate after Eric Morris exit for Oklahoma State appeared first on ClutchPoints.\r\nThe North Texas Mean Green football program is wasting … [+2034 chars]",
-        "positive": 0.00010541375377215445,
-        "negative": 1.1745546544261742e-05,
-        "neutral": 0.9998828172683716
+        "id": "https://m.economictimes.com/markets/stocks/news/icici-bank-infosys-among-20-stocks-that-will-ride-indias-2026-rally-nomura/poised-for-growth/slideshow/125733454.cms",
+        "timestamp": "2025-12-03T04:25:25+00:00",
+        "text": "ICICI Bank, Infosys among 20 stocks that will ride India's 2026 rally: Nomura \nNomura said Indian equities are entering a fresh upswing, backed by “calmer geopolitics, stable macros, and a cyclical recovery in economic and corporate earnings growth.” The brokerage has pegged the Nifty 50 at 29,300 by end-2026, a roughly 12% rise from cu… \nDec 03, 2025, 10:05:28 AM IST\r\nNomura said Indian equities are entering a fresh upswing, backed by “calmer geopolitics, stable macros, and a cyclical recovery in economic and corporate earnings growt… [+3169 chars]",
+        "positive": 0.9991716146469116,
+        "negative": 9.718075489217881e-06,
+        "neutral": 0.0008186980267055333
       },
       {
         "source": "news",
@@ -1334,123 +1388,6 @@
         "positive": 8.315468585351482e-05,
         "negative": 0.0005367641570046544,
         "neutral": 0.9993801116943359
-      },
-      {
-        "source": "news",
-        "id": "https://dramabeans.com/2025/12/idol-i-and-suspect-kim-jae-young-seeks-legal-aid-from-sooyoung/",
-        "timestamp": "2025-12-03T04:00:57+00:00",
-        "text": "Idol I and suspect Kim Jae-young seeks legal aid from Sooyoung \nPoster tagline: My bias with the killer smile has become the main suspect in a killing. The promo train is full steam ahead on ENA, hiring star attorney Sooyoung (Second Shot at Love) to defend her celebrity star Kim Jae-young (My Lovely Journey) in the newes… \nIdol I and suspect Kim Jae-young seeks legal aid from Sooyoung\r\nPoster tagline: My bias with the killer smile has become the main suspect in a killing.\r\nThe promo train is full steam ahead on ENA, hi… [+1571 chars]",
-        "positive": 0.26880162954330444,
-        "negative": 0.0024736993946135044,
-        "neutral": 0.7287246584892273
-      },
-      {
-        "source": "news",
-        "id": "https://www.boredpanda.com/woman-regrets-leaving-husband/",
-        "timestamp": "2025-12-03T04:00:38+00:00",
-        "text": "“You Wanna Go Back To That?”: Woman Gets A Reality Check After Regretting A Divorce \nEver heard of divorce regret? It’s pretty self-explanatory, and recent statistics indicate it is on the rise. The inability to cope with emotional upheaval is a common reason, as the woman in this story experienced. She left her husband after 13 years of marr… \nThere is no such thing as a perfect marriage. Couples will have their typical problems, and it will all boil down to how they handle each one. The lack of proper communication can and will erode that… [+12229 chars]",
-        "positive": 3.952351471525617e-05,
-        "negative": 0.988949179649353,
-        "neutral": 0.011011302471160889
-      },
-      {
-        "source": "news",
-        "id": "https://www.ndtvprofit.com/markets/silver-hits-record-fresh-record-rally-poised-to-test-rs-2-lakh-mark",
-        "timestamp": "2025-12-03T04:00:21+00:00",
-        "text": "Silver Hits Fresh Record High; Rally Poised To Test Rs 2 Lakh Mark \nSilver prices surged to a fresh high of Rs 1,84,727 per kg on the Multi-Commodity Exchange, March 2026 futures contract on Wednesday, gaining 1.38%. The metal has doubled in value in 2025 and is now on track to challenge the Rs 2 lakh milestone next year, dri… \nThe metal had hit a record high on Monday after a trading outage on the Chicago Mercantile Exchange due a data-center fault adding to the ongoing supply shortage.\r\nThe rally is also triggered by mult… [+833 chars]",
-        "positive": 0.999932050704956,
-        "negative": 4.777626963914372e-05,
-        "neutral": 2.010350362979807e-05
-      },
-      {
-        "source": "news",
-        "id": "https://bitcoinist.com/tether-debate-heats-up-as-former-bank-analyst-refutes-hayes-claims/",
-        "timestamp": "2025-12-03T04:00:10+00:00",
-        "text": "Tether Debate Heats Up As Former Bank Analyst Refutes Hayes’ Claims \nArthur Hayes, the BitMEX co-founder, warned late last month that Tether’s shift into Bitcoin and gold could leave the stablecoin exposed if those assets tumble. Related Reading: Bitcoin Reflects Energy As The ‘True Currency,’ Elon Musk Says According to Hayes… \nArthur Hayes, the BitMEX co-founder, warned late last month that Tethers shift into Bitcoin and gold could leave the stablecoin exposed if those assets tumble.\r\nAccording to Hayes, a roughly 30% drop… [+3428 chars]",
-        "positive": 0.0007418503519147635,
-        "negative": 0.9678492546081543,
-        "neutral": 0.03140890970826149
-      },
-      {
-        "source": "news",
-        "id": "https://www.washingtonpost.com/entertainment/movies/2025/12/02/jafar-panahi-iran-prison/",
-        "timestamp": "2025-12-03T04:00:00+00:00",
-        "text": "Gotham Awards: Jafar Panahi’s triple win boosts Oscars hopes despite Iran ban \nHours before the Gothams, Iran sentenced Jafar Panahi to one year in prison. \nIn 2010, Panahi had been sentenced to prison for six years and banned from making films or leaving Iran for 20 years. He made a string of daring, award-winning movies anyway, and served time twice in… [+3808 chars]",
-        "positive": 0.9457115530967712,
-        "negative": 6.567465607076883e-05,
-        "neutral": 0.054222770035266876
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/ab1fdb7416deb35e",
-        "timestamp": "2025-12-03T03:59:19+00:00",
-        "text": "Netflix, Warner Bros Discovery combo seen lowering costs for consumers, sources say \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner merger affect consumer costs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What fueled America… [+763 chars]",
-        "positive": 0.9928556680679321,
-        "negative": 1.2225446880620439e-05,
-        "neutral": 0.007132162805646658
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/0f58f6933e97b913",
-        "timestamp": "2025-12-03T03:59:16+00:00",
-        "text": "Thai inflation posts eighth straight negative reading in November \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner merger affect consumer costs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What fueled America… [+739 chars]",
-        "positive": 0.023020565509796143,
-        "negative": 0.9668080806732178,
-        "neutral": 0.01017135288566351
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/d3438aee139f5aaf",
-        "timestamp": "2025-12-03T03:59:02+00:00",
-        "text": "Thailand’s Deflation Streak and Deadly Floods Pile Pressure on Rate Cut \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner merger affect consumer costs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What fueled America… [+752 chars]",
-        "positive": 0.006823311559855938,
-        "negative": 0.06698962301015854,
-        "neutral": 0.9261870980262756
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/03/3198521/0/en/Global-Times-Practitioner-s-Insights-Large-scale-Chinese-built-wind-power-projects-in-S-Africa-turn-stable-abundant-electricity-supply-for-locals-from-luxury-into-reality.html",
-        "timestamp": "2025-12-03T03:56:00+00:00",
-        "text": "Global Times: Practitioner's Insights: Large-scale Chinese-built wind power projects in S.Africa turn stable, abundant electricity supply for locals from luxury into reality \nChina-Africa ties mark 25 years of growth, with clean-energy projects like De Aar driving development, jobs, and shared modernization. China-Africa ties mark 25 years of growth, with clean-energy projects like De Aar driving development, jobs, and shared mode… \nBeijing, China, Dec. 02, 2025 (GLOBE NEWSWIRE) -- This year marks the 25th anniversary of the founding of the Forum on China-Africa Cooperation (FOCAC). Over the past 25 years, the relationship betwe… [+14546 chars]",
-        "positive": 0.998953104019165,
-        "negative": 2.4963928808574565e-06,
-        "neutral": 0.0010443758219480515
-      },
-      {
-        "source": "news",
-        "id": "https://theconversation.com/australian-economic-growth-is-solid-but-not-spectacular-rate-cuts-are-off-the-table-270972",
-        "timestamp": "2025-12-03T03:55:33+00:00",
-        "text": "Australian economic growth is solid but not spectacular. Rate cuts are off the table \nHouseholds are spending more on essential goods rather than discretionary items. \nAustralia’s economy grew by a softer-than-expected 0.4% in the September quarter, slowing from 0.6% growth in the June quarter. It confirms the recovery is tracking forward but without strong momentu… [+5181 chars]",
-        "positive": 0.9245424866676331,
-        "negative": 0.07539387792348862,
-        "neutral": 6.356534868245944e-05
-      },
-      {
-        "source": "news",
-        "id": "https://freethoughtblogs.com/singham/2025/12/02/progressive-gains-strike-fear-into-democratic-party-leaders/",
-        "timestamp": "2025-12-03T03:52:10+00:00",
-        "text": "Progressive gains strike fear into Democratic party leaders \nRecent political developments have greatly encouraged progressives in the US and struck fear into the hearts of the Democratic party leadership. That leadership is pro-corporate, pro-war, and reflexively pro-Israel, not willing to say anything critical even a… \nRecent political developments have greatly encouraged progressives in the US and struck fear into the hearts of the Democratic party leadership. That leadership is pro-corporate, pro-war, and reflexi… [+8861 chars]",
-        "positive": 0.9999638795852661,
-        "negative": 4.926882866129745e-06,
-        "neutral": 3.1199851946439594e-05
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/education/news/uppsc-polytechnic-lecturer-recruitment-2025-notification-out-for-513-posts-direct-link-to-register-here/articleshow/125732613.cms",
-        "timestamp": "2025-12-03T03:47:26+00:00",
-        "text": "UPPSC Polytechnic Lecturer recruitment 2025: Notification out for 513 posts, direct link to register here \nThe UPPSC has announced 513 Polytechnic Lecturer vacancies for 2025-26, with applications open from December 2, 2025, to January 2, 2026. The recruitment drive covers engineering, technical, and non-engineering disciplines, requiring a first-class Bachelor's … \n<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>UPPSC Polytechnic Lecturer recruitment 2025: Notification out for 513 posts, direct link to register here</li></ul>\r\nThe UPPSC has annou… [+2358 chars]",
-        "positive": 1.394175887980964e-05,
-        "negative": 7.849063877074514e-06,
-        "neutral": 0.9999781847000122
-      },
-      {
-        "source": "news",
-        "id": "https://www.channelnewsasia.com/business/thai-inflation-negative-again-in-november-industry-sees-floods-trimming-growth-5529696",
-        "timestamp": "2025-12-03T03:43:13+00:00",
-        "text": "Thai inflation negative again in November, industry sees floods trimming growth \nBANGKOK, Dec 3 : Thailand's annual headline inflation rate was negative for an eighth month in November, driven by falling energy prices and government support measures, but the commerce ministry said on Wednesday it expected consumer prices to rise slightly … \nBANGKOK, Dec 3 : Thailand's annual headline inflation rate was negative for an eighth month in November, driven by falling energy prices and government support measures, but the commerce ministry sai… [+2914 chars]",
-        "positive": 0.00012507490464486182,
-        "negative": 0.9996722936630249,
-        "neutral": 0.00020264020713511854
       },
       {
         "source": "news",
@@ -26707,9 +26644,9 @@
         "neutral": 0.9999943971633911
       }
     ],
-    "nw": 0.4335853668393479,
-    "nw_norm": 71.6792683419674
+    "nw": 0.4367310004074917,
+    "nw_norm": 71.83655002037459
   },
-  "gsi": 71.6792683419674,
+  "gsi": 71.83655002037459,
   "classification": "Bullish"
 }
