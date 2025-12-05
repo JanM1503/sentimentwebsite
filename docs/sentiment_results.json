@@ -1,8 +1,107 @@
 {
-  "timestamp": "2025-12-05T22:42:13.521797+00:00",
+  "timestamp": "2025-12-05T22:52:19.568047+00:00",
   "news": {
     "count": 2802,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://screenrant.com/a-knight-of-the-seven-kingdoms-brown-hair-baelor-targaryen-explained/",
+        "timestamp": "2025-12-04T22:45:17+00:00",
+        "text": "A Knight Of The Seven Kingdoms: The Brown-Haired Targaryen Prince Explained \nIn the final trailer for A Knight of the Seven Kingdoms, we meet more characters, including a Targaryen with brown hair, so who exactly is he? \nA Knight of the Seven Kingdoms will introduce a new Targaryen prince, but this one has brown hair instead of silver. A new trailer for A Knight of the Seven Kingdoms recently dropped, and it's given … [+2522 chars]",
+        "positive": 2.2241404167289147e-06,
+        "negative": 2.6443634851602837e-05,
+        "neutral": 0.9999712705612183
+      },
+      {
+        "source": "news",
+        "id": "https://mvdirona.com/2025/12/downtown-los-angeles/",
+        "timestamp": "2025-12-04T22:44:58+00:00",
+        "text": "Downtown Los Angeles \nLos Angeles’ Broadway Theater and Commercial District is the historic core of downtown of the city and is known for its architecturally ornate theaters and department stores. By 1931 the area had the highest density of theaters in the world, with seating capa… \nLos Angeles’ Broadway Theater and Commercial District is the historic core of downtown of the city and is known for its architecturally ornate theaters and department stores. By 1931 the area had the… [+8837 chars]",
+        "positive": 0.000435627531260252,
+        "negative": 3.0964824873080943e-06,
+        "neutral": 0.9995612502098083
+      },
+      {
+        "source": "news",
+        "id": "https://www.gsmarena.com/motorola_unveils_special_edition_edge_70_with_swarovski_crystals-news-70573.php",
+        "timestamp": "2025-12-04T22:44:02+00:00",
+        "text": "Motorola unveils special edition Edge 70 with Swarovski crystals \nMotorola first unveiled the Edge 70 in October in three Pantone colorways: Gadget Gray, Lily Pad, and Bronze Green. Today, the company is announcing a new special edition colorway celebrating Pantone's Color of the Year 2026, which is called Cloud Dancer.\n\n[#… \nMotorola first unveiled the Edge 70 in October in three Pantone colorways: Gadget Gray, Lily Pad, and Bronze Green. Today, the company is announcing a new special edition colorway celebrating Pantone… [+745 chars]",
+        "positive": 6.380882405210286e-05,
+        "negative": 1.8334882270210073e-06,
+        "neutral": 0.9999344348907471
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/c5ed8c076421ef87",
+        "timestamp": "2025-12-04T22:43:47+00:00",
+        "text": "PCE Inflation Report: Next Fed Rate Move Depends on Friday's Data Release \nLIVE\nInflation Report: The Fed's Next Rate Move Depends on Friday's PCE Release\nFollow for live news and analysis of the Fed's preferred inflation gauge.\nLast Updated:\nDec. 4, 2025 at 5:32 PM ET\nWhat to Watch\nThe Bureau of Economic Analysis is due to release … \nLIVEInflation Report: The Fed's Next Rate Move Depends on Friday's PCE ReleaseFollow for live news and analysis of the Fed's preferred inflation gauge.Last Updated:Dec. 4, 2025 at 5:32 PM ETWhat to W… [+131 chars]",
+        "positive": 7.452309773725574e-07,
+        "negative": 3.232033805034007e-06,
+        "neutral": 0.9999960660934448
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/2071f7e8ad93d7a4",
+        "timestamp": "2025-12-04T22:43:26+00:00",
+        "text": "JPMorgan says Strategy’s resilience is key to bitcoin’s price direction in the near term \nJPMorgan reiterated that its bitcoin-to-gold model still points to a theoretical price of about $170,000 in the next 6–12 months. \nJPMorgan reiterated that its bitcoin-to-gold model still points to a theoretical price of about $170,000 in the next 612 months.\r\nThis story appeared on theblock.co, 2025-12-04 22:39:36.",
+        "positive": 0.017150981351733208,
+        "negative": 2.7242482246947475e-05,
+        "neutral": 0.9828216433525085
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/48c3652fc9e3f539",
+        "timestamp": "2025-12-04T22:43:22+00:00",
+        "text": "The Fed’s Preferred Inflation Gauge Could Boost the Case for Rate Cuts \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Meta cutting its metaverse budget? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps fuel economy ro… [+814 chars]",
+        "positive": 0.9522613286972046,
+        "negative": 0.0002604972687549889,
+        "neutral": 0.04747811332345009
+      },
+      {
+        "source": "news",
+        "id": "https://www.silverandblackpride.com/las-vegas-raiders-coaching-staff/116326/with-5-games-remaining-another-win-a-longshot-for-las-vegas-raiders",
+        "timestamp": "2025-12-04T22:43:00+00:00",
+        "text": "With 5 games remaining, another win a longshot for Las Vegas Raiders \nAs it stands now, New York Giants only team on slate that has a losing record \nOutside of the New York Giants, four of the five remaining opponents for the Las Vegas Raiders either have a winning record or is even at .500.\r\nThat final four are intent on getting the best possibl… [+5862 chars]",
+        "positive": 0.9997636675834656,
+        "negative": 7.264734449563548e-05,
+        "neutral": 0.00016362403403036296
+      },
+      {
+        "source": "news",
+        "id": "https://www.mediaite.com/media/news/new-politico-poll-shows-americans-even-gop-voters-are-blaming-trump-for-the-affordability-crisis/",
+        "timestamp": "2025-12-04T22:42:54+00:00",
+        "text": "New Politico Poll Shows Americans, Even GOP Voters, Are Blaming Trump For The Affordability Crisis \nA new poll shows Republicans and Democrats alike are blaming President Donald Trump for the high cost of living that shows no signs of ending.\nThe post New Politico Poll Shows Americans, Even GOP Voters, Are Blaming Trump For The Affordability Crisis first ap… \n(AP Photo/Julia Demaree Nikhinson)\r\nA new poll shows Republicans and Democrats alike are blaming President Donald Trump for the high cost of living that shows no signs of ending.\r\nPolitico’s poll sur… [+2271 chars]",
+        "positive": 0.00016193155897781253,
+        "negative": 0.40989118814468384,
+        "neutral": 0.5899468660354614
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/shop/shop-fashion/pantone-color-of-the-year-cloud-dancer-fashion-beauty-shop-1238379071/",
+        "timestamp": "2025-12-04T22:38:14+00:00",
+        "text": "How to Wear Pantone’s Controversial Color of the Year 2026 — Shop All-White Handbags, Sweaters, Makeup Faves, and More \nPantone's 2026 Color of the Year is Cloud Dancer. Shop our edit of trending fashion and beauty products in the neutral shade, from brands like Dior. \nIf you purchase an independently reviewed product or service through a link on our website, WWD may receive an affiliate commission.\r\nAnyone who’s spent any time on social media as of late has likely… [+11181 chars]",
+        "positive": 1.7858477576737641e-06,
+        "negative": 2.9278910005814396e-05,
+        "neutral": 0.9999688863754272
+      },
+      {
+        "source": "news",
+        "id": "https://www.the-sun.com/news/15587035",
+        "timestamp": "2025-12-04T22:37:37+00:00",
+        "text": "Vlad's daughter confronted in Paris... \nVlad's daughter confronted in Paris...\r\n\n \n \n \n (Second column, 16th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Zelensky's plane comes under 'drone attack'...\r\nPutin and Modi Deepen Relationship...\r\nTells Ukrainian she's 'really sorry'...\r\n\n \r\n\n \n \n Drudge Rep… \nAttention,\r\nOur system has indicated that your user behaviour is potentially automated.\r\nNews Group Newspapers Limited does not permit the access, collection, text or data mining of any content from … [+717 chars]",
+        "positive": 2.5015767732838867e-06,
+        "negative": 1.6828291336423717e-05,
+        "neutral": 0.9999806880950928
+      },
+      {
+        "source": "news",
+        "id": "https://www.nbcnews.com/politics/politics-news/speaker-johnsons-ever-growing-headaches-politics-desk-rcna247470",
+        "timestamp": "2025-12-04T22:37:35+00:00",
+        "text": "Speaker Johnson's ever-growing headaches: From the Politics Desk \nRepublicans are increasingly seeking to work around Speaker Mike Johnson, R-La., in the narrowly divided House. \nWelcome to the online version of From the Politics Desk, a newsletter that brings you the NBC News Politics teams latest reporting and analysis from the White House, Capitol Hill and the campaign tra… [+5660 chars]",
+        "positive": 0.00024801306426525116,
+        "negative": 0.021944236010313034,
+        "neutral": 0.9778076410293579
+      },
       {
         "source": "news",
         "id": "https://nypost.com/2025/12/04/us-news/gen-z-has-a-case-of-long-covid-and-society-is-enabling-it/",
@@ -932,24 +1031,6 @@
       },
       {
         "source": "news",
-        "id": "https://japantoday.com/category/tech/eu-hits-meta-with-antitrust-probe-over-whatsapp-ai-features1",
-        "timestamp": "2025-12-04T21:42:10+00:00",
-        "text": "EU hits Meta with antitrust probe over WhatsApp AI features \nThe EU said Thursday it had opened an antitrust probe to determine if the way Meta is rolling out AI features in WhatsApp breaches the bloc's competition rules. The move against the U.S. giant marks the latest attempt by the 27-nation EU to rein in Big Tech, … \nThe EU said Thursday it had opened an antitrust probe to determine if the way Meta is rolling out AI features in WhatsApp breaches the bloc's competition rules.\r\nThe move against the U.S. giant marks… [+3282 chars]",
-        "positive": 8.664464257890359e-05,
-        "negative": 4.53856227977667e-05,
-        "neutral": 0.9998679161071777
-      },
-      {
-        "source": "news",
-        "id": "https://reactormag.com/15-years-later-detroit-robocop-statue-location/",
-        "timestamp": "2025-12-04T21:41:47+00:00",
-        "text": "Nearly 15 Years Later, the Detroit RoboCop Statue Has Finally Found a Home \nWhat began as an online joke has finally become part of the city. \nThe post Nearly 15 Years Later, the Detroit RoboCop Statue Has Finally Found a Home appeared first on Reactor. \nThe bizarre story of Detroits attempt to honor officer Alex James Murphy (aka RoboCop) seemingly ended recently, as a statue of the iconic sci-fi character was finally placed outside the Free Age Pro… [+4306 chars]",
-        "positive": 0.0056524937972426414,
-        "negative": 0.00022832084505353123,
-        "neutral": 0.9941191673278809
-      },
-      {
-        "source": "news",
         "id": "https://www.israelnationalnews.com/news/418845",
         "timestamp": "2025-12-04T21:41:12+00:00",
         "text": "Message to Iran? Israeli defense delegation visits Azerbaijan \nAzerbaijani media report on a visit by a delegation from Israel’s Ministry of Defense, led by Brig. Gen. (res.) Dr. Daniel Gold. \nAzerbaijani media reported on Thursday an official visit by a senior delegation from Israels Ministry of Defense to Baku, the capital of Azerbaijan, which borders Iran to the south and lies along the… [+1448 chars]",
@@ -959,39 +1040,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/04/3200374/1924/en/Toll-Brothers-Announces-New-Rivercrest-Townhome-Community-Coming-Soon-to-Reno-Nevada.html",
-        "timestamp": "2025-12-04T21:41:00+00:00",
-        "text": "Toll Brothers Announces New Rivercrest Townhome Community Coming Soon to Reno, Nevada \nRivercrest will offer luxury townhomes in a coveted location near the Truckee River and Riverwalk District Rivercrest will offer luxury townhomes in a coveted location near the Truckee River and Riverwalk District \nRENO, Nev., Dec. 04, 2025 (GLOBE NEWSWIRE) -- Toll Brothers, Inc. (NYSE:TOL), the nation's leading builder of luxury homes, today announced its newest community, Rivercrest, is coming soon to Reno, N… [+4059 chars]",
-        "positive": 0.0036024462897330523,
-        "negative": 2.2593451376451412e-06,
-        "neutral": 0.9963952898979187
-      },
-      {
-        "source": "news",
-        "id": "https://www.pymnts.com/news/retail/2025/amazon-and-walmart-compete-on-cost-by-bringing-delivery-corridors-in-house/",
-        "timestamp": "2025-12-04T21:40:11+00:00",
-        "text": "Amazon and Walmart Compete on Cost by Bringing Delivery Corridors in-House \nThe defining retail battle of the 21st century has been around who controls the flow between click and doorstep. This has made the real competition less about shelves and inventory, and more about operational networks and their nodes. Networks that retail gia… \nThe defining retail battle of the 21st century has been around who controls the flow between click and doorstep. This has made the real competition less about shelves and inventory, and more about op… [+5314 chars]",
-        "positive": 0.002488753292709589,
-        "negative": 0.0014010443119332194,
-        "neutral": 0.9961101412773132
-      },
-      {
-        "source": "news",
         "id": "https://japantoday.com/category/politics/update1-japan-mulls-income-tax-hike-in-2027-to-cover-increase-in-defense-spending",
         "timestamp": "2025-12-04T21:39:36+00:00",
         "text": "Japan considers income tax hike in 2027 to cover increase in defense spending \nJapan's ruling party, led by Prime Minister Sanae Takaichi, is considering raising the country's income tax in January 2027 to cover part of a substantial increase in defense spending, sources close to the matter said Thursday. The plan being floated within t… \nJapan's ruling party, led by Prime Minister Sanae Takaichi, is considering raising the country's income tax in January 2027 to cover part of a substantial increase in defense spending, sources close … [+1759 chars]",
         "positive": 0.26950615644454956,
         "negative": 0.0023993465583771467,
         "neutral": 0.7280944585800171
-      },
-      {
-        "source": "news",
-        "id": "https://www.techdirt.com/2025/12/04/like-apple-googles-ai-news-tech-misinterprets-stories-generates-gibberish-headlines/",
-        "timestamp": "2025-12-04T21:38:00+00:00",
-        "text": "Like Apple, Google’s AI News Tech Misinterprets Stories, Generates Gibberish Headlines \nDespite all the recent hype about “AI,” the technology still struggles with very basic things and remains prone to significant errors. Which makes it maybe not the best idea to rush the nascent technology into widespread adoption in industries prone to all so… \nfrom the screwing-up-the-basics dept\r\nDespite all the recent hype about “AI,” the technology still struggles with very basic things and remains prone to significant errors. Which makes it maybe not t… [+2945 chars]",
-        "positive": 2.9398549941106467e-06,
-        "negative": 0.9999960660934448,
-        "neutral": 9.972472980734892e-07
       },
       {
         "source": "news",
@@ -1370,60 +1424,6 @@
         "positive": 0.09845738112926483,
         "negative": 0.8682318925857544,
         "neutral": 0.03331080451607704
-      },
-      {
-        "source": "news",
-        "id": "https://sports.yahoo.com/fantasy/article/yahoo-fantasy-x-arena-club-slab-packs-week-14-drop--rashee-rice-ceedee-lamb-gold-prizms-among-chase-cards-205800363.html",
-        "timestamp": "2025-12-04T20:58:00+00:00",
-        "text": "Yahoo Fantasy x Arena Club Slab Packs Week 14 Drop — Rashee Rice, CeeDee Lamb Gold Prizms among chase cards \nYahoo and Arena Club are back with slab packs featuring some of last week’s top fantasy football performers. \nYahoo Fantasy and Arena Club have teamed up to bring you a brand new experience weekly Yahoo Fantasy Slab Packs featuring top-performing fantasy football players.\r\nIf youre new to Arena Club, heres a… [+3562 chars]",
-        "positive": 6.088861118769273e-05,
-        "negative": 1.0248500984744169e-05,
-        "neutral": 0.9999288320541382
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/8-3million-nigerians-receive-cash-transfers-as-csos-unveil-monitoring-report/",
-        "timestamp": "2025-12-04T20:56:30+00:00",
-        "text": "8.3million Nigerians receive cash transfers as CSOs unveil monitoring report \nOver 8.3 million vulnerable Nigerians have received cash transfers under the National Social Safety Net Programme, a new CSO monitoring report reveals.\n\nRead More: https://punchng.com/8-3million-nigerians-receive-cash-transfers-as-csos-unveil-monitoring-repor… \nThe Federal Government has paid cash transfers to over 8.3 million vulnerable Nigerians under the National Social Safety Net Programme, as civil society organisations launched the 2025 report on the … [+7611 chars]",
-        "positive": 0.00018348777666687965,
-        "negative": 2.9516910217353143e-05,
-        "neutral": 0.999786913394928
-      },
-      {
-        "source": "news",
-        "id": "https://www.npr.org/2025/12/04/nx-s1-5632651/pantones-color-of-the-year-2026-white",
-        "timestamp": "2025-12-04T20:56:12+00:00",
-        "text": "You read that white: Pantone's 2026 Color of the Year is 'Cloud Dancer' \nThis is the first time Pantone has chosen a shade of white. The company says it's \"a lofty white that serves as a symbol of calming influence in a society rediscovering the value of quiet reflection.\" \nPantone has chosen its 2026 Color of the Year, and depending on how you look at it, it could be colorless or the reflection of every color.\r\nThe \"color?\" White. Cloud Dancer (PANTONE 11-4201) to be m… [+4209 chars]",
-        "positive": 1.6881955161807127e-05,
-        "negative": 3.859764092339901e-06,
-        "neutral": 0.9999792575836182
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/2024-janus-halcyon-250/",
-        "timestamp": "2025-12-04T20:56:10+00:00",
-        "text": "2024 Janus Halcyon 250 at No Reserve \nThis 2024 Janus Halcyon was purchased new by the seller who has ridden it 756 miles and has fitted it with a MotoCult 28mm carburetor kit. It is powered by a 229cc four-stroke single paired with a five-speed transmission and is equipped with a leading-link fo… \nThis 2024 Janus Halcyon was purchased new by the seller who has ridden it 756 miles and has fitted it with a MotoCult 28mm carburetor kit. It is powered by a 229cc four-stroke single paired with a fi… [+1781 chars]",
-        "positive": 1.1273476957285311e-05,
-        "negative": 2.0488023437792435e-06,
-        "neutral": 0.9999866485595703
-      },
-      {
-        "source": "news",
-        "id": "http://theeconomiccollapseblog.com/announced-job-cuts-hit-1-17-million-in-2025-54-percent-higher-than-last-year/",
-        "timestamp": "2025-12-04T20:55:17+00:00",
-        "text": "Announced Job Cuts Hit 1.17 Million In 2025 – 54 Percent Higher Than Last Year \nIt is getting very hard to deny that the U.S. economy is moving in the wrong direction.  Yesterday, ADP reported that the U.S. economy shed tens of thousands of jobs last month.  Today, Challenger, Gray & Christmas is reporting that U.S. employers announced a… \nIt is getting very hard to deny that the U.S. economy is moving in the wrong direction.  Yesterday, ADP reported that the U.S. economy shed tens of thousands of jobs last month.  Today, Challenger, G… [+7764 chars]",
-        "positive": 0.008423269726336002,
-        "negative": 0.9888342022895813,
-        "neutral": 0.0027425147127360106
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/trump-celebrates-peace-institute-renamed-after-him/",
-        "timestamp": "2025-12-04T20:54:16+00:00",
-        "text": "Trump celebrates peace institute renamed after him \nPresident Trump celebrates the renaming of the US Institute of Peace to the Trump Peace Institute, part of a larger effort to brand him as a global peacema\n\nRead More: https://punchng.com/trump-celebrates-peace-institute-renamed-after-him/ \nIt may not make up for missing out on the Nobel Prize, but President Donald Trump still looked thrilled to arrive at the Donald J. Trump Institute of Peace.\r\n“It’s a great honour,” said Trump, gazing… [+3271 chars]",
-        "positive": 0.007572349160909653,
-        "negative": 0.00032878105412237346,
-        "neutral": 0.9920989274978638
       },
       {
         "source": "news",
@@ -25222,9 +25222,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.46719756050466815,
-    "nw_norm": 73.3598780252334
+    "nw": 0.48522590603362786,
+    "nw_norm": 74.2612953016814
   },
-  "gsi": 73.3598780252334,
+  "gsi": 74.2612953016814,
   "classification": "Bullish"
 }
