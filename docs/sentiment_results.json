@@ -1,8 +1,107 @@
 {
-  "timestamp": "2025-12-05T04:46:12.348031+00:00",
+  "timestamp": "2025-12-05T05:01:34.692871+00:00",
   "news": {
-    "count": 2811,
+    "count": 2813,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/04/3199471/0/en/Saxena-White-P-A-Files-New-Securities-Class-Action-Lawsuit-Against-Cepton-Inc-and-Related-Parties-Expanding-the-Class-Period-and-Claims-Asserted.html",
+        "timestamp": "2025-12-04T04:53:00+00:00",
+        "text": "Saxena White P.A. Files New Securities Class Action Lawsuit Against Cepton, Inc. and Related Parties, Expanding the Class Period and Claims Asserted \nBOCA RATON, Fla., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Saxena White P.A. has filed a securities class action lawsuit (the “Class Action”) in the United States District Court for the Northern District of California against Cepton, Inc. (“Cepton” or the “Company”)… \nBOCA RATON, Fla., Dec. 03, 2025 (GLOBE NEWSWIRE) -- Saxena White P.A. has filed a securities class action lawsuit (the Class Action) in the United States District Court for the Northern District of C… [+8295 chars]",
+        "positive": 0.012465842999517918,
+        "negative": 0.07067518681287766,
+        "neutral": 0.9168589115142822
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/news/world/pm-modi-to-host-private-dinner-for-russian-president-putin/article70356220.ece",
+        "timestamp": "2025-12-04T04:51:49+00:00",
+        "text": "PM Modi to host private dinner for Russian President Putin \nAs the Russian leader is visiting India amid renewed American push to end the war in Ukraine, the issue is likely to figure prominently at the summit \nPrime Minister Narendra Modi will host a private dinner for Russian President Vladimir Putin on Thursday, hours after he lands in Delhi to expand overall bilateral strategic and economic partnership … [+5649 chars]",
+        "positive": 0.00031618651701137424,
+        "negative": 7.280867430381477e-05,
+        "neutral": 0.9996110796928406
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-visa-ban-asset-freeze-united-states-secretary-marco-rubio-congress-shehbaz-sharif-asim-munir/articleshow/125758241.cms",
+        "timestamp": "2025-12-04T04:48:29+00:00",
+        "text": "US lawmakers press Secretary Rubio to enforce visa bans, asset freezes on Pakistani officials \nDozens of U.S. lawmakers are demanding sanctions against senior Pakistani officials for transnational repression and human rights abuses. The bipartisan letter calls for visa bans and asset freezes on those threatening U.S. citizens and residents who criticis… \nForty-two members of the United States Congress, led by Democratic Congresswoman Pramila Jayapal and Congressman Greg Casar, have written to Secretary of State Marco Rubio demanding immediate sanctio… [+3930 chars]",
+        "positive": 0.001279104733839631,
+        "negative": 0.34400999546051025,
+        "neutral": 0.6547108888626099
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2025-12-04/anthony-albanese-election-coalition-cost-of-living-anika-wells/106087960",
+        "timestamp": "2025-12-04T04:48:24+00:00",
+        "text": "Cost of living still a sore point for voters as politicians go on holiday \nA mammoth year in politics ended with a focus on what is worrying most Australians ahead of Christmas: the cost of living. \nWelcome back to your weekly federal politics update, where Courtney Gould gets you up to speed on the happenings from Parliament House.\r\nRichard Marles had almost completed his run of morning intervi… [+5987 chars]",
+        "positive": 1.4464499145105947e-05,
+        "negative": 1.3316199328983203e-05,
+        "neutral": 0.9999722242355347
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-rise-as-ukraine-continues-attacks-on-russian-oil-infrastructure/article70356191.ece",
+        "timestamp": "2025-12-04T04:47:29+00:00",
+        "text": "Crude oil futures rise as Ukraine continues attacks on Russian oil infrastructure \nAt 9.57 am on Thursday, February Brent oil futures were at $62.92, up by 0.40% and January crude oil futures on WTI were at $59.26, up by 0.53% \nCrude oil futures traded higher on Thursday morning following continued Ukrainian attacks on Russian oil infrastructure. \r\nAt 9.57 am on Thursday, February Brent oil futures were at $62.92, up by 0.4… [+2988 chars]",
+        "positive": 0.9984997510910034,
+        "negative": 8.993441042548511e-06,
+        "neutral": 0.0014912254409864545
+      },
+      {
+        "source": "news",
+        "id": "https://thehockeynews.com/ottawa-senators/latest-news/former-ottawa-senator-now-tearing-it-up-in-switzerland",
+        "timestamp": "2025-12-04T04:47:17+00:00",
+        "text": "Former Ottawa Senator Now Tearing It Up In Switzerland \nOnce a highly touted NHL prospect, former Senator Erik Brännström now leads all Swiss league defensemen in scoring. \nWhether its fair or not, Erik Brännström will always be remembered in Ottawa as the guy the Senators got for Mark Stone. It was 2019, and in a deal that former owner Eugene Melnyk said had been plann… [+3385 chars]",
+        "positive": 1.594852278685721e-06,
+        "negative": 2.4461680368403904e-05,
+        "neutral": 0.9999740123748779
+      },
+      {
+        "source": "news",
+        "id": "https://www.ndtvprofit.com/markets/nifty-could-reach-28800-next-year-gold-to-hit-5100-says-clsas-laurence-balanco",
+        "timestamp": "2025-12-04T04:44:29+00:00",
+        "text": "Nifty Could Reach 28,800 Next Year, Gold To Hit $5,100, Says CLSA's Laurence Balanco \nAfter recently scaling fresh highs for the first time in 189 trading sessions, Nifty is poised for a strong start to 2026 and could climb to 28,800 levels during the course of the year, according to CLSA's technical analyst Laurence Balanco. Speaking to NDTV … \nAfter recently scaling fresh highs for the first time in 189 trading sessions, Nifty is poised for a strong start to 2026 and could climb to 28,800 levels during the course of the year, according to … [+1821 chars]",
+        "positive": 1.0,
+        "negative": 6.080861592039355e-09,
+        "neutral": 2.8123519513201245e-08
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/asia/malaysia-shamsul-iskandar-albert-tei-plead-not-guilty-bribery-charges-5538151",
+        "timestamp": "2025-12-04T04:42:42+00:00",
+        "text": "Anwar’s former aide, businessman plead not guilty to bribery charges involving US$43,000 \nShamsul Iskandar Mohd Akin, the prime minister’s former senior political secretary and mining boss Albert Tei Jiann Cheng, were charged at the Kuala Lumpur Sessions Court on Thursday (Dec 4). \nKUALA LUMPUR: A former personal aide to Prime Minister Anwar Ibrahim and a businessman at the centre of a corruption scandal have both claimed trial to four counts each of receiving and offering brib… [+1641 chars]",
+        "positive": 1.3482500435202383e-05,
+        "negative": 0.0018397067906334996,
+        "neutral": 0.9981468915939331
+      },
+      {
+        "source": "news",
+        "id": "https://www.marca.com/en/mlb/new-york-mets/2025/12/04/6931112122601dd9128b4590.html",
+        "timestamp": "2025-12-04T04:42:42+00:00",
+        "text": "Pete Alonso's stellar season sparks interest from MLB powerhouses \nThe 2025 MLB season showcased Pete Alonso at his finest. it is no surprise then that he is reportedly attracting attention from several of the league&apos;s top teams, with two pot \nThe 2025 MLB season showcased Pete Alonso at his finest. it is no surprise then that he is reportedly attracting attention from several of the league's top teams, with two potential landing spots ear… [+2754 chars]",
+        "positive": 0.8496307134628296,
+        "negative": 0.002730682957917452,
+        "neutral": 0.14763855934143066
+      },
+      {
+        "source": "news",
+        "id": "https://prtimes.jp/main/html/rd/p/000000014.000087272.html",
+        "timestamp": "2025-12-04T04:40:33+00:00",
+        "text": "日本酒の”最新トレンド”がわかる、『 The Sakenomy Award 2025 』を発表！ \n[株式会社JAPAN CRAFT SAKE COMPANY]\n[画像1: https://prcdn.freetls.fastly.net/release_image/87272/14/87272-14-fb4bd719ebd2055c932567a70dc61d20-640x360.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&... \nSakenomy JAPAN CRAFT SAKE COMPANY*\r\n*202411120251031\r\nThe Sakenomy Award110GOLD1120SILVER2130BRONZE\r\nSakeknomy\r\nThe Sakenomy Award 20251\r\nThe Sakenomy Award 2025Sakenomy\r\n2025\r\n1\r\nGOLD\r\n<ol><li> / \r\n… [+708 chars]",
+        "positive": 0.00014723233471158892,
+        "negative": 1.508308173470141e-06,
+        "neutral": 0.9998512268066406
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/business/thai-consumer-confidence-hits-6-month-high-in-november-survey-shows-5542311",
+        "timestamp": "2025-12-04T04:40:21+00:00",
+        "text": "Thai consumer confidence hits 6-month high in November, survey shows \nBANGKOK, Dec 4 : Thai consumer confidence rose for a third consecutive month in November to reach its highest level in six months, helped by government policies and support for domestic tourism, a survey showed on Thursday.The consumer index of the University… \nBANGKOK, Dec 4 : Thai consumer confidence rose for a third consecutive month in November to reach its highest level in six months, helped by government policies and support for domestic tourism, a su… [+1009 chars]",
+        "positive": 0.9999594688415527,
+        "negative": 1.3571382169175195e-06,
+        "neutral": 3.921487586922012e-05
+      },
       {
         "source": "news",
         "id": "https://biztoc.com/x/81fbc23e5b7c6e74",
@@ -788,21 +887,21 @@
       },
       {
         "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/india/putin-india-visit-private-dinner-with-modi-big-trade-push-rt-channel-launch-his-full-schedule-here/articleshow/125756735.cms",
-        "timestamp": "2025-12-04T02:58:10+00:00",
-        "text": "Putin India Visit: Private dinner with Modi, big trade push & RT Channel launch; His full schedule here \nPutin India Visit: Russian President Vladimir Putin begins a significant four-day visit to India, commencing with a private dinner with Prime Minister Narendra Modi. The trip aims to bolster the \"special and privileged strategic partnership\" through discussio… \nPutin Modi Meeting: Russian President Vladimir Putin is set to begin his first trip to India in four years on Thursday, starting with a private dinner hosted by Prime Minister Narendra Modi. The visi… [+3001 chars]",
-        "positive": 6.543843483086675e-05,
-        "negative": 1.6474958783874172e-06,
-        "neutral": 0.9999328851699829
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/news/india/putin-india-visit-private-dinner-with-modi-big-trade-push-rt-channel-launch-his-full-schedule-here/articleshow/125756657.cms",
         "timestamp": "2025-12-04T02:58:10+00:00",
         "text": "Putin India Visit: Private dinner with Modi, big trade push & RT Channel launch; His full schedule here \nPutin India Visit: Russian President Vladimir Putin begins a significant four-day visit to India, commencing with a private dinner with Prime Minister Narendra Modi. The trip aims to bolster the \"special and privileged strategic partnership\" through discussio… \nPutin Modi Meeting: Russian President Vladimir Putin is set to begin his first trip to India in four years on Thursday, starting with a private dinner hosted by Prime Minister Narendra Modi. The visi… [+3226 chars]",
         "positive": 5.9462679928401485e-05,
         "negative": 1.5110235835891217e-06,
         "neutral": 0.99993896484375
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/india/putin-india-visit-private-dinner-with-modi-big-trade-push-rt-channel-launch-his-full-schedule-here/articleshow/125756735.cms",
+        "timestamp": "2025-12-04T02:58:10+00:00",
+        "text": "Putin India Visit: Private dinner with Modi, big trade push & RT Channel launch; His full schedule here \nPutin India Visit: Russian President Vladimir Putin begins a significant four-day visit to India, commencing with a private dinner with Prime Minister Narendra Modi. The trip aims to bolster the \"special and privileged strategic partnership\" through discussio… \nPutin Modi Meeting: Russian President Vladimir Putin is set to begin his first trip to India in four years on Thursday, starting with a private dinner hosted by Prime Minister Narendra Modi. The visi… [+3001 chars]",
+        "positive": 6.543843483086675e-05,
+        "negative": 1.6474958783874172e-06,
+        "neutral": 0.9999328851699829
       },
       {
         "source": "news",
@@ -923,21 +1022,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.digitaljournal.com/sports/visa-chaos-and-host-city-threats-how-trump-disrupted-world-cup-plans/article",
-        "timestamp": "2025-12-04T02:37:22+00:00",
-        "text": "Visa chaos and host city threats: how Trump disrupted World Cup plans \nOrganizing a World Cup is never simple. But when the host is Donald Trump, it's even more complicated.\nThe post Visa chaos and host city threats: how Trump disrupted World Cup plans appeared first on Digital Journal. \nIran's players celebrate after securing their place in the World Cup. © AFP ROBERTO SCHMIDT\r\nOrganizing a World Cup is never simple. But when the host is Donald Trump, it’s even more complicated.\r\nIn… [+3844 chars]",
-        "positive": 5.601674274657853e-05,
-        "negative": 0.010200366377830505,
-        "neutral": 0.9897435307502747
-      },
-      {
-        "source": "news",
         "id": "https://www.digitaljournal.com/world/visa-chaos-and-host-city-threats-how-trump-disrupted-world-cup-plans/article",
         "timestamp": "2025-12-04T02:37:22+00:00",
         "text": "Visa chaos and host city threats: how Trump disrupted World Cup plans \nOrganizing a World Cup is never simple. But when the host is Donald Trump, it’s even more complicated. In just six months, the United States along with Mexico and Canada will host soccer’s flagship tournament. And the mercurial US president has infuriated his… \nDonald Trump has repeatedly threatened to move World Cup matches away from several Democratic-run cities for supposed security reasons - Copyright AFP CHANDAN KHANNA\r\nOrganizing a World Cup is never … [+3751 chars]",
         "positive": 0.00010751361696748063,
         "negative": 0.9697432518005371,
         "neutral": 0.0301491878926754
+      },
+      {
+        "source": "news",
+        "id": "https://www.digitaljournal.com/sports/visa-chaos-and-host-city-threats-how-trump-disrupted-world-cup-plans/article",
+        "timestamp": "2025-12-04T02:37:22+00:00",
+        "text": "Visa chaos and host city threats: how Trump disrupted World Cup plans \nOrganizing a World Cup is never simple. But when the host is Donald Trump, it's even more complicated.\nThe post Visa chaos and host city threats: how Trump disrupted World Cup plans appeared first on Digital Journal. \nIran's players celebrate after securing their place in the World Cup. © AFP ROBERTO SCHMIDT\r\nOrganizing a World Cup is never simple. But when the host is Donald Trump, it’s even more complicated.\r\nIn… [+3844 chars]",
+        "positive": 5.601674274657853e-05,
+        "negative": 0.010200366377830505,
+        "neutral": 0.9897435307502747
       },
       {
         "source": "news",
@@ -959,48 +1058,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.sciencedaily.com/releases/2025/12/251203004727.htm",
-        "timestamp": "2025-12-04T02:35:39+00:00",
-        "text": "Scientists discover why anacondas stayed giants for 12 million years \nAncient anaconda fossils show that the snakes became giants soon after emerging in Miocene South America. Their size has stayed stable for over 12 million years, even though other huge reptiles went extinct. Surprisingly, warmer periods didn’t make anacondas … \nA research group led by the University of Cambridge examined giant anaconda fossils found in South America and determined that these snakes reached their full body size about 12.4 million years ago. … [+3751 chars]",
-        "positive": 2.0161161955911666e-05,
-        "negative": 0.000251768680755049,
-        "neutral": 0.9997280240058899
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/salesforce-ceo-vies-to-overcome-investors-ai-skepticism-while-touting-companys-quarterly-numbers/articleshow/125756380.cms",
-        "timestamp": "2025-12-04T02:33:31+00:00",
-        "text": "Salesforce CEO vies to overcome investors' AI skepticism while touting company's quarterly numbers \nBenioff, who helped spearhead the transition to cloud computing after founding Salesforce in 1999, got a chance to try to change the AI narrative late Wednesday with the release of his company's latest quarterly results. \nAfter riding the artificial intelligence craze to new heights, business software maker Salesforce has been pummeled by a wave of investor skepticism that's intensified the pressure on its persuasive … [+4583 chars]",
-        "positive": 0.0036779949441552162,
-        "negative": 0.9963086247444153,
-        "neutral": 1.3380859854805749e-05
-      },
-      {
-        "source": "news",
         "id": "https://www.truebluela.com/los-angeles-dodgers-news-notes/108123/miguel-rojas-contract-dodgers",
         "timestamp": "2025-12-04T02:32:46+00:00",
         "text": "Miguel Rojas returns to Dodgers for 1 year, $5.5 million \nAfter playing an essential role in the Dodgers’ Game 7 comeback to win a second straight World Series, Miguel Rojas as the old saying goes should never again have to pay for a meal in Los Angeles. But just in case a check gets dropped after he dines, he’ll ha… \nAfter playing an essential role in the Dodgers Game 7 comeback to win a second straight World Series, Miguel Rojas as the old saying goes should never again have to pay for a meal in Los Angeles. But… [+2250 chars]",
         "positive": 0.0010140964295715094,
         "negative": 0.0035163627471774817,
         "neutral": 0.9954694509506226
-      },
-      {
-        "source": "news",
-        "id": "https://www.ndtvprofit.com/markets/hsbcs-long-hunt-for-chair-ends-with-safe-pair-of-hands-at-home",
-        "timestamp": "2025-12-04T02:31:39+00:00",
-        "text": "HSBC's Long Hunt For Chair Ends With Safe Pair Of Hands At Home \nWeeks into his job as interim chairman of HSBC Holdings Plc, Brendan Nelson had a change of heart. \nAs the British lender cast its net wide for a successor to Mark Tucker — who departed in September — 76-year-old Nelson wasn’t expected to stay in his temporar… \nWeeks into his job as interim chairman of HSBC Holdings Plc, Brendan Nelson had a change of heart. \r\nAs the British lender cast its net wide for a successor to Mark Tucker who departed in September 7… [+6613 chars]",
-        "positive": 0.0001342218747595325,
-        "negative": 0.0003662022645585239,
-        "neutral": 0.9994996786117554
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/education/news/aptet-hall-tickets-released-at-aptet-apcfss-in-direct-link-to-download-admit-cards-here/articleshow/125756355.cms",
-        "timestamp": "2025-12-04T02:31:14+00:00",
-        "text": "APTET hall tickets released at aptet.apcfss.in: Direct link to download admit cards here \nThe Andhra Pradesh Department of Education has released the APTET 2025 hall tickets on tet2dsc.apcfss.in, ahead of the computer-based exam starting December 10. Candidates must download and verify the admit card carefully, as errors in details or photographs … \n<ul><li>News</li>\r\n<li>APTET hall tickets released at aptet.apcfss.in: Direct link to download admit cards here</li></ul>\r\nThe Andhra Pradesh Department of Education has released the APTET 2025 hall … [+2023 chars]",
-        "positive": 7.096584340615664e-06,
-        "negative": 1.1901055586349685e-05,
-        "neutral": 0.9999809265136719
       },
       {
         "source": "news",
@@ -1256,21 +1319,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.bbc.co.uk/programmes/p0ml7yfz",
-        "timestamp": "2025-12-04T01:30:00+00:00",
-        "text": "Made in Russia: The Kremlin’s economic rebrand \nHow Moscow is working around international sanctions: promoting self-sustainability, elevating Russian brands and deepening trade with friendly countries. After Western companies retreated as the full-scale invasion of Ukraine started, Russian consumer habits… \nHow Moscow is working around international sanctions: promoting self-sustainability, elevating Russian brands and deepening trade with friendly countries. After Western companies retreated as the ful… [+221 chars]",
-        "positive": 0.022319670766592026,
-        "negative": 0.018082037568092346,
-        "neutral": 0.9595983028411865
-      },
-      {
-        "source": "news",
         "id": "https://www.newser.com/story/379769/trump-wants-to-roll-back-biden-era-fuel-efficiency-rules.html",
         "timestamp": "2025-12-04T01:30:00+00:00",
         "text": "Trump Wants to Roll Back Biden-Era Fuel Efficiency Rules \nPresident Trump has announced a plan to scale back fuel efficiency standards set during the Biden administration, arguing that the move will lower costs for American consumers. The Transportation Department's proposal, which must still go through a formal rul… \n\"Today is a victory for common sense and affordability,\" Ford CEO Jim Farley said in the Oval Office, per the Washington Post. \"We believe that people should be able to make a choice, as you said, Mr… [+2103 chars]",
         "positive": 0.9999027252197266,
         "negative": 4.657424142351374e-06,
         "neutral": 9.26326320040971e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.co.uk/programmes/p0ml7yfz",
+        "timestamp": "2025-12-04T01:30:00+00:00",
+        "text": "Made in Russia: The Kremlin’s economic rebrand \nHow Moscow is working around international sanctions: promoting self-sustainability, elevating Russian brands and deepening trade with friendly countries. After Western companies retreated as the full-scale invasion of Ukraine started, Russian consumer habits… \nHow Moscow is working around international sanctions: promoting self-sustainability, elevating Russian brands and deepening trade with friendly countries. After Western companies retreated as the ful… [+221 chars]",
+        "positive": 0.022319670766592026,
+        "negative": 0.018082037568092346,
+        "neutral": 0.9595983028411865
       },
       {
         "source": "news",
@@ -1460,51 +1523,6 @@
         "positive": 0.0031121743377298117,
         "negative": 0.039751410484313965,
         "neutral": 0.9571364521980286
-      },
-      {
-        "source": "news",
-        "id": "https://thepointsguy.com/airline/american-airlines-aadvantage-pass/",
-        "timestamp": "2025-12-04T00:55:00+00:00",
-        "text": "American launches new AAdvantage Pass for $5,000 with intriguing possibilities for status and bonus miles \nAA is selling a new status pass that can get you 100,000 bonus miles and other benefits. \nAmerican Airlines AAdvantage members now have a brand-new shortcut tool to earn status and a boatload miles but it will cost you a big chunk of cash.\r\nThe Fort Worth-based carrier has launched a new … [+3396 chars]",
-        "positive": 0.01314194779843092,
-        "negative": 0.0001030933708534576,
-        "neutral": 0.9867550730705261
-      },
-      {
-        "source": "news",
-        "id": "https://sports.yahoo.com/articles/mixed-results-ucla-early-signing-005435765.html",
-        "timestamp": "2025-12-04T00:54:35+00:00",
-        "text": "Mixed results for UCLA on early signing day \nAfter a few defections, UCLA was left with a 12-player class that general manager Khary Darlington said could grow a bit. \nUCLA appeared on the verge of a late recruiting victory Tuesday when David Schwerzel, a high school defensive lineman from Seattle, tweeted that he was 1000% committed to becoming a Bruin, including … [+4712 chars]",
-        "positive": 0.01382672693580389,
-        "negative": 0.9733185172080994,
-        "neutral": 0.012854722328484058
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-pmn/ship-rates-spiking-467-marks-upended-trade-across-commodities",
-        "timestamp": "2025-12-04T00:46:40+00:00",
-        "text": "Ship Rates Spiking 467% Marks Upended Trade Across Commodities \nRates to ship commodities from energy to bulk ores across the world’s oceans are heading for a rare year-end surge as conflicts, sanctions, and swelling output upend global supply lines. \n(Bloomberg) Rates to ship commodities from energy to bulk ores across the worlds oceans are heading for a rare year-end surge as conflicts, sanctions, and swelling output upend global supply lines.\r\n… [+5133 chars]",
-        "positive": 0.9624962210655212,
-        "negative": 0.00032022371306084096,
-        "neutral": 0.03718359023332596
-      },
-      {
-        "source": "news",
-        "id": "https://nerdist.com/article/dc-studios-officially-reveals-new-supergirl-movie-costume/",
-        "timestamp": "2025-12-04T00:45:18+00:00",
-        "text": "DC Studios Officially Reveals New SUPERGIRL Movie Costume \nSupergirl will wear a slightly different costume in her upcoming movie, which DC Studios just revealed to the public at the CCXP Expo.\nThe post DC Studios Officially Reveals New SUPERGIRL Movie Costume appeared first on Nerdist. \nAfter this year’s excellent Superman, we’re very curious to see what the DCU adventures of Kal-El’s Kryptonian cousin will be like when Supergirl hits theaters. We only got a brief scene of Milly Alc… [+1596 chars]",
-        "positive": 7.382026979030343e-06,
-        "negative": 0.0028303423896431923,
-        "neutral": 0.9971622824668884
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/para-games-nigeria-sweep-shooting-medals-in-abeokuta/",
-        "timestamp": "2025-12-04T00:42:22+00:00",
-        "text": "Para Games: Nigeria sweep shooting medals in Abeokuta \nDiscover how the Nigerian para shooting team achieved a clean sweep, winning all gold medals at the inaugural West African Paralympic Games in Abeokuta.\n\nRead More: https://punchng.com/para-games-nigeria-sweep-shooting-medals-in-abeokuta/ \nNigeria delivered a dominant performance in the shooting events at the inaugural West African Paralympic Games in Abeokuta, winning every gold medal on offer in the discipline, The PUNCH reports.\r\nTh… [+1864 chars]",
-        "positive": 0.9999990463256836,
-        "negative": 7.299818776118627e-07,
-        "neutral": 2.0922409760260052e-07
       },
       {
         "source": "news",
@@ -25303,9 +25321,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.4224228750794413,
-    "nw_norm": 71.12114375397208
+    "nw": 0.4352505814019576,
+    "nw_norm": 71.76252907009788
   },
-  "gsi": 71.12114375397208,
+  "gsi": 71.76252907009788,
   "classification": "Bullish"
 }
