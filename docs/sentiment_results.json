@@ -1,8 +1,116 @@
 {
-  "timestamp": "2025-12-06T22:52:09.536386+00:00",
+  "timestamp": "2025-12-06T23:04:58.564481+00:00",
   "news": {
-    "count": 2800,
+    "count": 2796,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/news/articles/c4ge2d2x8gxo",
+        "timestamp": "2025-12-05T22:56:11+00:00",
+        "text": "This boy has a magic heart - it's my son's who died 10 years ago \nA woman whose husband and son died after being hit by a car wants more people to talk about donation. \nAngela Ferguson,BBC Walesand\r\nTomos Morgan,Wales correspondent\r\nRoman, 10, has a \"magic heart\" following a transplant from Mrs Bates' son fraser after his death\r\nAnna-Louise Bates has a special bond … [+5239 chars]",
+        "positive": 0.00012183220678707585,
+        "negative": 0.0005252974224276841,
+        "neutral": 0.9993528723716736
+      },
+      {
+        "source": "news",
+        "id": "https://www.forrester.com/blogs/your-secret-weapon-for-your-win-loss-program-three-ways-to-get-buyer-feedback-and-make-it-actionable/",
+        "timestamp": "2025-12-05T22:53:13+00:00",
+        "text": "Your Secret Weapon for Your Win/Loss Program: Three Ways to Get Buyer Feedback and Make it Actionable \nMost B2B organizations track win rates, but few understand why they win or lose deals. Without identifying the root causes, you’re flying blind − and risk making decisions based on assumptions rather than facts. Done right, buyer feedback can boost win rates,… \nMost B2B organizations track win rates, but few understand why they win or lose deals. Without identifying the root causes, youre flying blind and risk making decisions based on assumptions rather th… [+3880 chars]",
+        "positive": 0.957554042339325,
+        "negative": 0.0002749295672401786,
+        "neutral": 0.0421709381043911
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/208dd48a0f16e4a9",
+        "timestamp": "2025-12-05T22:50:18+00:00",
+        "text": "SpaceX may be worth more than half of Tesla — with a sixth of the revenue \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+814 chars]",
+        "positive": 0.00020677820430137217,
+        "negative": 2.0379577563289786e-06,
+        "neutral": 0.9997912049293518
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/f69902225e3189fe",
+        "timestamp": "2025-12-05T22:50:04+00:00",
+        "text": "Hungary’s Outlook Cut to Negative at Fitch on Budget Loosening \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+779 chars]",
+        "positive": 0.014673739671707153,
+        "negative": 0.028859099373221397,
+        "neutral": 0.9564671516418457
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/ab80de53a89078f3",
+        "timestamp": "2025-12-05T22:49:53+00:00",
+        "text": "Trump’s National Security Strategy Veers Inward in Telling Shift \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+781 chars]",
+        "positive": 0.00022586969134863466,
+        "negative": 4.617268587026047e-06,
+        "neutral": 0.9997695088386536
+      },
+      {
+        "source": "news",
+        "id": "https://www.sportingnews.com/us/mlb/atlanta-braves/news/braves-projected-retain-gold-glove-winner-short-term-deal/13ad6015c978100f4fffde99",
+        "timestamp": "2025-12-05T22:49:19+00:00",
+        "text": "Braves projected to retain former Gold Glove Award winner on short-term deal \nThe Braves could fill their infield hole with a short-term deal this offseason. \nBraves projected to retain former Gold Glove Award winner on short-term deal originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nAt the end of the… [+1612 chars]",
+        "positive": 0.00013976007176097482,
+        "negative": 5.7926336012315005e-06,
+        "neutral": 0.999854326248169
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/05/3201008/32719/en/BTDR-Stockholder-Alert-Shareholder-Rights-Law-Firm-Robbins-LLP-Reminds-Investors-of-the-Class-Action-Lawsuit-Against-Bitdeer-Technologies-Group.html",
+        "timestamp": "2025-12-05T22:49:00+00:00",
+        "text": "BTDR Stockholder Alert: Shareholder Rights Law Firm Robbins LLP Reminds Investors of the Class Action Lawsuit Against Bitdeer Technologies Group \nRobbins LLP is Investigating Allegations that Bitdeer Technologies Group (BDTR) Misled Investors Regarding its Business Prospects ... \nSAN DIEGO, Dec. 05, 2025 (GLOBE NEWSWIRE) -- Robbins LLP reminds stockholders that a class action was filed on behalf of all investors who purchased or otherwise acquired Bitdeer Technologies Group (… [+2941 chars]",
+        "positive": 5.7270637626061216e-05,
+        "negative": 0.0062792603857815266,
+        "neutral": 0.9936635494232178
+      },
+      {
+        "source": "news",
+        "id": "https://bringatrailer.com/listing/2008-mercedes-benz-e63-amg-24/",
+        "timestamp": "2025-12-05T22:48:17+00:00",
+        "text": "39k-Mile 2008 Mercedes-Benz E63 AMG at No Reserve \nThis 2008 Mercedes-Benz E63 AMG sedan has remained registered in Florida from new and now has 39k miles. The car is finished in Iridium Silver Metallic over black Nappa leather and is powered by a 6.2-liter V8 with a seven-speed automatic transmission. Equipm… \nThis 2008 Mercedes-Benz E63 AMG sedan has remained registered in Florida from new and now has 39k miles. The car is finished in Iridium Silver Metallic over black Nappa leather and is powered by a 6.… [+1968 chars]",
+        "positive": 3.413992817513645e-05,
+        "negative": 4.242095656081801e-06,
+        "neutral": 0.9999616146087646
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/",
+        "timestamp": "2025-12-05T22:47:33+00:00",
+        "text": "Scientists Develop an Octopus-Like 'Soft Robot' That Can Change Color \nMeet Octoid, the squishy robot that changes from blue to green to red. \nA research team in South Korea has developed a soft robot named Octoid that can mimic the movement and behavior of an octopus in its natural habitat. The robot's \"triple-in-one\" system enables it to … [+2699 chars]",
+        "positive": 0.028096972033381462,
+        "negative": 3.397807086003013e-05,
+        "neutral": 0.9718690514564514
+      },
+      {
+        "source": "news",
+        "id": "https://www.bostonherald.com/2025/12/05/wcup-draw-takeaways/",
+        "timestamp": "2025-12-05T22:47:00+00:00",
+        "text": "Music, comedy and a whole lot of Trump. And then finally, an actual World Cup draw \nCasual fans who tuned in out of curiosity learned that FIFA doesn’t really do understatement. \nBy NOAH TRISTER\r\nWASHINGTON (AP) The president of the United States danced to the Village People, Wayne Gretzky struggled to pronounce the names of underdog soccer nations from Europe and the Caribbe… [+6498 chars]",
+        "positive": 7.797677426424343e-06,
+        "negative": 0.00038520735688507557,
+        "neutral": 0.9996070265769958
+      },
+      {
+        "source": "news",
+        "id": "https://indianexpress.com/article/business/economy/repo-rate-cut-25-bp-to-5-25-rare-goldilocks-period-says-rbi-governor-10405107/",
+        "timestamp": "2025-12-05T22:46:39+00:00",
+        "text": "Repo rate cut 25 bp to 5.25%; ‘rare Goldilocks period’, says RBI Governor \nBuoyed by stronger-than-expected economic momentum and a steady cooling in inflation, the Reserve Bank of India’s Monetary Policy Committee (MPC) on Friday unanimously cut the repo rate by 25 basis points (bps) to 5.25 per cent, a move that is likely to bring… \nBuoyed by stronger-than-expected economic momentum and a steady cooling in inflation, the Reserve Bank of Indias Monetary Policy Committee (MPC) on Friday unanimously cut the repo rate by 25 basis po… [+4922 chars]",
+        "positive": 0.9999996423721313,
+        "negative": 1.9100326653642696e-07,
+        "neutral": 1.452402926815921e-07
+      },
+      {
+        "source": "news",
+        "id": "https://allthatsinteresting.com/england-rutland-villa-trojan-war-mosaic",
+        "timestamp": "2025-12-05T22:45:57+00:00",
+        "text": "Ancient Roman Mosaic Found In England Depicts A ‘Long-Lost’ Version Of The Trojan War \nExperts have now determined that the Ketton mosaic depicts a rare version of the Trojan War's climax from Phrygians, a play by the famous Greek dramatist Aeschylus that has since been lost to history.\nThe post Ancient Roman Mosaic Found In England Depicts A ‘… \nExperts have now determined that the Ketton mosaic depicts a rare version of the Trojan War's climax from Phrygians, a play by the famous Greek dramatist Aeschylus that has since been lost to history… [+5358 chars]",
+        "positive": 1.0039953849627636e-05,
+        "negative": 9.610970300855115e-05,
+        "neutral": 0.9998939037322998
+      },
       {
         "source": "news",
         "id": "https://www.foxsports.com/stories/soccer/fifa-world-cup-draw-2026-who-will-escape-group-death",
@@ -1022,30 +1130,12 @@
       },
       {
         "source": "news",
-        "id": "https://biztoc.com/x/1cac0f45cd5b0ec3",
-        "timestamp": "2025-12-05T21:43:06+00:00",
-        "text": "‘An attack on all American tech platforms’: Trump admin decries EU fine on Musk’s X \n‘An attack on all American tech platforms’: Trump admin decries EU fine on Musk’s X\nThe move adds another layer of tension to the EU’s strained relationship with Trump, as he’s threatened to impose additional tariffs on the EU if it continues to lob fines at … \nAn attack on all American tech platforms: Trump admin decries EU fine on Musks XThe move adds another layer of tension to the EUs strained relationship with Trump, as hes threatened to impose additio… [+143 chars]",
-        "positive": 0.004415400326251984,
-        "negative": 0.6144663095474243,
-        "neutral": 0.3811183273792267
-      },
-      {
-        "source": "news",
         "id": "http://9to5toys.com/2025/12/05/pansophy-is-personal-private-and-unlimited-ai-and-its-60-off-at-79-reg-199/",
         "timestamp": "2025-12-05T21:42:39+00:00",
         "text": "Pansophy is personal, private, and unlimited AI – and it’s 60% off at $79 (Reg. $199) \nWant a private, unlimited AI app right on your computer? Get a lifetime subscription to Pansophy Private Personal AI Desktop Assistant for 60% off at just $79 (Reg. $199).\n\n\n\n more… \nWant a private, unlimited AI app right on your computer? Get a lifetime subscription to Pansophy Private Personal AI Desktop Assistant for 60% off at just $79 (Reg. $199).\r\nThere are so many AI apps … [+1784 chars]",
         "positive": 6.269567620620364e-06,
         "negative": 3.357304422024754e-06,
         "neutral": 0.9999903440475464
-      },
-      {
-        "source": "news",
-        "id": "http://foreignpolicy.com/2025/12/05/trump-national-security-strategy-america-first/",
-        "timestamp": "2025-12-05T21:42:33+00:00",
-        "text": "Trump’s New National Security Strategy Goes Full ‘America First’ \nThe long-anticipated plan aims to selectively impose the U.S. president’s worldview around the globe. \nThe Trump administration released its long-anticipated new national security strategy late Thursday night, laying out a vision that attempts to reconcile U.S. global dominance with a U.S. retreat fro… [+11413 chars]",
-        "positive": 0.22422218322753906,
-        "negative": 0.00010220401600236073,
-        "neutral": 0.7756756544113159
       },
       {
         "source": "news",
@@ -1076,57 +1166,12 @@
       },
       {
         "source": "news",
-        "id": "https://comicbookmovie.com/tv/netflix/netflix-ceos-explain-why-theyre-buying-warner-bros-now-reveal-theyre-confident-about-regulators-approval-a225369",
-        "timestamp": "2025-12-05T21:40:00+00:00",
-        "text": "Netflix CEOs Explain Why They’re Buying Warner Bros. Now; Reveal They’re Confident About Regulators’ Approval \nFollowing the announcement that Netflix will be buying Warner Bros., the streamer’s co-CEOs have explained what drew them to purchase the company, and revealed being confident about deal going through. \nIn a historic move that has shaken the industry, Netflix is officially buying Warner Bros. and HBO Max. The announcement came after months of speculation and a tense bidding war involving the streame… [+3998 chars]",
-        "positive": 0.9999144077301025,
-        "negative": 6.149339810690435e-07,
-        "neutral": 8.504512516083196e-05
-      },
-      {
-        "source": "news",
-        "id": "https://comicbookmovie.com/tv/netflix/netflix-bosses-explain-why-theyre-buying-warner-bros-now-reveal-theyre-confident-in-regulators-approval-a225369",
-        "timestamp": "2025-12-05T21:40:00+00:00",
-        "text": "Netflix Bosses Explain Why They’re Buying Warner Bros. Now; Reveal They’re Confident In Regulators’ Approval \nFollowing the announcement that Netflix will be buying Warner Bros., the streamer’s co-CEOs have explained what drew them to purchase the company, and revealed being confident about deal going through. \nIn a historic move that has shaken the industry, Netflix is officially buying Warner Bros. and HBO Max. The announcement came after months of speculation and a tense bidding war involving the streame… [+3998 chars]",
-        "positive": 0.9996969699859619,
-        "negative": 1.5683148149037152e-06,
-        "neutral": 0.00030148756923153996
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/2011-porsche-boxster-s-14/",
-        "timestamp": "2025-12-05T21:39:45+00:00",
-        "text": "5k-Mile 2011 Porsche Boxster S 6-Speed at No Reserve \nThis 2011 Porsche Boxster S has remained registered in Florida from new and now has 5k miles. The car is powered by a 3.4-liter flat-six linked with a six-speed manual transaxle, and it is finished in Dark Blue over Sand Beige leather. Additional equipment in… \nThis 2011 Porsche Boxster S has remained registered in Florida from new and now has 5k miles. The car is powered by a 3.4-liter flat-six linked with a six-speed manual transaxle, and it is finished i… [+1902 chars]",
-        "positive": 9.51630045165075e-06,
-        "negative": 6.270951416809112e-06,
-        "neutral": 0.9999841451644897
-      },
-      {
-        "source": "news",
-        "id": "https://www.euractiv.com/news/electrification-of-industrial-power-still-lacks-political-momentum/",
-        "timestamp": "2025-12-05T21:39:15+00:00",
-        "text": "Electrification of industrial power still lacks political momentum \nAre power-intensive industrial sectors good or bad for the power system? It depends on where you start, say experts \nAt a time when the European Commission is positioning electrification as a central pillar of the emerging Clean Industrial Deal, energy experts and policymakers warn that Europe is not yet on the tra… [+5676 chars]",
-        "positive": 5.015218994230963e-05,
-        "negative": 0.9673507213592529,
-        "neutral": 0.03259912505745888
-      },
-      {
-        "source": "news",
         "id": "https://dailycaller.com/2025/12/05/new-zealand-thief-swallows-jewel-james-bond-faberge-007-police/",
         "timestamp": "2025-12-05T21:37:35+00:00",
         "text": "Alleged Thief Swallows Jewel Straight Out Of ‘Bond’ Film, Leaves Cops With Disgusting Task \nPolice recovered a James Bond-inspired Faberge pendant Thursday after a thief allegedly swallowed the item inside an Auckland, New Zealand, jewelry store. \nPolice recovered a James Bond-inspired Faberge pendant Thursday after a thief allegedly swallowed the item inside an Auckland, New Zealand jewelry store.\r\nNew Zealand Police (NZP) recovered the penda… [+2327 chars]",
         "positive": 0.002471666084602475,
         "negative": 0.020830465480685234,
         "neutral": 0.9766977429389954
-      },
-      {
-        "source": "news",
-        "id": "https://worldsoccertalk.com/news/lionel-messis-argentina-among-winners-kylian-mbappes-france-among-losers-of-the-fifa-2026-world-cup-draw/",
-        "timestamp": "2025-12-05T21:36:55+00:00",
-        "text": "Lionel Messi’s Argentina among winners, Kylian Mbappé’s France among losers of the FIFA 2026 World Cup Draw \nWith Lionel Messi’s Argentina among the winners and Kylian Mbappé’s France among the losers, the FIFA 2026 World Cup Draw has now mapped out each nation’s path through the tournament.\n The draw for the 2026 World Cup is complete, and with only six spots left … \nThe draw for the 2026 World Cup is complete, and with only six spots left to be decided during the March international break, most national teams now know their path to the global stage. With Lionel … [+2852 chars]",
-        "positive": 4.6100231543277914e-07,
-        "negative": 5.04434751746885e-07,
-        "neutral": 0.9999990463256836
       },
       {
         "source": "news",
@@ -1325,87 +1370,6 @@
         "positive": 0.00014295006985776126,
         "negative": 3.179873601766303e-05,
         "neutral": 0.9998252987861633
-      },
-      {
-        "source": "news",
-        "id": "https://japantoday.com/category/business/fresh-data-show-us-consumers-still-strained-by-inflation",
-        "timestamp": "2025-12-05T21:10:16+00:00",
-        "text": "Fresh data show U.S. consumers still strained by inflation \nU.S. consumer pricing and sentiment reports released Friday pointed to lingering questions about affordability as the calendar moves towards the peak of the festive season. The personal consumption expenditures (PCE) price index, the Federal Reserve's preferr… \nU.S. consumer pricing and sentiment reports released Friday pointed to lingering questions about affordability as the calendar moves towards the peak of the festive season.\r\nThe personal consumption … [+2563 chars]",
-        "positive": 4.6534491957572754e-06,
-        "negative": 0.9999682903289795,
-        "neutral": 2.7002552087651566e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/05/3200981/14069/en/Performance-Shipping-Inc-Provides-Update-on-Potential-Forward-Sale-Agreement-for-M-T-P-Sophia.html",
-        "timestamp": "2025-12-05T21:10:00+00:00",
-        "text": "Performance Shipping Inc. Provides Update on Potential Forward Sale Agreement for M/T P. Sophia \nATHENS, Greece, Dec. 05, 2025 (GLOBE NEWSWIRE) -- Performance Shipping Inc. (NASDAQ: PSHG) (“we” or the “Company”), a global shipping company specializing in the ownership of tanker vessels, today announced that the previously disclosed potential forward sale… \nATHENS, Greece, Dec. 05, 2025 (GLOBE NEWSWIRE) -- Performance Shipping Inc. (NASDAQ: PSHG) (we or the Company), a global shipping company specializing in the ownership of tanker vessels, today announ… [+4389 chars]",
-        "positive": 1.86687884706771e-05,
-        "negative": 3.1243637295119697e-06,
-        "neutral": 0.9999781847000122
-      },
-      {
-        "source": "news",
-        "id": "https://cointelegraph.com/news/tether-solvency-fears-misplaced-coinshares-stablecoin-surplus",
-        "timestamp": "2025-12-05T21:09:50+00:00",
-        "text": "Tether solvency fears are ‘misplaced’ as company sits on large surplus: CoinShares \nJames Butterfill counters claims about Tether’s solvency, pointing to a multibillion-dollar surplus despite new criticism from Arthur Hayes and S&P Global. \nConcerns about stablecoin issuer Tethers financial stability resurfaced this week after BitMEX founder Arthur Hayes warned the company could face serious trouble if the value of its reserve assets we… [+2119 chars]",
-        "positive": 7.675951565033756e-06,
-        "negative": 0.9999921321868896,
-        "neutral": 2.2082726047756296e-07
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/b10e9b89ccab84ee",
-        "timestamp": "2025-12-05T21:09:38+00:00",
-        "text": "Dow ends up over 100 points, S&P 500 and Nasdaq log 4th straight day of gains \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix buying Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Metas metaverse cut… [+912 chars]",
-        "positive": 0.004033296834677458,
-        "negative": 1.0687691428756807e-05,
-        "neutral": 0.9959560036659241
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/a2f927209e459307",
-        "timestamp": "2025-12-05T21:09:33+00:00",
-        "text": "‘No basis in reality’: Steve Rattner fact-checks Trump on inflation, affordability \n“Morning Joe” economic analyst Steve Rattner broke out his charts on Friday to fact-check Donald Trump’s false claims about the economy, which he said have “no basis in reality.” \nDuring a Cabinet meeting on Tuesday, Trump said he had inherited the “worst inf… \nMorning Joe economic analyst Steve Rattner broke out his charts on Friday to fact-check Donald Trumps false claims about the economy, which he said have no basis in reality. During a Cabinet meeting … [+130 chars]",
-        "positive": 2.4578837837907486e-05,
-        "negative": 0.001158497529104352,
-        "neutral": 0.998816967010498
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/481e76aa208126d8",
-        "timestamp": "2025-12-05T21:09:29+00:00",
-        "text": "US closes higher after PCE data \nUS markets closed higher on Friday after fresh inflation data offered investors some relief ahead of next week's policy decision. Personal consumption expenditures (PCE) rose 0.3% or $65.1 billion in ... \nUS markets closed higher on Friday after fresh inflation data offered investors some relief ahead of next week's policy decision. Personal consumption expenditures (PCE) rose 0.3% or $65.1 billion in… [+69 chars]",
-        "positive": 0.9819424748420715,
-        "negative": 0.00044898007763549685,
-        "neutral": 0.017608532682061195
-      },
-      {
-        "source": "news",
-        "id": "https://finance.yahoo.com/personal-finance/banking/article/banking-rewards-hacks-holiday-cash-210657741.html",
-        "timestamp": "2025-12-05T21:06:57+00:00",
-        "text": "5 easy banking and rewards hacks to maximize your holiday cash \nLearn how bank bonuses, credit card rewards, referral programs, and smart shopping can help you boost your holiday cash without taking on extra debt. \nHoliday spending often winds up costing a lot more than people expect. Travel, gifts, food, and year-end commitments can add up fast.\r\nThe good news is you can tap into several banking and rewards st… [+6603 chars]",
-        "positive": 0.8104385733604431,
-        "negative": 0.0002347954869037494,
-        "neutral": 0.1893267035484314
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/1970-harley-davidson-m65s-sport-leggero/",
-        "timestamp": "2025-12-05T21:06:09+00:00",
-        "text": "1970 Harley-Davidson M65S Sport Leggero at No Reserve \nThis 1970 Harley-Davidson M65S Sport Leggero is powered by a 65cc two-stroke single paired with a three-speed manual transmission and is finished in gold with black accents and silver fenders. It features a left-side foot shifter, drum brakes, an 80-mph speed… \nThis 1970 Harley-Davidson M65S Sport Leggero is powered by a 65cc two-stroke single paired with a three-speed manual transmission and is finished in gold with black accents and silver fenders. It fea… [+1798 chars]",
-        "positive": 0.00013339151337277144,
-        "negative": 1.9071669157710858e-05,
-        "neutral": 0.9998475313186646
-      },
-      {
-        "source": "news",
-        "id": "https://japantoday.com/category/sports/chiba-is-surprise-leader-after-figure-skating-favorites-falter-at-grand-prix-final",
-        "timestamp": "2025-12-05T21:05:56+00:00",
-        "text": "Chiba is surprise leader after figure skating favorites falter at Grand Prix Final \nJapan’s Mone Chiba emerged as the surprise leader in the women's short program at the figure skating Grand Prix Final after several favorites stumbled on Friday. Three-time world champion Kaori Sakamoto and defending Grand Prix Final champion Amber Glenn made… \nJapans Mone Chiba emerged as the surprise leader in the women's short program at the figure skating Grand Prix Final after several favorites stumbled on Friday.\r\nThree-time world champion Kaori Sakam… [+2843 chars]",
-        "positive": 0.9522678256034851,
-        "negative": 0.001626499812118709,
-        "neutral": 0.04610571265220642
       },
       {
         "source": "news",
@@ -25204,9 +25168,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.4919777752436455,
-    "nw_norm": 74.59888876218228
+    "nw": 0.516124581046065,
+    "nw_norm": 75.80622905230325
   },
-  "gsi": 74.59888876218228,
-  "classification": "Bullish"
+  "gsi": 75.80622905230325,
+  "classification": "Extremely Bullish"
 }
