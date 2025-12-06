@@ -1,8 +1,197 @@
 {
-  "timestamp": "2025-12-06T03:43:10.857314+00:00",
+  "timestamp": "2025-12-06T04:04:35.986778+00:00",
   "news": {
-    "count": 2817,
+    "count": 2815,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.bloomberg.com/news/articles/2025-12-04/silver-steady-after-profit-taking-brings-end-to-eight-day-rally",
+        "timestamp": "2025-12-05T03:51:48+00:00",
+        "text": "Silver extends retreat from record high as traders book profits \nThe white metal fell below $57 an ounce, having lost more than 2% in the previous session to snap an eight-day winning streak \nSilver extended its retreat from an all-time high earlier in the week, as traders took profits from a rally that had become overheated. Gold also slipped.\r\nThe white metal fell below $57 an ounce, ha… [+1446 chars]",
+        "positive": 0.0032332492992281914,
+        "negative": 0.9967570900917053,
+        "neutral": 9.672639862401411e-06
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-highlights-december-5-governor-sanjay-malhotra-monetary-policy-committee-meeting-key-announcements/articleshow/125779958.cms",
+        "timestamp": "2025-12-05T03:51:44+00:00",
+        "text": "RBI MPC meet highlights: Will Sanjay Malhotra announce a rate cut? Quick policy summary & key decisions \nThe Reserve Bank of India's Monetary Policy Committee is set to announce its decision, with markets divided on a potential 25-basis-point rate cut or a status quo. Strong GDP growth and cooling inflation suggest room for easing, but the RBI might maintain its… \nThe Reserve Bank of Indias Monetary Policy Committee (MPC) has wrapped up its three-day deliberation, with RBI Governor Sanjay Malhotra set to announce the bi-monthly monetary policy on Friday. Marke… [+2658 chars]",
+        "positive": 0.007526178378611803,
+        "negative": 5.321911521605216e-05,
+        "neutral": 0.9924206137657166
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/copper-rises-to-record-on-bullish-citi-outlook-supply-concerns",
+        "timestamp": "2025-12-05T03:50:33+00:00",
+        "text": "Copper Rises to Record on Bullish Citi Outlook, Supply Concerns \nCopper rose to a record, underpinned by a bullish price outlook from Citigroup Inc. and a looming supply-demand imbalance. \n(Bloomberg) Copper rose to a record, underpinned by a bullish price outlook from Citigroup Inc. and a looming supply-demand imbalance.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to… [+4059 chars]",
+        "positive": 1.0,
+        "negative": 4.629729932759119e-09,
+        "neutral": 1.2733865517589038e-08
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbsnews.com/pittsburgh/news/pittsburgh-attorney-complaint-colombian-fisherman-boat-strike/",
+        "timestamp": "2025-12-05T03:50:29+00:00",
+        "text": "Pittsburgh attorney files complaint for family of Colombian man killed in U.S. boat strike \nA Pittsburgh attorney has filed a petition on behalf of the family of a Colombian man killed in a U.S. military strike on a boat in the Caribbean. \nAn attorney in Pittsburgh has filed a human rights petition on behalf of the family of a Colombian man who was killed in a U.S. military strike on a boat in the Caribbean.\r\nWhile the Trump administra… [+2753 chars]",
+        "positive": 0.0019094173330813646,
+        "negative": 0.09239397197961807,
+        "neutral": 0.9056965708732605
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/magazines/panache/allu-arjun-pushpa-2-stampede-injured-boys-father-says-rs-2-crore-not-enough-to-keep-his-child-alive/articleshow/125779732.cms",
+        "timestamp": "2025-12-05T03:48:53+00:00",
+        "text": "Allu Arjun Pushpa 2 stampede: Injured boy's father says Rs 2 crore not enough to keep his child alive \nA year after a fatal stampede at a Pushpa 2 screening, the father of critically injured eight-year-old Sritej reveals ongoing struggles despite a Rs 2 crore ex gratia.  While the boy requires long-term neuro-rehabilitation and faces mounting medical bills, hi… \nA chaotic night at a Hyderabad theatre has returned to the spotlight, a year after the tragic stampede during the release of Pushpa 2: The Rule. What began as a fan frenzy during Allu Arjuns visit on… [+3260 chars]",
+        "positive": 8.883763803169131e-05,
+        "negative": 0.9992629885673523,
+        "neutral": 0.0006481732125394046
+      },
+      {
+        "source": "news",
+        "id": "https://www.digitimes.com/news/a20251205PD203/infineon-innoscience-gan-patent-infringement-lawsuit-supply-chain.html",
+        "timestamp": "2025-12-05T03:48:51+00:00",
+        "text": "Infineon's GaN patent wall forces global firms to rethink China ties \nIn the global power-device supply chain, influence is shifting quickly as AI computing demand and geopolitical tension intensify. Although AI data centers urgently need gallium nitride (GaN) devices, Infineon has used litigation to build a formidable barrier … \nSave my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
+        "positive": 0.11603114008903503,
+        "negative": 0.01853141561150551,
+        "neutral": 0.8654374480247498
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/b9b89d5f0aeaf77e",
+        "timestamp": "2025-12-05T03:47:46+00:00",
+        "text": "US and Canadian authorities warn that Chinese hackers are using the Brickstorm malware to install backdoor access within unnamed government and IT entities \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+727 chars]",
+        "positive": 0.0010100954677909613,
+        "negative": 0.002171312225982547,
+        "neutral": 0.9968186616897583
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/2056c2642194e1e5",
+        "timestamp": "2025-12-05T03:47:44+00:00",
+        "text": "Netflix enters exclusive talks to acquire Warner Bros Discovery studio and streaming service, Bloomberg News reporter says \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+746 chars]",
+        "positive": 0.00019880462787114084,
+        "negative": 9.469010365137365e-06,
+        "neutral": 0.9997918009757996
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/523f924f276cfaaf",
+        "timestamp": "2025-12-05T03:47:38+00:00",
+        "text": "Warner Bros. Is Said to Begin Exclusive Deal Talks With Netflix \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+726 chars]",
+        "positive": 1.1300769983790815e-05,
+        "negative": 2.3541924747405574e-06,
+        "neutral": 0.9999862909317017
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/e90b5babdd4b0851",
+        "timestamp": "2025-12-05T03:47:36+00:00",
+        "text": "Barclays promotes 118 people to managing director — here are the names \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+716 chars]",
+        "positive": 6.267493972700322e-06,
+        "negative": 2.314971197847626e-06,
+        "neutral": 0.9999914169311523
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2025-12-05/stolen-specialised-running-equipment-returned-by-police/106105922",
+        "timestamp": "2025-12-05T03:47:10+00:00",
+        "text": "Runner wept when police returned stolen specialised gear \nWhen Mick Marshall's car was stolen, he was more concerned about what was inside the vehicle than the car itself, and the training he would likely miss. \nRunning is more than just a hobby for Mick Marshall, it is a reason to get up in the morning. \r\nSo when the custom-made assistance gear he needs to run after a life-changing workplace fall in 2021 wa… [+2800 chars]",
+        "positive": 5.341703217709437e-05,
+        "negative": 0.0017508149612694979,
+        "neutral": 0.9981958270072937
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2025-12-05/six-native-trees-poisoned-along-noosas-sunshine-beach/106105402",
+        "timestamp": "2025-12-05T03:45:46+00:00",
+        "text": "Native trees poisoned along beach in exclusive township where homes sell for millions \nSix Australian native trees have been poisoned on public land along one of Queensland's most expensive and exclusive beachside streets. \nSix Australian native trees have been poisoned on public land along one of Queensland's most expensive and exclusive beachside streets.\r\nThe Noosa Council says the \"very intentional and calculated ac… [+4418 chars]",
+        "positive": 4.77371168017271e-06,
+        "negative": 4.139178599871229e-06,
+        "neutral": 0.9999910593032837
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2025/12/04/us-news/trump-admin-making-good-on-promise-to-send-more-water-to-california-farms/",
+        "timestamp": "2025-12-05T03:45:16+00:00",
+        "text": "Trump admin making good on promise to send more water to California farms \nThe Trump administration has sent more water to California farmers across the Central Valley. \nThe Trump administration is making good on a promise to send more water to California farmers in the states crop-rich Central Valley.\r\nThe US Bureau of Reclamation on Thursday announced a new plan fo… [+3961 chars]",
+        "positive": 0.9999964237213135,
+        "negative": 5.600706742825423e-08,
+        "neutral": 3.548030690581072e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.ndtvprofit.com/economy-finance/rupee-strengthens-against-us-dollar-before-mpc-meet-outcome",
+        "timestamp": "2025-12-05T03:45:09+00:00",
+        "text": "Rupee Strengthens Against US Dollar Before MPC Meet Outcome But Still Above 90 \nThe rupee opened stronger against the US dollar as market participants await the outcome of the Reserve Bank of India's Monetary Policy Committee. The currency opened 13 paise stronger at 89.85 against the greenback. \nThe USDINR pair touched the upper channel near 90.50 and pulled back, showing a pause after the sharp rise. The pair is steady below 90, with support at the 89.60 and then 89.1088.80. The trend stays… [+502 chars]",
+        "positive": 0.404184490442276,
+        "negative": 0.07078058272600174,
+        "neutral": 0.5250349044799805
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/hul-demerger-record-date-today-what-it-means-for-shareholders-key-details-to-know/articleshow/125779947.cms",
+        "timestamp": "2025-12-05T03:42:48+00:00",
+        "text": "HUL demerger record date today: What it means for shareholders & key details to know \nHindustan Unilever's ice-cream business, Kwality Wall's, is officially spinning off today, December 5th, with shareholders set to receive new shares. This strategic move aims to unlock value by creating a standalone entity for its rapidly growing ice-cream ve… \nHindustan Unilever's long-awaited ice-cream demerger moves into its final lap today, with December 5 set as the record date to determine which shareholders will receive shares of the newly formed Kwa… [+4237 chars]",
+        "positive": 0.0026092238258570433,
+        "negative": 6.34810930932872e-07,
+        "neutral": 0.9973902106285095
+      },
+      {
+        "source": "news",
+        "id": "https://www.fool.com.au/2025/12/05/own-nib-shares-here-are-the-key-dates-for-2026/",
+        "timestamp": "2025-12-05T03:42:42+00:00",
+        "text": "Own NIB shares? Here are the key dates for 2026 \nNIB has released its corporate calendar, including dividend dates, for 2026.\nThe post Own NIB shares? Here are the key dates for 2026 appeared first on The Motley Fool Australia. \nThe NIB Holdings Ltd (ASX: NHF) share price is down 2.47% to $6.71 on Friday.\r\nA scathing new report shows Australians are paying more for private health insurance policies but receiving fewer benefi… [+2745 chars]",
+        "positive": 0.0009831383358687162,
+        "negative": 0.02359059639275074,
+        "neutral": 0.975426197052002
+      },
+      {
+        "source": "news",
+        "id": "https://clutchpoints.com/ncaa-football/college-football-playoff-news-kirk-herbstreit-conference-cfp-drama",
+        "timestamp": "2025-12-05T03:41:40+00:00",
+        "text": "Kirk Herbstreit makes scheduling plea to top teams amid CFP drama \nKirk Herbstreit warns college football programs about dangerous scheduling trend emerging from CFP selection committee decisions. \nThe post Kirk Herbstreit makes scheduling plea to top teams amid CFP drama appeared first on ClutchPoints.\r\nThe College Football Playoffs expanded format has sparked a scheduling crisis. With program… [+2444 chars]",
+        "positive": 0.00020875278278253973,
+        "negative": 0.9824926853179932,
+        "neutral": 0.017298582941293716
+      },
+      {
+        "source": "news",
+        "id": "https://www.forbes.com/sites/guymartin/2025/12/04/a-hogshead-of-macallan-rolls-under-the-sothebys-hammer/",
+        "timestamp": "2025-12-05T03:39:14+00:00",
+        "text": "A Hogshead Of Macallan Rolls Under The Sotheby’s Hammer \nThe 32-year-old oak barrel of 135.98 liters of the renowned Scots whiskey is getting silky-smooth. Which is why it carries an estimate of: $360,000 to $470,000. \nThe 1993 Macallan Hogshead No. 4378: Approximately 194 bottles of pure Scots bliss.\r\nPhoto Credit: Sotheby's\r\nThe Macallan-Glenlivet Distillerys Hogshead No. 4378 does not, at first blush, look like … [+4063 chars]",
+        "positive": 1.2954474470916466e-07,
+        "negative": 1.8400899080006639e-06,
+        "neutral": 0.9999980926513672
+      },
+      {
+        "source": "news",
+        "id": "https://www.digitaljournal.com/world/in-indias-mining-belt-women-spark-hope-with-solar-lamps/article",
+        "timestamp": "2025-12-05T03:38:20+00:00",
+        "text": "In India’s mining belt, women spark hope with solar lamps \nSantosh Devi is proud to have brought light — and hope — to her hamlet in western India, taking up solar engineering through a programme for women like her whose husbands suffer chronic disease from mining work. Her husband is bedridden with silicosis, a resp… \nSantosh Devi completed a solar engineering course in rural India, now earning a small income by installing panels - Copyright AFP HIMANSHU SHARMA \r\nSantosh Devi is proud to have brought light — and h… [+4528 chars]",
+        "positive": 0.997225821018219,
+        "negative": 7.169459877331974e-06,
+        "neutral": 0.0027669917326420546
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/ca6de3912df0e1e1",
+        "timestamp": "2025-12-05T03:36:18+00:00",
+        "text": "British American Tobacco Looks to Sell Down ITC Hotels Stake to Reduce Debt \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+718 chars]",
+        "positive": 0.00040131801506504416,
+        "negative": 0.00011116939276689664,
+        "neutral": 0.9994875192642212
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/8b9545bad014233c",
+        "timestamp": "2025-12-05T03:36:16+00:00",
+        "text": "Iron Ore Slips on Seasonal Softening and as China Meeting Looms \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+727 chars]",
+        "positive": 0.00130114471539855,
+        "negative": 0.01720433309674263,
+        "neutral": 0.9814945459365845
+      },
       {
         "source": "news",
         "id": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/in-indias-mining-belt-women-spark-hope-with-solar-lamps/articleshow/125779873.cms",
@@ -779,15 +968,6 @@
       },
       {
         "source": "news",
-        "id": "https://thefly.com/permalinks/entry.php/id4250790/DPMLF-DPM-Metals-price-target-raised-by-C-at-National-Bank-heres-why",
-        "timestamp": "2025-12-05T02:28:46+00:00",
-        "text": "DPM Metals price target raised by C$2.50 at National Bank, here's why \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
-        "positive": 0.043485499918460846,
-        "negative": 1.9589838302636053e-06,
-        "neutral": 0.9565125107765198
-      },
-      {
-        "source": "news",
         "id": "https://www.eonline.com/news/1425870/kim-cattrall-russell-thomas-married-in-london-wedding",
         "timestamp": "2025-12-05T02:24:43+00:00",
         "text": "Kim Cattrall Marries Russell Thomas in London Wedding \nBreak out the celebratory cosmos... Kim Cattrall is married!\nThe Sex and the City alum tied the knot with Russell Thomas in an intimate London ceremony attended by only 12 guests on Dec. 4, per... \nBreak out the celebratory cosmos... Kim Cattrall is married!\r\nThe Sex and the Cityalum tied the knot with Russell Thomas in an intimate London ceremony attended by only 12 guests on Dec. 4, per photo… [+834 chars]",
@@ -797,30 +977,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.pennlive.com/health/2025/12/after-shutdown-federal-employees-face-new-uncertainty-affording-health-insurance.html",
-        "timestamp": "2025-12-05T02:24:39+00:00",
-        "text": "After shutdown, federal employees face new uncertainty: affording health insurance \nAbout 42% of federal employees are over the age of 50, compared with 33% in the general workforce, the Office of Personnel Management says. About 7% of federal employees are under the age of 30, compared with about 20% of workers overall. \nBy Phil Galewitz, KFF Health News (TNS)\r\nLarry Humphreys, a retired Federal Emergency Management Agency worker in Moultrie, Georgia, says he and his wife wont be traveling much next year after their … [+8226 chars]",
-        "positive": 4.3941239709965885e-05,
-        "negative": 0.04087172448635101,
-        "neutral": 0.9590843319892883
-      },
-      {
-        "source": "news",
         "id": "https://www.spacewar.com/reports/Arms_makers_see_record_revenues_as_tensions_fuel_demand_report_999.html",
         "timestamp": "2025-12-05T02:22:51+00:00",
         "text": "Arms makers see record revenues as global tensions fuel demand \nStockholm (AFP) Nov 30, 2025\n\n\n Sales by the world's top 100 arms makers reached a record $679 billion last year, as the wars in Ukraine and Gaza boosted demand, researchers said Monday, but production issues hampered deliveries. \n\nThe figure was 5.9 percent … \nBy Johannes LEDELStockholm (AFP) Nov 30, 2025\r\nSales by the world's top 100 arms makers reached a record $679 billion last year, as the wars in Ukraine and Gaza boosted demand, researchers said Monda… [+4438 chars]",
         "positive": 1.0,
         "negative": 5.7137405917728756e-08,
         "neutral": 3.510672641482415e-08
-      },
-      {
-        "source": "news",
-        "id": "https://clutchpoints.com/ncaa-football/kansas-state-football-hires-legend-texas-am-next-hc",
-        "timestamp": "2025-12-05T02:20:33+00:00",
-        "text": "Kansas State football officially hires program legend away from Texas A&M as next HC \nKansas State is bringing back home one of its most beloved program legends to coach the Wildcats after Chris Klieman's retirement. \nThe post Kansas State football officially hires program legend away from Texas A&amp;M as next HC appeared first on ClutchPoints.\r\nOne day after the retirement of head football coach Chris Klieman, K… [+2587 chars]",
-        "positive": 7.261530117830262e-05,
-        "negative": 6.856264008092694e-06,
-        "neutral": 0.9999204874038696
       },
       {
         "source": "news",
@@ -851,69 +1013,6 @@
       },
       {
         "source": "news",
-        "id": "https://paultan.org/2025/12/05/honda-cr-v-dual-tone-edition-black-roof-version-to-mark-25th-year-in-malaysia-300-units-from-rm170k/",
-        "timestamp": "2025-12-05T02:18:38+00:00",
-        "text": "Honda CR-V Dual-Tone Edition – black roof version to mark 25th year in Malaysia, 300 units, from RM170k \nLast month, Honda Malaysia announced the introduction of the CR-V Dual-Tone Edition, a 300-unit limited-run version designed to commemorate the company’s 25th anniversary of operations in Malaysia. As the suffix suggests, the sixth-gen model – […]\nThe post Ho… \nLast month, Honda Malaysia announced the introduction of the CR-V Dual-Tone Edition, a 300-unit limited-run version designed to commemorate the companys 25th anniversary of operations in Malaysia. \r\n… [+1196 chars]",
-        "positive": 0.0002830344019457698,
-        "negative": 2.805918120429851e-05,
-        "neutral": 0.999688982963562
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/industry/cons-products/electronics/smartphones-turn-dearer-as-memory-chip-prices-surge/articleshow/125778722.cms",
-        "timestamp": "2025-12-05T02:18:34+00:00",
-        "text": "Smartphones turn dearer as memory chip prices surge \nSmartphone memory prices are surging, forcing brands to raise device costs. Storage and memory module prices will continue to climb through 2026. This impacts demand, especially for budget smartphones.  Brands like Vivo, Oppo, and Realme are increasing prices… \nNew Delhi: Smartphone memory prices saw yet another sharp spike in November, leading to another round of price increases by brands. Contract prices of both storage and memory modules are set to go up… [+2611 chars]",
-        "positive": 0.9317851066589355,
-        "negative": 0.031779032200574875,
-        "neutral": 0.036435868591070175
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/aa54c8eaeefc86ea",
-        "timestamp": "2025-12-05T02:18:08+00:00",
-        "text": "Springfield government contractor De Lune Corp pivots to new markets after federal funding cuts hit operations \nPreview this article 1 min\nThe self-proclaimed optimist refused to lay off any of his company’s 10 employees, even as contracts froze.\nPreview this article 1 min\nThe self-proclaimed optimist refused to lay off any of his company’s 10 employees, even as contra… \nPreview this article 1 minThe self-proclaimed optimist refused to lay off any of his companys 10 employees, even as contracts froze.Preview this article 1 minThe self-proclaimed optimist refused to l… [+126 chars]",
-        "positive": 0.00016774979303590953,
-        "negative": 0.7033148407936096,
-        "neutral": 0.29651740193367004
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/4af7804f9ccfbc23",
-        "timestamp": "2025-12-05T02:17:52+00:00",
-        "text": "China’s $1.3 Trillion Stock Rally Risks Underperforming US Peers \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+727 chars]",
-        "positive": 0.0024446051102131605,
-        "negative": 0.15674647688865662,
-        "neutral": 0.8408089280128479
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/86539eda9b0bb8d9",
-        "timestamp": "2025-12-05T02:17:42+00:00",
-        "text": "Wegovy’s prices are going down, but they are ‘wildly different’ — and confusing \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+763 chars]",
-        "positive": 0.00015986768994480371,
-        "negative": 0.0032054109033197165,
-        "neutral": 0.9966346621513367
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/6bd9941f07c5107c",
-        "timestamp": "2025-12-05T02:17:42+00:00",
-        "text": "Toyota Unveils Concept LFA Supercar and It’s an Electric Vehicle \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+728 chars]",
-        "positive": 5.220661478233524e-05,
-        "negative": 2.3469261577702127e-05,
-        "neutral": 0.9999243021011353
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/e2d680a665dc4851",
-        "timestamp": "2025-12-05T02:17:41+00:00",
-        "text": "Asia mostly lower after Wall Street's quiet close \nAsia-Pacific markets traded mostly lower on Friday after Wall Street saw a relatively quiet close on Thursday.South Korea's Kospi Composite went up by 0.64% at 3:02 am CET. Japan's Nikkei 225 fell by ... \nAsia-Pacific markets traded mostly lower on Friday after Wall Street saw a relatively quiet close on Thursday.South Korea's Kospi Composite went up by 0.64% at 3:02 am CET. Japan's Nikkei 225 fell by… [+69 chars]",
-        "positive": 0.033486369997262955,
-        "negative": 0.02577046863734722,
-        "neutral": 0.9407432079315186
-      },
-      {
-        "source": "news",
         "id": "https://english.khabarhub.com/2025/05/510204/",
         "timestamp": "2025-12-05T02:15:50+00:00",
         "text": "Economic Digest: Nepal’s Business News in a Snap \nKATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. The government and key institutions in Nepal are taking a mix of regulatory, economic, and infrastruc… \nKATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries.\r\nThe government and key institutions in N… [+14175 chars]",
@@ -923,66 +1022,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.tmz.com/2025/12/04/usher-big-sean-million-dollar-pledge-michigan/",
-        "timestamp": "2025-12-05T02:15:35+00:00",
-        "text": "Usher & Big Sean Pledge $1M to Michigan Central Boys & Girls Club \nUsher and Big Sean are partnering up for a $1 million investment that will guide today's kids of Detroit into the future leaders of tomorrow!!! \nUsher and Big Sean are partnering up for a $1 million investment that will guide today's kids of Detroit into the future leaders of tomorrow!!!\r\nOn Thursday, the two music megastars announced the Det… [+889 chars]",
-        "positive": 0.00011527645256137475,
-        "negative": 4.056945272168377e-06,
-        "neutral": 0.9998806715011597
-      },
-      {
-        "source": "news",
-        "id": "https://www.ndtvprofit.com/markets/ubs-raises-rupees-range-forecast-to-9092-per-dollar-in-2026-as-it-sees-near-term-risks",
-        "timestamp": "2025-12-05T02:15:11+00:00",
-        "text": "UBS Raises Rupee's Range Forecast To 90–92 Per Dollar In 2026 As It Sees Near-Term Risks \nThe Indian rupee may move between of 90–92 per US dollar range through March 2026 to December 2026, according to UBS Global Research. Near-term downside pressures are at play for the domestic currency, but there could be positive news ahead. \nThe Indian rupee may move between of 9092 per US dollar range through March 2026 to December 2026, according to UBS Global Research. Near-term downside pressures are at play for the domestic currency… [+1108 chars]",
-        "positive": 0.17865465581417084,
-        "negative": 0.7327937483787537,
-        "neutral": 0.08855155110359192
-      },
-      {
-        "source": "news",
-        "id": "https://nep123.com/iphone-17-boosts-2025-smartphone-shipments/",
-        "timestamp": "2025-12-05T02:14:21+00:00",
-        "text": "iPhone 17 Boosts 2025 Smartphone Shipments \nGlobal Smartphone Shipments Poised for Growth in 2025 Driven by iPhone 17 Demand Exciting news for the smartphone industry! Global smartphone shipments are projected to increase by 1.5% in 2025, fueled by strong demand for the upcoming iPhone 17 series. This … \nGlobal Smartphone Shipments Poised for Growth in 2025 Driven by iPhone 17 Demand\r\nExciting news for the smartphone industry! Global smartphone shipments are projected to increase by 1.5% in 2025, fue… [+1688 chars]",
-        "positive": 1.0,
-        "negative": 3.6506244693867984e-09,
-        "neutral": 6.961351495249346e-09
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bans-influencer-avadhut-sathe-from-stock-market-and-orders-return-of-rs-601-crore/articleshow/125778677.cms",
-        "timestamp": "2025-12-05T02:13:46+00:00",
-        "text": "Sebi bans influencer Avadhut Sathe from stock market and orders return of Rs 601 crore \nSebi has cracked down on Avadhut Sathe and his firm, Avadhut Sathe Trading Academy. They are banned from the stock market and must return Rs 601.37 crore. This money was collected from over 3.37 lakh investors. Sathe provided unregistered investment advice an… \n(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
-        "positive": 1.7809795735956868e-06,
-        "negative": 2.3934853743412532e-05,
-        "neutral": 0.999974250793457
-      },
-      {
-        "source": "news",
         "id": "https://www.ndtvprofit.com/markets/nifty-bank-on-watch-rbi-mpc-to-deliver-rate-cut-verdict-amid-steep-fall-in-inflation",
         "timestamp": "2025-12-05T02:10:23+00:00",
         "text": "Nifty Bank On Watch: RBI MPC To Deliver Rate Cut Verdict Amid Steep Fall In Inflation \nNifty Bank will be in sharp focus ahead of the RBI’s Monetary Policy Committee decision, with the six-member panel set to announce its verdict on interest rates on Friday at 10:00 a.m. RBI Governor Sanjay Malhotra will deliver the policy outcome. \nNifty Bank will be in sharp focus ahead of the RBIs Monetary Policy Committee decision, with the six-member panel set to announce its verdict on interest rates on Friday at 10:00 a.m. RBI Governor Sa… [+1633 chars]",
         "positive": 0.00615705968812108,
         "negative": 5.6682365539018065e-05,
         "neutral": 0.9937863349914551
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/trump-administration-to-direct-more-water-to-california-farms",
-        "timestamp": "2025-12-05T02:08:31+00:00",
-        "text": "Trump administration to direct more water to California farms \nSACRAMENTO, Calif. (AP) — The Trump administration is making good on a promise to send more water to California farmers in the state’s crop-rich Central Valley. The U.S. Bureau of Reclamation on Thursday announced a new plan for operating the Central Valley P… \nSACRAMENTO, Calif. (AP) The Trump administration is making good on a promise to send more water to California farmers in the states crop-rich Central Valley.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS… [+4993 chars]",
-        "positive": 0.9998242259025574,
-        "negative": 6.126489893176768e-07,
-        "neutral": 0.00017519401444587857
-      },
-      {
-        "source": "news",
-        "id": "https://www.cjonline.com/story/sports/college/cat-zone/2025/12/04/collin-klein-kansas-state-football-coach-greatest-moments-chris-klieman-bill-snyder/87612670007/",
-        "timestamp": "2025-12-05T02:07:05+00:00",
-        "text": "Collin Klein's greatest Kansas State football moments (so far) \nCollin Klein is Kansas State's next head football coach. Here's a look back at the greatest moments of his Wildcats career. \nMANHATTAN Collin Klein is Kansas State's new football coach, returning to Manhattan, where he became one of the most beloved players ever to put on a Wildcats uniform.\r\nFans have dreamt of Klein's re… [+7505 chars]",
-        "positive": 0.000501026981510222,
-        "negative": 1.8487577108317055e-05,
-        "neutral": 0.9994805455207825
       },
       {
         "source": "news",
@@ -1496,69 +1541,6 @@
         "positive": 0.00025940360501408577,
         "negative": 0.26807478070259094,
         "neutral": 0.731665849685669
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-actor-sanjay-dutts-iconic-roles-from-the-90s/photostory/125775533.cms",
-        "timestamp": "2025-12-05T00:10:04+00:00",
-        "text": "'Dhurandhar' actor Sanjay Dutt's iconic roles from '90s \nDecember brings the energy, chaos, and adrenaline with it, whether it’s an early morning feast or the dreamy twinkling skies in the night. Taking a step ahead with the spy universe in cinema, ‘Dhurandhar’ releases today with the critically acclaimed star cast… \n50 tola, 50 tola. Kitna? 50 tola, said Sanjay Dutt in the film Vaastav: The Reality. The dialogue often gets referenced by the fanatics when the talks of gold start to flutter. Directed by Mahesh Man… [+315 chars]",
-        "positive": 3.3617041026445804e-06,
-        "negative": 2.3176023660198553e-06,
-        "neutral": 0.9999943971633911
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/vio-heads-to-scourt-after-losing-vehicle-impoundment-appeal/",
-        "timestamp": "2025-12-05T00:08:38+00:00",
-        "text": "VIO heads to S’Court after losing vehicle impoundment appeal \nThe Court of Appeal has upheld a ruling barring VIOs from vehicle impoundment and fining motorists in Abuja. The DRTS plans to appeal to the Supreme Court.\n\nRead More: https://punchng.com/vio-heads-to-scourt-after-losing-vehicle-impoundment-appeal/ \nThe Department of Road Traffic Services, also known as Vehicle Inspection Officers, has said it will certainly appeal a judgment barring it from imposing fines or impounding vehicles of offending mot… [+4122 chars]",
-        "positive": 0.0014172918163239956,
-        "negative": 0.013028302229940891,
-        "neutral": 0.9855544567108154
-      },
-      {
-        "source": "news",
-        "id": "https://www.wlky.com/article/sba-low-interest-loans-businesses-impacted-ups-plane-crash/69637453",
-        "timestamp": "2025-12-05T00:07:44+00:00",
-        "text": "SBA offering low interest loans to businesses affected by UPS plane crash \n40 business owners out of more than 100 effected by the UPS plane crash have inquired with the SBA. \nLOUISVILLE, Ky. —It's been three weeks since representatives from the Small Business Administration set up shop in the Community Resource Center with a goal to help businesses affected by the UPS Pla… [+965 chars]",
-        "positive": 5.952133869868703e-05,
-        "negative": 4.3682215618900955e-05,
-        "neutral": 0.9998968839645386
-      },
-      {
-        "source": "news",
-        "id": "https://www.thejournal.ie/health-insurance-increases-2025-6890322-Dec2025/",
-        "timestamp": "2025-12-05T00:05:28+00:00",
-        "text": "Questions over why health insurers are raising prices repeatedly throughout the year \nThe average cost of health insurance has risen by 8% since the start of this year alone. \nQUESTIONS HAVE BEEN asked over why Irelands health insurance companies are raising their prices so frequently, with the most recent price hike happening just last week. \r\nAll of Irelands main health … [+5611 chars]",
-        "positive": 0.00015758273366373032,
-        "negative": 0.02839009463787079,
-        "neutral": 0.9714522957801819
-      },
-      {
-        "source": "news",
-        "id": "https://www.yahoo.com/news/articles/police-recover-james-bond-inspired-000300343.html",
-        "timestamp": "2025-12-05T00:03:00+00:00",
-        "text": "Police recover a James Bond-inspired Fabergé pendant from the bowels of a man accused of eating it \nNew Zealand Police said Friday they have recovered a stolen James Bond-inspired Fabergé pendant after six days of closely watching the man accused of... \nWELLINGTON, New Zealand (AP) New Zealand Police said Friday they have recovered a stolen James Bond-inspired Fabergé pendant after six days of closely watching the man accused of swallowing the jewel… [+1712 chars]",
-        "positive": 0.05578448250889778,
-        "negative": 0.023728670552372932,
-        "neutral": 0.9204868078231812
-      },
-      {
-        "source": "news",
-        "id": "https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/",
-        "timestamp": "2025-12-05T00:02:32+00:00",
-        "text": "‘SignalGate’ Inspector General Report Wants Just One Change to Avoid a Repeat Debacle \nThe United States Inspector General report reviewing Secretary of Defense Pete Hegseth's text messaging mess recommends a single change to keep classified material secure. \nA United States Inspector General report publicly released today found that Secretary of Defense Pete Hegseth could have put US troops and military operations at risk by using the consumer messaging … [+3121 chars]",
-        "positive": 7.969329999468755e-06,
-        "negative": 0.9903007745742798,
-        "neutral": 0.009691240265965462
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/forex/rupee-rebounds-after-hitting-record-low-of-90-42-rbi-seen-curbing-slide-ahead-of-mpc-meet/articleshow/125777851.cms",
-        "timestamp": "2025-12-05T00:01:14+00:00",
-        "text": "Rupee rebounds after hitting record low of 90.42, RBI seen curbing slide ahead of MPC meet \nThe Indian Rupee recovered from an all-time low of 90.42 against the US Dollar. State-run banks and corporate inflows helped the currency close at 89.97. The Reserve Bank of India likely intervened to prevent further depreciation. Traders anticipate a wide tr… \nMumbai: The rupee traded at an all-time low of 90.42/$1 through the trading session Thursday, but dollar sales from state-run banks and corporate inflows helped the unit close above the 90/$1 mark, e… [+1752 chars]",
-        "positive": 0.9975569248199463,
-        "negative": 0.0004929721471853554,
-        "neutral": 0.0019501452334225178
       },
       {
         "source": "news",
@@ -25357,9 +25339,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.45398736518305105,
-    "nw_norm": 72.69936825915255
+    "nw": 0.44160339403605636,
+    "nw_norm": 72.08016970180282
   },
-  "gsi": 72.69936825915255,
+  "gsi": 72.08016970180282,
   "classification": "Bullish"
 }
