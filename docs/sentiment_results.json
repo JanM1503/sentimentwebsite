@@ -1,8 +1,341 @@
 {
-  "timestamp": "2025-12-06T04:55:21.322213+00:00",
+  "timestamp": "2025-12-06T05:10:36.539059+00:00",
   "news": {
-    "count": 2807,
+    "count": 2791,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.digitaljournal.com/world/india-rolls-out-red-carpet-for-russias-putin/article",
+        "timestamp": "2025-12-05T05:02:21+00:00",
+        "text": "India rolls out red carpet for Russia’s Putin \nIndia’s Prime Minister Narendra Modi hosts Russia’s President Vladimir Putin at a summit on Friday, with defence and trade ties centre stage as New Delhi faces heavy US pressure to stop buying Moscow’s oil. Both leaders will also discuss the geopolitical situ… \nIn this pool photograph distributed by the Russian state agency Sputnik, Russia's President Vladimir Putin and Indian Prime Minister Narendra Modi look out from a car prior to an informal dinner at M… [+3401 chars]",
+        "positive": 8.988319677882828e-06,
+        "negative": 2.1182415366638452e-05,
+        "neutral": 0.9999698400497437
+      },
+      {
+        "source": "news",
+        "id": "https://freerepublic.com/focus/f-news/4356013/posts",
+        "timestamp": "2025-12-05T05:01:40+00:00",
+        "text": "Treasury Secretary Bessent says Trump admin will be able to replicate tariffs even if it loses Supreme Court decision \nNEW YORK — Treasury Secretary Scott Bessent on Wednesday predicted that the administration still will be able to implement its tariff agenda regardless of whether it prevails in a pending case before the Supreme Court. Repeating assertions he had made prior t… \nSkip to comments.\r\nTreasury Secretary Bessent says Trump admin will be able to replicate tariffs even if it loses Supreme Court decisionCNBC ^\r\n | 12/04/2025\r\n | Jeff Cox\r\nPosted on 12/04/2025 9:01:4… [+2433 chars]",
+        "positive": 0.023034611716866493,
+        "negative": 0.0007133341277949512,
+        "neutral": 0.9762520790100098
+      },
+      {
+        "source": "news",
+        "id": "https://clsbluesky.law.columbia.edu/2025/12/05/sec-chair-atkins-discusses-revitalizing-americas-markets-at-250/",
+        "timestamp": "2025-12-05T05:01:32+00:00",
+        "text": "SEC Chair Atkins Discusses Revitalizing America’s Markets at 250 \nGood morning, ladies and gentlemen. Lynn, let me start by thanking you for your generous introduction and for hosting this event at the Exchange. My thanks as well to the market participants here today. And of course, I am grateful … \nGood morning, ladies and gentlemen. Lynn, let me start by thanking you for your generous introduction and for hosting this event at the Exchange. My thanks as well to the market participants here tod… [+23169 chars]",
+        "positive": 0.48888930678367615,
+        "negative": 3.7812915252288803e-05,
+        "neutral": 0.5110728740692139
+      },
+      {
+        "source": "news",
+        "id": "http://foreignpolicy.com/2025/12/05/ai-bust-not-all-bad-news/",
+        "timestamp": "2025-12-05T05:01:22+00:00",
+        "text": "An AI Bust May Not Be All Bad News \nThe boom makes it hard for competitors to step away from a treadmill of continuous acceleration. \nLast month, Nvidiathe maker of the go-to chips for artificial intelligence (AI) developerscrossed $5 trillion in market capitalization and followed up with a strong earnings report. Yet nagging fears… [+11069 chars]",
+        "positive": 0.9999368190765381,
+        "negative": 5.7151592045556754e-05,
+        "neutral": 6.086955636419589e-06
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/accessories-news/jewelry/buccellati-ceo-shanghai-retrospective-craftsmanship-family-1238371910/",
+        "timestamp": "2025-12-05T05:01:00+00:00",
+        "text": "Buccellati Brings Retrospective to Shanghai Highlighting Craftsmanship, Family Legacy \nCEO Nicolas Luchsinger elaborates on the significance of \"The Prince of Goldsmiths. Buccellati Rediscovering the Classics\" exhibition first unveiled in Venice last year and running in Shanghai beginning Sunday to Jan. 5. \nMILAN — A decade after entering Mainland China, Buccellati will stage a retrospective exhibition in Shanghai beginning Sunday until Jan. 5.\r\nThe exhibit is a new leg of “The Prince of Goldsmiths. Buc… [+9957 chars]",
+        "positive": 1.1175119425388402e-06,
+        "negative": 8.441434715678042e-07,
+        "neutral": 0.9999980926513672
+      },
+      {
+        "source": "news",
+        "id": "https://www.euractiv.com/news/angry-greek-farmers-urge-eu-to-act-amid-long-standing-state-failures/",
+        "timestamp": "2025-12-05T05:00:40+00:00",
+        "text": "Angry Greek farmers urge Brussels to act over EU subsidy scandal \nAgriculture minister tried to appease protesters pledging to accelerate the distribution of EU funds \nFarmers in Greece have blocked national highways and border crossings with over 5,000 tractors over the last week after their payments were delayed for months due to a scandal involving EU funds.\r\nTh… [+4292 chars]",
+        "positive": 0.0010557289933785796,
+        "negative": 0.8826538324356079,
+        "neutral": 0.11629042029380798
+      },
+      {
+        "source": "news",
+        "id": "https://rollingout.com/2025/12/05/glorilla-put-wilberforces-4-year-old-band-on-the-map/",
+        "timestamp": "2025-12-05T05:00:37+00:00",
+        "text": "Glorilla Put Wilberforce \nWilberforce University’s Hounds of Sound marching band is only four years old. Most HBCU bands spend decades building the kind of reputation that gets them national attention. Wilberforce just skipped the line courtesy of GloRilla and a music video that put t… \nWilberforce University’s Hounds of Sound marching band is only four years old. Most HBCU bands spend decades building the kind of reputation that gets them national attention. Wilberforce just skippe… [+5875 chars]",
+        "positive": 5.474814770423109e-06,
+        "negative": 6.266920536290854e-05,
+        "neutral": 0.999931812286377
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/economy/policy/forex-market-today-usd-inr-rate-rbi-mpc-impact-currency-outlook/articleshow/125781057.cms",
+        "timestamp": "2025-12-05T05:00:06+00:00",
+        "text": "RBI MPC 2025: Rupee firms as forex reserves rise to $686 billion \nIndia's foreign exchange reserves have climbed to $686 billion. This provides a strong 11 months of import cover. The Reserve Bank of India announced a 25-basis point cut in the repo rate to 5.25%. The rupee also saw an appreciation against the US dollar. \nIndias foreign exchange reserves climbed to $686 billion as of November 28, providing 11 months of import cover, RBI Governor Sanjay Malhotra said on Friday as the central bank announced a 25-basis p… [+1275 chars]",
+        "positive": 0.9965477585792542,
+        "negative": 7.467762770829722e-05,
+        "neutral": 0.0033775493502616882
+      },
+      {
+        "source": "news",
+        "id": "https://www.euractiv.com/opinion/a-union-of-shame/",
+        "timestamp": "2025-12-05T05:00:01+00:00",
+        "text": "A Union of shame \nTrump is dancing rings around the EU, which just looks dazed and confused. When will we finally concede that the US doesn’t love us anymore? \nFool me once, shame on you. Fool me twice, shame on me. So goes the old proverb about untrustworthy relations, which has repeatedly come to mind regarding the Transatlantic relationship this past yea… [+5978 chars]",
+        "positive": 2.3261543901753612e-05,
+        "negative": 0.0041092014871537685,
+        "neutral": 0.9958674907684326
+      },
+      {
+        "source": "news",
+        "id": "https://www.biblegateway.com/reading-plans/old-new-testament/2025/12/05/",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Old/New Testament Reading for Friday December 5, 2025 (KJV) \nDaniel 1-2\r\n\n\n 1 In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.\r\n 2 And the Lord gave Jehoiakim king of Judah into his … [+13975 chars]",
+        "positive": 1.4520671811624197e-06,
+        "negative": 2.6883722057391424e-06,
+        "neutral": 0.9999958276748657
+      },
+      {
+        "source": "news",
+        "id": "https://www.americanthinker.com/blog/2025/12/a_jesus_spin_on_climate_change.html",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "A Jesus spin on climate change \nWatch out, world -- here comes the god-spin on climate change inspired by the UN’s 30th Conference of the Parties (COP30).\r\n\r\nCOP30 wrapped up last month with an offering of the usual suspect socialist solutions for acolytes to advoca... \nWatch out, world -- here comes the god-spin on climate change inspired by the UN’s 30th Conference of the Parties (COP30).\r\nCOP30 wrapped up last month with an offering of the usual suspect socialist… [+4583 chars]",
+        "positive": 8.26084942673333e-05,
+        "negative": 7.578224199278338e-07,
+        "neutral": 0.999916672706604
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/business-news/retail/miami-design-district-lvmh-bulgari-dior-expansion-1238370724/",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Where Art Meets Luxury, LVMH Shapes the Next Chapter of Miami Design District \nA look at how LVMH has shaped the Miami Design District over the past two decades. \nThe Miami Design District as we know it today began with a meeting of minds.\r\nIn 2008, Michael Burke, then at Fendi and now chairman and CEO of LVMH Americas, was introduced to Miami entrepreneur and… [+4141 chars]",
+        "positive": 7.487364541702846e-07,
+        "negative": 5.44838371752121e-07,
+        "neutral": 0.9999986886978149
+      },
+      {
+        "source": "news",
+        "id": "https://www.americanthinker.com/blog/2025/12/la_times_writer_feigns_shock_that_democrat_scandals_don_t_seem_to_hamper_their_political_careers.html",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "LA Times writer feigns shock that Democrat scandals don’t seem to hamper their political careers \nA writer at the LA Times clearly has his head in the sand, as evidenced by his latest piece, where he pretends that “things have changed” because Democrats with seriously scandalous pasts are still elected to office, or surging toward ele... \nA writer at the LA Times clearly has his head in the sand, as evidenced by his latest piece, where he pretends that “things have changed” because Democrats with seriously scandalous pasts are still e… [+6182 chars]",
+        "positive": 1.7635813492233865e-05,
+        "negative": 5.7981662394013256e-05,
+        "neutral": 0.9999244213104248
+      },
+      {
+        "source": "news",
+        "id": "https://www.americanthinker.com/articles/2025/12/trump_s_second_term_revolution_restoring_american_greatness.html",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Trump’s Second-Term Revolution Restoring American Greatness \nNearly a year into his triumphant second term, Trump stands as a colossus, methodically dismantling the shadowy Deep State that has long strangled the will of the people.  What began as a bold mandate from 75 million patriots in 2024 has ev... \nNearly a year into his triumphant second term, Trump stands as a colossus, methodically dismantling the shadowy Deep State that has long strangled the will of the people.  What began as a bold mandat… [+6595 chars]",
+        "positive": 0.005893325433135033,
+        "negative": 0.0004960070364177227,
+        "neutral": 0.9936105608940125
+      },
+      {
+        "source": "news",
+        "id": "https://www.americanthinker.com/articles/2025/12/can_trump_win_the_midterms.html",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Can Trump Win the Midterms? \nThere is an expression, perhaps not relevant to this generation: “This is where I came in.”  In the pre-internet, pre-television before-time, movie theaters often ran a movie on a continuous loop all day.  You paid you... \nThere is an expression, perhaps not relevant to this generation: “This is where I came in.”  In the pre-internet, pre-television before-time, movie theaters often ran a movie on a continuous loop all… [+6890 chars]",
+        "positive": 0.0002478572423569858,
+        "negative": 4.908310802420601e-05,
+        "neutral": 0.9997029900550842
+      },
+      {
+        "source": "news",
+        "id": "https://www.blogto.com/city/2025/12/costco-canada-holiday-saving-deals/",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Here are all the Costco Canada holiday saving deals you need to know about \nCostco Canada has officially launched a bunch of special, limited-time-only deals just in time for the holidays, and if you're keen on saving a few extra bucks, there are lots of promotions to take advantage of. Whether you're already a regular Costco member,… \nCostco Canada has officially launched a bunch of special, limited-time-only deals just in time for the holidays, and if you're keen on saving a few extra bucks, there are lots of promotions to take a… [+3428 chars]",
+        "positive": 0.00011102531425422058,
+        "negative": 7.333232497330755e-05,
+        "neutral": 0.9998156428337097
+      },
+      {
+        "source": "news",
+        "id": "https://www.blogto.com/real-estate-toronto/2025/12/6-prospect-street-toronto/",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Toronto home bought in the '70s for $64K just hit the market for over $1 million \nCan you believe a downtown Toronto house once sold for just $64,000?That's exactly what Gerry Gold paid for 6 Prospect St., a charming central Cabbagetown Victorian, back in 1978.\"I bought this house in 1978 and have been living here ever since,\" Gold told bl… \nCan you believe a downtown Toronto house once sold for just $64,000?\r\nThat's exactly what Gerry Gold paid for 6 Prospect St., a charming central Cabbagetown Victorian, back in 1978.\r\n\"I bought this h… [+3354 chars]",
+        "positive": 2.4446228053420782e-05,
+        "negative": 8.031463949009776e-05,
+        "neutral": 0.9998952150344849
+      },
+      {
+        "source": "news",
+        "id": "https://www.americanthinker.com/articles/2025/12/every_illegal_a_deported_illegal_ending_mass_illegal_immigration_is_trump_s_issue.html",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Every Illegal a Deported Illegal: Ending Illegal Immigration Is Trump’s Issue \nAfter the recent gruesome murder of two National Guardsmen in Washington, D.C., there should be no further argument about how we need to stop not only all illegal immigration, but to reverse mass immigration as well. \r\n\r\nThe United States of Ame... \nAfter the recent gruesome murder of two National Guardsmen in Washington, D.C., there should be no further argument about how we need to stop not only all illegal immigration, but to reverse mass imm… [+7563 chars]",
+        "positive": 8.552757208235562e-05,
+        "negative": 0.001283193938434124,
+        "neutral": 0.9986312985420227
+      },
+      {
+        "source": "news",
+        "id": "https://www.americanthinker.com/blog/2025/12/deception_is_not_supposed_to_be_so_obvious.html",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Deception is not supposed to be so obvious \nModern humans are not supposed to be so gullible, either.\r\n\r\nFor starters, there are certain “magic” words used in commercial advertising.  As is particularly useful when used in such phrases as “as much as” and &ldq... \nModern humans are not supposed to be so gullible, either.\r\nFor starters, there are certain “magic” words used in commercial advertising.  As is particularly useful when used in such phrases as “as mu… [+3616 chars]",
+        "positive": 5.188539944356307e-06,
+        "negative": 1.4224255210137926e-05,
+        "neutral": 0.9999805688858032
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/runway/pre-fall-2026/paris/paco-rabanne/review/",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Rabanne Pre-Fall 2026: Get Crafty \nRabanne pre-fall 2026 ready-to-wear runway, fashion show & collection review. Julien Dossena’s latest collection is equal parts folksy and futuristic. \nFor a fashion brand that defined the Space Age aesthetic through its groundbreaking plastic and metal dresses, it probably sounds counterintuitive to lean into craft — yet Julien Dossena’s latest col… [+2276 chars]",
+        "positive": 6.613236109842546e-07,
+        "negative": 6.920678856658924e-07,
+        "neutral": 0.9999985694885254
+      },
+      {
+        "source": "news",
+        "id": "https://www.wallpaper.com/design-interiors/finnish-design-shop-helene-schjerfbeck",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Finnish Design Shop has unveiled an interiors collection inspired by the modernist art of Helene Schjerfbeck \nThe collection’s serene colour palettes and refined finishes draw directly from Schjerfbeck’s paintings, translating her Nordic modernist sensitivity into contemporary objects \nYou may not be familiar with the name Helene Schjerfbeck – but if you’re an admirer of Nordic modernism, you will be. Schjerfbeck (1862-1946) was the mother of the movement, shaping its visual langua… [+2754 chars]",
+        "positive": 2.294134537805803e-05,
+        "negative": 2.1963337530905847e-06,
+        "neutral": 0.9999749660491943
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/05/3200433/0/en/200-No-Deposit-Bonus-200-Free-Spins-Real-Money-BitStarz-Adds-50-Free-Spins-No-Deposit-Option-to-Its-2025-Bonus-Lineup.html",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "$200 No Deposit Bonus 200 Free Spins Real Money: BitStarz Adds 50 Free Spins No Deposit Option to Its 2025 Bonus Lineup \nDiscover Trusted $200 No Deposit Deals + 200 Free Spins at Award Winner Casino Discover Trusted $200 No Deposit Deals + 200 Free Spins at Award Winner Casino \nNew York City, NY,, Dec. 05, 2025 (GLOBE NEWSWIRE) -- \r\n Dec. 04, 2025 - BitStarz\r\n is emerging as the ultimate answer to the industrys biggest pain pointsslow withdrawals, confusing bonus terms, and… [+15389 chars]",
+        "positive": 0.08470429480075836,
+        "negative": 0.017618728801608086,
+        "neutral": 0.8976770639419556
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/business/2025/12/05/apple-warns-eu-rules-could-force-it-to-remove-privacy-safeguards/",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Apple warns EU rules could force it to remove privacy safeguards \nTech giant says Digital Markets Act will force it to make sensitive user data available to third parties through interoperability mandate \nTech giant Apple says aggressive interpretation of new EU rules governing Big Tech companies could force it to remove privacy safeguards intended to protect users, calling for more co-operation with … [+2830 chars]",
+        "positive": 0.004246653988957405,
+        "negative": 0.35519078373908997,
+        "neutral": 0.6405625343322754
+      },
+      {
+        "source": "news",
+        "id": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mellace-family-brands-california-inc-recalls-wegmans-deluxe-mixed-nuts-unsalted-34-oz-and-115-oz",
+        "timestamp": "2025-12-05T05:00:00+00:00",
+        "text": "Mellace Family Brands California, Inc. Recalls Wegmans Deluxe Mixed Nuts Unsalted, 34 oz and 11.5 oz Packages Because Of Possible Health Risk \nMellace Family Brands California, Inc. of Warren, OH has issued a recall for Wegmans Deluxe Mixed Nuts Unsalted 34 oz Tubs and Wegmans Deluxe Mixed Nuts Unsalted 11.5 oz bags because they have the potential to be contaminated with Salmonella \nSummary\r\nCompany Announcement Date:\r\nDecember 05, 2025\r\nFDA Publish Date:\r\nDecember 05, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nReason for Announcement:\r\nRecall Reason Description\r\nProduct may be… [+2568 chars]",
+        "positive": 0.0003664575342554599,
+        "negative": 0.026567911729216576,
+        "neutral": 0.9730656147003174
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/forex/rbi-to-pump-liquidity-with-5-billion-forex-swap-as-rupee-stays-under-pressure/articleshow/125781111.cms",
+        "timestamp": "2025-12-05T04:59:57+00:00",
+        "text": "RBI to pump liquidity with $5 billion forex swap as rupee stays under pressure \nThe Reserve Bank of India (RBI) cut the repo rate by 25 basis points to 5.25%, marking a total reduction of 125 bps since February 2025. This move, supported by liquidity measures like bond purchases and a dollar-rupee swap, aims to bolster economic growth am… \nThe Reserve Bank of India (RBI) cut the repo rate by 25 basis points to 5.25%. With this, the central bank has reduced rates by a total of 125 bps since February 2025. The decision was unanimous, wit… [+2496 chars]",
+        "positive": 0.7538904547691345,
+        "negative": 0.041924722492694855,
+        "neutral": 0.20418480038642883
+      },
+      {
+        "source": "news",
+        "id": "https://www.ndtvprofit.com/trending/rbi-monetary-policy-key-highlights-repo-rate-cut-rupee-measures-inflation-outlook-and-more",
+        "timestamp": "2025-12-05T04:58:28+00:00",
+        "text": "RBI Monetary Policy Key Highlights: Repo Rate Cut, Rupee Measures, Inflation Outlook And More \nThe Reserve Bank of India Monetary Policy Committee has cut the repo rate by 25 basis points to 5.25%, delivering on expectations. The decision was made unanimously by the MPC committee, which has also unanimously decided to maintain a 'neutral' stance. \nThe Reserve Bank of India Monetary Policy Committee has cut the repo rate by 25 basis points to 5.25%, delivering on expectations.\r\nThe decision was made unanimously by the MPC committee, which has a… [+273 chars]",
+        "positive": 0.05501095578074455,
+        "negative": 0.20396468043327332,
+        "neutral": 0.7410243153572083
+      },
+      {
+        "source": "news",
+        "id": "https://marathi.abplive.com/business/rbi-cut-repo-rate-by-0-25-percentage-in-rbi-mpc-meeting-2025-announced-by-governor-sanjay-malhotra-home-loan-auto-loan-emi-will-decrease-1403028",
+        "timestamp": "2025-12-05T04:58:21+00:00",
+        "text": "rbi cut repo rate by 0.25 percentage in rbi mpc meeting 2025 announced by governor sanjay malhotra home loan auto loan emi will d \nrbi cut repo rate by 0.25 percentage in rbi mpc meeting 2025 announced by governor sanjay malhotra home loan auto loan emi will dabplive.com \nRBI Repo Rate: (Reserve Bank of India) (Cut in Interest Rates) . (Governor Sanjay Malhotra) (Repo Rate) 0.25 . (RBI) (Home Loan) (Car Loan) . (Inflation Rate) .\r\n . 0.25 . 5.25 . 0.25 .   , .   . .\r\n… [+349 chars]",
+        "positive": 7.577182987006381e-05,
+        "negative": 6.301932444330305e-05,
+        "neutral": 0.9998611211776733
+      },
+      {
+        "source": "news",
+        "id": "https://pypi.org/project/gamesentenceminer/2.21.36/",
+        "timestamp": "2025-12-05T04:58:02+00:00",
+        "text": "GameSentenceMiner 2.21.36 \nA tool for mining sentences from games. Update: Dependencies, replay buffer based line searching, and bug fixes. \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "positive": 1.8605347804623307e-06,
+        "negative": 0.00012080619490006939,
+        "neutral": 0.9998772144317627
+      },
+      {
+        "source": "news",
+        "id": "https://freerepublic.com/focus/f-chat/4356011/posts",
+        "timestamp": "2025-12-05T04:57:49+00:00",
+        "text": "Ex-Pornhub Owner Reportedly Interested In Russia's Lukoil Assets \nAustrian businessman Bernd Bergmair, former majority owner of Pornhub, has approached the U.S. Treasury about buying assets of Russian oil major Lukoil after the Trump administration sanctioned the company. \"Obviously Lukoil International GmbH would be a grea… \nSkip to comments.\r\nEx-Pornhub Owner Reportedly Interested In Russia's Lukoil AssetsOil Price ^\r\n | 12/03/2025\r\n | Charles Kennedy -\r\nPosted on 12/04/2025 8:57:49 PM PST by SeekAndFind\r\nAustrian busin… [+2073 chars]",
+        "positive": 5.4059139074524865e-05,
+        "negative": 5.189261355553754e-05,
+        "neutral": 0.9998940229415894
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/etimes/trending/watch-man-performs-20-mouth-to-mouth-cpr-on-a-snake-know-the-shocking-reason/articleshow/125780958.cms",
+        "timestamp": "2025-12-05T04:57:20+00:00",
+        "text": "Watch: Man performs 20 mouth-to-mouth CPR on a snake - Know the shocking reason! \nA viral video shows a snake rescuer in Valsad performing CPR on a snake that collapsed after an electric shock. The rat snake, a non-venomous species, was found unresponsive. After nearly thirty minutes of resuscitation efforts, the snake regained consciousne… \nA viral video shows a snake rescuer in Valsad performing CPR on a snake that collapsed after an electric shock. The rat snake, a non-venomous species, was found unresponsive. After nearly thirty minu… [+1917 chars]",
+        "positive": 0.0020094732753932476,
+        "negative": 0.27952855825424194,
+        "neutral": 0.7184619307518005
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnbc.com/2025/12/05/india-cuts-rates-to-as-expected-as-central-bank-rbi-warns-of-further-reductions.html",
+        "timestamp": "2025-12-05T04:56:21+00:00",
+        "text": "India cuts rates to 5.25% as expected as central bank flags ‘weakness in some key economic indicators’ \nIndia's central bank cut its policy rate by 25 basis points to 5.25%, matching forecasts from economists polled by Reuters. \nIndia's central bank cut its policy rate by 25 basis points to 5.25%, matching forecasts from economists polled by Reuters.\r\nThe monetary policy committee delivered a unanimous reduction, citing \"wea… [+1921 chars]",
+        "positive": 0.0014032735489308834,
+        "negative": 0.9648740291595459,
+        "neutral": 0.03372275084257126
+      },
+      {
+        "source": "news",
+        "id": "https://www.nzherald.co.nz/business/business-reports/dynamic-business/dynamic-business-2026-will-bring-slow-nz-recovery-not-rock-star-growth-simon-bridges/premium/FJKK5BGIINDE3HIRDVHAMD6DXY/",
+        "timestamp": "2025-12-05T04:56:08+00:00",
+        "text": "Dynamic Business: 2026 will bring slow NZ recovery not ‘rock star’ growth - Simon Bridges \nOpinion: Consumer and business sentiment is improving. \nMoreover, the harder factors are stronger. The OCR and our bank interest rates, and export prices against a very low kiwi dollar (and fat Fonterra payouts), are now clearly very stimulatory. Yes, far… [+4698 chars]",
+        "positive": 1.0,
+        "negative": 2.179090330400868e-08,
+        "neutral": 4.7250519052965956e-09
+      },
+      {
+        "source": "news",
+        "id": "https://www.forbes.com/sites/kevinrozario/2025/12/04/ssp-stock-surges-11-on-fy25-earnings-and-european-rail-review/",
+        "timestamp": "2025-12-05T04:55:05+00:00",
+        "text": "SSP Stock Surges 11% On FY25 Earnings And European Rail Review \nSSP’s shares spike comes at a time when the travel retail dining market is undergoing rapid change in both formats and concepts. \nSSP Group stock rebounded strongly today. (Photo Illustration by Pavlo Gonchar/SOPA Images/LightRocket via Getty Images)\r\nSOPA Images/LightRocket via Getty Images\r\nShares in travel food retailer SSP … [+4105 chars]",
+        "positive": 0.9999940395355225,
+        "negative": 4.558736691251397e-06,
+        "neutral": 1.3803125966660446e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.marca.com/en/ncaa/2025/12/05/6932614bca474133668b4575.html",
+        "timestamp": "2025-12-05T04:54:45+00:00",
+        "text": "Arch Manning and Texas football faces backlash after missing College Football Playoff: Fans react to Florida loss \n??Texas&apos; failure to crack the College Football Playoff has triggered a storm of frustration, and Arch Manning finds himself in the middle of the conversation as the Longhorns \n??Texas' failure to crack the College Football Playoff has triggered a storm of frustration, and Arch Manning finds himself in the middle of the conversation as the Longhorns face heavy scrutiny over… [+3088 chars]",
+        "positive": 2.7578931621974334e-05,
+        "negative": 0.9998974800109863,
+        "neutral": 7.494143210351467e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.aljazeera.com/news/2025/12/5/the-homeland-is-the-homeland-venezuelans-brace-for-possible-us-attack",
+        "timestamp": "2025-12-05T04:51:33+00:00",
+        "text": "‘The homeland is the homeland’: Venezuelans brace for possible US attack \nResidents of Caracas go about their routines amid growing anxiety over the deployment of US military assets offshore. \nCaracas, Venezuela In the bustling plazas of Caracas, the rhythm of daily life carries on. Street vendors sell chocolates and frozen fruit, while shopkeepers stock shelves amid the afternoon rush. Ye… [+9613 chars]",
+        "positive": 5.359405622584745e-05,
+        "negative": 0.0007655152585357428,
+        "neutral": 0.9991808533668518
+      },
+      {
+        "source": "news",
+        "id": "https://www.tennessean.com/story/sports/high-school/2025/12/04/tssaa-football-playoffs-championship-david-gabriel-georges-kesean-bowman/87474263007/",
+        "timestamp": "2025-12-05T04:49:01+00:00",
+        "text": "How Brentwood Academy nearly upset Baylor in TSSAA football state championship \nBrentwood Academy was minutes away from its first TSSAA football state championship since 2018. But Baylor would not be denied. \nCHATTANOOGA Brentwood Academy junior Larry Sanders IIs eyes were red and moist as he walked off the rain-soaked Finley Stadium turf.\r\nSanders was the best player on the field in the TSSAA football pl… [+3364 chars]",
+        "positive": 0.994985818862915,
+        "negative": 6.091121122153709e-06,
+        "neutral": 0.005008153151720762
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/money-and-banking/the-repo-rate-cut-by-25-bps-to-525/article70360502.ece",
+        "timestamp": "2025-12-05T04:48:39+00:00",
+        "text": "The Repo Rate cut by 25 bps to 5.25% \nThe RBI’s rate-setting panel on Friday decided to unanimously cut the policy repo rate by 25 basis points (bps) from 5.50 per cent to 5.25 per cent amid a strong second quarter GDP growth, low retail inflation and a depreciating Rupee. \nThe RBIs rate-setting panel on Friday decided to unanimously cut the policy repo rate by 25 basis points (bps) from 5.50 per cent to 5.25 per cent amid a strong second quarter GDP growth, low retail … [+572 chars]",
+        "positive": 0.9949508905410767,
+        "negative": 0.0036852965131402016,
+        "neutral": 0.0013638284290209413
+      },
       {
         "source": "news",
         "id": "https://www.thehindubusinessline.com/markets/stock-markets/markets-open-flat-as-investors-await-rbi-policy-decision-shriram-finance-leads-gainers/article70360496.ece",
@@ -725,33 +1058,6 @@
       },
       {
         "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/itc-hotels-shares-in-focus-as-bat-plans-up-to-15-5-stake-sale/articleshow/125779687.cms",
-        "timestamp": "2025-12-05T03:23:04+00:00",
-        "text": "ITC Hotels shares in focus as BAT plans up to 15.5% stake sale \nITC Hotels shares will be in focus after British American Tobacco (BAT) announced plans to sell up to a 15.3% stake. BAT, which acquired the stake during ITC’s hotel business demerger, aims to use the proceeds to reduce leverage and meet its 2026 financial ta… \n(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
-        "positive": 3.4262844565091655e-05,
-        "negative": 2.7424039217294194e-06,
-        "neutral": 0.9999630451202393
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitimes.com/news/a20251205PD212/demand-cobalt-capacity-production-taiwan.html",
-        "timestamp": "2025-12-05T03:21:48+00:00",
-        "text": "China's rare-metal clamp creates a tungsten void; Lianyou builds high-value lines to capture demand \nChina's rare metal export controls have created a clear global supply gap. Lianyou Metals, a key recycler and smelter of tungsten and cobalt, expects to gain from offshore demand and long-term order shifts. The company has approved a NT$650 million (US$20.8 m… \nSave my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
-        "positive": 0.999943733215332,
-        "negative": 3.6561871183948824e-06,
-        "neutral": 5.258108285488561e-05
-      },
-      {
-        "source": "news",
-        "id": "https://freerepublic.com/focus/f-news/4355999/posts",
-        "timestamp": "2025-12-05T03:19:00+00:00",
-        "text": "China’s ‘dirt cheap’ hypersonic missiles could upend global defence markets: state media \nThe ‘cement-coated’ YKJ-1000 could prove ‘formidably competitive’ internationally if sold at the relatively cheap price of US$99,000Chinese aerospace firm Lingkong Tianxing unveiled a hypersonic glide missile last week that has a range of up to 1,300 km (800 … \nSkip to comments.\r\nChinas dirt cheap hypersonic missiles could upend global defence markets: state mediaSouth China Morning Post ^\r\n | 12/04/2025\r\nPosted on 12/04/2025 7:19:00 PM PST by SeekAndFind\r\n… [+3586 chars]",
-        "positive": 0.03266560658812523,
-        "negative": 0.001644091447815299,
-        "neutral": 0.9656901955604553
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/news/international/us/sp-500-dow-jones-and-nasdaq-futures-show-little-movement-as-investors-brace-for-critical-inflation-data-and-federal-reserve-rate-decision/articleshow/125779622.cms",
         "timestamp": "2025-12-05T03:17:59+00:00",
         "text": "S&P 500, Dow Jones, and Nasdaq futures show little movement as investors brace for critical inflation data and Federal Reserve rate decision \nUS stock futures remained largely flat as investors awaited crucial inflation data that could influence the Federal Reserve's next interest-rate decision. While job cuts increased, weekly jobless claims fell, presenting mixed signals for the labor market. Tra… \nUS stock futures were largely unchanged Thursday night(November 4) as investors braced for critical inflation data that could shape the Federal Reserves upcoming interest-rate decision. Futures linke… [+2050 chars]",
@@ -761,75 +1067,12 @@
       },
       {
         "source": "news",
-        "id": "https://mobilesyrup.com/2025/12/04/blue-jays-election-top-googles-canadian-2025-year-in-search/",
-        "timestamp": "2025-12-05T03:16:45+00:00",
-        "text": "Blue Jays, Election top Google’s Canadian 2025 Year in Search \nConsidering that the end of 2025 is less than a month away, Google has revealed the top trending searches that Canadians made this year. The American League-winning Toronto Blue Jays were the top trending Google search result across the country. Not only did … \nConsidering that the end of 2025 is less than a month away, Google has revealed the top trending searches that Canadians made this year.\r\nThe American League-winning Toronto Blue Jays were the top tr… [+1648 chars]",
-        "positive": 8.180603617802262e-05,
-        "negative": 7.87891804066021e-06,
-        "neutral": 0.9999103546142578
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/139450ca7df0d3ee",
-        "timestamp": "2025-12-05T03:14:21+00:00",
-        "text": "YouTube TV surprises subscribers with a long-awaited addition \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+714 chars]",
-        "positive": 0.000669483735691756,
-        "negative": 7.871518027968705e-05,
-        "neutral": 0.9992517828941345
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/3785030829a9da29",
-        "timestamp": "2025-12-05T03:14:19+00:00",
-        "text": "Trump's Next National Strategy Will Center On Humanoid Robots \nTrump's Next National Strategy Will Center On Humanoid Robots\n \nPresident Trump's national industrial strategy centers on expanding U.S. dominance in semiconductors, AI, rare earth production, clean technology, space, and other emerging technologies expected … \nTrump's Next National Strategy Will Center On Humanoid Robots\r\nPresident Trump's national industrial strategy centers on expanding U.S. dominance in semiconductors, AI, rare earth production, clean t… [+140 chars]",
-        "positive": 0.9905894994735718,
-        "negative": 1.4437435993386316e-06,
-        "neutral": 0.009409051388502121
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/ab3a069e40fdbb6a",
-        "timestamp": "2025-12-05T03:14:17+00:00",
-        "text": "Analysis-In Japan, Prime Minister Takaichi tries to avoid a ’Truss shock’ \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+727 chars]",
-        "positive": 2.1244859453872778e-05,
-        "negative": 0.00016009985120035708,
-        "neutral": 0.999818742275238
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/92eb8eb72178f22a",
-        "timestamp": "2025-12-05T03:14:14+00:00",
-        "text": "Film producers lobby Congress against Netflix-Warner Bros Discovery acquisition, Variety reports \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+748 chars]",
-        "positive": 4.7423571231774986e-05,
-        "negative": 4.674398587667383e-05,
-        "neutral": 0.9999058246612549
-      },
-      {
-        "source": "news",
         "id": "https://www.politico.eu/article/ecb-frets-prospect-donald-trump-ally-running-us-central-bank/",
         "timestamp": "2025-12-05T03:14:00+00:00",
         "text": "ECB frets at prospect of Trump ally running US central bank \nA politicized Fed could be bad news for central banks everywhere, officials fear. \nTrump has repeatedly attacked the Fed since returning to office in January, blasting Powell whom he appointed as Chair during his first term as a numbskull and a major loser for not cutting interest … [+1922 chars]",
         "positive": 1.4195241419656668e-05,
         "negative": 0.9999786615371704,
         "neutral": 7.170264325395692e-06
-      },
-      {
-        "source": "news",
-        "id": "https://freerepublic.com/focus/f-news/4355998/posts",
-        "timestamp": "2025-12-05T03:13:41+00:00",
-        "text": "'They Saw People Getting Away With It': How Minnesota's Somali Fraud Exploded \nWhen 200 federal agents raided dozens of Minnesota homes and businesses on Jan. 20, 2022, policy analyst Bill Glahn took notice. So did a lot of other people—at first.Aimee Bock (C), founder and executive director of the nonprofit organization Feeding Our Fut… \nSkip to comments.\r\n'They Saw People Getting Away With It': How Minnesota's Somali Fraud ExplodedEpoch Times ^\r\n | 12/04/2025\r\n | Janice Hisle\r\nPosted on 12/04/2025 7:13:41 PM PST by SeekAndFind\r\nWhen… [+11625 chars]",
-        "positive": 0.00033868500031530857,
-        "negative": 0.0010934199672192335,
-        "neutral": 0.9985679388046265
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/defence/us-says-pentagon-review-sees-opportunities-to-strengthen-aukus-submarine-deal/articleshow/125779542.cms",
-        "timestamp": "2025-12-05T03:13:21+00:00",
-        "text": "US says Pentagon review sees opportunities to strengthen AUKUS submarine deal \nThe Pentagon has completed its review of the AUKUS nuclear-powered submarine deal with Australia, identifying opportunities to strengthen the project. This review, launched under the Trump administration, is expected to be discussed at upcoming ministerial me… \nThe Pentagon has completed its review of the AUKUS project to provide Australia with nuclear-powered submarines and has found areas to put the deal on the \"strongest possible footing,\" a U.S. officia… [+2246 chars]",
-        "positive": 0.9996190071105957,
-        "negative": 1.6724810620871722e-06,
-        "neutral": 0.00037928411620669067
       },
       {
         "source": "news",
@@ -851,51 +1094,6 @@
       },
       {
         "source": "news",
-        "id": "https://finance.yahoo.com/news/nvidia-corporation-nvda-price-target-031019885.html",
-        "timestamp": "2025-12-05T03:10:19+00:00",
-        "text": "NVIDIA Corporation (NVDA) Price Target Raised as Analysts Reaffirm Buy Amid AI Market Growth \nNVIDIA Corporation (NASDAQ:NVDA) is one of the best augmented reality stocks to buy right now. On November 25, Bank of America reiterated a positive outlook ... \nNVIDIA Corporation (NASDAQ:NVDA) is one of the best augmented reality stocks to buy right now. On November 25, Bank of America reiterated a positive outlook on NVIDIA Corporation (NASDAQ:NVDA) even a… [+1859 chars]",
-        "positive": 1.0,
-        "negative": 3.77734243883765e-09,
-        "neutral": 2.013491595675987e-09
-      },
-      {
-        "source": "news",
-        "id": "https://technews.tw/2025/12/05/usar-secures-supply-deal-shares-soar-24/",
-        "timestamp": "2025-12-05T03:10:02+00:00",
-        "text": "美稀土新創 USAR 喜簽供應合約、股價暴衝 24% \n美國稀土新創商 USA Rare Earth 宣布簽訂供應合約，股價聞訊飆高。 USA Rare Earth 4日發布新聞稿宣布，子公司Less Common Metals（LCM）已跟Compass Diversified（CODI.US）子公司Solvay and Arnold Magnetic... \nUSA Rare Earth \r\nUSA Rare Earth 4Less Common MetalsLCMCompass DiversifiedCODI.USSolvay and Arnold Magnetic Technologies CorporationArnold\r\nLCMArnold\r\nUSA Rare Earth202511LCM1LCMUSARStillwater2026\r\nSe… [+75 chars]",
-        "positive": 7.27047081454657e-05,
-        "negative": 7.49027685742476e-06,
-        "neutral": 0.9999197721481323
-      },
-      {
-        "source": "news",
-        "id": "https://www.sportingnews.com/us/high-school/news/national-week-17-high-school-football-schedule-scoreboard-results/fcd5bec0b0138822f6f03f4b",
-        "timestamp": "2025-12-05T03:10:01+00:00",
-        "text": "National Week 17 high school football schedule & scoreboard: complete results from the nation's top games \nEven the rematches are bigger in Texas as four playoff games in the Lone Star State will feature encores of regular-season contests that were decided by a touchdown or less \nNational Week 17 high school football schedule &amp; scoreboard: complete results from the nation's top games originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by … [+10018 chars]",
-        "positive": 5.821020749863237e-05,
-        "negative": 1.2252437500137603e-06,
-        "neutral": 0.9999406337738037
-      },
-      {
-        "source": "news",
-        "id": "https://blog.minethatdata.com/2025/12/january.html",
-        "timestamp": "2025-12-05T03:10:00+00:00",
-        "text": "January \nDatabase Marketing, Data Mining, Analytics, Big Data, Forecasting, Segmentation, Predictive Modeling, Measurement, Catalog, Business \nKevin is President of MineThatData, a consultancy that helps CEOs understand the complex relationship between Customers, Advertising, Products, Brands, and Channels. Kevin supports a diverse set of c… [+864 chars]",
-        "positive": 5.1825595619447995e-06,
-        "negative": 3.530518029037921e-07,
-        "neutral": 0.9999945163726807
-      },
-      {
-        "source": "news",
-        "id": "https://www.bringonthecats.com/kansas-state-football/28432/its-klein-kansas-state-new-football-coach-collin-klein",
-        "timestamp": "2025-12-05T03:09:19+00:00",
-        "text": "It’s Klein! \nA new era begins at K-State as Collin Klein is announced as the new head football coach. \nIn news that will surprise exactly nobody, the Athletic Department officially announced Collin Klein as the newest head football coach at Kansas State University. The 36th head coach in school histor… [+4086 chars]",
-        "positive": 0.00043385711614973843,
-        "negative": 7.820025530236308e-06,
-        "neutral": 0.9995582699775696
-      },
-      {
-        "source": "news",
         "id": "https://siliconangle.com/2025/12/04/studies-find-ai-chatbots-persuasive-power-change-political-opinions/",
         "timestamp": "2025-12-05T03:08:45+00:00",
         "text": "Studies find AI chatbots have the persuasive power to change political opinions \nTwo separate studies published today in the journals Science and Nature arrived at the same conclusion: AI chatbots can be very persuasive at molding a person’s political opinion, with researchers pointing to the possibility of generative AI influencing futur… \nTwo separate studies published today in the journals Science and Nature arrived at the same conclusion: AI chatbots can be very persuasive at molding a persons political opinion, with researchers poi… [+4270 chars]",
@@ -905,48 +1103,12 @@
       },
       {
         "source": "news",
-        "id": "https://news.sky.com/story/oil-prices-are-down-but-petrol-prices-are-clearly-not-whats-going-on-and-will-it-get-better-13478646",
-        "timestamp": "2025-12-05T03:08:00+00:00",
-        "text": "Oil prices are down, but petrol prices are clearly not: What's going on - and will it get better? \nIt's a debate that has raged since the end of the COVID pandemic but, despite regulatory scrutiny, it's fair to say there's been no clear answer to accusations that UK drivers pay over the odds for fuel. \nIt's a debate that has raged since the end of the COVID pandemic but, despite regulatory scrutiny, it's fair to say there's been no clear answer to accusations that UK drivers pay over the odds for f… [+6722 chars]",
-        "positive": 0.0028986807446926832,
-        "negative": 0.145682230591774,
-        "neutral": 0.8514190316200256
-      },
-      {
-        "source": "news",
-        "id": "https://armoneyandpolitics.com/lee-ann-hoskyn/",
-        "timestamp": "2025-12-05T03:06:17+00:00",
-        "text": "Lee Ann Hoskyn Named Marketing VP for Farmers & Merchants, Bank of Fayetteville \nLee Ann Hoskyn has been named marketing director and vice president of marketing for Farmers & Merchants Bank and the Bank of Fayetteville. A Wabbaseka native, Hoskyn is a seasoned communications and development leader with more than 15 years of… \n30Lee Ann Hoskyn has been named marketing director and vice president of marketing for Farmers &amp; Merchants Bank and the Bank of Fayetteville.\r\nA Wabbaseka native, Hoskyn is a seasoned communicati… [+1586 chars]",
-        "positive": 1.2784130376530811e-05,
-        "negative": 7.886468665674329e-06,
-        "neutral": 0.9999793767929077
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/05/3200430/0/en/Symbotic-Announces-Pricing-of-Primary-and-Secondary-Offering-of-Class-A-Common-Stock.html",
-        "timestamp": "2025-12-05T03:05:00+00:00",
-        "text": "Symbotic Announces Pricing of Primary and Secondary Offering of Class A Common Stock \nWILMINGTON, Mass., Dec. 04, 2025 (GLOBE NEWSWIRE) -- Symbotic Inc. (Nasdaq: SYM), a leader in A.I.-enabled robotics technology for the supply chain, today announced the pricing of its previously announced underwritten public offering (the “Offering”) of 10,00… \nWILMINGTON, Mass., Dec. 04, 2025 (GLOBE NEWSWIRE) -- Symbotic Inc. (Nasdaq: SYM), a leader in A.I.-enabled robotics technology for the supply chain, today announced the pricing of its previously anno… [+5503 chars]",
-        "positive": 0.11510380357503891,
-        "negative": 4.499398528423626e-06,
-        "neutral": 0.8848916292190552
-      },
-      {
-        "source": "news",
         "id": "https://financialpost.com/pmn/business-pmn/slower-philippines-inflation-supports-another-rate-cut",
         "timestamp": "2025-12-05T03:04:49+00:00",
         "text": "Slower Philippines Inflation Supports Another Rate Cut \nPhilippine inflation slowed in November, supporting another cut in the central bank’s benchmark interest rate next week as a graft scandal hits consumer and investor confidence. \n(Bloomberg) Philippine inflation slowed in November, supporting another cut in the central banks benchmark interest rate next week as a graft scandal hits consumer and investor confidence.\r\nTHIS CONT… [+4441 chars]",
         "positive": 0.031227488070726395,
         "negative": 0.4747565686702728,
         "neutral": 0.49401599168777466
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/f56cb1ae93be3a2f",
-        "timestamp": "2025-12-05T03:03:03+00:00",
-        "text": "Detroit's own crime-fighter RoboCop finally stands guard in Motor City \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are US private employers cutting jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Apples executive depa… [+696 chars]",
-        "positive": 0.00016828541993163526,
-        "negative": 4.3674961489159614e-05,
-        "neutral": 0.9997881054878235
       },
       {
         "source": "news",
@@ -974,69 +1136,6 @@
         "positive": 0.9999994039535522,
         "negative": 1.2631099721716055e-08,
         "neutral": 6.071048801459256e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.channelnewsasia.com/singapore/sea-games-2025-track-and-field-athletes-biomechanics-performance-analytics-5530771",
-        "timestamp": "2025-12-05T03:01:00+00:00",
-        "text": "Team Singapore athletes bank on biomechanics, analytics to boost SEA Games performance \nAmong them is sprint queen Shanti Pereira, who aims to defend her 100m and 200m SEA Games titles after a turbulent season last year. \nBastian Dohling, deputy general manager at the Singapore Athletic Association, said the collaboration with the HPSI has helped athletes to progress and reach higher standards this year.\r\nWe have much… [+1690 chars]",
-        "positive": 0.9999943971633911,
-        "negative": 9.11391637714587e-08,
-        "neutral": 5.5324844652204774e-06
-      },
-      {
-        "source": "news",
-        "id": "http://www.newsbtc.com/news/ethereum/ethereum-coils-for-a-breakout/",
-        "timestamp": "2025-12-05T03:00:19+00:00",
-        "text": "Ethereum Coils For A Breakout As IH&S + Heavy Accumulation Emerges \nEthereum is approaching a critical moment as multiple bullish signals begin to align. A clear Inverse Head & Shoulders formation, combined with rising accumulation and weakening trend rejection, suggests that the market may be gearing up for a powerful upside… \nMy name is Godspower Owie, and I was born and brought up in Edo State, Nigeria. I grew up with my three siblings who have always been my idols and mentors, helping me to grow and understand the way o… [+2495 chars]",
-        "positive": 0.9999779462814331,
-        "negative": 3.7625940763064136e-07,
-        "neutral": 2.164039688068442e-05
-      },
-      {
-        "source": "news",
-        "id": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2025/12/04/texas-aggies-football-oc-collin-klein-named-head-coach-of-kansas-state/87615199007/",
-        "timestamp": "2025-12-05T03:00:08+00:00",
-        "text": "Texas A&M OC Collin Klein officially named head coach of Kansas State \nTexas A&M OC Collin Klein named Kansas State’s 36th head coach after Chris Klieman’s retirement, officially confirmed by the school. \nThere were several reports yesterday, and even Texas A&amp;M HC Coach Mike Elko suggested that Collin Klein would be taking over the Kansas State job following the retirement of head coach Chris Klie… [+1164 chars]",
-        "positive": 1.1934189387829974e-05,
-        "negative": 4.8930683988146484e-05,
-        "neutral": 0.9999392032623291
-      },
-      {
-        "source": "news",
-        "id": "https://www.nzherald.co.nz/sport/rugby/all-blacks/rating-razor-how-all-blacks-coach-scott-robertson-performed-in-year-two-and-what-must-change/premium/VJXAQNPPJZD27PTVJQHJI3OL6E/",
-        "timestamp": "2025-12-05T03:00:00+00:00",
-        "text": "Rating Razor: How All Blacks coach Scott Robertson performed in year two and what must change \nThe All Blacks' second season under Scott Robertson failed to meet expectations. \nThe All Blacks remain second in World Rugbys official rankings but after the humbling loss at Twickenham, theres a strong case they could be fourth best behind South Africa, England and France. Argen… [+12322 chars]",
-        "positive": 0.9854710102081299,
-        "negative": 0.014179330319166183,
-        "neutral": 0.0003497011202853173
-      },
-      {
-        "source": "news",
-        "id": "https://www.nzherald.co.nz/business/business-reports/dynamic-business/dynamic-business-nicola-willis-warns-ai-boom-could-trigger-next-global-market-crash/premium/M2VEK4F4FRALDIQNZN3OJKC3HQ/",
-        "timestamp": "2025-12-05T03:00:00+00:00",
-        "text": "Dynamic Business: Nicola Willis warns AI boom could trigger next global market crash \nHer $9.5b annual debt interest bill mirrors new defence spending commitments. \nIts always important to remember that when the world does have a big cough or a big sneeze, we feel the ripples dramatically, says Willis. Thats why I have maintained in our fiscal strategy a prudent… [+6628 chars]",
-        "positive": 0.01737256348133087,
-        "negative": 0.18031397461891174,
-        "neutral": 0.802313506603241
-      },
-      {
-        "source": "news",
-        "id": "https://thesimplyluxuriouslife.com/ttdec525/",
-        "timestamp": "2025-12-05T03:00:00+00:00",
-        "text": "This & That: December 5, 2025 \nQuite a few British finds this week, from a return of a favorite series after a two-year hiatus, another female-led series is back, and a new book about the beloved Queen Elizabeth II. Also, books: one tells the true story of the most curious art theft, anoth… \nThank you for reading TSLL. The first two posts are complimentary. You have 1 free post view remaining this month. Become a Member for as little as $4/mo and enjoy unlimited reading of TSLL blog.\r\nQu… [+17329 chars]",
-        "positive": 0.0018911806400865316,
-        "negative": 2.2815460397396237e-05,
-        "neutral": 0.9980859756469727
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2025/12/04/shopping/bath-and-body-works-candle-day-is-hereshop-9-95-3-wick-candles/",
-        "timestamp": "2025-12-05T03:00:00+00:00",
-        "text": "Bath and Body Works Candle Day 2025 is here—Shop $9.95 3-wick candles now \nHappy Candle Day to all who celebrate. \nNew York Post may be compensated and/or receive an affiliate commission if you click or buy through our links. Featured pricing is subject to change.\r\nIf you though Black Friday and Cyber Monday were… [+3357 chars]",
-        "positive": 6.311688593996223e-07,
-        "negative": 6.538643447129289e-06,
-        "neutral": 0.999992847442627
       },
       {
         "source": "news",
@@ -1226,249 +1325,6 @@
         "positive": 1.3535777725337539e-05,
         "negative": 1.2767097359756008e-05,
         "neutral": 0.9999736547470093
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/making-of-luxury-car-not-just-price-time-experience-matter-too/articleshow/125778734.cms",
-        "timestamp": "2025-12-05T02:19:38+00:00",
-        "text": "Making of luxury car: Not just price, time & experience matter too \nNew car prices are soaring, with luxury vehicles driving the increase. Carmakers are now redefining luxury. It's not just about cost or fancy materials. Brands are building communities and respecting buyers' time. Personalization and exclusive access to leade… \nNew cars are more expensive than ever, with average prices in the US exceeding $50,000 for the first time in September, up 3.6% from 2024, according to auto research company Kelley Blue Book.Luxury c… [+2452 chars]",
-        "positive": 0.7334964275360107,
-        "negative": 0.0014507233863696456,
-        "neutral": 0.26505279541015625
-      },
-      {
-        "source": "news",
-        "id": "https://english.khabarhub.com/2025/05/510204/",
-        "timestamp": "2025-12-05T02:15:50+00:00",
-        "text": "Economic Digest: Nepal’s Business News in a Snap \nKATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. The government and key institutions in Nepal are taking a mix of regulatory, economic, and infrastruc… \nKATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries.\r\nThe government and key institutions in N… [+14175 chars]",
-        "positive": 0.00014081629342399538,
-        "negative": 1.296507207371178e-06,
-        "neutral": 0.9998579025268555
-      },
-      {
-        "source": "news",
-        "id": "https://www.ndtvprofit.com/markets/nifty-bank-on-watch-rbi-mpc-to-deliver-rate-cut-verdict-amid-steep-fall-in-inflation",
-        "timestamp": "2025-12-05T02:10:23+00:00",
-        "text": "Nifty Bank On Watch: RBI MPC To Deliver Rate Cut Verdict Amid Steep Fall In Inflation \nNifty Bank will be in sharp focus ahead of the RBI’s Monetary Policy Committee decision, with the six-member panel set to announce its verdict on interest rates on Friday at 10:00 a.m. RBI Governor Sanjay Malhotra will deliver the policy outcome. \nNifty Bank will be in sharp focus ahead of the RBIs Monetary Policy Committee decision, with the six-member panel set to announce its verdict on interest rates on Friday at 10:00 a.m. RBI Governor Sa… [+1633 chars]",
-        "positive": 0.00615705968812108,
-        "negative": 5.6682365539018065e-05,
-        "neutral": 0.9937863349914551
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/international/global-trends/us-treasury-slaps-7-1m-fine-on-new-york-firm-for-managing-properties-for-putin-ally/articleshow/125778637.cms",
-        "timestamp": "2025-12-05T02:06:10+00:00",
-        "text": "US Treasury slaps $7.1M fine on New York firm for managing properties for Putin ally \nAmerica's Treasury Department has fined a New York property firm over seven million dollars. The company managed luxury homes for Russian oligarch Oleg Deripaska. Deripaska has close ties to Russian President Vladimir Putin. The firm continued dealings despit… \nThe US Treasury Department has imposed a USD 7.1 million fine on a New York-based property management firm, accusing it of violating sanctions by managing luxury real estate properties for oligarch O… [+2354 chars]",
-        "positive": 0.0001648609759286046,
-        "negative": 0.5249571800231934,
-        "neutral": 0.4748779535293579
-      },
-      {
-        "source": "news",
-        "id": "https://www.djournal.com/sports/high-school/calhoun-city-west-point-get-championship-weekend-started/article_198d02d9-1370-4592-88da-4b2de3db2d47.html",
-        "timestamp": "2025-12-05T02:06:00+00:00",
-        "text": "Calhoun City, West Point get championship weekend started \nThere’s one word on West Point coach Brett Morgan’s mind: finish. Morgan and the Green Wave are seeking the program’s third straight state championship tonight at Davis Wade Stadium on the campus of Mississippi State. A title would also be West Point’s sevent… \nTheres one word on West Point coach Brett Morgans mind: finish.\r\nMorgan and the Green Wave are seeking the programs third straight state championship tonight at Davis Wade Stadium on the campus of Mi… [+2415 chars]",
-        "positive": 1.0966263289446943e-05,
-        "negative": 5.5343189160339534e-06,
-        "neutral": 0.999983549118042
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/forex/dollar-hovers-near-five-week-low-on-fed-rate-cut-bets/articleshow/125778633.cms",
-        "timestamp": "2025-12-05T02:05:49+00:00",
-        "text": "Dollar hovers near five-week low on Fed rate cut bets \nThe US dollar is trading near a five-week low. Investors anticipate a Federal Reserve rate cut next week. Markets are also watching for signals on future interest rate reductions. Several other central banks will also announce their policy decisions in the co… \nThe U.S. dollar languished not far from a five-week low against its major peers on Friday as investors braced for a Federal Reserve rate cut next week.Markets widely expect a quarter point reduction … [+3049 chars]",
-        "positive": 0.0004829770477954298,
-        "negative": 0.06568519026041031,
-        "neutral": 0.9338317513465881
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbc.ca/news/world/asia-flooding-death-toll-9.7003955",
-        "timestamp": "2025-12-05T02:05:43+00:00",
-        "text": "Death toll from flooding in Southeast Asia surpasses 1,500, calls to fight deforestation increase \nThe death toll from last week's catastrophic floods and landslides in parts of Asia surged past 1,500 on Thursday as rescue teams raced to reach survivors and hundreds of people remained unaccounted for across the region. \nThe death toll from last week's catastrophic floods and landslides in parts of Asia surged past 1,500 on Thursday as rescue teams raced to reach survivors and hundreds of people remained unaccounted … [+3985 chars]",
-        "positive": 0.9845257997512817,
-        "negative": 0.014728567562997341,
-        "neutral": 0.0007455992163158953
-      },
-      {
-        "source": "news",
-        "id": "https://www.thestreet.com/retail/att-makes-a-harsh-change-customers-will-see-on-their-bills",
-        "timestamp": "2025-12-05T02:03:00+00:00",
-        "text": "AT&T makes a harsh change customers will see on their bills \nAT&T has recently implemented several crucial changes that have impacted and frustrated customers. For example, in April, AT&T decreased its autopay discount... \nAT&amp;T has recently implemented several crucial changes that have impacted and frustrated customers.\r\nFor example, in April, AT&amp;T decreased its autopay discount from $10 to $5 for customers who… [+5394 chars]",
-        "positive": 2.1968580767861567e-05,
-        "negative": 0.9998936653137207,
-        "neutral": 8.434196206508204e-05
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-rising-yields-offset-dollar-weakness-pce-data-eyed/articleshow/125778611.cms",
-        "timestamp": "2025-12-05T02:02:44+00:00",
-        "text": "Gold steady as rising yields offset dollar weakness; PCE data eyed \nGold prices remained stable as higher U.S. Treasury yields countered a weaker dollar. Investors are keenly awaiting U.S. inflation data, specifically the PCE Index, for insights into the Federal Reserve's upcoming policy decisions.  This crucial economic indi… \n- Gold prices held steady on Friday, as rising U.S. Treasury yields offset support from a weaker dollar, while markets awaited U.S. inflation data later in the day for clues into the Federal Reserve'… [+1694 chars]",
-        "positive": 0.5960637927055359,
-        "negative": 0.011265014298260212,
-        "neutral": 0.3926713168621063
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-rbi-mpc-meeting-december-2025-live-news-updates/article70358578.ece",
-        "timestamp": "2025-12-05T02:01:20+00:00",
-        "text": "RBI MPC Meeting 2025 Live Updates: Will RBI cut interest rates? \nRBI MPC 2025, RBI Monetary Policy Meeting Outcomes, RBI MPC Meeting December 2025 News & Live Updates: Here are the major live updates related to the latest bi-monthly RBI Monetary Policy Committee meeting. \nRBI MPC 2025 Live Updates, RBI Monetary Policy Meeting Outcomes, RBI MPC Meeting December 2025 News &amp; Live Updates: The Reserve Bank of India (RBI) kept its policy interest rate unchanged at 5.5%… [+1278 chars]",
-        "positive": 5.860475721419789e-05,
-        "negative": 5.245333795755869e-06,
-        "neutral": 0.9999361038208008
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-rbi-mpc-meeting-december-2025-highlights/article70358578.ece",
-        "timestamp": "2025-12-05T02:01:20+00:00",
-        "text": "RBI MPC Meeting Highlights: RBI cuts repo rate by 25 bps to 5.25%, maintains neutral stance \nRBI MPC 2025, RBI Monetary Policy Meeting Outcomes, RBI MPC Meeting December 2025 News & Highlights: Here are the major live updates related to the latest bi-monthly RBI Monetary Policy Committee meeting. \n<li></li>\r\nDecember 5, 2025 17:38This live blog is now closed.\r\n<li></li>\r\nDecember 5, 2025 16:11RBI MPC Meet Live: Sarvjit Singh Samra, MD &amp; CEO, Capital Small Finance Bank reaction \r\nWith infla… [+47714 chars]",
-        "positive": 0.0005568988271988928,
-        "negative": 4.0468952647643164e-05,
-        "neutral": 0.999402642250061
-      },
-      {
-        "source": "news",
-        "id": "https://www.dw.com/en/stolen-faberge-egg-bowel-movement-new-zealand/a-75025623",
-        "timestamp": "2025-12-05T01:59:00+00:00",
-        "text": "Stolen Faberge egg recovered in thief's bowl movement \nAfter six days of inspecting the suspect's bowel movements, New Zealand police recovered a stolen Faberge pendant that he had swallowed after being caught. \nNew Zealand police arrested a thief after stealing and swallowing a James Bond-inspired Faberge pendant worth some $19,000 (16,300).\r\nAfter six days of supervising the the 32-year-old suspect's bowl … [+1058 chars]",
-        "positive": 0.006290143821388483,
-        "negative": 0.35492023825645447,
-        "neutral": 0.6387895941734314
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-end-flat-supported-by-fed-hopes-but-dragged-by-amazon/articleshow/125778586.cms",
-        "timestamp": "2025-12-05T01:58:41+00:00",
-        "text": "US stocks end flat, supported by Fed hopes but dragged by Amazon \nU.S. stocks closed near unchanged as investors assessed mixed labor market data and anticipated a Federal Reserve interest rate cut. Initial jobless claims fell to a three-year low, though the November payrolls report remains pending. Markets are pricing in a… \nU.S. stocks closed near the unchanged mark on Thursday, as investors weighed a report on the labor market and other economic data, while equities drew support from elevated hopes for a Federal Reserv… [+3495 chars]",
-        "positive": 0.048528123646974564,
-        "negative": 0.5892137289047241,
-        "neutral": 0.36225807666778564
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/investor-confidence-lifts-agro-sector-to-n30-5tn-output/",
-        "timestamp": "2025-12-05T01:51:22+00:00",
-        "text": "Investor confidence lifts agro-sector to N30.5tn output \nNigeria’s agricultural sector output grew to N30.5tn in Q3 2025, driven by rising investor confidence. Stakeholders urge policy execution to sustain growth\n\nRead More: https://punchng.com/investor-confidence-lifts-agro-sector-to-n30-5tn-output/ \nNigerias agricultural sector grew 3.79 per cent in the third quarter of 2025 due to improving investor confidence. Stakeholders maintain that the Federal Government must ensure timely policy implemen… [+11955 chars]",
-        "positive": 0.9999995231628418,
-        "negative": 1.6745008224461344e-07,
-        "neutral": 3.652705515833077e-07
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2025/12/04/sports/the-giants-need-to-be-saved-but-a-commissioner-wont-do-it-this-time/",
-        "timestamp": "2025-12-05T01:46:59+00:00",
-        "text": "The Giants need to be saved, but a commissioner won’t step in to do it this time \nThe alliance between the Mara Family and the Tisch Family has, by and large, been the gold standard for all such partnership agreements. \nThe alliance between the Mara Family and the Tisch Family has, by and large, been the gold standard for all such partnership agreements. From the moment Wellington Mara and Robert Tisch entered into … [+874 chars]",
-        "positive": 8.15955427242443e-05,
-        "negative": 2.0075754946446978e-05,
-        "neutral": 0.9998983144760132
-      },
-      {
-        "source": "news",
-        "id": "https://www.ndtvprofit.com/nation/hydroponic-weed-valued-at-rs-25-crore-seized-at-mumbai-airport-in-eight-cases",
-        "timestamp": "2025-12-05T01:46:33+00:00",
-        "text": "Hydroponic Weed Valued At Rs 25 Crore Seized At Mumbai Airport In Eight Cases \nThe Mumbai Customs has seized hydroponic weed or marijuana valued at over Rs 25 crore and gold and foreign currency valued at nearly Rs 92 lakh in multiple cases at Chhatrapati Shivaji Maharaj International Airport, an official said on Thursday. \nThe Mumbai Customs has seized hydroponic weed or marijuana valued at over Rs 25 crore and gold and foreign currency valued at nearly Rs 92 lakh in multiple cases at Chhatrapati Shivaji Maharaj Intern… [+820 chars]",
-        "positive": 0.0001472129806643352,
-        "negative": 0.0002588127099443227,
-        "neutral": 0.9995940327644348
-      },
-      {
-        "source": "news",
-        "id": "https://cointelegraph.com/news/meta-shares-climb-30-percent-metaverse-budget-cut-bloomberg",
-        "timestamp": "2025-12-05T01:46:05+00:00",
-        "text": "Meta shares climb on report of possible 30% metaverse budget cut \nMeta is reportedly cooling on the metaverse with planned 30% cuts in its virtual reality research department, Reality Labs, which shareholders seemingly support. \nSocial media giant Meta is reportedly planning to scale back its metaverse spending by up to 30% and redirect the funds into virtual reality glasses and artificial intelligence.\r\nNo final decision ha… [+2713 chars]",
-        "positive": 0.011050078086555004,
-        "negative": 0.0012322220718488097,
-        "neutral": 0.9877177476882935
-      },
-      {
-        "source": "news",
-        "id": "https://apnews.com/article/treasury-sanctions-russia-ukraine-oligarchs-b5416f5c88bac2c4a356802d60fea416",
-        "timestamp": "2025-12-05T01:45:16+00:00",
-        "text": "US Treasury fines New York firm $7.1M for Russia-related sanctions violation \nThe U.S. Treasury has imposed a $7 million fine on a New York property management firm for allegedly violating Russia-related sanctions. Gracetown Inc. managed luxury real estate for sanctioned Russian oligarch Oleg Deripaska. The Treasury’s Office of Foreign… \nWASHINGTON (AP) The U.S. Treasury Department imposed a $7.1 million fine on a New York-based property management firm Thursday, accusing it of violating sanctions by managing luxury real estate prope… [+2374 chars]",
-        "positive": 0.0007253534276969731,
-        "negative": 0.8040785193443298,
-        "neutral": 0.19519607722759247
-      },
-      {
-        "source": "news",
-        "id": "https://indianexpress.com/article/opinion/columns/best-of-both-sides-economy-is-looking-up-so-why-rate-cuts-10403018/",
-        "timestamp": "2025-12-05T01:44:16+00:00",
-        "text": "Best of Both Sides| Economy is looking up. So, why rate cuts? \nLiquidity in the system is optimal and supportive of growth. The healthy pick up in credit off take is evident. Credit growth from the larger ecosystem, including NBFCs and private credit, looks robust as deal volumes suggest across India Inc. where a wave of… \nAs we write this article, there are two developments that need careful investigation. One, GDP growth in the second quarter coming in much higher than expected, and its implications for the full-year… [+4385 chars]",
-        "positive": 0.9999996423721313,
-        "negative": 6.497499782653904e-08,
-        "neutral": 2.1902036451137974e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.forbes.com/sites/ianpalmer/2025/12/04/the-electric-revolution-dire-consequences-for-your-pocketbook/",
-        "timestamp": "2025-12-05T01:42:25+00:00",
-        "text": "The Electric Revolution: Dire Consequences For Your Pocketbook \nElectricity cost is vital in household lights, ovens, and heating/cooling systems. A 50% uptick in electricity cost over the next 10 years is a frightening prospect. \nThe board chairman and CEO&amp;nbsp;of service provider DNV&amp;nbsp;GL Remi Eriksen. \r\npicture alliance via Getty Images\r\nThe price surge of new electricity in the next few years, plus general pass-… [+4766 chars]",
-        "positive": 0.9992749094963074,
-        "negative": 0.00018085747433360666,
-        "neutral": 0.0005442432011477649
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitaljournal.com/world/no-yolk-police-recover-faberge-egg-swallowed-by-thief/article",
-        "timestamp": "2025-12-05T01:42:20+00:00",
-        "text": "No yolk: police ‘recover’ Faberge egg swallowed by thief \nNew Zealand police have recovered a diamond-encrusted green Faberge egg after keeping a six-day watch over the thief accused of swallowing it. The 32-year-old allegedly gulped down the egg late last week from a store in the country’s largest city, Auckland, b… \nA New Zealand thief allegedly swallowed a Faberge egg on a pendant\r\n - Copyright NEW ZEALAND POLICE/AFP Handout\r\nNew Zealand police have recovered a diamond-encrusted green Faberge egg after keeping … [+1051 chars]",
-        "positive": 0.0008897575316950679,
-        "negative": 0.012576811946928501,
-        "neutral": 0.9865334033966064
-      },
-      {
-        "source": "news",
-        "id": "https://www.fool.com.au/2025/12/05/this-banks-shares-could-deliver-double-digit-returns-analysts-say/",
-        "timestamp": "2025-12-05T01:41:25+00:00",
-        "text": "This bank's shares could deliver double-digit returns analysts say \nBendigo and Adelaide Bank's major deal announced this week makes strategic sense, the team at Jarden says.\nThe post This bank's shares could deliver double-digit returns analysts say appeared first on The Motley Fool Australia. \nBendigo and Adelaide Bank Ltd (ASX: BEN) this week announced a deal to acquire RACQ Banks' retail lending assets and deposits, which are worth an estimated $2.7 billion and $2.5 billion, respectively… [+2433 chars]",
-        "positive": 0.9601079225540161,
-        "negative": 4.917629667033907e-06,
-        "neutral": 0.03988715261220932
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/ioc-athletes-commission-appointment-thrills-oshonaike/",
-        "timestamp": "2025-12-05T01:38:10+00:00",
-        "text": "IOC Athletes’ Commission appointment thrills Oshonaike \nSeven-time Olympian Olufunke Oshonaike expresses excitement over her IOC Athletes’ Commission appointment, pledging to represent Nigeria and Africa with pr\n\nRead More: https://punchng.com/ioc-athletes-commission-appointment-thrills-oshonaike/ \nSeven-time Olympian Olufunke Oshonaike has pledged to represent Nigeria and Africa with pride on the International Olympic Committee Athletes Commission, following her nomination by IOC President Kir… [+2419 chars]",
-        "positive": 6.338026287266985e-05,
-        "negative": 1.388215969200246e-05,
-        "neutral": 0.9999227523803711
-      },
-      {
-        "source": "news",
-        "id": "https://bleedingcool.com/tv/elsbeth-our-s03e08-basket-case-preview-a-mystery-with-a-twist/",
-        "timestamp": "2025-12-05T01:37:03+00:00",
-        "text": "Elsbeth: Our S03E08 \"Basket Case\" Preview: A Mystery with a Twist \nIt's only fitting that EPs Robert King and Michelle King, and Showrunner Jonathan Tolins's Carrie Preston-starring Elsbeth would return from its Thanksgiving break with something quite a bit different. In S03E08: \"Basket Case,\" Elsbeth hits the hardwood, inve… \nPosted in: CBS, Current News, TV | Tagged: Elsbeth\r\nAlong with our updated preview for CBS's Elsbeth, S03E08: \"Basket Case,\" we look to S03E09: \"Glamazons\" and S03E10: \"A Hard Nut to Crack.\"\r\nArticle… [+9171 chars]",
-        "positive": 5.6884873629314825e-05,
-        "negative": 8.260152753791772e-06,
-        "neutral": 0.9999349117279053
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180290417",
-        "timestamp": "2025-12-05T01:32:49+00:00",
-        "text": "Stock futures are little changed ahead of key inflation data: Live updates - CNBC \nStock futures are little changed ahead of key inflation data: Live updatesCNBC Stock market today: Dow, S&P 500, Nasdaq end little changed as Wall Street's Fed rate cut conviction runs highYahoo Finance Indexes end near flat, supported by Fed hopes but dragge… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-        "positive": 4.378426183393458e-06,
-        "negative": 1.248056742042536e-05,
-        "neutral": 0.9999830722808838
-      },
-      {
-        "source": "news",
-        "id": "https://indianexpress.com/article/business/rbi-mpc-meeting-repo-rate-monetary-policy-live-updates-sanjay-malhotra-press-conference-10402681/",
-        "timestamp": "2025-12-05T01:31:24+00:00",
-        "text": "RBI Monetary Policy Meet LIVE: Will central bank keep repo rates unchanged for third time? \nRBI Repo Rate Cut, RBI Monetary Policy Meeting December 2025 Today LIVE News Updates: The policy review comes on the back of robust economic performance of a six-quarter-high GDP growth and record low inflation. \nThe Reserve Bank of India will announce its bi-monthly monetary policy on Friday, December 5, with Governor Sanjay Malhotra presenting the conclusions of the Monetary Policy Committees (MPC) three-da… [+807 chars]",
-        "positive": 0.8523359894752502,
-        "negative": 8.960041668615304e-06,
-        "neutral": 0.14765509963035583
-      },
-      {
-        "source": "news",
-        "id": "https://www.sportingnews.com/us/soccer/news/mexico-world-cup-draw-2026-group-schedule/f3004d8c4f95005790dd8645",
-        "timestamp": "2025-12-05T01:30:02+00:00",
-        "text": "Mexico World Cup draw 2026: Group results, schedule, roster, coach and more to know \nHere's a full guide to Mexico in the 2026 FIFA World Cup. \nMexico World Cup draw 2026: Group results, schedule, roster, coach and more to know originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nMexico is … [+11936 chars]",
-        "positive": 9.186370152747259e-05,
-        "negative": 3.7864790556341177e-06,
-        "neutral": 0.9999042749404907
       },
       {
         "source": "news",
@@ -25267,9 +25123,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.4852466679444902,
-    "nw_norm": 74.26233339722451
+    "nw": 0.460004167058366,
+    "nw_norm": 73.00020835291829
   },
-  "gsi": 74.26233339722451,
+  "gsi": 73.00020835291829,
   "classification": "Bullish"
 }
