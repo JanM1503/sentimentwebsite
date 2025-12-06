@@ -1,8 +1,188 @@
 {
-  "timestamp": "2025-12-06T23:36:55.823867+00:00",
+  "timestamp": "2025-12-06T23:46:00.908056+00:00",
   "news": {
     "count": 2791,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://punchng.com/govt-should-sanction-women-who-provoke-husbands-actress-nwachukwu/",
+        "timestamp": "2025-12-05T23:38:51+00:00",
+        "text": "Govt should sanction women who provoke husbands — Actress Nwachukwu \nNollywood actress Esther Nwachukwu calls on the government to sanction women who provoke their husbands, citing imbalances in how marital crises are viewed\n\nRead More: https://punchng.com/govt-should-sanction-women-who-provoke-husbands-actress-nwachukwu/ \nNollywood actress Esther Nwachukwu has called for sanctions against women who habitually provoke their partners. Speaking to Saturday Beats amid various marital crises in the entertainment industry, … [+953 chars]",
+        "positive": 0.00012062863243045285,
+        "negative": 0.026651369407773018,
+        "neutral": 0.9732279777526855
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/zamfara-unveils-10-year-devt-plan/",
+        "timestamp": "2025-12-05T23:38:51+00:00",
+        "text": "Zamfara unveils 10-year devt plan \nZamfara State launches its 10-year development plan (2025-2034) to foster economic growth, enhance infrastructure, and ensure social welfare.\n\nRead More: https://punchng.com/zamfara-unveils-10-year-devt-plan/ \nZamfara State Governor, Dauda Lawal, has described the State Development Plan from 2025 to 2034 as a long-term roadmap that reflects a collective goal to transform the state.\r\nIn a statement shared w… [+2098 chars]",
+        "positive": 0.0087106479331851,
+        "negative": 1.1313069990137592e-05,
+        "neutral": 0.9912780523300171
+      },
+      {
+        "source": "news",
+        "id": "https://www.theatlantic.com/newsletters/2025/12/trump-affordability-economy-con-job/685169/",
+        "timestamp": "2025-12-05T23:38:00+00:00",
+        "text": "Trump Campaigned on Affordability. Now He’s Calling the Idea a ‘Con Job.’ \nHis messaging on the cost of living contradicts itself. \nThis is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Pr… [+6915 chars]",
+        "positive": 0.16500714421272278,
+        "negative": 3.5971988836536184e-05,
+        "neutral": 0.8349569439888
+      },
+      {
+        "source": "news",
+        "id": "https://post.rlsbb.to/the-last-leg-s33e08-1080p-hdtv-h264-darkflix/",
+        "timestamp": "2025-12-05T23:36:52+00:00",
+        "text": "The Last Leg S33E08 1080p HDTV H264-DARKFLiX \nSeason 33, Episode 08 – Alastair Campbell, Rose Ayling-Ellis and Eshaan Akbar join Adam Hills, Josh Widdicombe and Alex Brooker as they unpack the week's biggest and best news stories. This week discussed Fruit Pastilles, US tariffs, all backed with the music… \nSeason 33, Episode 08 Alastair Campbell, Rose Ayling-Ellis and Eshaan Akbar join Adam Hills, Josh Widdicombe and Alex Brooker as they unpack the week's biggest and best news stories. This week discus… [+229 chars]",
+        "positive": 0.005495165009051561,
+        "negative": 2.063347346847877e-05,
+        "neutral": 0.9944842457771301
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/226f49d937650574",
+        "timestamp": "2025-12-05T23:34:57+00:00",
+        "text": "Colombian Inflation Slows to 5.3%, Easing Rate Hike Pressure \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+775 chars]",
+        "positive": 0.02141602523624897,
+        "negative": 0.00014458864461630583,
+        "neutral": 0.9784393906593323
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/8eac65a60e96ff86",
+        "timestamp": "2025-12-05T23:34:56+00:00",
+        "text": "Waymo Plans Software Recall to Address Bus Incidents \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+769 chars]",
+        "positive": 0.0002759718627203256,
+        "negative": 1.024783978209598e-05,
+        "neutral": 0.9997137188911438
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/fad3602e97fb51d6",
+        "timestamp": "2025-12-05T23:34:50+00:00",
+        "text": "Stocks Are Leaving Bitcoin Behind \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+779 chars]",
+        "positive": 0.0005210224189795554,
+        "negative": 4.691682079283055e-06,
+        "neutral": 0.9994743466377258
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/ffb6f58b5251340a",
+        "timestamp": "2025-12-05T23:34:48+00:00",
+        "text": "Warner CEO Zaslav Poised to Become Billionaire From Netflix Deal \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+781 chars]",
+        "positive": 0.07599855214357376,
+        "negative": 1.0244932127534412e-05,
+        "neutral": 0.9239911437034607
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/90e369aa81861d53",
+        "timestamp": "2025-12-05T23:34:45+00:00",
+        "text": "SpaceX Files Starlink Mobile Trademark in Possible Carrier Play \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+780 chars]",
+        "positive": 0.00011451887985458598,
+        "negative": 2.653350748005323e-06,
+        "neutral": 0.9998828172683716
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/db6296f140341915",
+        "timestamp": "2025-12-05T23:34:45+00:00",
+        "text": "Arctic blast grips central, northeastern US in sub-freezing cold \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+780 chars]",
+        "positive": 5.8807632740354165e-05,
+        "negative": 2.586788241387694e-06,
+        "neutral": 0.9999386072158813
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/59fc566c7754c841",
+        "timestamp": "2025-12-05T23:34:45+00:00",
+        "text": "An S&P 500 shake-up is due soon. These stocks could join the index \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+775 chars]",
+        "positive": 0.00030623553902842104,
+        "negative": 2.7407531888457015e-06,
+        "neutral": 0.9996910095214844
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/79d587e0c7c8e78e",
+        "timestamp": "2025-12-05T23:34:43+00:00",
+        "text": "Vanity Fair parts ways with Olivia Nuzzi amid Robert F. Kennedy Jr. controversy \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+761 chars]",
+        "positive": 8.177392010111362e-05,
+        "negative": 2.4813069103402086e-05,
+        "neutral": 0.9998934268951416
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/70ae4076df75183f",
+        "timestamp": "2025-12-05T23:34:41+00:00",
+        "text": "How the Netflix-Warner Bros. Deal Changes Hollywood \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+767 chars]",
+        "positive": 0.0003599674964789301,
+        "negative": 5.732699264626717e-06,
+        "neutral": 0.9996342658996582
+      },
+      {
+        "source": "news",
+        "id": "https://www.silverandblackpride.com/las-vegas-raiders-analysis/116321/covered-or-not-las-vegas-raiders-offense-must-flow-through-brock-bowers",
+        "timestamp": "2025-12-05T23:34:00+00:00",
+        "text": "Covered or not, Las Vegas Raiders offense must flow through Brock Bowers \nRaiders offensive coordinator Greg Olson should attack Broncos with spectacular tight end \nThe NFL is a copy cat league.\r\nAs such, interim offensive coordinator Greg Olson would be wise to exploit the apparent weakness the Denver Broncos having stopping tight ends and use Brock Bowers the … [+5686 chars]",
+        "positive": 0.006478131283074617,
+        "negative": 0.0003481174644548446,
+        "neutral": 0.9931737780570984
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/investing/tsx-stock-up-gain-more-analysts-say",
+        "timestamp": "2025-12-05T23:31:43+00:00",
+        "text": "This TSX stock was up 17% this week and it could gain another 36%, analysts say \nThe Week in Stocks: Which Canadian Big Banks had their price targets increased, why tax loss selling will be trickier this year and some top picks for 2026 from RBC Capital Markets \nThe Canadian Big Banks with increased price targets, why tax loss selling will be trickier this year and some top picks for 2026 from RBC Capital Markets. The Financial Post explores those stories an… [+6446 chars]",
+        "positive": 0.02479521930217743,
+        "negative": 3.451083830441348e-05,
+        "neutral": 0.9751703143119812
+      },
+      {
+        "source": "news",
+        "id": "https://www.buzzfeed.com/lizmrichardson/wedding-trends-that-will-be-outdated-fs",
+        "timestamp": "2025-12-05T23:31:02+00:00",
+        "text": "People Are Revealing The Modern \"Wedding Trends\" That Will NOT Last, And I'm Afraid They're Right \n\"I'm actually surprised the cursive 'bridesmaid' font hasn't died off yet. I hate that font.\"View Entire Post › \n\"The fake handwriting font, and similarly, the elongated cursive everyone uses. Bud vases. Wedding hair that's down with the two pieces near the ears pinned back, and similarly, Hollywood waves. Oval… [+202 chars]",
+        "positive": 6.792478234274313e-05,
+        "negative": 0.002862019930034876,
+        "neutral": 0.9970700740814209
+      },
+      {
+        "source": "news",
+        "id": "https://www.yankodesign.com/2025/12/05/shantivale-botanical-incense-collection-review-pure-design-quiet-mind/",
+        "timestamp": "2025-12-05T23:30:40+00:00",
+        "text": "Shantivale Botanical Incense Collection Review: Pure Design, Quiet Mind \nShantivale Botanical Incense Collection Review: Pure Design, Quiet MindThere is a ritual gap in modern wellness, and Shantivale fills it by bringing Traditional Chinese Medicine formulations to botanical incense, a collection where ancient... \nThere is a ritual gap in modern wellness, and Shantivale fills it by bringing Traditional Chinese Medicine formulations to botanical incense, a collection where ancient herbal pairings meet modern we… [+16548 chars]",
+        "positive": 1.5060424630064517e-05,
+        "negative": 6.771738298994023e-06,
+        "neutral": 0.9999781847000122
+      },
+      {
+        "source": "news",
+        "id": "https://www.livemint.com/opinion/columns/rbi-rate-cut-india-monetary-policy-cpi-inflation-11764935704289.html",
+        "timestamp": "2025-12-05T23:30:02+00:00",
+        "text": "Rate cut signals RBI’s pivot to growth amid sharp inflation slowdown \nWith GDP growth at 8% and CPI inflation at 2.2%, the RBI cut the repo rate by 25 bps to stimulate the economy. The central bank's actions, including liquidity measures, aim to support growth amid US tariff-related headwinds. \nIt does not happen very often that a central bank goes into its monetary policy meeting having overachieved on both its targets. With gross domestic product (GDP) growth averaging 8% (above the 7% po… [+4822 chars]",
+        "positive": 0.4535110592842102,
+        "negative": 0.04069049283862114,
+        "neutral": 0.5057985186576843
+      },
+      {
+        "source": "news",
+        "id": "https://matadornetwork.com/read/charleston-travel-guide/",
+        "timestamp": "2025-12-05T23:30:00+00:00",
+        "text": "Travelers Have Voted: Here’s Where to Play, Eat, and Stay in Charleston, SC \nAccording to TripAdvisor’s 2025 Travelers’ Choice Awards, this is the Charleston travel guide you need to know. \nThis depth is a large part of what helped Charleston earn top accolades in TripAdvisor’s 2025 Travelers’ Choice Awards, an awards series that recognizes the best in travel and dining based on authent… [+12677 chars]",
+        "positive": 0.5934368371963501,
+        "negative": 1.4760797057533637e-05,
+        "neutral": 0.4065483510494232
+      },
+      {
+        "source": "news",
+        "id": "https://www.behindthesteelcurtain.com/general/163240/friday-night-happy-hour-the-in-between-edition",
+        "timestamp": "2025-12-05T23:30:00+00:00",
+        "text": "Friday Night Happy Hour: The In Between Edition \nCome though, stay awhile \nWelcome back to BTSCs Friday night open thread.\r\nWere at an interesting point of the calendar that sits between the Thanksgiving holiday and the December holidays of Christmas and Hanukkah. The Steel… [+1472 chars]",
+        "positive": 4.43828821516945e-06,
+        "negative": 3.937546807719627e-06,
+        "neutral": 0.9999916553497314
+      },
       {
         "source": "news",
         "id": "https://variety.com/2025/film/news/oscars-tv-rights-nbcuniversal-abc-netflix-academy-1236601800/",
@@ -1022,33 +1202,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.bluebirdbanter.com/polls/60010/hall-of-fame-polls-gary-sheffield",
-        "timestamp": "2025-12-05T22:17:44+00:00",
-        "text": "Hall of Fame Polls: Gary Sheffield \nNext up on the contemporary Baseball Era ballot is Gary Sheffield. Sheffield spent 10 years on the Writers’ ballot. He got 11.7% of the vote in his first try and made it to 63.9% on his last try. Looking at his stats, Sheffield was a better player than I thou… \nNext up on the contemporary Baseball Era ballot is Gary Sheffield. Sheffield spent 10 years on the Writers ballot. He got 11.7% of the vote in his first try and made it to 63.9% on his last try.\r\nLoo… [+2171 chars]",
-        "positive": 0.004036603029817343,
-        "negative": 3.092707629548386e-05,
-        "neutral": 0.9959325194358826
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/05/3201005/0/en/LocationSync-Releases-New-Consumer-Insights-Highlighting-Nationwide-Shift-Toward-Comfort-Driven-Home-Upgrades.html",
-        "timestamp": "2025-12-05T22:17:00+00:00",
-        "text": "LocationSync Releases New Consumer Insights Highlighting Nationwide Shift Toward Comfort-Driven Home Upgrades \nAmericans are accelerating home-focused improvements as lifestyle and technology trends reshape how they enhance daily living. Americans are accelerating home-focused improvements as lifestyle and technology trends reshape how they enhance daily living. \nSalt Lake City, UT, Dec. 05, 2025 (GLOBE NEWSWIRE) -- LocationSync, a platform specializing in consumer location and behavior analytics, announced today the release of a new insights report identifyi… [+3464 chars]",
-        "positive": 0.9550606608390808,
-        "negative": 1.3887536624679342e-05,
-        "neutral": 0.04492547735571861
-      },
-      {
-        "source": "news",
-        "id": "https://www.androidheadlines.com/2025/12/iphone-16-is-the-best-selling-smartphone-globally-in-q3-2025.html",
-        "timestamp": "2025-12-05T22:16:54+00:00",
-        "text": "iPhone 16 is The Best Selling Smartphone Globally in Q3 2025 \nCounterpoint's global smartphone sales for Q3 2025 report shows that the iPhone 16 is the best-selling model globally during this quarter. \nCounterpoint is here with its global smartphone sales report for Q3 2025. Apples iPhone 16 was the best-selling smartphone globally in Q3 2025, according to the firms Global Handset Model Sales Track… [+1942 chars]",
-        "positive": 1.0,
-        "negative": 1.1745314942857021e-08,
-        "neutral": 5.2165592734354505e-08
-      },
-      {
-        "source": "news",
         "id": "https://biztoc.com/x/073806d46ae4ea70",
         "timestamp": "2025-12-05T22:16:52+00:00",
         "text": "How Netflix Beat Out Paramount and Comcast to Buy Warner Bros \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+792 chars]",
@@ -1085,39 +1238,12 @@
       },
       {
         "source": "news",
-        "id": "https://bringatrailer.com/listing/2013-bmw-135is-coupe-10/",
-        "timestamp": "2025-12-05T22:15:06+00:00",
-        "text": "2013 BMW 135is Coupe 6-Speed \nThis 2013 BMW 135is coupe has been registered in California from new, and 49k of the 53k miles have been added since the seller purchased the car in September 2014. The car is finished in Carbon Black Metallic over black Boston leather and is powered by a tur… \nThis 2013 BMW 135is coupe has been registered in California from new, and 49k of the 53k miles have been added since the seller purchased the car in September 2014. The car is finished in Carbon Blac… [+2265 chars]",
-        "positive": 1.3553280950873159e-05,
-        "negative": 3.04431182485132e-06,
-        "neutral": 0.9999833106994629
-      },
-      {
-        "source": "news",
-        "id": "https://www.bbc.com/sport/rugby-union/articles/cn4d1j489reo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "timestamp": "2025-12-05T22:12:53+00:00",
-        "text": "Glasgow earn opening night bonus-point win at Sale \nGlasgow Warriors enjoy a dream opening night in the Champions Cup with a bonus-point away win over Sale Sharks. \nInvestec Champions Cup\r\nSale (14) 21\r\nTries: Van Rhyn, Davies, Louw Cons: Du Preez 3\r\nGlasgow(12) 26\r\nTries: Hiddleston, Darge, Steyn, McDowall Cons: Hastings 3\r\nGlasgow Warriors enjoyed a dream open… [+1512 chars]",
-        "positive": 5.024729034630582e-06,
-        "negative": 4.2048654904647265e-06,
-        "neutral": 0.9999908208847046
-      },
-      {
-        "source": "news",
         "id": "https://www.sportingnews.com/us/high-school/news/choctaw-ok-vs-sand-springs-ok-live-updates-score-oklahoma-ossaa-class-6a-ii-state-championship-game/ab3aeea4869a2665f6d0e6f1",
         "timestamp": "2025-12-05T22:12:19+00:00",
         "text": "Choctaw (OK) vs. Sand Springs (OK): Live updates, score of Oklahoma OSSAA Class 6A-II state championship game \nFollow along as the Yellowjackets take on the Sandites \nChoctaw (OK) vs. Sand Springs (OK): Live updates, score of Oklahoma OSSAA Class 6A-II state championship game originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by … [+1996 chars]",
         "positive": 0.00013793045945931226,
         "negative": 9.201667126035318e-06,
         "neutral": 0.9998528957366943
-      },
-      {
-        "source": "news",
-        "id": "https://www.forbes.com/sites/danafeldman/2025/12/05/gillian-anderson-finally-plays-a-baddie-in-netflixs-the-abandons/",
-        "timestamp": "2025-12-05T22:11:10+00:00",
-        "text": "Gillian Anderson Finally Plays A Baddie In Netflix’s ‘The Abandons’ \nGillian Anderson talks about a career first in Netflix's 'The Abandons.' \"I haven't really played a baddie before, and I was interested in exploring that.” \nGillian Anderson as Constance Van Ness in 'The Abandons' on Netflix. \r\nPHOTO COURTESY OF MATTHIAS CLAMER/NETFLIX \r\nIn a television landscape teeming with male-dominated Westerns, Netflixs The Abandon… [+4174 chars]",
-        "positive": 7.885703780630138e-06,
-        "negative": 0.00010783913603518158,
-        "neutral": 0.9998842477798462
       },
       {
         "source": "news",
@@ -1199,132 +1325,6 @@
         "positive": 2.2479958715848625e-05,
         "negative": 5.919438990531489e-05,
         "neutral": 0.9999182224273682
-      },
-      {
-        "source": "news",
-        "id": "https://theconversation.com/frank-gehry-the-architect-of-the-unconventional-the-accidental-and-the-inspiring-has-died-at-96-266250",
-        "timestamp": "2025-12-05T22:01:41+00:00",
-        "text": "Frank Gehry, the architect of the unconventional, the accidental, and the inspiring, has died at 96 \nFrank Gehry, who has died at 96, leaves a powerful legacy, visible in many major cities, in the media, in galleries and in popular culture. \nArchitect Frank Gehry poses with miniatures of his designs in Los Angeles in 1989.\n Bonnie Schiffman/Getty Images\r\nIn April 2005, The Simpsons featured an episode where Marge, embarrassed by her home… [+6401 chars]",
-        "positive": 0.00022820070444140583,
-        "negative": 0.002448776736855507,
-        "neutral": 0.9973230957984924
-      },
-      {
-        "source": "news",
-        "id": "http://www.newsbtc.com/news/bitcoin/trending-bitcoin-vs-gold-debate/",
-        "timestamp": "2025-12-05T22:00:55+00:00",
-        "text": "Binance Founder Crushes Bitcoin Critic In Game-Changing BTC Vs. Gold Debate \nThe Binance Blockchain Week event in Dubai became the center of a high-stakes showdown between traditional and digital innovation, with Bitcoin and gold going head-to-head. Investors, tech enthusiasts, and financial experts watched closely as Binance founder … \nThe Binance Blockchain Week event in Dubai became the center of a high-stakes showdown between traditional and digital innovation, with Bitcoin and gold going head-to-head. Investors, tech enthusiast… [+3617 chars]",
-        "positive": 0.004080732818692923,
-        "negative": 0.000249500764766708,
-        "neutral": 0.9956697225570679
-      },
-      {
-        "source": "news",
-        "id": "https://oilprice.com/Energy/Energy-General/Electric-Motor-Market-Set-to-Triple-by-2032.html",
-        "timestamp": "2025-12-05T22:00:00+00:00",
-        "text": "Electric Motor Market Set to Triple by 2032 \nThe machinery that powers the modern world, from industrial assembly lines to the cooling systems of data centers, is undergoing a massive, capital-intensive overhaul. According to a new analysis by Allied Market Research, the global electric motor market is … \nZipcar has reached the end…\r\nKazakhstan is increasing oil exports…\r\nUpstream spending is expected to…\r\nBy Michael Kern - Dec 05, 2025, 4:00 PM CSTThe machinery that powers the modern world, from indu… [+5045 chars]",
-        "positive": 0.9955920577049255,
-        "negative": 0.00019519605848472565,
-        "neutral": 0.004212711937725544
-      },
-      {
-        "source": "news",
-        "id": "https://www.nzherald.co.nz/business/economy/christopher-luxon-leadership-why-national-would-be-nuts-to-roll-him-bruce-cotterill/premium/3MJ5OKQPBNE3XGYDKMQNKMFUTU/",
-        "timestamp": "2025-12-05T22:00:00+00:00",
-        "text": "Christopher Luxon leadership: Why National would be ‘nuts’ to roll him - Bruce Cotterill \nOPINION: Party history shows leadership coups rarely end well. \nBesides, there are plenty of reasons for the National Party to stay the course with their current team and the current leadership.\r\nFirstly, things are going quite well. The Government inherited a he… [+8932 chars]",
-        "positive": 0.09270715713500977,
-        "negative": 0.001959629589691758,
-        "neutral": 0.9053332805633545
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/1991-buick-reatta-19/",
-        "timestamp": "2025-12-05T21:58:31+00:00",
-        "text": "Original-Owner 1991 Buick Reatta at No Reserve \nThis 1991 Buick Reatta coupe was purchased new by the seller's father, a former Buick dealer, who bought it for his wife and was previously the Chairman of the Buick National Dealer Council. The car has 19k miles following registration history in California s… \nThis 1991 Buick Reatta coupe was purchased new by the seller’s father, a former Buick dealer, who bought it for his wife and was previously the Chairman of the Buick National Dealer Council. The car … [+2047 chars]",
-        "positive": 1.3753750863543246e-05,
-        "negative": 2.8163665319880238e-06,
-        "neutral": 0.9999834299087524
-      },
-      {
-        "source": "news",
-        "id": "https://www.androidheadlines.com/buying-guides",
-        "timestamp": "2025-12-05T21:58:02+00:00",
-        "text": "Best Smartphone & Tech 2025: Ultimate Buying Guides \nThe gold standard in smartphone & tech buying guides 2025. Phones, tablets, TVs & more—the best of the best. \nShopping for new tech in 2025 can feel like a second job. Between flagship smartphones, tablets, TVs, and headphones, the choices are endless and so is the noise. Every brand claims to be the best, e… [+1116 chars]",
-        "positive": 0.9989204406738281,
-        "negative": 3.375055484866607e-06,
-        "neutral": 0.0010762669844552875
-      },
-      {
-        "source": "news",
-        "id": "https://www.abc.net.au/news/2025-12-06/coronial-inquest-investigates-terry-airey-death/106090278",
-        "timestamp": "2025-12-05T21:57:10+00:00",
-        "text": "Death prompts major hospital protocol overhaul as inquest scrutinises 'chaotic day' \nA Queensland hospital has increased staffing and revamped its radiology protocols and systems following an 87-year-old's death from organ failure after routine surgery. \nA Queensland hospital has increased staffing and revamped its radiology protocols following the death of an 87-year-old farmer after routine surgery, an inquest has heard.\r\nTen Sunshine Coast Univers… [+4731 chars]",
-        "positive": 0.6174629330635071,
-        "negative": 0.014714241027832031,
-        "neutral": 0.3678227961063385
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2025/12/05/lifestyle/top-2026-budget-travel-hotspots-revealed/",
-        "timestamp": "2025-12-05T21:56:59+00:00",
-        "text": "This unlikely European region is the next budget vacation hotspot in 2026, according to travelers \nHead East? \nGlobetrotters are getting fly in 2026. \r\nFolks stricken with wanderlust are broadening their horizons in the coming year, setting their sights on atypical, albeit economical vacation destinations abr… [+2971 chars]",
-        "positive": 0.13569071888923645,
-        "negative": 6.936299905646592e-05,
-        "neutral": 0.8642398715019226
-      },
-      {
-        "source": "news",
-        "id": "https://www.smh.com.au/business/companies/trump-has-orchestrated-a-golden-age-for-australia-20251204-p5nkrd.html",
-        "timestamp": "2025-12-05T21:56:01+00:00",
-        "text": "Gold price: Australia’s export boom soars amid Trump’s policies \nChina’s epochal rise was the driver of Australia’s first resource boom, but in 2025 Trump has engineered something almost as astounding. \nBy October, gold had topped $US4000 an ounce for the first time soaring 60 per cent for the year and outperforming both the US sharemarket and a woeful bitcoin.\r\nUBS notes that market analysts have s… [+4527 chars]",
-        "positive": 0.9999988079071045,
-        "negative": 2.535846874707204e-07,
-        "neutral": 1.0086580459756078e-06
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/6f4f20d8d55f259d",
-        "timestamp": "2025-12-05T21:54:33+00:00",
-        "text": "The Netflix and Warner Bros. Deal Is Far From a Sure Thing \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+736 chars]",
-        "positive": 0.0008864141418598592,
-        "negative": 9.932225111697335e-06,
-        "neutral": 0.9991037249565125
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/c871714054c6bd32",
-        "timestamp": "2025-12-05T21:54:33+00:00",
-        "text": "Can Trump Really End Birthright Citizenship? \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+775 chars]",
-        "positive": 0.0005861984682269394,
-        "negative": 3.688811921165325e-05,
-        "neutral": 0.9993769526481628
-      },
-      {
-        "source": "news",
-        "id": "https://www.mmafighting.com/ufc/459814/conor-mcgregor-targets-islam-makhachev-i-for-sure-want-a-crack-at-that-170-pound-belt",
-        "timestamp": "2025-12-05T21:54:29+00:00",
-        "text": "Conor McGregor targets Islam Makhachev: ‘I for sure want a crack at that 170-pound belt’ \nConor McGregor wants another UFC title \nConor McGregor only sees gold in his future if he comes back to fight.\r\nThe former two-division champion has made it clear he plans to compete at the upcoming UFC White House card planned for June an… [+2768 chars]",
-        "positive": 8.540749149688054e-06,
-        "negative": 1.223165509145474e-05,
-        "neutral": 0.9999791383743286
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/4fc4829a77a5ddec",
-        "timestamp": "2025-12-05T21:54:16+00:00",
-        "text": "Norway Parliament Passes Budget After Labor Deal With Allies \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+777 chars]",
-        "positive": 7.781534804962575e-05,
-        "negative": 4.908578830509214e-06,
-        "neutral": 0.9999172687530518
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/2c2443e92264f8cb",
-        "timestamp": "2025-12-05T21:54:13+00:00",
-        "text": "Verizon’s Mass Layoffs Were ‘Inevitable,’ CEO Says. What the Telecom Wants to Do in 2026 \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix-Warner m… [+730 chars]",
-        "positive": 0.00011567730689421296,
-        "negative": 3.228141213185154e-05,
-        "neutral": 0.9998519420623779
       },
       {
         "source": "news",
@@ -25123,9 +25123,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.5256620040940168,
-    "nw_norm": 76.28310020470084
+    "nw": 0.503420573454349,
+    "nw_norm": 75.17102867271745
   },
-  "gsi": 76.28310020470084,
+  "gsi": 75.17102867271745,
   "classification": "Extremely Bullish"
 }
