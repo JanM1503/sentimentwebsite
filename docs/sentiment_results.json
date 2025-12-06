@@ -1,8 +1,170 @@
 {
-  "timestamp": "2025-12-06T19:49:22.406621+00:00",
+  "timestamp": "2025-12-06T20:02:39.917378+00:00",
   "news": {
-    "count": 2800,
+    "count": 2798,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.bostonherald.com/2025/12/05/gehry-obit/",
+        "timestamp": "2025-12-05T19:55:18+00:00",
+        "text": "Frank Gehry, the most celebrated architect of his time, dies at 96 \nGehry won every major prize that architecture has to offer. \nBy JOHN ROGERS\r\nLOS ANGELES (AP) Frank Gehry, who designed some of most imaginative buildings ever constructed and achieved a level of worldwide acclaim seldom afforded any architect, has died. He wa… [+3975 chars]",
+        "positive": 0.0035793811548501253,
+        "negative": 0.0594170056283474,
+        "neutral": 0.9370036125183105
+      },
+      {
+        "source": "news",
+        "id": "https://rollingout.com/2025/12/05/simone-biles-breast-augmentation-tiktok/",
+        "timestamp": "2025-12-05T19:55:16+00:00",
+        "text": "What Simone Biles just revealed about her recovery process \nSimone Biles took to social media Thursday to proudly display the results of her recent cosmetic surgery, giving her massive TikTok following an unfiltered look at her transformation. The seven-time Olympic gold medalist posted a video showcasing her breast a… \nSimone Biles took to social media Thursday to proudly display the results of her recent cosmetic surgery, giving her massive TikTok following an unfiltered look at her transformation. The seven-time … [+5644 chars]",
+        "positive": 0.4440421164035797,
+        "negative": 0.00042293750448152423,
+        "neutral": 0.5555349588394165
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/us/bitcoin-btc-usd-lags-sp-500-for-first-time-since-2014-as-ai-stocks-lead-2025-rally-gold-and-silver-also-gain/articleshow/125794926.cms",
+        "timestamp": "2025-12-05T19:55:08+00:00",
+        "text": "Bitcoin (BTC USD) lags S&P 500 for first time since 2014 as AI stocks lead 2025 rally – gold and silver also gain \nBitcoin (BTC USD vs S&P 500: Bitcoin is unexpectedly falling behind the S&P 500's strong 2025 rally. Artificial intelligence stocks and precious metals like gold and silver are drawing investor attention. This shift marks a departure from Bitcoin's usual role… \n(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.)\r\nDownload The Economic Times News App to get Daily International News… [+8 chars]",
+        "positive": 0.006196472328156233,
+        "negative": 0.27650952339172363,
+        "neutral": 0.7172940969467163
+      },
+      {
+        "source": "news",
+        "id": "https://apnews.com/article/architect-frank-gehry-died-obit-guggenheim-disney-a023a30877e6e9644dd9ad8f1f4217f4",
+        "timestamp": "2025-12-05T19:53:08+00:00",
+        "text": "Frank Gehry, internationally renowned architect, dies at 96 \nGroundbreaking architect Frank Gehry who was behind the acclaimed Guggenheim Museum in Bilbao, Spain, and Disney Concert Hall in Los Angeles has died. He was 96. The chief of staff at Gehry Partners LLP confirms her died Friday in his home in Santa Monica aft… \nLOS ANGELES (AP) Frank Gehry, who designed some of most imaginative buildings ever constructed and achieved a level of worldwide acclaim seldom afforded any architect, has died. He was 96.\r\nGehry die… [+4549 chars]",
+        "positive": 0.002062224317342043,
+        "negative": 0.5829096436500549,
+        "neutral": 0.4150281846523285
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2025-12-06/donald-trump-is-remaking-the-white-house-in-his-own-image/105552330",
+        "timestamp": "2025-12-05T19:52:08+00:00",
+        "text": "Under deadline, Trump is remaking the White House in his own image \nThe US president has spent much of his first year back in office changing the historic building he fought to reclaim in a bid to cement his legacy. \nThe US president has spent much of his first year back in office changing the historic building he fought to reclaim.\r\nHe was on the roof.\r\nThe press craned their necks, looking to where a sitting pr… [+10733 chars]",
+        "positive": 2.464916542521678e-05,
+        "negative": 5.9412279370008036e-05,
+        "neutral": 0.9999159574508667
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/8c8d6211a3cb53b8",
+        "timestamp": "2025-12-05T19:51:28+00:00",
+        "text": "The FIFA World Cup Draw Puts Trump in the Spotlight \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix buying Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Metas metaverse cut… [+764 chars]",
+        "positive": 0.00014047633158043027,
+        "negative": 1.2557540685520507e-05,
+        "neutral": 0.9998469352722168
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/844677f10783eda1",
+        "timestamp": "2025-12-05T19:51:19+00:00",
+        "text": "Industrial Sector Is Saying, ‘No Recession.’ 3 Stocks to Consider \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix buying Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Metas metaverse cut… [+715 chars]",
+        "positive": 6.704630504827946e-05,
+        "negative": 3.08209091599565e-05,
+        "neutral": 0.9999021291732788
+      },
+      {
+        "source": "news",
+        "id": "https://siliconangle.com/2025/12/05/jina-ai-elastic-efficiency-speed-awsreinvent/",
+        "timestamp": "2025-12-05T19:51:05+00:00",
+        "text": "Semantic and multimodal search moves mainstream as Jina AI gains traction \nAs artificial intelligence accelerates across every industry, Jina AI is emerging as one of the few platforms capable of redefining how organizations actually find, interpret and act on their data. Jina AI is moving search far beyond keyword matching, pushing… \nAs artificial intelligence accelerates across every industry, Jina AI is emerging as one of the few platforms capable of redefining how organizations actually find, interpret and act on their data.\r\n… [+4589 chars]",
+        "positive": 0.9999476671218872,
+        "negative": 3.909591214323882e-06,
+        "neutral": 4.840288602281362e-05
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/sanwo-olu-to-hold-town-hall-meeting-on-security-december-11/",
+        "timestamp": "2025-12-05T19:50:14+00:00",
+        "text": "Sanwo-Olu to hold town hall meeting on security December 11 \nGovernor Sanwo-Olu will host a Lagos security town hall meeting on Dec 11 to discuss strategies and unveil new safety priorities for the state.\n\nRead More: https://punchng.com/sanwo-olu-to-hold-town-hall-meeting-on-security-december-11/ \nAs part of efforts to ensure the safety of lives and property, the Lagos State Governor, Babajide Sanwo-Olu, will on December 11 hold a town hall meeting with stakeholders to discuss strategies for e… [+3075 chars]",
+        "positive": 1.249698379979236e-05,
+        "negative": 3.0763078484596917e-06,
+        "neutral": 0.9999843835830688
+      },
+      {
+        "source": "news",
+        "id": "https://www.futurity.org/birds-resilience-climate-change-3309492/",
+        "timestamp": "2025-12-05T19:48:14+00:00",
+        "text": "Pacific Northwest ‘snapshot’ shows how surprisingly tough birds are \nA 30-year \"snapshot study\" of birds in the Pacific Northwest is showing their surprising resilience in the face of climate change. \nA 30-year “snapshot study” of birds in the Pacific Northwest is showing their surprising resilience in the face of climate change.\r\nThe project started when Georgia Tech School of Biological Sciences… [+3762 chars]",
+        "positive": 0.02248942106962204,
+        "negative": 6.291177123785019e-05,
+        "neutral": 0.9774476289749146
+      },
+      {
+        "source": "news",
+        "id": "https://www.good.is/mtv-news-cds-gen-x",
+        "timestamp": "2025-12-05T19:47:52+00:00",
+        "text": "People are savoring an unearthed 1994 MTV interview with people who just bought CDs at Tower Records \nFor those of us who grew up impatiently waiting for new-music Fridays, saving up our spare cash to spend on CDs at the local Sam Goody, nothing will ever beat the thrill of that tactile connection—even tearing the awkward sticky labels off the jewel cases was… \nIn a r/AskReddit thread, the seasonally important question was asked, \"What food has the largest disparity between being really good or really bad, depending on who is making it?\" Redditors flooded t… [+8844 chars]",
+        "positive": 0.004739736672490835,
+        "negative": 0.5914103388786316,
+        "neutral": 0.40384989976882935
+      },
+      {
+        "source": "news",
+        "id": "https://www.tomshardware.com/pc-components/avoid-sky-high-ddr5-prices-and-save-usd150-with-this-asus-b850-board-and-16gb-team-group-ram-bundle-deal",
+        "timestamp": "2025-12-05T19:46:45+00:00",
+        "text": "Avoid sky-high DDR5 prices and save $150 with this Asus B850 board and 16GB Team Group RAM bundle deal \nSkirt ridiculous DDR5 prices in this smokin' deal from Newegg. $229 buys a mid-range Asus B850-A Gaming Wifi R2 motherboard and 16GB Team Group DDR5-6000 RAM - $150 off \nDDR5 prices are ridiculous\r\n right now, and have been for weeks. Even if you jumped on any Black Friday or Cyber Monday deals, prices were already inflated, and the outlook for 2026 isn’t very good d… [+2936 chars]",
+        "positive": 0.002136322669684887,
+        "negative": 0.12048787623643875,
+        "neutral": 0.8773758411407471
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2025-12-06/vladimir-putin-offers-india-uninterrupted-fuel-supplies/106109824",
+        "timestamp": "2025-12-05T19:46:30+00:00",
+        "text": "Vladimir Putin offers India 'uninterrupted' fuel supplies \nThe offer is made at a summit in New Delhi, where new deals on energy, agriculture and labour have also been announced. \nRussian President Vladimir Putin has offered India uninterrupted fuel supplies, eliciting a cautious response from India, despite the countries agreeing to expand trade and defence ties.\r\nIndia, the … [+4002 chars]",
+        "positive": 2.7008873075828888e-05,
+        "negative": 0.00017013834440149367,
+        "neutral": 0.9998027682304382
+      },
+      {
+        "source": "news",
+        "id": "https://www.foxnews.com/sports/attorney-rips-usa-gymnastics-amid-lawsuit-over-alleged-failure-protect-athletes-from-sexual-abuse",
+        "timestamp": "2025-12-05T19:46:01+00:00",
+        "text": "Attorney rips USA Gymnastics amid lawsuit over alleged failure to protect athletes from sexual abuse \nUSA Gymnastics is facing a new lawsuit alleging failure to protect athletes from coach Sean Gardner's sexual abuse despite 2017 reports to SafeSport. \nUSA Gymnastics is facing another lawsuit for allegedly failing to protect female athletes from sexual abuse. The latest lawsuit alleges USA Gymnastics and the U.S. Center for SafeSport were informed … [+3483 chars]",
+        "positive": 0.00660253269597888,
+        "negative": 0.9875401854515076,
+        "neutral": 0.005857276264578104
+      },
+      {
+        "source": "news",
+        "id": "http://foreignpolicy.com/2025/12/05/democracy-promotion-united-states-michael-mcfaul-book-review/",
+        "timestamp": "2025-12-05T19:45:23+00:00",
+        "text": "When the Democratic Recession Comes Home \nMichael McFaul wants more democracy promotion. Is now the time? \nIt is a bad time to argue that the United States should do more to promote democracy around the world, and Michael McFaul knows it. Some will dismiss my worldview and policy recommendations as old-fa… [+13065 chars]",
+        "positive": 2.9231710868771188e-05,
+        "negative": 0.00035434978781268,
+        "neutral": 0.9996163845062256
+      },
+      {
+        "source": "news",
+        "id": "https://www.eonline.com/news/1425901/saint-west-birthday-kris-jenner-tribute",
+        "timestamp": "2025-12-05T19:44:23+00:00",
+        "text": "Kris Jenner Celebrates “Sweetest” Grandson Saint West’s 10th Birthday \nKris Jenner is keeping up with her birthday wishes.\nIndeed, the momager had a special tribute for Kim Kardashian and Kanye West’s son Saint West’s 10th birthday.\n“Happy birthday to my precious... \nKris Jenner is keeping up with her birthday wishes.\r\nIndeed, the momager had a special tribute for Kim Kardashian and Kanye Wests son Saint Wests 10th birthday.\r\nHappy birthday to my precious grandso… [+805 chars]",
+        "positive": 1.9139419237035327e-05,
+        "negative": 4.14536043535918e-06,
+        "neutral": 0.999976634979248
+      },
+      {
+        "source": "news",
+        "id": "https://rollingout.com/2025/12/05/spacex-100-million-bitcoin-coinbase/",
+        "timestamp": "2025-12-05T19:43:14+00:00",
+        "text": "SpaceX shocks crypto world with massive $100M BTC move \nSpaceX sent shockwaves through the cryptocurrency community Thursday when blockchain tracking revealed a transfer of 1,083 Bitcoin valued at $99.81 million at the time of the transaction. The substantial movement of digital assets from Elon Musk’s aerospace c… \nSpaceX sent shockwaves through the cryptocurrency community Thursday when blockchain tracking revealed a transfer of 1,083 Bitcoin valued at $99.81 million at the time of the transaction. The substan… [+5884 chars]",
+        "positive": 0.00010631763871060684,
+        "negative": 3.103035123785958e-05,
+        "neutral": 0.9998626708984375
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/05/3200951/0/en/Global-Times-French-President-Macron-s-China-visit-will-have-demonstration-effect-for-other-European-leaders-says-experts.html",
+        "timestamp": "2025-12-05T19:43:00+00:00",
+        "text": "Global Times: French President Macron’s China visit will have demonstration effect for other European leaders, says experts \nMacron’s China visit boosts strategic ties, trade dialogue and may guide future EU engagement with Beijing. Macron’s China visit boosts strategic ties, trade dialogue and may guide future EU engagement with Beijing. \nBeijing, China, Dec. 05, 2025 (GLOBE NEWSWIRE) -- At the invitation of Chinese President Xi Jinping, French President Emmanuel Macron arrived in Beijing on Wednesday for a state visit to China throug… [+8654 chars]",
+        "positive": 0.2039935290813446,
+        "negative": 8.874825653037988e-06,
+        "neutral": 0.7959976196289062
+      },
       {
         "source": "news",
         "id": "http://www.equinechronicle.com/airstream-launches-special-edition-travel-trailer-in-collaboration-with-the-four-sixes-ranch-and-stetson/",
@@ -599,21 +761,21 @@
       },
       {
         "source": "news",
-        "id": "https://forward.com/culture/785713/jane-rabinovitz-raleigh-kennedy-center-dance-director-jewish/",
-        "timestamp": "2025-12-05T19:05:00+00:00",
-        "text": "Ex-Director Of Dance At Kennedy Center Says Her Firing Wasn’t A Surprise \nJane Raleigh: “There was definitely an overarching feeling of waiting for the shoe to drop. I was committed to staying until I was removed, (but) I did believe from the beginning that everyone would be fired at some point. … Basically every payday Friday was … \nWhen she walked up to the Kennedy Center on the first day of her internship in 2013, she was Jane Rabinovitz, a recent grad from William &amp; Mary, fresh off a stint as stage manager for an Argentin… [+12317 chars]",
-        "positive": 0.0005108010373078287,
-        "negative": 0.0008012320613488555,
-        "neutral": 0.9986879229545593
-      },
-      {
-        "source": "news",
         "id": "https://www.globenewswire.com/news-release/2025/12/05/3200940/0/en/Diego-Pavia-wins-the-2025-Johnny-Unitas-Golden-Arm-Award-Presented-by-A-O-Smith.html",
         "timestamp": "2025-12-05T19:05:00+00:00",
         "text": "Diego Pavia wins the 2025 Johnny Unitas Golden Arm Award® Presented by A. O. Smith \nVanderbilt QB Diego Pavia wins the 2025 Johnny Unitas Golden Arm Award, becoming the program’s first honoree after a record-setting, standout season.... \nBALTIMORE, Dec. 05, 2025 (GLOBE NEWSWIRE) -- The Golden Arm Educational Foundation, along with presenting sponsor A. O. Smith Corporation, proudly announces Diego Pavia, quarterback for the Vanderbil… [+4049 chars]",
         "positive": 0.99993896484375,
         "negative": 2.45688795530441e-07,
         "neutral": 6.0808913985965773e-05
+      },
+      {
+        "source": "news",
+        "id": "https://forward.com/culture/785713/jane-rabinovitz-raleigh-kennedy-center-dance-director-jewish/",
+        "timestamp": "2025-12-05T19:05:00+00:00",
+        "text": "Ex-Director Of Dance At Kennedy Center Says Her Firing Wasn’t A Surprise \nJane Raleigh: “There was definitely an overarching feeling of waiting for the shoe to drop. I was committed to staying until I was removed, (but) I did believe from the beginning that everyone would be fired at some point. … Basically every payday Friday was … \nWhen she walked up to the Kennedy Center on the first day of her internship in 2013, she was Jane Rabinovitz, a recent grad from William &amp; Mary, fresh off a stint as stage manager for an Argentin… [+12317 chars]",
+        "positive": 0.0005108010373078287,
+        "negative": 0.0008012320613488555,
+        "neutral": 0.9986879229545593
       },
       {
         "source": "news",
@@ -743,21 +905,21 @@
       },
       {
         "source": "news",
-        "id": "https://thepointsguy.com/credit-cards/using-hilton-statement-credits-luxury-resort-all-inclusive/",
-        "timestamp": "2025-12-05T19:00:06+00:00",
-        "text": "How my Hilton cards turned a stay at a luxury Portugal resort into an all-inclusive experience \nThere are a handful of credit cards that offer Hilton statement credits. Here's how I used them to eliminate trip costs completely. \nI absolutely love luxury resort trips, but there's one drawback: Even when booked with points, they can be pretty pricey thanks to expensive on-site food-and-beverage costs. Of course, all-inclusive … [+5335 chars]",
-        "positive": 0.003090491984039545,
-        "negative": 0.000875868194270879,
-        "neutral": 0.9960336089134216
-      },
-      {
-        "source": "news",
         "id": "https://www.the-sun.com/news/15596914/china-warship-armada-near-taiwan-invasion-fears/",
         "timestamp": "2025-12-05T19:00:06+00:00",
         "text": "Satellite pics show Chinese warship armada massing near Taiwan... \nThe Best for News, Sport, Showbiz, Celebrities \nAttention,\r\nOur system has indicated that your user behaviour is potentially automated.\r\nNews Group Newspapers Limited does not permit the access, collection, text or data mining of any content from … [+717 chars]",
         "positive": 2.8976754151699424e-07,
         "negative": 1.635839112168469e-06,
         "neutral": 0.9999980926513672
+      },
+      {
+        "source": "news",
+        "id": "https://thepointsguy.com/credit-cards/using-hilton-statement-credits-luxury-resort-all-inclusive/",
+        "timestamp": "2025-12-05T19:00:06+00:00",
+        "text": "How my Hilton cards turned a stay at a luxury Portugal resort into an all-inclusive experience \nThere are a handful of credit cards that offer Hilton statement credits. Here's how I used them to eliminate trip costs completely. \nI absolutely love luxury resort trips, but there's one drawback: Even when booked with points, they can be pretty pricey thanks to expensive on-site food-and-beverage costs. Of course, all-inclusive … [+5335 chars]",
+        "positive": 0.003090491984039545,
+        "negative": 0.000875868194270879,
+        "neutral": 0.9960336089134216
       },
       {
         "source": "news",
@@ -779,21 +941,21 @@
       },
       {
         "source": "news",
-        "id": "https://archaeology.org/news/2025/12/05/sacrificial-complex-in-the-southern-urals-reveals-nomadic-rituals/",
-        "timestamp": "2025-12-05T19:00:00+00:00",
-        "text": "Sacrificial Complex in the Southern Urals Reveals Nomadic Rituals \nORENBURG, RUSSIA—According to the Greek Reporter, the Russian Academy of Sciences (RAS) announced the discovery […]\nThe post Sacrificial Complex in the Southern Urals Reveals Nomadic Rituals appeared first on Archaeology Magazine. \nGold plaque with an image of a tiger's head and foreleg\r\nORENBURG, RUSSIAAccording to the Greek Reporter, the Russian Academy of Sciences (RAS) announced the discovery of a remarkable and unparallele… [+1252 chars]",
-        "positive": 0.99982088804245,
-        "negative": 1.5963458963597077e-06,
-        "neutral": 0.00017763661162462085
-      },
-      {
-        "source": "news",
         "id": "https://crankyflier.com/2025/12/05/cranky-weekly-review-presented-by-oakland-san-francisco-bay-airport-tsa-aa-want-your-money/",
         "timestamp": "2025-12-05T19:00:00+00:00",
         "text": "Cranky Weekly Review presented by Oakland San Francisco Bay Airport: TSA, AA Want Your Money \nWhen TSA Stops Being Polite and Starts Getting REAL The FAA, DOT, and TSA finally implemented their REAL ID requirements in May after literal decades of missed timelines, pushed back deadlines, and overall confusion over the program. But it’s finally in place… \nThe FAA, DOT, and TSA finally implemented their REAL ID requirements in May after literal decades of missed timelines, pushed back deadlines, and overall confusion over the program. But it’s finally … [+7237 chars]",
         "positive": 6.981677142903209e-05,
         "negative": 0.011952766217291355,
         "neutral": 0.9879774451255798
+      },
+      {
+        "source": "news",
+        "id": "https://archaeology.org/news/2025/12/05/sacrificial-complex-in-the-southern-urals-reveals-nomadic-rituals/",
+        "timestamp": "2025-12-05T19:00:00+00:00",
+        "text": "Sacrificial Complex in the Southern Urals Reveals Nomadic Rituals \nORENBURG, RUSSIA—According to the Greek Reporter, the Russian Academy of Sciences (RAS) announced the discovery […]\nThe post Sacrificial Complex in the Southern Urals Reveals Nomadic Rituals appeared first on Archaeology Magazine. \nGold plaque with an image of a tiger's head and foreleg\r\nORENBURG, RUSSIAAccording to the Greek Reporter, the Russian Academy of Sciences (RAS) announced the discovery of a remarkable and unparallele… [+1252 chars]",
+        "positive": 0.99982088804245,
+        "negative": 1.5963458963597077e-06,
+        "neutral": 0.00017763661162462085
       },
       {
         "source": "news",
@@ -842,48 +1004,12 @@
       },
       {
         "source": "news",
-        "id": "https://cheezburger.com/43483909/29-meowing-memes-of-mischievous-cats-for-clawmedy-seeking-silly-people",
-        "timestamp": "2025-12-05T19:00:00+00:00",
-        "text": "29 Meowing Memes of Mischievous Cats for Clawmedy Seeking Silly People \nCats are seriously silly. Not as in \"serious\"ly silly, because there's nothing serious about cats. Even when they try to be the most serious as they can be, it doesn't work for them. They can go on trying to be mad, making a face that says \"If you won't give … \nCats are seriously silly. Not as in \"serious\"ly silly, because there's nothing serious about cats. Even when they try to be the most serious as they can be, it doesn't work for them. They can go on t… [+947 chars]",
-        "positive": 0.00029725083732046187,
-        "negative": 0.007951864041388035,
-        "neutral": 0.9917508959770203
-      },
-      {
-        "source": "news",
         "id": "https://financialpost.com/pmn/business-pmn/loonie-rises-most-since-may-as-yields-jump-on-strong-jobs-data",
         "timestamp": "2025-12-05T18:59:50+00:00",
         "text": "Loonie Rises Most Since May as Yields Jump on Strong Jobs Data \nThe Canadian dollar rose the most since May and yields on the nation’s debt jumped as surprisingly strong employment data triggered bets that the Bank of Canada will raise interest rates next year. \n(Bloomberg) The Canadian dollar rose the most since May and yields on the nations debt jumped as surprisingly strong employment data triggered bets that the Bank of Canada will raise interest rates n… [+3961 chars]",
         "positive": 0.9998612403869629,
         "negative": 5.655910354107618e-05,
         "neutral": 8.206675556721166e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-enters-strategic-partnership-with-big-12-conference",
-        "timestamp": "2025-12-05T18:58:42+00:00",
-        "text": "NFL enters \"strategic partnership\" with Big 12 Conference \nThe NFL made an unexpected announcement on Friday morning as to an arrangement that could, in theory, spread. \nThe NFL made an unexpected announcement on Friday morning as to an arrangement that could, in theory, spread.\r\nThe NFL and the Big 12 Conference are entering into a new strategic partnership, working… [+2038 chars]",
-        "positive": 4.03852500312496e-05,
-        "negative": 0.0007295211544260383,
-        "neutral": 0.999230146408081
-      },
-      {
-        "source": "news",
-        "id": "https://slickdeals.net/f/18932416-1499-97-apple-ipad-pro-13-inch-m4-1tb-wi-fi-6e-5g-cellular-silver-at-amazon",
-        "timestamp": "2025-12-05T18:58:25+00:00",
-        "text": "$1499.97: Apple iPad Pro 13-Inch (M4): 1TB, Wi-Fi 6E + 5G Cellular, Silver at Amazon \nAmazon [amazon.com] has Apple iPad Pro 13-Inch (M4): 1TB, Wi-Fi 6E + 5G Cellular, Silver for $1499.97.\nShipping is free.\n\nPrice\n$599.03 lower (29% savings) than the list price of $2099\n$348.77 lower ( \nThis collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
-        "positive": 0.0021278418134897947,
-        "negative": 3.136744271614589e-05,
-        "neutral": 0.9978407621383667
-      },
-      {
-        "source": "news",
-        "id": "https://geektyrant.com/news/disney-wants-you-to-know-disney-isnt-just-for-kids-and-its-originals-boss-is-pushing-for-more-adult-content",
-        "timestamp": "2025-12-05T18:58:00+00:00",
-        "text": "Disney Wants You To Know Disney+ Isn’t Just For Kids and its Originals Boss Is Pushing For More Adult Content \nDisney+ is in the middle of a major recalibration, and the message from inside the company is clear. As the streamer expands globally, it wants audiences to understand that it offers far more than classic family programming. During a keynote at Content London… \nDisney+ is in the middle of a major recalibration, and the message from inside the company is clear. As the streamer expands globally, it wants audiences to understand that it offers far more than cl… [+3892 chars]",
-        "positive": 0.14949874579906464,
-        "negative": 3.157334140269086e-05,
-        "neutral": 0.850469708442688
       },
       {
         "source": "news",
@@ -911,24 +1037,6 @@
         "positive": 1.8190928585681831e-06,
         "negative": 0.9999408721923828,
         "neutral": 5.730420525651425e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.nbcnews.com/politics/supreme-court/supreme-court-decide-trump-can-limit-constitutional-right-citizenship-rcna244701",
-        "timestamp": "2025-12-05T18:56:44+00:00",
-        "text": "Supreme Court to decide if Trump can limit the constitutional right to citizenship at birth \nThe Supreme Court agreed to decide the lawfulness of President Donald Trump's contentious plan to roll back automatic birthright citizenship. \nWASHINGTON Teeing up a blockbuster ruling, the Supreme Court on Friday agreed to decide the lawfulness of President Donald Trumps contentious plan to roll back automatic birthright citizenship for ne… [+3769 chars]",
-        "positive": 6.237768684513867e-05,
-        "negative": 3.9181122701847926e-05,
-        "neutral": 0.9998984336853027
-      },
-      {
-        "source": "news",
-        "id": "https://www.techpowerup.com/343751/2-5d-sci-fi-platformer-replaced-gets-final-release-date-march-12-2026",
-        "timestamp": "2025-12-05T18:56:34+00:00",
-        "text": "(PR) 2.5D Sci-fi Platformer \"REPLACED\" Gets Final Release Date: March 12, 2026 \nHello everyone! Sad Cat Studios is beyond thrilled to finally share some long-awaited news: REPLACED now has a final release date and is arriving March 12th, 2026. It's been a long journey, and your support has meant the world to us. Many of you have been wit… \nHello everyone! Sad Cat Studios is beyond thrilled to finally share some long-awaited news: REPLACED now has a final release date and is arriving March 12th, 2026. It's been a long journey, and your … [+1181 chars]",
-        "positive": 0.009741263464093208,
-        "negative": 0.0001746972993714735,
-        "neutral": 0.9900840520858765
       },
       {
         "source": "news",
@@ -965,42 +1073,6 @@
         "positive": 5.5406544561265036e-05,
         "negative": 0.9999397993087769,
         "neutral": 4.73243153464864e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.the-sun.com/news/15596914",
-        "timestamp": "2025-12-05T18:55:38+00:00",
-        "text": "Satellite pics show Chinese warship armada massing near Taiwan... \nSatellite pics show Chinese warship armada massing near Taiwan...\r\n\n \n \n \n (Second column, 9th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Forces Battle Dizzying Altitudes to Expand Military Footprint...\r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Becom… \nAttention,\r\nOur system has indicated that your user behaviour is potentially automated.\r\nNews Group Newspapers Limited does not permit the access, collection, text or data mining of any content from … [+717 chars]",
-        "positive": 5.854544724570587e-07,
-        "negative": 2.8404153908923035e-06,
-        "neutral": 0.999996542930603
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/1987-mercedes-benz-560sl-575/",
-        "timestamp": "2025-12-05T18:55:04+00:00",
-        "text": "23k-Mile 1987 Mercedes-Benz 560SL at No Reserve \nThis 1987 Mercedes-Benz 560SL was sold new by Keenan Motors in Doylestown, Pennsylvania, and now shows 23k miles. It is finished in Astral Silver Metallic over blue leather upholstery and is powered by a 5.5-liter V8 paired with a four-speed automatic transmi… \nThis 1987 Mercedes-Benz 560SL was sold new by Keenan Motors in Doylestown, Pennsylvania, and now shows 23k miles. It is finished in Astral Silver Metallic over blue leather upholstery and is powered … [+2537 chars]",
-        "positive": 1.7970563703784137e-06,
-        "negative": 2.006138174692751e-06,
-        "neutral": 0.9999961853027344
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/6a2e04f509e8a85a",
-        "timestamp": "2025-12-05T18:54:55+00:00",
-        "text": "G7’s Russian oil tanker ban shows teeth, but bite is in doubt \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix buying Warner Bros? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Meta's metaverse cuts affect … [+680 chars]",
-        "positive": 0.0005236353026703,
-        "negative": 0.000934290059376508,
-        "neutral": 0.998542070388794
-      },
-      {
-        "source": "news",
-        "id": "https://therealnews.com/cnn-partners-kalshi-gambling-app-starvation-gaza",
-        "timestamp": "2025-12-05T18:53:38+00:00",
-        "text": "CNN Partners With a Gambling App That Lets You Wager on Starvation in Gaza \nThe app company’s two biggest investors are also heavily invested in the Israeli military. \nHonest, paywall-free news is rare. Please support our boldly independent journalism with a donation of any size.\r\nConsistent with the United States continued slide into an economy powered almost enti… [+8960 chars]",
-        "positive": 0.3756159543991089,
-        "negative": 7.002300844760612e-05,
-        "neutral": 0.62431401014328
       },
       {
         "source": "news",
@@ -1316,96 +1388,6 @@
         "positive": 0.999995231628418,
         "negative": 4.1418297769268975e-06,
         "neutral": 5.416906674327038e-07
-      },
-      {
-        "source": "news",
-        "id": "https://thepointsguy.com/credit-cards/chase-sapphire-airport-lounge/",
-        "timestamp": "2025-12-05T18:00:37+00:00",
-        "text": "The complete guide to Chase Sapphire airport lounges — and how to get access \nThe airport lounge game is getting even more interesting with Chase opening its own Chase Sapphire Lounges. Here's how to access them. \nCredit card issuers compete on many fronts, but one area that has been heating up the most is airport lounges. Chase is making strides in this area with its Chase Sapphire Lounges by The Club. To get… [+9504 chars]",
-        "positive": 0.9997110962867737,
-        "negative": 1.2472182788769715e-06,
-        "neutral": 0.00028774148086085916
-      },
-      {
-        "source": "news",
-        "id": "https://www.tvline.com/2044056/landman-renewed-season-3-paramount-plus/",
-        "timestamp": "2025-12-05T18:00:00+00:00",
-        "text": "Landman Renewed For Season 3 \nTaylor Sheridan and Billy Bob Thornton's Landman is sticking around for another season - get details. \nTommy Norris' oil biz will continue to thrive: \"Landman\" has been renewed for Season 3, Paramount+ announced Friday. \r\nThe series follows Norris (played by Billy Bob Thornton) in the cutthroat world … [+1138 chars]",
-        "positive": 0.9973832964897156,
-        "negative": 5.925052391830832e-06,
-        "neutral": 0.0026107875164598227
-      },
-      {
-        "source": "news",
-        "id": "https://www.abc.net.au/news/2025-12-06/russia-ukraine-drones-europe-warfare-technology-weapons/106088044",
-        "timestamp": "2025-12-05T18:00:00+00:00",
-        "text": "'World's first drone war': Russia-Ukraine war pits technology against manpower \nWhen it comes to weaponry, Russia has strength in manpower despite Ukraine's early technological edge while Europe's arms production efforts are running into infrastructure hurdles. \nUS Army General Ben Hodges was the commander of American forces in Europe until 2017. He has often told the story of the time US paratroopers jumped into an airfield in Bulgaria they were supposed to… [+9368 chars]",
-        "positive": 0.0004761260934174061,
-        "negative": 0.0022422834299504757,
-        "neutral": 0.997281551361084
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/international/us/why-the-last-5-years-before-retirement-can-make-or-break-your-future-and-what-to-do-now/articleshow/125792357.cms",
-        "timestamp": "2025-12-05T17:59:46+00:00",
-        "text": "Why the last 5 years before retirement can make or break your future, and what to do now \nThe five years before retirement are critical for Americans. Nearly half worry their savings won’t last. Boosting contributions, cutting expenses, or adding side income can make a huge difference. Shifting to lower-risk investments and adding inflation-protec… \nThe five years before retirement are the most critical for Americans. This period can make or break your golden years. Nearly half of Americans approach retirement unsure if their savings will last. … [+8430 chars]",
-        "positive": 0.0010740590514615178,
-        "negative": 0.01173943467438221,
-        "neutral": 0.9871864318847656
-      },
-      {
-        "source": "news",
-        "id": "https://www.wnd.com/2025/12/shocking-assault-rule-law-letitia-james-escapes-new/",
-        "timestamp": "2025-12-05T17:59:38+00:00",
-        "text": "‘Shocking assault on the rule of law’: Letitia James escapes new indictment – for now \nNew grand jury fails to act on charges of mortgage misbehavior \nNew York Attorney General Letitia James\r\nNew York Attorney General Letitia James, who campaigned on the promise to “get” President Trump and later secured a half a billion dollar judgment against him… [+4278 chars]",
-        "positive": 0.0007575731724500656,
-        "negative": 0.9177982211112976,
-        "neutral": 0.08144422620534897
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/4a362e82273533dc",
-        "timestamp": "2025-12-05T17:58:31+00:00",
-        "text": "Treasury fines N.Y. property management firm $7.1 million over ties to Putin’s ally \nThe U.S. Treasury Department imposed a $7.1 million fine on a New York-based property management firm Thursday, accusing it of violating sanctions by managing luxury real estate properties for oligarch Oleg Deripaska, who has close ties to Russian President V… \nThe U.S. Treasury Department imposed a $7.1 million fine on a New York-based property management firm Thursday, accusing it of violating sanctions by managing luxury real estate properties for oligar… [+144 chars]",
-        "positive": 0.0012016580440104008,
-        "negative": 0.9400676488876343,
-        "neutral": 0.05873066931962967
-      },
-      {
-        "source": "news",
-        "id": "https://www.nbcsports.com/olympics/news/melissa-jefferson-wooden-rai-benjamin-usatf-athlete-of-the-year-2025",
-        "timestamp": "2025-12-05T17:56:07+00:00",
-        "text": "Melissa Jefferson-Wooden, Rai Benjamin lead USATF Athlete of the Year winners \nMelissa Jefferson-Wooden and Rai Benjamin earned the prestigious Jackie Joyner-Kersee and Jesse Owens awards. \nWorld champions Melissa Jefferson-Wooden and Rai Benjamin were named USA Track and Field Female and Male Athletes of the Year for 2025.\r\nJefferson-Wooden won the Jackie Joyner-Kersee Award after beco… [+1331 chars]",
-        "positive": 0.7865545749664307,
-        "negative": 0.00014112026838120073,
-        "neutral": 0.21330425143241882
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/world/us/a-new-jaguar-spotted-in-arizona-points-to-progress-in-the-endangered-species-recovery/articleshow/125793811.cms",
-        "timestamp": "2025-12-05T17:56:03+00:00",
-        "text": "A new jaguar spotted in Arizona points to progress in the endangered species' recovery \nUS News: The spots gave it away. Just like a human fingerprint, the rosette pattern on each jaguar is unique so researchers knew they had a new animal on their. \n<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>A new jaguar spotted in Arizona points to progress in the endangered species' recovery</li></ul>\r\nFollow Us On Social Media\r\nDivya Khosla… [+1726 chars]",
-        "positive": 0.11093146353960037,
-        "negative": 0.00019680085824802518,
-        "neutral": 0.8888717293739319
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/news/economy/jobs-report-has-markets-flirting-with-rate-hike",
-        "timestamp": "2025-12-05T17:55:58+00:00",
-        "text": "‘Head-scratcher’ jobs report has markets flirting with rate hike in 2026, economists say \n'Coupled with inflation that has been running hot of late, this quashes any lingering prospect of a near-term BoC rate cut' \nCanadas better-than-expected employment numbers for a third straight month took economists by surprise, and most now seem to agree interest rate cuts are done for 2026.\r\nTHIS CONTENT IS RESERVED FOR … [+4707 chars]",
-        "positive": 1.0,
-        "negative": 1.505309121796472e-08,
-        "neutral": 5.909073053089742e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.wnd.com/2025/12/report-soros-scheme-bash-american-companies-fails-miserably/",
-        "timestamp": "2025-12-05T17:52:07+00:00",
-        "text": "Report: Soros scheme to bash American companies fails miserably \nCampaign targeting those perceived as working with President Trump a 'bomb' \nBillionaire George Soros long has used his wealth to push extremist agendas including the deaths of unborn babies in the world’s abortion industry, rampant migration, vast social programs costing tax… [+2923 chars]",
-        "positive": 4.33287896157708e-05,
-        "negative": 0.011303747072815895,
-        "neutral": 0.9886528849601746
       },
       {
         "source": "news",
@@ -25204,9 +25186,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.5170073507558506,
-    "nw_norm": 75.85036753779252
+    "nw": 0.5037391933473329,
+    "nw_norm": 75.18695966736664
   },
-  "gsi": 75.85036753779252,
+  "gsi": 75.18695966736664,
   "classification": "Extremely Bullish"
 }
