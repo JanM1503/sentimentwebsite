@@ -1,8 +1,170 @@
 {
-  "timestamp": "2025-12-07T09:00:38.262903+00:00",
+  "timestamp": "2025-12-07T09:25:20.942310+00:00",
   "news": {
-    "count": 2796,
+    "count": 2798,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://torrentfreak.com/lithuanian-watchdog-fines-torrent-tracker-users-for-pirating-local-blockbuster/",
+        "timestamp": "2025-12-06T09:17:19+00:00",
+        "text": "Lithuanian Watchdog Fines Torrent Tracker Users for Pirating Local Blockbuster \nLithuania’s media watchdog continues its crusade against individual file-sharers. New data reveals that dozens of users on private trackers Linkomanija and Torrent.lt have been fined €140 this year for sharing the local hit movie \"The Southern Chronicles.\" In… \nIn 2023, Lithuania amended its Code of Administrative Offenses, allowing media watchdog LRTK to fine pirates, without going to court. \r\nThis legislative change was specifically designed to deter pira… [+3323 chars]",
+        "positive": 0.00048297480680048466,
+        "negative": 0.0028316194657236338,
+        "neutral": 0.9966854453086853
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/1c28d8672ec50f17",
+        "timestamp": "2025-12-06T09:13:51+00:00",
+        "text": "Hungarian PM Orbán Blasts EU Over Corruption, Warns On Russian Energy Sanctions And Ukraine Funding \nHungarian Prime Minister Viktor Orbán escalated his criticism of Brussels on Friday, accusing the European Union of \"drowning in corruption\" and shielding Ukraine from scrutiny, as he claimed top European Union (EU) institutions were engulfed in scandals yet … \nHungarian Prime Minister Viktor Orbán escalated his criticism of Brussels on Friday, accusing the European Union of \"drowning in corruption\" and shielding Ukraine from scrutiny, as he claimed top Eur… [+145 chars]",
+        "positive": 0.0017230751691386104,
+        "negative": 0.16483399271965027,
+        "neutral": 0.8334429264068604
+      },
+      {
+        "source": "news",
+        "id": "https://www.theregister.com/2025/12/06/multifactor_authentication_passkeys/",
+        "timestamp": "2025-12-06T09:11:12+00:00",
+        "text": "Death to one-time text codes: Passkeys are the new hotness in MFA \nWanna know a secret? Whether you're logging into your bank, health insurance, or even your email, most services today do not live by passwords alone. Now commonplace, multifactor authentication (MFA) requires users to enter a second or third proof of identity… \nWhether you're logging into your bank, health insurance, or even your email, most services today do not live by passwords alone. Now commonplace, multifactor authentication (MFA) requires users to en… [+9111 chars]",
+        "positive": 7.548595476691844e-06,
+        "negative": 2.2638867449131794e-05,
+        "neutral": 0.9999698400497437
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-icici-pru-amc-wakefit-to-anchor-rs-13000-crore-pipeline-next-week/articleshow/125802905.cms",
+        "timestamp": "2025-12-06T09:06:22+00:00",
+        "text": "IPO Calendar: ICICI Pru AMC, Wakefit to anchor Rs 13,000 crore pipeline next week \nIndia’s primary market enters its busiest phase with 11 IPOs worth Rs 13,807 crore opening between December 8–17. Key issues include Corona Remedies, Wakefit, Nephrocare and the awaited ICICI Prudential AMC launch, amid strong domestic liquidity but cautious … \nNext week will see one of the busiest stretches of the year for Indias primary market, with 11 IPOs opening for subscription across the mainboard and SME segments. Together, the issues lined up for D… [+3073 chars]",
+        "positive": 0.021182378754019737,
+        "negative": 0.1838485449552536,
+        "neutral": 0.7949690222740173
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/a2c691103aaadc73",
+        "timestamp": "2025-12-06T09:02:44+00:00",
+        "text": "Are Millennials Are Too Tired To Cheat? \nThe generation raised among dating apps, recession-era romcoms, the social media boom, and relationship therapy may be cheating less—not because they are exceedingly moral compared with their older and younger peers, but because they are just far too tired.\nF… \nThe generation raised among dating apps, recession-era romcoms, the social media boom, and relationship therapy may be cheating lessnot because they are exceedingly moral compared with their older an… [+140 chars]",
+        "positive": 0.001166217029094696,
+        "negative": 0.005924832075834274,
+        "neutral": 0.9929089546203613
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/2e6dedf9251ca5c4",
+        "timestamp": "2025-12-06T09:02:26+00:00",
+        "text": "ECB’s Rehn sees downside risks to inflation, urges action on Ukraine funding \n\"We jumped the gun\": Morgan Stanley reverts back to call for December Fed rate cut\nROME, Dec 6 (Reuters) - Inflation in the euro zone faces downside risks in the medium term, even as price growth has returned to the ECB’s 2% target, European Central Bank poli… \n\"We jumped the gun\": Morgan Stanley reverts back to call for December Fed rate cutROME, Dec 6 (Reuters) - Inflation in the euro zone faces downside risks in the medium term, even as price growth has … [+140 chars]",
+        "positive": 0.010618725791573524,
+        "negative": 0.9861250519752502,
+        "neutral": 0.0032562538981437683
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/8d1d5b6718dafe07",
+        "timestamp": "2025-12-06T09:02:22+00:00",
+        "text": "ECB's Rehn sees downside risks to inflation, urges action on Ukraine funding \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros.? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will EU fines impact Elon Musk… [+731 chars]",
+        "positive": 0.010985092259943485,
+        "negative": 0.0030386962462216616,
+        "neutral": 0.9859762191772461
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-rbis-25-bps-cut-lifts-nifty-but-weekly-charts-show-negative-closing-sudeep-shah/articleshow/125802877.cms",
+        "timestamp": "2025-12-06T09:02:16+00:00",
+        "text": "F&O Talk | RBI's 25 bps cut lifts Nifty, but weekly charts show negative closing: Sudeep Shah \nNifty hit a new high before a brief pullback, finding support at its 20-day EMA. Heavyweight sectors like banking and IT are driving resilience, while small-caps lag. Analysts expect Nifty to target 26350–26500, with Bank Nifty also poised for further upside. \nThe benchmark index Nifty kicked off the month of December on a strong note, registering a fresh all-time high on the very first trading session. However, this early enthusiasm soon met with a health… [+5515 chars]",
+        "positive": 0.9999997615814209,
+        "negative": 1.1400683774809295e-07,
+        "neutral": 9.415333579454455e-08
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/economy/policy/sitharaman-flags-complete-customs-revamp-as-next-big-reform-drive/articleshow/125802810.cms",
+        "timestamp": "2025-12-06T09:02:13+00:00",
+        "text": "Sitharaman flags complete customs revamp as next big reform drive \nFinance Minister Nirmala Sitharaman announced a comprehensive overhaul of India's customs framework as her next major reform. The initiative aims to simplify and enhance transparency in customs procedures, making compliance less burdensome for businesses and … \nNew Delhi: Finance and Corporate Affairs Minister Nirmala Sitharaman on Saturday said that a full-scale overhaul of Indias customs framework will be her next major reform push, signalling a significa… [+1993 chars]",
+        "positive": 0.30330196022987366,
+        "negative": 0.0023007714189589024,
+        "neutral": 0.6943972706794739
+      },
+      {
+        "source": "news",
+        "id": "https://ambcrypto.com/bitcoin-whales-freeze-is-btc-drifting-toward-86-5k-danger-zone/",
+        "timestamp": "2025-12-06T09:00:58+00:00",
+        "text": "Bitcoin whales freeze – Is BTC drifting toward $86.5K danger zone? \nBTC is going into an eerie calm. \nBitcoins [BTC] pace has softened, and the market suddenly feels quieter than it has in months.\r\nBig buyers arent adding much, long-term holders (LTH) arent selling heavily, and the price has slipped … [+2606 chars]",
+        "positive": 0.0013923696242272854,
+        "negative": 0.997632622718811,
+        "neutral": 0.0009749578894115984
+      },
+      {
+        "source": "news",
+        "id": "https://www.denverpost.com/2025/12/06/today-in-history-december-6-13th-amendment-ratified-abolishing-slavery/",
+        "timestamp": "2025-12-06T09:00:46+00:00",
+        "text": "Today in History: December 6, 13th Amendment ratified, abolishing slavery \nThe 13th Amendment to the U.S. Constitution, abolishing slavery, was ratified as Georgia became the 27th state to endorse it. \nToday is Saturday, Dec. 6, the 340th day of 2025. There are 25 days left in the year.\r\nToday in history:\r\nOn Dec. 6, 1865, the 13th Amendment to the U.S. Constitution, abolishing slavery, was ratifie… [+2364 chars]",
+        "positive": 9.504247827862855e-06,
+        "negative": 1.478362719353754e-06,
+        "neutral": 0.9999890327453613
+      },
+      {
+        "source": "news",
+        "id": "https://www.bostonherald.com/2025/12/06/today-in-history-december-6-13th-amendment-ratified-abolishing-slavery/",
+        "timestamp": "2025-12-06T09:00:46+00:00",
+        "text": "Today in History: December 6, 13th Amendment ratified, abolishing slavery \nThe 13th Amendment to the U.S. Constitution, abolishing slavery, was ratified as Georgia became the 27th state to endorse it. \nToday is Saturday, Dec. 6, the 340th day of 2025. There are 25 days left in the year.\r\nToday in history:\r\nOn Dec. 6, 1865, the 13th Amendment to the U.S. Constitution, abolishing slavery, was ratifie… [+2364 chars]",
+        "positive": 9.504247827862855e-06,
+        "negative": 1.478362719353754e-06,
+        "neutral": 0.9999890327453613
+      },
+      {
+        "source": "news",
+        "id": "https://www.thejournal.ie/readme/surrealing-in-the-years-110-6893064-Dec2025/",
+        "timestamp": "2025-12-06T09:00:03+00:00",
+        "text": "Surrealing in the Years: Government could learn something from RTÉ's delayed bravery \nAlso this week: what our collective search history tells us about the year we’ve had. \nIF YOU WANT to take the temperature of a nation, you could probably do worse than checking its collective internet history.\r\nNow, while we cant do exactly that, Google has issued their annual Whats e… [+6642 chars]",
+        "positive": 3.086182005063165e-06,
+        "negative": 0.9999455213546753,
+        "neutral": 5.1412433094810694e-05
+      },
+      {
+        "source": "news",
+        "id": "https://stylebyemilyhenderson.com/memorable-family-christmas-traditions",
+        "timestamp": "2025-12-06T09:00:00+00:00",
+        "text": "What Are Your Simple And Memorable Family Christmas Traditions (Especially For Tweens/Teens Especially After The “Santa” Years…) \nEmily is sharing her family's memorable Christmas traditions but wants to know about yours too! Especially when it comes to tweens and teens. \nI had a dumb panic last week. I feel like I haven’t been the best at keeping to “family Christmas traditions,” instead trying new things every year, which is all fine and good, but is it less memorab… [+8943 chars]",
+        "positive": 0.0007044324884191155,
+        "negative": 0.0038570095784962177,
+        "neutral": 0.9954386353492737
+      },
+      {
+        "source": "news",
+        "id": "https://www.gamesradar.com/hardware/desktop-pc/crucial-could-have-been-the-brand-to-help-consumers-with-ram-and-storage-costs-not-make-them-worse/",
+        "timestamp": "2025-12-06T09:00:00+00:00",
+        "text": "Crucial could have been the brand to help consumers with RAM and storage costs, not make them worse \nMicron is closing down the Crucial brand, but as someone who covers RAM and storage for a living, I don't think it had to be this way. \nThis week, Micron announced that it was shuttering the Crucial brand to focus all of its efforts on AI manufacturing. If you've not been keeping up to speed, DRAM and NAND tech are in such high deman… [+5016 chars]",
+        "positive": 9.477393905399367e-05,
+        "negative": 0.014598136767745018,
+        "neutral": 0.9853070974349976
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/news/world/trump-tariffs-canada-us-mexico-agreement-cusma-usmca-trade-9.7004814",
+        "timestamp": "2025-12-06T09:00:00+00:00",
+        "text": "U.S. businesses love CUSMA. Why is Donald Trump threatening to pull out? \nOver three days in Washington, nearly 150 American industry leaders representing every major sector of the economy depicted the Canada-U.S.-Mexico Agreement as essential to their success. Yet the Trump administration has floated letting the agreement expire o… \nAmerican industry leaders couldnt have made their message to U.S. President Donald Trump any clearer. \r\nOver three days of public hearings in Washington, nearly 150 speakers representing every major … [+7058 chars]",
+        "positive": 0.043284934014081955,
+        "negative": 0.0035934175830334425,
+        "neutral": 0.9531217217445374
+      },
+      {
+        "source": "news",
+        "id": "https://www.livemint.com/industry/bharti-airtel-sunil-mittal-india-goldilocks-moment-trade-deals-11765008341841.html",
+        "timestamp": "2025-12-06T08:56:38+00:00",
+        "text": "India must close trade deals, build AI to leverage Goldilocks moment, says Sunil Mittal \nBharti Airtel chairman Sunil Mittal urged policymakers to speed up reforms, warning that unfinished negotiations and bottlenecks could slow India’s growth trajectory. \nIndia is at a Goldilocks moment and must seize it to close long-pending trade deals, accelerate infrastructure investment, and build domestic AI and digital capabilities to secure long-term economic … [+6095 chars]",
+        "positive": 0.10561337321996689,
+        "negative": 0.8088791966438293,
+        "neutral": 0.08550745993852615
+      },
+      {
+        "source": "news",
+        "id": "https://www.rt.com/news/629100-hungary-blocks-eu-debt-plan-kiev/",
+        "timestamp": "2025-12-06T08:55:33+00:00",
+        "text": "Hungary blocks EU joint debt plan for Ukraine – Politico \nHungary has blocked the issuance of Eurobonds to arm Ukraine, Politico reports Read Full Article at RT.com \nHungary has blocked the issuance of Eurobonds to arm Ukraine – one of two options put forward by the European Commission to fund Kiev’s war effort – Politico reports, citing sources.\r\nAfter the escal… [+1991 chars]",
+        "positive": 3.61358470399864e-05,
+        "negative": 0.11012748628854752,
+        "neutral": 0.889836311340332
+      },
       {
         "source": "news",
         "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-team-to-start-three-day-talks-from-december-10-sources/articleshow/125802752.cms",
@@ -932,60 +1094,6 @@
       },
       {
         "source": "news",
-        "id": "https://rokerreport.sbnation.com/match-previews/116592/score-predictionscan-we-carry-on-gannin-canny-at-man-city",
-        "timestamp": "2025-12-06T06:00:00+00:00",
-        "text": "Score Predictions: Can We Carry On Gannin’ Canny At Man City? \nWhat will the score be today when Sunderland head to take on the mighty Manchester City? \nScore prediction: Man City 2 Sunderland 2 \r\nSunderlands first goalscorer: Le Fee\r\nAfter Wednesdays trip to Anfield, its another excellent game for us to tackle.\r\nI wonder whether well rotate the squa… [+7854 chars]",
-        "positive": 0.9996894598007202,
-        "negative": 3.0012151910341345e-06,
-        "neutral": 0.0003075737913604826
-      },
-      {
-        "source": "news",
-        "id": "https://www.the-independent.com/life-style/motoring/lexus-lm350h-fun-chauffeur-toyota-engine-b2878660.html",
-        "timestamp": "2025-12-06T06:00:00+00:00",
-        "text": "Lexus LM350h: a seriously fun ride for the chauffeur-driven market \nSean O’Grady tests the Lexus LM350h, finding a wildly luxurious, first-class-on-wheels limo that pampers its VIP passengers – even if its purpose and styling defy easy definition \nYour support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+5892 chars]",
-        "positive": 0.030390053987503052,
-        "negative": 0.00033741904189810157,
-        "neutral": 0.9692725539207458
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2025-12-06-trump-admin-equity-stakes-mineral-companies-compete-china.html",
-        "timestamp": "2025-12-06T06:00:00+00:00",
-        "text": "Crony Capitalism: Trump Administration taking equity stakes in critical mineral companies to compete with China \nThe Trump administration plans to expand its strategy of taking equity stakes in critical minerals companies, a senior official stated. Over $1 billion has already been invested in companies like MP Materials, Vulcan Elements, and Lithium Americas to counter … \n<ul><li>The Trump administration plans to expand its strategy of taking equity stakes in critical minerals companies, a senior official stated.</li><li>Over $1 billion has already been invested in co… [+5254 chars]",
-        "positive": 4.808690573554486e-05,
-        "negative": 2.026966740231728e-06,
-        "neutral": 0.9999499320983887
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2025-12-06-eu-launches-initiative-break-china-minerals-grip.html",
-        "timestamp": "2025-12-06T06:00:00+00:00",
-        "text": "EU launches $3.5 billion initiative to break China’s grip on critical minerals \nThe EU is launching a €3 billion initiative called RESourceEU to break its heavy reliance on China for critical raw materials. Currently, China supplies nearly all of Europe’s rare earth elements and magnets, which are essential for electric vehicles, renewab… \n<ul><li>The EU is launching a 3 billion initiative called RESourceEU to break its heavy reliance on China for critical raw materials. Currently, China supplies nearly all of Europe's rare earth eleme… [+5191 chars]",
-        "positive": 1.3791125638817903e-05,
-        "negative": 3.3779058867366984e-05,
-        "neutral": 0.9999524354934692
-      },
-      {
-        "source": "news",
-        "id": "https://www.irishtimes.com/politics/2025/12/06/could-ireland-follow-australia-and-ban-under-16s-from-social-media/",
-        "timestamp": "2025-12-06T06:00:00+00:00",
-        "text": "Could Ireland follow Australia and ban under-16s from social media? \nParents and schools are working together to impose community-wide bans on smartphones until their children reach certain ages \nIn June, a group of sixth-class students from Claremorris National School in Co Mayo were visiting Leinster House when they bumped into Tánaiste Simon Harris. \r\nThe first question they asked him was … [+8146 chars]",
-        "positive": 1.940645233844407e-06,
-        "negative": 0.01959731988608837,
-        "neutral": 0.9804006814956665
-      },
-      {
-        "source": "news",
-        "id": "https://www.naturalnews.com/2025-12-06-natural-solutions-to-protect-your-kidney-health.html",
-        "timestamp": "2025-12-06T06:00:00+00:00",
-        "text": "Natural solutions to protect your kidney health \nChronic kidney disease (CKD) affects over 10% globally, with U.S. cases projected to rise to 16.7% by 2030. Undiagnosed early, it leads to kidney failure and cardiovascular risks, surpassing lifetime risks of diabetes and cancer. Active vitamin D detoxifies a… \n<ul><li>Chronic kidney disease (CKD) affects over 10% globally, with U.S. cases projected to rise to 16.7% by 2030. Undiagnosed early, it leads to kidney failure and cardiovascular risks, surpassing … [+5513 chars]",
-        "positive": 0.9951183795928955,
-        "negative": 9.443611634196714e-05,
-        "neutral": 0.004787236452102661
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/markets/commodities/a-golden-run-after-60-surge-and-over-50-all-time-highs-this-year-whats-next-for-gold-in-2026/articleshow/125800646.cms",
         "timestamp": "2025-12-06T05:58:16+00:00",
         "text": "A ‘Gold’en run: After 60% surge and over 50 all-time highs this year, what’s next for gold in 2026? \nGold surged over 60% in 2025 on geopolitical risks, a weaker dollar and strong safe-haven demand. The World Gold Council sees 2026 playing out through moderately bullish, strongly bullish or bearish scenarios, shaped by global growth, Fed policy, and shifting… \nGold delivered a remarkable performance in 2025, soaring over 60% and notching more than 50 all-time highs, according to the World Gold Council. The surge was driven by a potent mix of geopolitical a… [+5089 chars]",
@@ -1010,24 +1118,6 @@
         "positive": 5.1265826186863706e-05,
         "negative": 3.411339639569633e-05,
         "neutral": 0.9999146461486816
-      },
-      {
-        "source": "news",
-        "id": "https://www.thesportingtribune.com/2025/12/05/lakers-fall-flat-in-boston-without-don%C4%8Di%C4%87-and-james",
-        "timestamp": "2025-12-06T05:55:14+00:00",
-        "text": "Lakers fall flat in Boston \nThe Celtics lit the parquet on fire with a franchise-record 24 threes. The Lakers, missing LeBron and Luka, had no answer. In a hollow Garden, only Austin Reaves’ fight remained. \nBOSTON It felt wrong from the start. It felt quiet. It felt thin.\r\nThe hallowed parquet, a canvas for decades of holy war, hosted a phantom limb of a game Friday night. The Lakers and Celtics, a riva… [+3164 chars]",
-        "positive": 0.0009202607325278223,
-        "negative": 0.02156282402575016,
-        "neutral": 0.9775170087814331
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/century-plyboards-well-positioned-for-growth-as-mdf-expansion-and-premium-mix-strengthen-margins/articleshow/125800608.cms",
-        "timestamp": "2025-12-06T05:55:04+00:00",
-        "text": "Century Plyboards well-positioned for growth as MDF expansion and premium mix strengthen margins \nIndia’s building products sector is stabilizing with stronger consumption, healthier pipelines, lower input volatility, and rising premiumization. Demand across wood panels, sanitaryware, tiles, and paints is improving as real estate, renovation cycles, and d… \nCategories such as wood panels, sanitaryware, tiles, pipes, paints and related materials are benefiting from a broad-based pickup in residential real estate, a sustained renovation cycle, and continu… [+3824 chars]",
-        "positive": 1.0,
-        "negative": 4.482497928393059e-09,
-        "neutral": 1.698008844641663e-09
       },
       {
         "source": "news",
@@ -1298,78 +1388,6 @@
         "positive": 0.002912216354161501,
         "negative": 0.9928115010261536,
         "neutral": 0.004276286344975233
-      },
-      {
-        "source": "news",
-        "id": "https://www.abc.net.au/news/2025-12-06/man-dies-trapped-under-machiner-fosterville-gold-mine-bendigo/106110510",
-        "timestamp": "2025-12-06T04:37:45+00:00",
-        "text": "Man dies after being trapped under machinery at Victorian gold mine \nAn investigation is underway following the death of a 53-year-old man who was trapped under machinery at a gold mine in Central Victoria on Friday. \nA man has died at an underground gold mine in regional Victoria after becoming trapped under machinery.\r\nPolice said the 53-year-old Maldon man became trapped about midday on Friday while working at … [+1249 chars]",
-        "positive": 0.00024460299755446613,
-        "negative": 0.41371336579322815,
-        "neutral": 0.586042046546936
-      },
-      {
-        "source": "news",
-        "id": "https://www.knoxnews.com/story/sports/high-school/2025/12/05/tssaa-football-playoffs-championship-loss-cooper-newman-sevier-county/87525224007/",
-        "timestamp": "2025-12-06T04:36:32+00:00",
-        "text": "Why Sevier County's Cooper Newman took TSSAA football championship loss personal \nSevier County couldn't duplicate the magic of 2024, losing in the TSSAA football playoffs Class 5A title game to Page. \nCHATTANOOGA Cooper Newman's shoulders are broad enough, and his personality may fit.\r\nHe was certain you could pin the blame of Sevier County's 21-14 loss to Page in the TSSAA football playoffs Class… [+3208 chars]",
-        "positive": 5.005863567930646e-05,
-        "negative": 0.7451534867286682,
-        "neutral": 0.25479641556739807
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/db1b0cedb4920838",
-        "timestamp": "2025-12-06T04:35:11+00:00",
-        "text": "Escobar: How The BRICS+ 'Unit' Can Save Global Trade \nEscobar: How The BRICS+ 'Unit' Can Save Global Trade\n \nAuthored by Pepe Escobar,\nThe Unit project, first revealed by Sputnik in 2024, is emerging as the most viable option for breaking the US dollar’s stranglehold on global trade and investment.\nIn his book c… \nEscobar: How The BRICS+ 'Unit' Can Save Global Trade\r\nAuthored by Pepe Escobar,The Unit project, first revealed by Sputnik in 2024, is emerging as the most viable option for breaking the US dollars s… [+143 chars]",
-        "positive": 0.1224382072687149,
-        "negative": 0.0001688350603217259,
-        "neutral": 0.8773930072784424
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/commodities/gold-gains-on-fed-rate-cut-optimism-silver-hits-record-high/articleshow/125799759.cms",
-        "timestamp": "2025-12-06T04:35:05+00:00",
-        "text": "Gold gains on Fed rate cut optimism; silver hits record high \nGold prices climbed Friday amid strong expectations of a U.S. Federal Reserve rate cut next week, while silver reached a record high.  The market anticipates a 25-basis-point cut, driven by dovish Fed commentary and recent economic data.  This sentiment weake… \nGold prices rose on Friday as mounting expectations of a U.S. Federal Reserve rate cut next week buoyed sentiment, while silver soared to a record high.Spot gold was up 1% to $4,212.16 per ounce at 1… [+1735 chars]",
-        "positive": 0.999944806098938,
-        "negative": 4.990122397430241e-05,
-        "neutral": 5.274272552924231e-06
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/9ec0625ff18e1c2b",
-        "timestamp": "2025-12-06T04:34:48+00:00",
-        "text": "Trump Allies Voice Support As Elon Musk's X Slapped With $140 Million EU Fine— 'Impose Sanctions...' \nfined Elon Musk‘s social media company X €120 million ($140 million) on Friday for breaching the bloc’s online content rules, marking the first sanction under its Digital Services Act (DSA), which was adopted in 2022.\nMusk Says Fine Applied Personally\nThe Tes… \nfined Elon Musks social media company X 120 million ($140 million) on Friday for breaching the blocs online content rules, marking the first sanction under its Digital Services Act (DSA), which was a… [+138 chars]",
-        "positive": 0.0016714829253032804,
-        "negative": 0.9821687340736389,
-        "neutral": 0.01615980826318264
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/european-stock-clock-weekly-gains-on-ongoing-fed-cut-optimism/articleshow/125799727.cms",
-        "timestamp": "2025-12-06T04:32:20+00:00",
-        "text": "European stock clock weekly gains on ongoing Fed cut optimism \nEuropean shares closed the week with modest gains as investors digested a U.S. inflation report reinforcing expectations for a Federal Reserve rate cut next week. Autos, retail, and technology stocks led the gains, while Swiss Re and oil and gas lagged. Citig… \nEuropean shares were little changed on Friday and ended the week with modest gains, while investors evaluated a long-delayed U.S. inflation report that reinforced expectations for a Federal Reserve i… [+2556 chars]",
-        "positive": 0.9999492168426514,
-        "negative": 1.3620364370581228e-05,
-        "neutral": 3.722146720974706e-05
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-end-higher-dollar-set-for-second-straight-weekly-loss-as-investors-eye-fed-cut/articleshow/125799696.cms",
-        "timestamp": "2025-12-06T04:29:00+00:00",
-        "text": "Stocks end higher, dollar set for second straight weekly loss as investors eye Fed cut \nGlobal shares advanced Friday as U.S. economic data reinforced expectations of a Federal Reserve rate cut next week, weakening the dollar and boosting gold. Wall Street indices closed higher, marking a second consecutive week of gains, with technology and com… \nGlobal shares gained on Friday, after key U.S. economic data solidified investor expectations of a Federal Reserve rate cut next week, a likelihood that weighed on the dollar and boosted gold.Wall St… [+4036 chars]",
-        "positive": 0.9999806880950928,
-        "negative": 1.3505480637832079e-05,
-        "neutral": 5.886905000807019e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/money-and-banking/rbi-did-its-part-now-time-for-markets-to-show-maturity-sbi-report/article70364641.ece",
-        "timestamp": "2025-12-06T04:28:44+00:00",
-        "text": "RBI did its part, now time for markets to show maturity: SBI report \nThe RBI monetary policy committee unanimously voted to cut the repo rate by 25 bps amid uncertainties in a tumultuous global order and the RBI panel also maintained its neutral stance \nThe Reserve Bank of India (RBI) has done its best to ensure monetary policy continues to support India's economic growth and it is now time for the markets to show maturity and remain non exuberant, … [+3052 chars]",
-        "positive": 0.009006720036268234,
-        "negative": 0.9876779913902283,
-        "neutral": 0.0033153118565678596
       },
       {
         "source": "news",
@@ -25168,9 +25186,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.45365281848038386,
-    "nw_norm": 72.6826409240192
+    "nw": 0.4140839165910215,
+    "nw_norm": 70.70419582955108
   },
-  "gsi": 72.6826409240192,
+  "gsi": 70.70419582955108,
   "classification": "Bullish"
 }
