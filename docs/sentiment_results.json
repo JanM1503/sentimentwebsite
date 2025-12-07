@@ -1,8 +1,71 @@
 {
-  "timestamp": "2025-12-07T07:41:13.914682+00:00",
+  "timestamp": "2025-12-07T07:55:56.065010+00:00",
   "news": {
-    "count": 2795,
+    "count": 2799,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://nep123.com/eu-probes-metas-ai-policies/",
+        "timestamp": "2025-12-06T07:46:27+00:00",
+        "text": "EU Probes Meta’s AI Policies \nEU Launches Antitrust Probe into Meta’s AI Policies on WhatsApp The European Commission has initiated an antitrust investigation into Meta’s new AI policies concerning WhatsApp. This scrutiny follows warnings from US trade officials regarding potential reperc… \nEU Launches Antitrust Probe into Meta’s AI Policies on WhatsApp\r\nThe European Commission has initiated an antitrust investigation into Meta’s new AI policies concerning WhatsApp. This scrutiny follow… [+1481 chars]",
+        "positive": 0.00045023029088042676,
+        "negative": 0.0677880272269249,
+        "neutral": 0.9317617416381836
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/economy/icra-expects-extended-policy-rate-pause-unless-economic-growth-moderates/article70364864.ece",
+        "timestamp": "2025-12-06T07:45:29+00:00",
+        "text": "ICRA expects extended policy rate pause, unless economic growth moderates \nICRA expects the rate cut cycle to have come to an end. \"Any further rate easing would only be likely if there is a material downward undershooting in growth outcomes, which leads to a cut in growth projections,\" the ICRA report read. \nAn extended pause on policy rates is expected going ahead unless India's economic growth materially undershoots the projections, rating agency ICRA has asserted in a report, as the Reserve Bank of In… [+2183 chars]",
+        "positive": 0.00021917989943176508,
+        "negative": 0.9955102205276489,
+        "neutral": 0.004270600620657206
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/tv/news/hindi/satyaa-sachee-actor-akash-khandelwal-on-how-his-love-for-acting-began-says-i-still-remember-the-first-time-i-saw-shah-rukh-khan-on-screen/articleshow/125802034.cms",
+        "timestamp": "2025-12-06T07:43:57+00:00",
+        "text": "Satyaa Sachee actor Akash Khandelwal on how his love for acting began; says ‘I still remember the first time I saw Shah Rukh Khan on screen…’ \nActor Akash Khandelwal's passion for acting ignited in childhood, watching Shah Rukh Khan. He practiced expressions and dancing, realizing his calling. His journey started at home, not on a set. Khandelwal has been acting for over twenty years, drawn to explo… \n<ul><li>News</li>\r\n<li>Satyaa Sachee actor Akash Khandelwal on how his love for acting began; says I still remember the first time I saw Shah Rukh Khan on screen</li></ul>\r\nActor Akash Khandelwal's p… [+2201 chars]",
+        "positive": 0.00014907786680851132,
+        "negative": 0.00016460816550534219,
+        "neutral": 0.9996863603591919
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/what-is-the-sensory-system-of-a-bony-fish/",
+        "timestamp": "2025-12-06T07:43:43+00:00",
+        "text": "What is the sensory system of a bony fish? \nWhat is the Sensory System of a Bony Fish? The sensory system of a bony fish is a complex network allowing it to perceive its environment through a variety of specialized organs. It includes senses such as vision, smell, taste, hearing, and touch, but also un… \nThe sensory system of a bony fish is a complex network allowing it to perceive its environment through a variety of specialized organs. It includes senses such as vision, smell, taste, hearing, and t… [+10660 chars]",
+        "positive": 7.836822533136001e-07,
+        "negative": 9.490037768955517e-07,
+        "neutral": 0.9999982118606567
+      },
+      {
+        "source": "news",
+        "id": "https://www.bmwblog.com/2025/12/06/new-bmw-ix3-ventilated-front-seats-confirmed/",
+        "timestamp": "2025-12-06T07:38:21+00:00",
+        "text": "The New BMW iX3 Will Get Ventilated Front Seats \nLaunching a completely new product is an immensely challenging task for an automaker. It’s one thing to roll out a facelift or an evolutionary next generation, and another to essentially start from scratch. Car...\nFirst published by https://www.bmwblog.com \nLaunching a completely new product is an immensely challenging task for an automaker. Its one thing to roll out a facelift or an evolutionary next generation, and another to essentially start from sc… [+1907 chars]",
+        "positive": 6.120836133050034e-06,
+        "negative": 0.9951717257499695,
+        "neutral": 0.00482215778902173
+      },
+      {
+        "source": "news",
+        "id": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-ready-sensational-move-for-generational-centre-back/",
+        "timestamp": "2025-12-06T07:35:00+00:00",
+        "text": "Liverpool ready sensational move for generational centre-back \nLiverpool could now do something they have not done since 1970. At this moment in time Richard Hughes and his scouting team will be desperately scouring the world for emerging young talent in centre-b... \nLiverpool could now do something they have not done since 1970. \r\nAt this moment in time Richard Hughes and his scouting team will be desperately scouring the world for emerging young talent in centr… [+2864 chars]",
+        "positive": 0.00046770524932071567,
+        "negative": 1.9130347936879843e-05,
+        "neutral": 0.9995131492614746
+      },
+      {
+        "source": "news",
+        "id": "https://www.newsroom.co.ke/business/kenya-seeks-fresh-us-trade-deal-amidst-agoa-extension/",
+        "timestamp": "2025-12-06T07:34:36+00:00",
+        "text": "Kenya seeks fresh US trade deal amidst AGOA extension \nKenya pursues new bilateral US trade deal as Trump administration offers one-year AGOA extension amid tariff concerns. \nKenya is seeking for a new bilateral trade and investment agreement with the United States to replace earlier initiatives that ran aground, even as Washington proposes a one-year extension of the soo… [+5154 chars]",
+        "positive": 0.0029608600307255983,
+        "negative": 7.700135029153898e-05,
+        "neutral": 0.9969621300697327
+      },
       {
         "source": "news",
         "id": "https://biztoc.com/x/a131a7d037283b6c",
@@ -419,21 +482,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.irishtimes.com/sport/racing/2025/12/06/majborough-bids-to-establish-champion-chase-credentials-in-corks-hilly-way/",
-        "timestamp": "2025-12-06T06:00:01+00:00",
-        "text": "Majborough bids to establish Champion Chase credentials in Cork’s Hilly Way \nIl Etait Temps in pursuit of more Grade One glory when returning to Sandown for Tingle Creek \nThe pecking order in the two-mile Champion Chase division could look very different on the back of this weekends feature-race action in Britain and Ireland.\r\nIf last weekend focused on the Champion H… [+4332 chars]",
-        "positive": 2.3550092009827495e-05,
-        "negative": 2.435850547044538e-05,
-        "neutral": 0.9999520778656006
-      },
-      {
-        "source": "news",
         "id": "https://www.irishtimes.com/sport/athletics/2025/12/06/ian-oriordan-why-grand-slam-track-is-paying-a-high-price-for-excluding-field-events/",
         "timestamp": "2025-12-06T06:00:01+00:00",
         "text": "Ian O’Riordan: Why Grand Slam Track is paying a high price for excluding field events \nSweden’s pole vault superstar Mondo Duplantis had a gentle dig after winning the men’s athlete of the year award last Sunday \nMost of the time there is nothing more predictable in sport than the acceptance speech at any end-of-year awards. The winners invariably thank their coaches and family, pay a heartfelt tribute to all… [+5695 chars]",
         "positive": 0.0018189378315582871,
         "negative": 0.00025986923719756305,
         "neutral": 0.9979212880134583
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/sport/racing/2025/12/06/majborough-bids-to-establish-champion-chase-credentials-in-corks-hilly-way/",
+        "timestamp": "2025-12-06T06:00:01+00:00",
+        "text": "Majborough bids to establish Champion Chase credentials in Cork’s Hilly Way \nIl Etait Temps in pursuit of more Grade One glory when returning to Sandown for Tingle Creek \nThe pecking order in the two-mile Champion Chase division could look very different on the back of this weekends feature-race action in Britain and Ireland.\r\nIf last weekend focused on the Champion H… [+4332 chars]",
+        "positive": 2.3550092009827495e-05,
+        "negative": 2.435850547044538e-05,
+        "neutral": 0.9999520778656006
       },
       {
         "source": "news",
@@ -455,12 +518,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.irishtimes.com/your-money/2025/12/06/why-100-feels-like-the-new-20-when-youre-doing-the-shopping/",
+        "id": "https://www.naturalnews.com/2025-12-06-putin-rules-out-russia-return-g7-bloc.html",
         "timestamp": "2025-12-06T06:00:00+00:00",
-        "text": "Why €100 feels like the new €20 when you’re doing the shopping \nMore than three years of price hikes have left many Irish families worse off by at least €3,500 annually \nEven the woman manning the till in Tesco cannot hide her surprise at how little 100 buys these days and marvels at how many people spend that and still take their shopping away in a single plastic ba… [+8409 chars]",
-        "positive": 0.000512885395437479,
-        "negative": 0.15267905592918396,
-        "neutral": 0.8468080163002014
+        "text": "Putin rules out Russia’s return to Western G7 bloc \nPutin firmly rejects rejoining the G7, dismissing the group’s relevance and signaling Russia’s continued strategic pivot toward the BRICS alliance, which now surpasses the G7 in economic scale. This refusal occurs within the context of Trump’s strategy to rei… \n<ul><li>Putin firmly rejects rejoining the G7, dismissing the group's relevance and signaling Russia's continued strategic pivot toward the BRICS alliance, which now surpasses the G7 in economic scal… [+4991 chars]",
+        "positive": 0.007961343973875046,
+        "negative": 0.09293452650308609,
+        "neutral": 0.899104118347168
       },
       {
         "source": "news",
@@ -473,12 +536,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.naturalnews.com/2025-12-06-putin-rules-out-russia-return-g7-bloc.html",
+        "id": "https://www.irishtimes.com/your-money/2025/12/06/why-100-feels-like-the-new-20-when-youre-doing-the-shopping/",
         "timestamp": "2025-12-06T06:00:00+00:00",
-        "text": "Putin rules out Russia’s return to Western G7 bloc \nPutin firmly rejects rejoining the G7, dismissing the group’s relevance and signaling Russia’s continued strategic pivot toward the BRICS alliance, which now surpasses the G7 in economic scale. This refusal occurs within the context of Trump’s strategy to rei… \n<ul><li>Putin firmly rejects rejoining the G7, dismissing the group's relevance and signaling Russia's continued strategic pivot toward the BRICS alliance, which now surpasses the G7 in economic scal… [+4991 chars]",
-        "positive": 0.007961343973875046,
-        "negative": 0.09293452650308609,
-        "neutral": 0.899104118347168
+        "text": "Why €100 feels like the new €20 when you’re doing the shopping \nMore than three years of price hikes have left many Irish families worse off by at least €3,500 annually \nEven the woman manning the till in Tesco cannot hide her surprise at how little 100 buys these days and marvels at how many people spend that and still take their shopping away in a single plastic ba… [+8409 chars]",
+        "positive": 0.000512885395437479,
+        "negative": 0.15267905592918396,
+        "neutral": 0.8468080163002014
       },
       {
         "source": "news",
@@ -554,21 +617,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.irishtimes.com/politics/2025/12/06/could-ireland-follow-australia-and-ban-under-16s-from-social-media/",
-        "timestamp": "2025-12-06T06:00:00+00:00",
-        "text": "Could Ireland follow Australia and ban under-16s from social media? \nParents and schools are working together to impose community-wide bans on smartphones until their children reach certain ages \nIn June, a group of sixth-class students from Claremorris National School in Co Mayo were visiting Leinster House when they bumped into Tánaiste Simon Harris. \r\nThe first question they asked him was … [+8146 chars]",
-        "positive": 1.940645233844407e-06,
-        "negative": 0.01959731988608837,
-        "neutral": 0.9804006814956665
-      },
-      {
-        "source": "news",
         "id": "https://www.naturalnews.com/2025-12-06-natural-solutions-to-protect-your-kidney-health.html",
         "timestamp": "2025-12-06T06:00:00+00:00",
         "text": "Natural solutions to protect your kidney health \nChronic kidney disease (CKD) affects over 10% globally, with U.S. cases projected to rise to 16.7% by 2030. Undiagnosed early, it leads to kidney failure and cardiovascular risks, surpassing lifetime risks of diabetes and cancer. Active vitamin D detoxifies a… \n<ul><li>Chronic kidney disease (CKD) affects over 10% globally, with U.S. cases projected to rise to 16.7% by 2030. Undiagnosed early, it leads to kidney failure and cardiovascular risks, surpassing … [+5513 chars]",
         "positive": 0.9951183795928955,
         "negative": 9.443611634196714e-05,
         "neutral": 0.004787236452102661
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/politics/2025/12/06/could-ireland-follow-australia-and-ban-under-16s-from-social-media/",
+        "timestamp": "2025-12-06T06:00:00+00:00",
+        "text": "Could Ireland follow Australia and ban under-16s from social media? \nParents and schools are working together to impose community-wide bans on smartphones until their children reach certain ages \nIn June, a group of sixth-class students from Claremorris National School in Co Mayo were visiting Leinster House when they bumped into Tánaiste Simon Harris. \r\nThe first question they asked him was … [+8146 chars]",
+        "positive": 1.940645233844407e-06,
+        "negative": 0.01959731988608837,
+        "neutral": 0.9804006814956665
       },
       {
         "source": "news",
@@ -941,15 +1004,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.americanthinker.com/blog/2025/12/housing_costs_cause_and_effect.html",
-        "timestamp": "2025-12-06T05:00:00+00:00",
-        "text": "Housing costs: cause and effect \nAmong Democrat’s attack narratives against President Trump is the claim he’s responsible for a lack of housing of all kinds, for high mortgage interest rates, and high inflation generally, affecting rent. That Trump has been in office les... \nAmong Democrat’s attack narratives against President Trump is the claim he’s responsible for a lack of housing of all kinds, for high mortgage interest rates, and high inflation generally, affecting … [+3575 chars]",
-        "positive": 0.0007706436445005238,
-        "negative": 0.09417396038770676,
-        "neutral": 0.9050553441047668
-      },
-      {
-        "source": "news",
         "id": "https://afuse8production.slj.com/2025/12/06/31-days-31-lists-2025-funny-picture-books/",
         "timestamp": "2025-12-06T05:00:00+00:00",
         "text": "31 Days, 31 Lists: 2025 Funny Picture Books \nHumor may be subjective but odds are at least a couple of the books on this list will deeply amuse some child in your life/classroom. \nHumor in the year 2025 has been in short supply, no question. We’ve seen no end of cruelty and stupidity coming out at unprecedented levels from the federal level. To make a work of picture book humo… [+35016 chars]",
@@ -959,30 +1013,21 @@
       },
       {
         "source": "news",
+        "id": "https://www.americanthinker.com/blog/2025/12/housing_costs_cause_and_effect.html",
+        "timestamp": "2025-12-06T05:00:00+00:00",
+        "text": "Housing costs: cause and effect \nAmong Democrat’s attack narratives against President Trump is the claim he’s responsible for a lack of housing of all kinds, for high mortgage interest rates, and high inflation generally, affecting rent. That Trump has been in office les... \nAmong Democrat’s attack narratives against President Trump is the claim he’s responsible for a lack of housing of all kinds, for high mortgage interest rates, and high inflation generally, affecting … [+3575 chars]",
+        "positive": 0.0007706436445005238,
+        "negative": 0.09417396038770676,
+        "neutral": 0.9050553441047668
+      },
+      {
+        "source": "news",
         "id": "https://www.americanthinker.com/blog/2025/12/the_stages_of_a_color_revolution_and_where_the_u_s_is_right_now.html",
         "timestamp": "2025-12-06T05:00:00+00:00",
         "text": "The stages of a color revolution — and where the U.S. is right now \nA “color revolution” (sometimes called a “soft coup” or “regime-change operation by non-kinetic means”) is a modern form of orchestrated political upheaval designed to replace an existing government without traditi... \nA “color revolution” (sometimes called a “soft coup” or “regime-change operation by non-kinetic means”) is a modern form of orchestrated political upheaval designed to replace an existing government … [+4420 chars]",
         "positive": 1.0685549568734132e-05,
         "negative": 8.680834184815467e-07,
         "neutral": 0.9999884366989136
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/economy/agri-business/maharashtra-poised-to-lead-indias-natural-farming-revolution/article70363385.ece",
-        "timestamp": "2025-12-06T05:00:00+00:00",
-        "text": "Maharashtra poised to lead India’s natural farming revolution \nIf the State translates intent into execution, it will not only mainstream natural farming but set a national benchmark for an agriculture that is ecologically regenerative, economically rewarding and socially inclusive \nMaharashtra is uniquely placed to emerge as Indias leading state in natural farming at a time when the country is fundamentally rethinking the future of its agricultural growth. Decades of chemical-i… [+3705 chars]",
-        "positive": 0.9986440539360046,
-        "negative": 4.888639523414895e-06,
-        "neutral": 0.001351077575236559
-      },
-      {
-        "source": "news",
-        "id": "https://www.irishtimes.com/life-style/fine-art-antiques/2025/12/06/a-drunk-decanter-set-for-christmas-quaint-finds-in-dublins-antiques-quarter/",
-        "timestamp": "2025-12-06T05:00:00+00:00",
-        "text": "A drunk decanter set for Christmas? Quaint finds in Dublin’s antiques quarter \nTake a wander down Francis Street to find something out of the ordinary this festive season \nAs most auction rooms begin to wind down for Christmas, browsing through antique shops rather than auction catalogues in Dublins antique quarter is another way to satiate your appetite for antique fu… [+4934 chars]",
-        "positive": 2.7894919185200706e-05,
-        "negative": 0.0002750033454503864,
-        "neutral": 0.9996970891952515
       },
       {
         "source": "news",
@@ -1352,15 +1397,6 @@
         "positive": 1.3030251011514338e-06,
         "negative": 3.265078703407198e-06,
         "neutral": 0.9999954700469971
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/3a418cd545cecb0d",
-        "timestamp": "2025-12-06T03:39:24+00:00",
-        "text": "China’s Homegrown Nvidia Soars in Market Debut \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Googles search c… [+803 chars]",
-        "positive": 7.351171370828524e-05,
-        "negative": 2.0942115952493623e-06,
-        "neutral": 0.9999243021011353
       },
       {
         "source": "news",
@@ -25159,9 +25195,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.4680841552584941,
-    "nw_norm": 73.40420776292471
+    "nw": 0.44625061576357156,
+    "nw_norm": 72.31253078817858
   },
-  "gsi": 73.40420776292471,
+  "gsi": 72.31253078817858,
   "classification": "Bullish"
 }
