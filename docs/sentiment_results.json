@@ -1,8 +1,62 @@
 {
-  "timestamp": "2025-12-07T09:50:15.446379+00:00",
+  "timestamp": "2025-12-07T10:02:39.281007+00:00",
   "news": {
     "count": 2805,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://punchng.com/ex-bursar-hails-oyscatechs-academic-advancement-as-18-staff-earn-phds/",
+        "timestamp": "2025-12-06T09:53:18+00:00",
+        "text": "Ex-bursar hails OYSCATECH’s academic advancement as 18 staff earn PhDs \nA former bursar hails OYSCATECH’s academic advancement as 18 staff members earn PhDs, highlighting a significant leap in capacity development for the insti\n\nRead More: https://punchng.com/ex-bursar-hails-oyscatechs-academic-advancement-as-18-staff-earn-phds/ \nA former bursar and forensic expert at the Oyo State College of Agriculture and Technology, Igboora, Dr. Sarafa Agbogun, has hailed the institutions leadership for what he described as a historic tur… [+3105 chars]",
+        "positive": 0.5308189392089844,
+        "negative": 5.224457709118724e-05,
+        "neutral": 0.46912881731987
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/nigeria-cannot-rely-on-external-benevolence-for-healthcare-presidential-aide/",
+        "timestamp": "2025-12-06T09:53:18+00:00",
+        "text": "Nigeria cannot rely on ‘external benevolence’ for healthcare – Presidential aide \nA presidential aide warns that Nigeria can no longer rely on foreign aid for its healthcare financing, urging a shift to domestic resource mobilization.\n\nRead More: https://punchng.com/nigeria-cannot-rely-on-external-benevolence-for-healthcare-presidential-ai… \nThe Special Adviser to the President on Health, Dr Salma Anas, has warned that Nigeria can no longer rely on external benevolence in building its healthcare system.\r\nAnas made this submission on Frid… [+3770 chars]",
+        "positive": 0.0005104103474877775,
+        "negative": 0.441175639629364,
+        "neutral": 0.5583139657974243
+      },
+      {
+        "source": "news",
+        "id": "https://www.homedit.com/are-these-the-most-beautiful-front-doors-for-christmas/",
+        "timestamp": "2025-12-06T09:52:59+00:00",
+        "text": "Are These the Most Beautiful Front Doors for Christmas? \nChristmas front-door décor has never been more expressive, with homeowners turning their entrances into festive focal points filled with greenery, lights, color, and character. Each doorway here shows a different approach, from classic red-and-green arrangeme… \nChristmas front-door décor has never been more expressive, with homeowners turning their entrances into festive focal points filled with greenery, lights, color, and character. Each doorway here show… [+6066 chars]",
+        "positive": 9.897998097585514e-06,
+        "negative": 5.355868779588491e-06,
+        "neutral": 0.9999847412109375
+      },
+      {
+        "source": "news",
+        "id": "https://indianexpress.com/article/explained/explained-economics/rupees-fall-what-it-means-for-you-and-what-you-can-do-to-de-risk-10405791/",
+        "timestamp": "2025-12-06T09:45:55+00:00",
+        "text": "Rupee’s fall: What it means for you and what you can do to de-risk \n‘In an economy, it is the consumer or the household who are the largest importer,’ said Anindya Banerjee, head of currency and commodities at Kotak Securities. This means that a depreciating rupee has a direct impact on the Indian consumer \nThe Reserve Bank of India (RBI) seemingly loosening its grip on the rupee, amid a host of other factors such as the delay in the India-US trade deal, the 50 per cent tariff on India, weakening Foreig… [+3365 chars]",
+        "positive": 0.00022146073752082884,
+        "negative": 0.9839762449264526,
+        "neutral": 0.015802282840013504
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/hertz-tesla-ev-gamble-loss-america-pain-points-2025-12",
+        "timestamp": "2025-12-06T09:44:03+00:00",
+        "text": "Hertz's multibillion-dollar bet on EVs magnified America's pain points — and soft spots — for electric cars \nHertz purchased 100,000 Teslas in 2021 and has since course-corrected after taking half a billion dollars in write-downs and losses from its EV fleet. \nWhen Hertz emerged from bankruptcy and went public in 2021, the rental car company made a multi-billion-dollar bet that the future of mobility pointed toward mass electrification and that the time to… [+7004 chars]",
+        "positive": 0.03445694223046303,
+        "negative": 0.9363449811935425,
+        "neutral": 0.029198123142123222
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/netflix-nflx-buys-warner-bros-094316608.html",
+        "timestamp": "2025-12-06T09:43:16+00:00",
+        "text": "Netflix (NFLX) Buys Warner Bros. for $72 Billion in Major Streaming Expansion Move \nNetflix Inc. (NASDAQ:NFLX) is among the best stocks you’ll wish you bought sooner. On Friday, December 5, Netflix Inc. (NASDAQ:NFLX) announced the long... \nNetflix Inc. (NASDAQ:NFLX) is among the best stocks youll wish you bought sooner.\r\nOn Friday, December 5, Netflix Inc. (NASDAQ:NFLX) announced the long-contested acquisition of Warner Bros. Discovery… [+2610 chars]",
+        "positive": 0.9240108728408813,
+        "negative": 1.5736482964712195e-05,
+        "neutral": 0.07597332447767258
+      },
       {
         "source": "news",
         "id": "https://indianexpress.com/article/entertainment/bollywood/kartik-aaryan-sister-kritika-heartbeat-family-photos-dreamy-wedding-10405688/",
@@ -977,24 +1031,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.lifesciencesworld.com/can-you-poison-the-blue-dragon/",
-        "timestamp": "2025-12-06T06:46:38+00:00",
-        "text": "Can you poison the Blue Dragon? \nCan You Poison the Blue Dragon? Exploring the Vulnerabilities of Glaucus Atlanticus The question “Can you poison the Blue Dragon?” is complex. While technically, yes, it’s possible to poison a Glaucus atlanticus, commonly known as the Blue Dragon, it’s signif… \nThe question “Can you poison the Blue Dragon?” is complex. While technically, yes, it’s possible to poison a Glaucus atlanticus, commonly known as the Blue Dragon, it’s significantly more challenging… [+6606 chars]",
-        "positive": 1.2221623364894185e-05,
-        "negative": 0.006050145719200373,
-        "neutral": 0.993937611579895
-      },
-      {
-        "source": "news",
-        "id": "https://nep123.com/solar-hope-women-light-up-rajasthan/",
-        "timestamp": "2025-12-06T06:45:32+00:00",
-        "text": "Solar Hope: Women Light Up Rajasthan \nEmpowering Women in Rajasthan: Solar Engineering Brightens Lives Amidst Silicosis Crisis In the heart of Rajasthan, India, where dust, disease, and poverty pose daily challenges for millions of laborers, a beacon of hope is emerging. Women like Santosh Devi a… \nEmpowering Women in Rajasthan: Solar Engineering Brightens Lives Amidst Silicosis Crisis\r\nIn the heart of Rajasthan, India, where dust, disease, and poverty pose daily challenges for millions of labo… [+3157 chars]",
-        "positive": 0.01774914376437664,
-        "negative": 0.20551122725009918,
-        "neutral": 0.7767396569252014
-      },
-      {
-        "source": "news",
         "id": "https://roundtable.io/rodeo/rough-stock/rocker-redeems-stetson-repeats-round-2-headlines-from-the-2025-nfr",
         "timestamp": "2025-12-06T06:44:24+00:00",
         "text": "Rocker Redeems, Stetson Repeats: Round 2 Headlines From the 2025 NFR \nNight Two of the 2025 Wrangler National Finals Rodeo picked up exactly where Round 1 left off. The Thomas & Mack was electric as we watched more stories unfold. \nNight Two of the 2025 Wrangler National Finals Rodeo picked up exactly where Round 1 left off. The Thomas &amp; Mack was electric as we watched more stories unfold.\r\nIn the bareback riding, season le… [+3299 chars]",
@@ -1019,15 +1055,6 @@
         "positive": 0.013361254706978798,
         "negative": 0.6662957072257996,
         "neutral": 0.320343017578125
-      },
-      {
-        "source": "news",
-        "id": "https://itsfoss.com/news/proton-sheets/",
-        "timestamp": "2025-12-06T06:27:21+00:00",
-        "text": "With This New Feature, Proton Has Made it Even Easier to Move Away from Gmail and Google Docs \nThe missing piece is here. There is no excuse to stick with Big Tech now. \nProton has been on a roll lately. The Swiss company keeps expanding its privacy-focused ecosystem with tools that actually work for regular people. Take Lumo AI, for instance, their privacy-respectin… [+2131 chars]",
-        "positive": 0.46560582518577576,
-        "negative": 8.37058832985349e-05,
-        "neutral": 0.534310519695282
       },
       {
         "source": "news",
@@ -1424,33 +1451,6 @@
         "positive": 0.001509060268290341,
         "negative": 0.9859326481819153,
         "neutral": 0.01255831029266119
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/politics-and-nation/utterly-ridiculous-cm-pinarayi-vijayan-on-ed-show-cause-notice-to-him-in-kiifb-case/articleshow/125799957.cms",
-        "timestamp": "2025-12-06T04:56:02+00:00",
-        "text": "\"Utterly ridiculous:\" CM Pinarayi Vijayan on ED show cause notice to him in KIIFB case \nKerala CM Pinarayi Vijayan dismissed the ED's show-cause notice over alleged FEMA violations in the KIIFB case as \"utterly ridiculous,\" attributing it to approaching elections. He asserted that KIIFB projects adhered strictly to RBI guidelines for infrastruct… \nErnakulam: Kerala Chief Minister Pinarayi Vijayan, reacting to the show-cause notice issued by the Enforcement Directorate over alleged FEMA violations in the KIIFB case on Friday, dismissed it as \"u… [+4056 chars]",
-        "positive": 0.0022130387369543314,
-        "negative": 0.07379133254289627,
-        "neutral": 0.9239956140518188
-      },
-      {
-        "source": "news",
-        "id": "https://www.irishtimes.com/culture/books/review/2025/12/06/the-art-of-status-leonardo-da-vinci-who-owns-beauty-art-books-about-plundering-dilemmas-and-fabricated-back-stories/",
-        "timestamp": "2025-12-06T04:52:00+00:00",
-        "text": "The Art of Status; Leonardo Da Vinci; Who Owns Beauty? - Art books about plundering dilemmas and fabricated back stories \nTwo books show that creating a museum with a clear conscience isn’t always straightforward; another shows how we do love a good historical mystery \nThe Art of Status: Looted Treasures and the Global Politics of Restitution  \r\nPublisher:Oxford University Press\r\nAuthor:Bénédicte Savoy, translated by Andrew Brown\r\nLeonardo da Vinci: An Untraceable … [+11563 chars]",
-        "positive": 3.5869026760337874e-05,
-        "negative": 0.0006931146490387619,
-        "neutral": 0.9992709755897522
-      },
-      {
-        "source": "news",
-        "id": "https://www.abc.net.au/news/2025-12-06/critics-choice-awards-nominations-sinner/106110372",
-        "timestamp": "2025-12-06T04:48:38+00:00",
-        "text": "Critics choice nominations 2026: Sinner, One Battle After Another \nThe gothic vampire period drama Sinners has topped the Critic Choice Awards, securing 17 nods, followed by One Battle After Another with 14. \nThe gothic vampire period drama Sinners has topped the Critic Choice Awards, securing 17 nods, followed by One Battle After Another with 14. \r\nThe Ryan Coogler film earned nominations including best … [+8759 chars]",
-        "positive": 0.39941900968551636,
-        "negative": 0.0004639071994461119,
-        "neutral": 0.600117027759552
       },
       {
         "source": "news",
@@ -25249,9 +25249,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.41985441832557957,
-    "nw_norm": 70.99272091627897
+    "nw": 0.41375298663161925,
+    "nw_norm": 70.68764933158096
   },
-  "gsi": 70.99272091627897,
+  "gsi": 70.68764933158096,
   "classification": "Bullish"
 }
