@@ -1,8 +1,152 @@
 {
-  "timestamp": "2025-12-07T07:03:21.752650+00:00",
+  "timestamp": "2025-12-07T07:31:51.129764+00:00",
   "news": {
-    "count": 2797,
+    "count": 2795,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.aljazeera.com/news/2025/12/6/heavy-rains-hamper-recovery-as-death-toll-from-floods-in-asia-exceeds-1750",
+        "timestamp": "2025-12-06T07:24:17+00:00",
+        "text": "Heavy rains hamper recovery as death toll from floods in Asia exceeds 1,750 \nHundreds more people are still missing as intensive rains pose new dangers in Indonesia and Sri Lanka. \nRescue teams and volunteers have been struggling to assist millions of people affected by floods and landslides in parts of Asia, as the official death toll from the ongoing climate-fuelled disaster … [+4235 chars]",
+        "positive": 8.481996701448224e-06,
+        "negative": 0.9999876022338867,
+        "neutral": 3.866221049975138e-06
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/gold-is-the-new-fdi-a-blueprint-to-convert-indias-idle-wealth-into-productive-capital/articleshow/125801760.cms",
+        "timestamp": "2025-12-06T07:19:46+00:00",
+        "text": "Gold is the new FDI: A blueprint to convert India's idle wealth into productive capital \nIndia’s massive household gold holdings, worth $3.8 trillion, far exceed decades of FDI inflows. Redirecting even part of this unproductive wealth through proposed procurement and gold-bond schemes could ease trade deficits, boost capital formation, and lesse… \nSince the severe foreign exchange crisis of 1991, one word that has become familiar to every Indian household is Foreign Investment, or FDI. The primary role of foreign investment was to balance our … [+6426 chars]",
+        "positive": 0.03675856813788414,
+        "negative": 0.001603589509613812,
+        "neutral": 0.9616377949714661
+      },
+      {
+        "source": "news",
+        "id": "https://sports.yahoo.com/articles/high-school-basketball-fridays-boys-071811989.html",
+        "timestamp": "2025-12-06T07:18:11+00:00",
+        "text": "High school basketball: Friday's boys' and girls' scores \nCIF City Section and Southern Section high school boys' and girls' basketball scores for Friday. \nFRIDAYS RESULTS \r\nBOYS \r\nCITY SECTION\r\nAngelou 61, Santee 40\r\nAnimo Pat Brown 49, AHSA 42\r\nAnimo Robinson 67, Hawkins 61\r\nAnimo Watts 46, Animo Bunche 21\r\nBernstein 72, Roybal 25\r\nDowntown Magnets 80… [+7238 chars]",
+        "positive": 4.515478394750971e-06,
+        "negative": 1.8489719195713405e-06,
+        "neutral": 0.9999935626983643
+      },
+      {
+        "source": "news",
+        "id": "https://english.khabarhub.com/2025/06/510407/",
+        "timestamp": "2025-12-06T07:15:34+00:00",
+        "text": "Koirala family divisions re-emerge as Nepali Congress heads toward 15th General Convention \nKATHMANDU: As the Nepali Congress intensifies preparations for its 15th General Convention in the wake of the Gen-Z movement, internal rifts within the influential Koirala family have resurfaced, reviving a long-running legacy of factionalism inside Nepal’s l… \nKATHMANDU: As the Nepali Congress intensifies preparations for its 15th General Convention in the wake of the Gen-Z movement, internal rifts within the influential Koirala family have resurfaced, rev… [+3352 chars]",
+        "positive": 0.004299054853618145,
+        "negative": 0.0017993550281971693,
+        "neutral": 0.9939016103744507
+      },
+      {
+        "source": "news",
+        "id": "https://en.antaranews.com/news/395341/sumatra-floods-tni-deploys-reverse-osmosis-units-to-purify-water",
+        "timestamp": "2025-12-06T07:15:08+00:00",
+        "text": "Sumatra floods: TNI deploys reverse osmosis units to purify water \nThe Indonesian Armed Forces (TNI) deployed special reverse osmosis water purification equipment to provide clean water for flood victims in ... \nJakarta (ANTARA) - The Indonesian Armed Forces (TNI) deployed special reverse osmosis water purification equipment to provide clean water for flood victims in Sumatra.\"We provide the equipment at sev… [+1888 chars]",
+        "positive": 1.4004438526171725e-05,
+        "negative": 1.2024974239466246e-05,
+        "neutral": 0.9999740123748779
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/e3f6708056ca3fef",
+        "timestamp": "2025-12-06T07:10:33+00:00",
+        "text": "AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72 billion? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did EUs fine i… [+734 chars]",
+        "positive": 0.0024294687900692225,
+        "negative": 2.6688843718147837e-05,
+        "neutral": 0.9975438714027405
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/wealth/legal/will/fd-rate-up-to-8-for-general-citizens-investing-for-five-year-know-full-list-of-banks/articleshow/125790237.cms",
+        "timestamp": "2025-12-06T07:10:02+00:00",
+        "text": "FD rate up to 8% for general citizens investing for five year; Know full list of banks \nGeneral citizens can still find fixed deposits offering up to 8% interest for a five-year term. Suryoday Small Finance Bank and Jana Small Finance Bank are among those providing this attractive rate. Ujjivan Small Finance Bank offers 7.2%. Investors should no… \nA few banks are still offering interest rates that go up to 8% on fixed deposits (FDs) for general citizens (under 60 years old) for a five-year term, with a maximum limit of Rs 3 crore.Check out the… [+2733 chars]",
+        "positive": 0.06097360700368881,
+        "negative": 4.330625233706087e-05,
+        "neutral": 0.9389830827713013
+      },
+      {
+        "source": "news",
+        "id": "https://en.protothema.gr/2025/12/06/greece-on-the-european-economic-map-signals-of-reward-early-debt-repayment-and-pierrakakis-nomination-for-the-eurogroup/",
+        "timestamp": "2025-12-06T07:09:18+00:00",
+        "text": "Greece on the European economic map: signals of reward, early debt repayment and Pierrakakis’ nomination for the Eurogroup \nInternational interest in Greek banks, with significant developments in funding and debt reduction, while Pierrakakis' candidacy highlights the country's stability\nThe post Greece on the European economic map: signals of reward, early debt repayment and Pierr… \nSound messages of praise for the Greek economy were sent out by international markets and European institutions last week. The total recovery of the economy from the adventure of the last decade with… [+3605 chars]",
+        "positive": 0.7811619639396667,
+        "negative": 0.002507064025849104,
+        "neutral": 0.21633097529411316
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/news/articles/c620e6p0e8zo",
+        "timestamp": "2025-12-06T07:09:15+00:00",
+        "text": "The blacksmith whose work protects the crown jewels and adorns royal palaces \nPaul Dennis started out in a cowshed but has gone on to work with the Royal Family. \nPaul Dennis works at his forge near Brecon but his work is sent around the world\r\n\"I remember standing in my cowshed and saying to my wife 'one day I'm going to work for the Queen' and we were surrou… [+6328 chars]",
+        "positive": 3.857400315609993e-06,
+        "negative": 2.386107917118352e-05,
+        "neutral": 0.9999723434448242
+      },
+      {
+        "source": "news",
+        "id": "http://www.bigissue.com/opinion/autism-adhd-wes-streeting-diagnosis/",
+        "timestamp": "2025-12-06T07:07:41+00:00",
+        "text": "Wes Streeting is wrong about autism and ADHD 'over-diagnosis' \nIncreased rates of autism, ADHD, and other mental health conditions are evidence of decades of unmet need. Wes Streeting is missing the point, writes Rowan Humphries-Massey \nWe are living through protracted, overlapping losses: loss of services, loss of stability, loss of communal spaces, loss of trust in institutions. This forms an atmosphere of systemic grief – cumulat… [+3141 chars]",
+        "positive": 2.963842689496232e-06,
+        "negative": 0.9999961853027344,
+        "neutral": 8.353948715011938e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/opinion/2025/12/06/mark-oconnell-i-would-not-quite-say-i-admire-enoch-burke-but-i-do-find-him-weirdly-impressive/",
+        "timestamp": "2025-12-06T07:05:00+00:00",
+        "text": "Mark O'Connell: I would not quite say I admire Enoch Burke, but I do find him weirdly impressive \nThe trick with ‘Jailed Teacher Enoch Burke’ is to appreciate it for what it is: an innovative masterpiece of pure spectacle. If it ever ends, we’ll miss it \nWhen a person writes a regular newspaper column for long enough, certain risks start to present themselves. There is the risk of endlessly repeating oneself, for one, although that danger strikes me … [+6506 chars]",
+        "positive": 0.0003189267299603671,
+        "negative": 0.9467153549194336,
+        "neutral": 0.052965711802244186
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/is-green-lobster-meat-safe/",
+        "timestamp": "2025-12-06T07:03:59+00:00",
+        "text": "Is green lobster meat safe? \nIs Green Lobster Meat Safe? The Definitive Guide Green lobster meat is generally safe to eat if properly cooked and handled, but the green color itself may indicate a harmless dietary quirk or, in rare cases, bacterial contamination that warrants caution. Und… \nIs Green Lobster Meat Safe? The Definitive Guide\r\nGreen lobster meat is generally safe to eat if properly cooked and handled, but the green color itself may indicate a harmless dietary quirk or, in r… [+7454 chars]",
+        "positive": 0.003072841325774789,
+        "negative": 0.0010435221483930945,
+        "neutral": 0.9958836436271667
+      },
+      {
+        "source": "news",
+        "id": "https://bitcoinist.com/stablecoins-imf-calls-for-global-cooperation/",
+        "timestamp": "2025-12-06T07:00:58+00:00",
+        "text": "‘Stablecoins Are Here To Stay’: IMF Calls For Global Cooperation To Prevent Financial Risks \nAs stablecoins continue to gain worldwide momentum, the International Monetary Fund (IMF) has called for global cooperation to avert potential macro financial stability risks related to the rapidly growing sector and to turn the industry “into a force for goo… \nAs stablecoins continue to gain worldwide momentum, the International Monetary Fund (IMF) has called for global cooperation to avert potential macro financial stability risks related to the rapidly g… [+4491 chars]",
+        "positive": 0.9122300148010254,
+        "negative": 0.0006557728629559278,
+        "neutral": 0.08711427450180054
+      },
+      {
+        "source": "news",
+        "id": "https://www.geeky-gadgets.com/no-watermark-screen-capture/",
+        "timestamp": "2025-12-06T07:00:55+00:00",
+        "text": "Free Screen Recording in 2025, Compare Windows, Clipchamp, Boom, ShareX, and OBS \nHave you ever spent hours searching for a screen recorder, only to be bombarded with options that slap a watermark on your work or lock essential features behind a paywall? It’s frustrating, right? In a world where screen recording has become a staple for eve… \nHave you ever spent hours searching for a screen recorder, only to be bombarded with options that slap a watermark on your work or lock essential features behind a paywall? Its frustrating, right? In… [+6586 chars]",
+        "positive": 3.295865826657973e-05,
+        "negative": 0.8114827275276184,
+        "neutral": 0.1884842962026596
+      },
+      {
+        "source": "news",
+        "id": "https://www.thejournal.ie/readme/cars-built-ireland-6893234-Dec2025/",
+        "timestamp": "2025-12-06T07:00:38+00:00",
+        "text": "The DeLorean, the Shamrock and the 'Donegal Beetle': The cars once built in Ireland \nIreland has a long and interesting history of car manufacturing. \nIRELAND ISNT A country people associate with car manufacturing. Were better known for exporting writers, musicians and tech workers than new cars. But for a few decades, Ireland really did build cars… [+6548 chars]",
+        "positive": 0.622975766658783,
+        "negative": 0.0009842314757406712,
+        "neutral": 0.376039981842041
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/06/3201036/0/en/Scatec-starts-commercial-operation-at-Grootfontein-solar-power-plant-in-South-Africa.html",
+        "timestamp": "2025-12-06T07:00:00+00:00",
+        "text": "Scatec starts commercial operation at Grootfontein solar power plant in South Africa \nOslo/Cape Town, 06 December 2025: Scatec ASA, a leading renewable energy provider, has started commercial operation of the 273 MW Grootfontein solar power plant in South Africa, which will generate predictable revenues from a 20-year power purchase agreement … \nOslo/Cape Town, 06 December 2025: Scatec ASA, a leading renewable energy provider, has started commercial operation of the 273 MW Grootfontein solar power plant in South Africa, which will generate p… [+2560 chars]",
+        "positive": 0.6096200346946716,
+        "negative": 0.00010157217911910266,
+        "neutral": 0.3902783691883087
+      },
       {
         "source": "news",
         "id": "https://www.lifesciencesworld.com/what-will-humans-look-like-in-100000/",
@@ -833,30 +977,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.lifesciencesworld.com/what-is-the-biggest-bear-in-mexico/",
-        "timestamp": "2025-12-06T04:56:06+00:00",
-        "text": "What is the biggest bear in Mexico? \nWhat is the Biggest Bear in Mexico? Unveiling the Enigmatic Giant The biggest bear in Mexico is, without a doubt, the Mexican grizzly bear (Ursus arctos nelsoni). Sadly, this magnificent creature is now extinct, but understanding its history and ecological ro… \nWhat is the Biggest Bear in Mexico? Unveiling the Enigmatic Giant\r\nThe biggest bear in Mexico is, without a doubt, the Mexican grizzly bear (Ursus arctos nelsoni). Sadly, this magnificent creature is… [+9721 chars]",
-        "positive": 0.0001659413828747347,
-        "negative": 0.002563026500865817,
-        "neutral": 0.9972710013389587
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/news/politics-and-nation/utterly-ridiculous-cm-pinarayi-vijayan-on-ed-show-cause-notice-to-him-in-kiifb-case/articleshow/125799957.cms",
         "timestamp": "2025-12-06T04:56:02+00:00",
         "text": "\"Utterly ridiculous:\" CM Pinarayi Vijayan on ED show cause notice to him in KIIFB case \nKerala CM Pinarayi Vijayan dismissed the ED's show-cause notice over alleged FEMA violations in the KIIFB case as \"utterly ridiculous,\" attributing it to approaching elections. He asserted that KIIFB projects adhered strictly to RBI guidelines for infrastruct… \nErnakulam: Kerala Chief Minister Pinarayi Vijayan, reacting to the show-cause notice issued by the Enforcement Directorate over alleged FEMA violations in the KIIFB case on Friday, dismissed it as \"u… [+4056 chars]",
         "positive": 0.0022130387369543314,
         "negative": 0.07379133254289627,
         "neutral": 0.9239956140518188
-      },
-      {
-        "source": "news",
-        "id": "https://guardian.ng/news/babarinde-others-recognised-among-brandcoms-35-under-35-outstanding-marketing-professionals/",
-        "timestamp": "2025-12-06T04:56:01+00:00",
-        "text": "Babarinde, others recognised among brandcom's ‘35 under 35’ outstanding marketing professionals \nHead of Marketing and Growth at Waza, MuyiwaBabarinde, was celebrated among Nigeria's top marketing leaders at the Brandcom \nHead of Marketing and Growth at Waza, Muyiwa Babarinde, was celebrated among Nigeria’s top marketing leaders at the Brandcom “35 Under 35” Awards. \r\nThe recognition, which highlights the most impactf… [+3374 chars]",
-        "positive": 0.9440241456031799,
-        "negative": 6.3973125179472845e-06,
-        "neutral": 0.05596946179866791
       },
       {
         "source": "news",
@@ -869,33 +995,6 @@
       },
       {
         "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/expert-view/2026-would-be-better-for-it-stocks-than-2025-pramod-gubbi/articleshow/125799890.cms",
-        "timestamp": "2025-12-06T04:50:12+00:00",
-        "text": "2026 would be better for IT stocks than 2025: Pramod Gubbi \nPramod Gubbi of Marcellus Investment Managers expects India’s IT sector to recover in 2026 as valuations turn attractive and global rate cuts revive tech spending. He sees earnings momentum improving across consumption, healthcare and lenders, supported by do… \n(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
-        "positive": 0.9999990463256836,
-        "negative": 4.461665881194676e-08,
-        "neutral": 8.945971785578877e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.syllad.com/moolamylliang-christmas-festival-of-lights-cancelled-this-year/",
-        "timestamp": "2025-12-06T04:50:00+00:00",
-        "text": "Moolamylliang Christmas festival of lights cancelled this year \nThe Dorbar Chnong of Moolamylliang has informed all well-wishers and the general public that the Moolamylliang Christmas Festival of Lights, celebrated annually since 2019, will not be held this year. The festival, which has been widely popular, attracts visi… \nSyllad | The Rising MeghalayaDecember 6, 2025\r\nThe Dorbar Chnong of Moolamylliang has informed all well-wishers and the general public that the Moolamylliang Christmas Festival of Lights, celebrated … [+692 chars]",
-        "positive": 0.016854923218488693,
-        "negative": 0.018722835928201675,
-        "neutral": 0.964422345161438
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/how-much-can-you-sell-a-tilapia-for/",
-        "timestamp": "2025-12-06T04:49:25+00:00",
-        "text": "How much can you sell a tilapia for? \nHow Much Can You Sell a Tilapia For?: Understanding Tilapia Pricing The price of tilapia varies considerably, but you can generally expect to sell farm-raised tilapia for around $1.50 to $4.00 per pound at the wholesale level, depending on factors like size, … \nThe price of tilapia varies considerably, but you can generally expect to sell farm-raisedtilapia for around $1.50 to $4.00 per pound at the wholesale level, depending on factors like size, quality, … [+8022 chars]",
-        "positive": 3.3615418715271517e-07,
-        "negative": 2.517799657653086e-06,
-        "neutral": 0.9999971389770508
-      },
-      {
-        "source": "news",
         "id": "https://www.abc.net.au/news/2025-12-06/critics-choice-awards-nominations-sinner/106110372",
         "timestamp": "2025-12-06T04:48:38+00:00",
         "text": "Critics choice nominations 2026: Sinner, One Battle After Another \nThe gothic vampire period drama Sinners has topped the Critic Choice Awards, securing 17 nods, followed by One Battle After Another with 14. \nThe gothic vampire period drama Sinners has topped the Critic Choice Awards, securing 17 nods, followed by One Battle After Another with 14. \r\nThe Ryan Coogler film earned nominations including best … [+8759 chars]",
@@ -905,48 +1004,12 @@
       },
       {
         "source": "news",
-        "id": "https://m.economictimes.com/news/india/driving-mistakes-that-could-signal-something-serious-about-your-brain-health/why-driving-reveals-brain-health/slideshow/125799886.cms",
-        "timestamp": "2025-12-06T04:47:41+00:00",
-        "text": "Driving mistakes that could signal something serious about your brain health \n​ A groundbreaking study from Washington University tracked nearly 300 older adults using GPS devices for three years and discovered that subtle shifts in how people drive—fewer trips, avoiding nighttime roads, sticking to familiar routes—can signal early cog… \nDec 06, 2025, 10:18:08 AM IST\r\nDriving uses more of your brain than you realize. It needs attention, quick visual processing, spatial mapping, planning, and instant reactions. Cognitive decline touch… [+1606 chars]",
-        "positive": 0.0010396630968898535,
-        "negative": 0.0031792884692549706,
-        "neutral": 0.9957810640335083
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/forex/dollar-slips-as-traders-eye-next-weeks-fed-meeting/articleshow/125799837.cms",
-        "timestamp": "2025-12-06T04:43:12+00:00",
-        "text": "Dollar slips as traders eye next week's Fed meeting \nThe U.S. dollar dipped as traders anticipated a Federal Reserve rate cut next week, with nearly 90% probability priced in. Soft labor data and dovish central bank remarks fueled expectations for reductions. Meanwhile, the yen firmed on speculation the Bank of… \nThe U.S. dollar slipped on Friday but held within recent ranges against major currencies as traders awaited next week's Federal Reserve meeting, where policymakers are widely expected to cut interest… [+3038 chars]",
-        "positive": 0.00014368878328241408,
-        "negative": 0.9994045495986938,
-        "neutral": 0.00045175428385846317
-      },
-      {
-        "source": "news",
         "id": "https://freerepublic.com/focus/f-bloggers/4356174/posts",
         "timestamp": "2025-12-06T04:42:44+00:00",
         "text": "News Summary-Intelligence Report 12/5/2025*Newsdump Friday*Trump \"Extremely Angry\" With MTG*EU Targets \"X\" With Fine*US-Ukraine Talks*Vaccine Panel Drama*Israeli Military Tensions*Macron Speaks \"Unity\" Between US And Europe Over Ukraine In China* \nExchanges of fire between Afghan and Pakistani forces... US President Donald Trump's popularity 55 percent disapproval to 43 percent approval in... \"We did talk about the Epstein Files and he was extremely angry at me...he said that it was going to hurt peopl… \nSkip to comments.\r\nNews Summary-Intelligence Report 12/5/2025*Newsdump Friday*Trump \"Extremely Angry\" With MTG*EU Targets \"X\" With Fine*US-Ukraine Talks*Vaccine Panel Drama*Israeli Military Tensions*… [+3808 chars]",
         "positive": 0.0003839793789666146,
         "negative": 0.0009969484526664019,
         "neutral": 0.9986189603805542
-      },
-      {
-        "source": "news",
-        "id": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2025/12/05/49ers-2025-draft-picks-mykel-williams-alfred-collins/87510496007/",
-        "timestamp": "2025-12-06T04:42:21+00:00",
-        "text": "Level of optimism on each San Francisco 49ers rookie at the bye week \nThe San Francisco 49ers aren't getting immediate production from their 2025 NFL draft class, but there are lots of positive signs. \nThe plan for the San Francisco 49ers was to lean heavily on their 2025 draft class in hopes they'd improve enough throughout the season to become effective contributors on a Super Bowl contender.\r\nIn… [+5029 chars]",
-        "positive": 0.9999916553497314,
-        "negative": 5.555087227548938e-06,
-        "neutral": 2.790746293612756e-06
-      },
-      {
-        "source": "news",
-        "id": "https://cryptobriefing.com/bitcoin-holding-strategy-decade-slump/",
-        "timestamp": "2025-12-06T04:41:14+00:00",
-        "text": "Strategy CEO says only a decades-long slump would force them to sell Bitcoin \nThe CEO's stance highlights confidence in Bitcoin's long-term value, suggesting resilience against short-term market volatility.\nThe post Strategy CEO says only a decades-long slump would force them to sell Bitcoin appeared first on Crypto Briefing. \nKey Takeaways\r\n<ul><li>The company plans to hold its Bitcoin reserves unless faced with a liquidity crisis lasting decades.</li><li>Recent capital raises and historical performance support the firm's… [+1270 chars]",
-        "positive": 0.9882843494415283,
-        "negative": 1.7503109120298177e-05,
-        "neutral": 0.011698106303811073
       },
       {
         "source": "news",
@@ -974,24 +1037,6 @@
         "positive": 0.002912216354161501,
         "negative": 0.9928115010261536,
         "neutral": 0.004276286344975233
-      },
-      {
-        "source": "news",
-        "id": "https://www.notebookcheck.net/A-functional-mechanical-watch-movement-with-sapphire-glass-in-an-8-6-kg-wireless-mechanical-keyboard-Wuque-Studio-Nama-launch.1178962.0.html",
-        "timestamp": "2025-12-06T04:39:00+00:00",
-        "text": "A functional mechanical watch movement with sapphire glass in an 8.6 kg wireless mechanical keyboard: Wuque Studio Nama launch \nThe latest premium custom mechanical keyboard from Wuque Studio features a built-in custom mechanical watch movement that ticks along with you as you type. The Nama, named after the scientific name for the mammoth, is an exercise in excess, weighing in at up … \nAs far as the basic keyboard functionality goes, the Nama has most bases covered. It features both wired and wireless connectivity, with Bluetooth and 2.4 GHz for the latter, and it sports dual 4,000… [+1866 chars]",
-        "positive": 0.02929709665477276,
-        "negative": 6.17031182628125e-05,
-        "neutral": 0.9706412553787231
-      },
-      {
-        "source": "news",
-        "id": "https://www.notebookcheck.net/A-mechanical-watch-movement-with-sapphire-glass-built-into-an-8-6-kg-wireless-mechanical-keyboard-Wuque-Studio-Nama-launch.1178962.0.html",
-        "timestamp": "2025-12-06T04:39:00+00:00",
-        "text": "A mechanical watch movement with sapphire glass built into an 8.6 kg wireless mechanical keyboard: Wuque Studio Nama launch \nThe latest premium custom mechanical keyboard from Wuque Studio features a built-in custom mechanical watch movement that ticks along with you as you type. The Nama, named after the scientific name for the mammoth, is an exercise in excess, weighing in at up … \nAs far as the basic keyboard functionality goes, the Nama has most bases covered. It features both wired and wireless connectivity, with Bluetooth and 2.4 GHz for the latter, and it sports dual 4,000… [+1864 chars]",
-        "positive": 0.021339954808354378,
-        "negative": 5.5804295698180795e-05,
-        "neutral": 0.9786043167114258
       },
       {
         "source": "news",
@@ -1316,69 +1361,6 @@
         "positive": 0.956183671951294,
         "negative": 0.0003113216662313789,
         "neutral": 0.04350503534078598
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnn.com/2025/12/05/health/cdc-advisers-hepatitis-b-vaccine",
-        "timestamp": "2025-12-06T03:23:50+00:00",
-        "text": "CDC vaccine advisers vote against universal hepatitis B shots for kids in move that critics say ‘makes America sicker’ \nIn significant move so far, the newly appointed US Centers for Disease Control and Prevention’s vaccine advisers voted Friday to abandon universal hepatitis B vaccination for newborns, a massive shift in US immunization policy that experts say will lead to in… \nIn their most significant move so far, the newly appointed US Centers for Disease Control and Preventions vaccine advisers voted Friday to abandon universal hepatitis B vaccination for newborns, a ma… [+11944 chars]",
-        "positive": 0.006287136115133762,
-        "negative": 0.014030979946255684,
-        "neutral": 0.9796819686889648
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/06/3201031/0/en/FCX-INVESTOR-ALERT-Robbins-Geller-Rudman-Dowd-LLP-Announces-that-Freeport-McMoRan-Inc-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Investor-Class-Action-Lawsuit.html",
-        "timestamp": "2025-12-06T03:20:00+00:00",
-        "text": "FCX INVESTOR ALERT: Robbins Geller Rudman & Dowd LLP Announces that Freeport McMoRan Inc. Investors with Substantial Losses Have Opportunity to Lead Investor Class Action Lawsuit \nThe case alleges Freeport-McMoRan hid safety lapses at its Indonesian mine, risking worker deaths and creating undisclosed liability.... \nSAN DIEGO, Dec. 05, 2025 (GLOBE NEWSWIRE) -- Robbins Geller Rudman &amp; Dowd LLP announces that purchasers or acquirers of Freeport-McMoRan Inc. (NYSE: FCX) publicly traded securities between Februa… [+5570 chars]",
-        "positive": 0.006266768556088209,
-        "negative": 0.0016641501570120454,
-        "neutral": 0.9920690059661865
-      },
-      {
-        "source": "news",
-        "id": "https://www.newsbreak.com/share/4383405176976-hhs-changed-the-name-of-transgender-health-leader-on-her-official-portrait?_f=app_share&amp;pd=0CEEmJKC&amp;lang=en_US&amp;send_time=1764990997&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.23.0.48%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2",
-        "timestamp": "2025-12-06T03:19:03+00:00",
-        "text": "HHS changed the name of transgender health leader on her official portrait - NewsBreak \nAdmiral Rachel Levine was the first transgender person to be confirmed by the Senate to serve in the federal government. Her official portrait at HHS headq \nAdmiral Rachel L. Levine, pictured at HHS headquarters last year, led the Public Health Corps during the Biden administration. Her official portrait was changed during the government shutdown to her … [+3459 chars]",
-        "positive": 0.0002853415790013969,
-        "negative": 5.6331951782340184e-05,
-        "neutral": 0.9996583461761475
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/what-ate-nemos-family/",
-        "timestamp": "2025-12-06T03:16:52+00:00",
-        "text": "What ate Nemo’s family? \nWhat Ate Nemo’s Family?: Unraveling the Mystery of the Great Barrier Reef Tragedy The demise of Nemo’s family is primarily attributed to a predatory barracuda attack, a common danger for clownfish in the wild. What ate Nemo’s family? was a large, likely matur… \nThe demise of Nemo’s family is primarily attributed to a predatorybarracuda attack, a common danger for clownfish in the wild. What ate Nemo’s family? was a large, likely mature, fish.\r\nThe sudden an… [+7982 chars]",
-        "positive": 0.0004044825618620962,
-        "negative": 0.2766926884651184,
-        "neutral": 0.7229028344154358
-      },
-      {
-        "source": "news",
-        "id": "https://balloon-juice.com/2025/12/05/war-for-ukraine-day-1380-all-of-ukraine-was-under-alert-for-russian-missile-strikes-earlier-this-evening/",
-        "timestamp": "2025-12-06T03:08:48+00:00",
-        "text": "War for Ukraine Day 1,380: All of Ukraine Was Under Alert for Russian Missile Strikes Earlier This Evening \n(Image by NEIVANMADE) At 3:00 AM local time in Ukraine/8:00 PM EST, all of Ukraine is under air raid warning for potential Russian missile attack. That alert has been lifted.  ATTENTION All of Ukraine – missile danger! A takeoff of the MiG-31K has been record… \n(Image by NEIVANMADE)\r\nAt 3:00 AM local time in Ukraine/8:00 PM EST, all of Ukraine is under air raid warning for potential Russian missile attack. That alert has been lifted.\r\n ATTENTIONAll of Ukrai… [+39144 chars]",
-        "positive": 0.006608267780393362,
-        "negative": 0.09868316352367401,
-        "neutral": 0.894708514213562
-      },
-      {
-        "source": "news",
-        "id": "https://www.rediff.com/sports/report/trump-show-from-start-to-finish-at-world-cup-2026-draw-fifa/20251206.htm",
-        "timestamp": "2025-12-06T03:07:14+00:00",
-        "text": "Trump show from start to finish at World Cup 2026 draw \nUS President Donald Trump, who has campaigned aggressively this year for a Nobel Peace Prize, was given FIFA's inaugural peace prize for his efforts to promote dialogue and de-escalation in some of the world's biggest hotspots. \nDonald Trump took a moment to congratulate himself. The United States, he said, was 'not doing too well' before he took office, but now 'we're the hottest country anywhere in the world'.\r\nIMAGE: US P… [+4888 chars]",
-        "positive": 0.0015332287875935435,
-        "negative": 0.00018127782095689327,
-        "neutral": 0.9982854723930359
-      },
-      {
-        "source": "news",
-        "id": "https://ambcrypto.com/?p=551532",
-        "timestamp": "2025-12-06T03:00:25+00:00",
-        "text": "BlackRock’s $28.7M ETH buy signals a new era – What’s cooking? \nWhy are giants like BlackRock and BitMine racing to amass millions of ETH? \nBlackRock’s latest $28.78 million acquisition of Ethereum is drawing global attention. However, its true significance is being missed. This move is not a speculative gamble on a token’s price. Instea… [+2627 chars]",
-        "positive": 0.0011494234204292297,
-        "negative": 0.0026273392140865326,
-        "neutral": 0.9962232112884521
       },
       {
         "source": "news",
@@ -25177,9 +25159,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.5095237128735762,
-    "nw_norm": 75.47618564367882
+    "nw": 0.48938841878502637,
+    "nw_norm": 74.46942093925132
   },
-  "gsi": 75.47618564367882,
-  "classification": "Extremely Bullish"
+  "gsi": 74.46942093925132,
+  "classification": "Bullish"
 }
