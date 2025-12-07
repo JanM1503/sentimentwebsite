@@ -1,8 +1,269 @@
 {
-  "timestamp": "2025-12-07T05:01:42.096401+00:00",
+  "timestamp": "2025-12-07T05:27:54.504877+00:00",
   "news": {
-    "count": 2799,
+    "count": 2794,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/f4af8b14d5be8b39",
+        "timestamp": "2025-12-06T05:19:25+00:00",
+        "text": "Leaders and laggards in a strong year for FTSE 100 stocks \nMiners and banks drive the benchmark index to its best performance since 2009 \nMiners and banks drive the benchmark index to its best performance since 2009\r\nThis story appeared on ft.com, 2025-12-06 05:00:50.",
+        "positive": 1.0,
+        "negative": 2.410616595227566e-08,
+        "neutral": 1.4709939932799898e-08
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/1ca4f9468cbfa35b",
+        "timestamp": "2025-12-06T05:19:25+00:00",
+        "text": "Glencore’s copper pitch: buy in or buy me \nMiner’s assets and prospects strengthen its hand for M&A — a game it knows better than anyone \nMiners assets and prospects strengthen its hand for M&amp;A a game it knows better than anyone\r\nThis story appeared on ft.com, 2025-12-06 05:00:39.",
+        "positive": 0.9999985694885254,
+        "negative": 4.3857447451500775e-08,
+        "neutral": 1.4304275737231364e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.juancole.com/2025/12/divergent-egyptian-revolutions.html",
+        "timestamp": "2025-12-06T05:15:45+00:00",
+        "text": "Great Powers and the People: The Divergent Paths of the Egyptian and Syrian Revolutions \nExeter, UK (Special to Informed Comment; Feature) - The Arab revolutionary wave that began in 2011 presents two of its most significant, yet fundamentally divergent, case studies: Egypt and Syria. While both nations experienced the overthrow of long-standing … \nExeter, UK (Special to Informed Comment; Feature) – The Arab revolutionary wave that began in 2011 presents two of its most significant, yet fundamentally divergent, case studies: Egypt and Syria. Wh… [+9078 chars]",
+        "positive": 0.5405219793319702,
+        "negative": 0.0007102049421519041,
+        "neutral": 0.4587678015232086
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/asia/sri-lanka-unveils-cyclone-aid-plan-rains-persist-5565246",
+        "timestamp": "2025-12-06T05:15:00+00:00",
+        "text": "Sri Lanka unveils cyclone aid plan as rains persist \nAs part of the plan, survivors of Cyclone Ditwah will be offered up to US$33,000 to buy land in safer locations and build new homes, according to Sri Lanka's finance ministry. \nCOLOMBO: Disaster-hit Sri Lanka has unveiled a major compensation package to rebuild homes damaged by a deadly cyclone, even as the island prepared on Saturday (Dec 6) for further landslides and floo… [+2128 chars]",
+        "positive": 9.000595309771597e-05,
+        "negative": 0.0012099198065698147,
+        "neutral": 0.9987000226974487
+      },
+      {
+        "source": "news",
+        "id": "https://m.economictimes.com/mf/analysis/starting-your-first-sip-heres-an-expert-guide-to-choosing-the-right-mutual-fund/articleshow/125800143.cms",
+        "timestamp": "2025-12-06T05:13:55+00:00",
+        "text": "Starting your first SIP? Here’s an expert guide to choosing the right mutual fund \nStarting an SIP becomes easy with clarity on goals, time horizon and risk appetite. Expert guidance helps beginners avoid mis-selling, choose the right fund, and build confidence for a smooth long-term investing journey. \nStarting your first SIP can feel overwhelming especially if you're new to mutual funds and the world of investing. But with the right guidance, beginning an SIP is one of the simplest and most effect… [+3913 chars]",
+        "positive": 0.8911752700805664,
+        "negative": 2.8588743589352816e-05,
+        "neutral": 0.10879617184400558
+      },
+      {
+        "source": "news",
+        "id": "https://bleedingcool.com/games/bluey-creator-interviewed-for-blueys-quest-for-the-gold-pen/",
+        "timestamp": "2025-12-06T05:12:04+00:00",
+        "text": "Bluey Creator Interviewed For Bluey's Quest For The Gold Pen \nIn a rare interview, Bluey creator Joe Brumm sat down with Halfbrick CEO Shainiel Deo to talk about the new mobile game, Bluey's Quest for the Gold Pen. The team released the video of their interview on the official Bluery website, as the two discuss their lo… \nPosted in: Games, Mobile Games | Tagged: bluey, Blueys Quest for the Gold Pen, Halfbrick Studios, joe brumm, Ludo Studio, Shainiel Deo\r\nBluey creator Joe Brumm gave a rare interview to help promote t… [+2767 chars]",
+        "positive": 1.4651664059783798e-05,
+        "negative": 4.6334189391927794e-05,
+        "neutral": 0.99993896484375
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/markets/sebi-aims-to-ease-fpi-registration-process-floats-consultation-paper/article70364684.ece",
+        "timestamp": "2025-12-06T05:11:41+00:00",
+        "text": "SEBI aims to ease FPI registration process; floats consultation paper \nSEBI proposes to simplify FPI registration, inviting public comments on the consultation paper until December 26. \nMarkets regulator SEBI on Friday proposed a comprehensive overhaul of the Foreign Portfolio Investor (FPI) framework, aiming to streamline the registration process and introduce an abridged applicati… [+2361 chars]",
+        "positive": 0.002225529868155718,
+        "negative": 1.0633337296894751e-05,
+        "neutral": 0.9977638721466064
+      },
+      {
+        "source": "news",
+        "id": "https://lancasteronline.com/business/local_business/teamsters-union-claims-lancaster-s-acme-distribution-center-illegally-surveilled-employees/article_f930c73d-e072-4f97-8237-528fcb62a4b8.html",
+        "timestamp": "2025-12-06T05:08:49+00:00",
+        "text": "Teamsters union claims Lancaster’s Acme Distribution Center illegally surveilled employees \nA local union has filed charges against the Acme Distribution Center in East Cocalico Township over claims that the center surveilled employees with trail cameras. \nA local union has filed charges against the Acme Distribution Center in East Cocalico Township over claims that the center surveilled employees with trail cameras.\r\nRemi RJ Briand II, president of Te… [+3170 chars]",
+        "positive": 0.0018054768443107605,
+        "negative": 0.037623871117830276,
+        "neutral": 0.9605706930160522
+      },
+      {
+        "source": "news",
+        "id": "https://sports.yahoo.com/articles/eileen-gu-returns-olympic-mountain-050724751.html",
+        "timestamp": "2025-12-06T05:07:24+00:00",
+        "text": "Eileen Gu returns to Olympic mountain in China and wins freeski debut in Shaun White's Snow League \nEileen Gu returned to the mountain where she closed out her winning stay at the Beijing Olympics to capture the first Snow League title for freeskiing Saturday. Gu, the 22-year-old who won two golds and a silver at the 2022 Games, won all six of her head-to-h… \nEileen Gu returned to the mountain where she closed out her winning stay at the Beijing Olympics to capture the first Snow League title for freeskiing Saturday.\r\nGu, the 22-year-old who won two golds… [+1703 chars]",
+        "positive": 0.0035246999468654394,
+        "negative": 0.003365929704159498,
+        "neutral": 0.9931094646453857
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/indian-rupee-hits-record-low-what-it-means-for-commodity-prices-and-the-economy/articleshow/125800046.cms",
+        "timestamp": "2025-12-06T05:07:18+00:00",
+        "text": "Indian rupee hits record low: What it means for commodity prices and the economy \nThe rupee’s plunge beyond ₹90 highlights India-specific pressures from FPI outflows, trade deficits and dollar demand. The slide threatens higher imported inflation, costlier commodities and wider external imbalances, even as domestic growth remains resilient… \nThe Indian rupee plunged past the psychologically crucial 90 mark against the US dollar on Wednesday, its weakest level ever, making it the worst-performing currency in Asia. This sharp depreciation … [+5131 chars]",
+        "positive": 2.347775262023788e-05,
+        "negative": 0.9999693632125854,
+        "neutral": 7.154691957111936e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.juancole.com/2025/12/ceasefire-prolonged-purgatory.html",
+        "timestamp": "2025-12-06T05:04:59+00:00",
+        "text": "A Ceasefire in Name Only: Gaza’s Prolonged Purgatory \nby Dr Binoy Kampmark   ( Middle East Monitor ) - A ceasefire can be a strange thing.  The assumption, generally speaking, is that the parties to it restrain themselves for a period of time, ordering their forces and disciplining their charges from straying.  … \n( Middle East Monitor ) – A ceasefire can be a strange thing.  The assumption, generally speaking, is that the parties to it restrain themselves for a period of time, ordering their forces and discip… [+5257 chars]",
+        "positive": 2.170468542317394e-05,
+        "negative": 0.0003718265797942877,
+        "neutral": 0.9996065497398376
+      },
+      {
+        "source": "news",
+        "id": "https://www.indystar.com/story/sports/high-school/2025/12/06/snap-judgments-from-friday-night-high-school-basketball-games/87637564007/",
+        "timestamp": "2025-12-06T05:02:32+00:00",
+        "text": "Snap judgments: No. 1 Fishers wins and other highlights from Friday hoops \nNo. 1 Fishers knocks off No. 3 Noblesville and other highlights from Friday night's high school basketball games. \nSnap judgments from Friday nights high school basketball action:\r\n*Fishers wins battle of No. 1 vs. No. 3: I watched Class 4A top-ranked Fishers take control against No. 3 Noblesville with a 14-0 run… [+4879 chars]",
+        "positive": 0.00043859396828338504,
+        "negative": 8.098522812360898e-06,
+        "neutral": 0.9995532631874084
+      },
+      {
+        "source": "news",
+        "id": "https://www.challies.com/a-la-carte/weekend-a-la-carte-december-6-2025/",
+        "timestamp": "2025-12-06T05:01:00+00:00",
+        "text": "Weekend A La Carte (December 6) \nA La Carte: Rightly ordered desires / Ordinary wonders / For my good, not my comfort / Make room for special-needs families / Christmas spirit / Wisdom rarely makes you famous / and more.See Also\r\n<ul><li>A La Carte (November 14)</li><li>A La Carte (May 30)</… \nMy gratitude goes to Harvest House for sponsoring the blog this week. They wanted to let you know about The Quest for the Best, a book for young readers.\r\nYou may want to take a look at this deal fro… [+2383 chars]",
+        "positive": 0.0001075895270332694,
+        "negative": 4.14055903092958e-05,
+        "neutral": 0.9998509883880615
+      },
+      {
+        "source": "news",
+        "id": "https://bitcoinist.com/us-seeks-12-year-sentence-terraform-labs-co-founder/",
+        "timestamp": "2025-12-06T05:00:50+00:00",
+        "text": "US Seeks 12-Year Sentence For Terraform Labs Co-Founder Do Kwon \nDo Kwon, the troubled co-founder of Terraform Labs based in Singapore, is facing a possible 12-year prison sentence in the United States due to his role in the collapse of the TerraUSD stablecoin, which resulted in significant losses within the cryptocurrency… \nDo Kwon, the troubled co-founder of Terraform Labs based in Singapore, is facing a possible 12-year prison sentence in the United States due to his role in the collapse of the TerraUSD stablecoin, wh… [+3105 chars]",
+        "positive": 8.067720045801252e-05,
+        "negative": 0.9996978044509888,
+        "neutral": 0.00022160403023008257
+      },
+      {
+        "source": "news",
+        "id": "https://www.euractiv.com/news/europe-cannot-see-strait/",
+        "timestamp": "2025-12-06T05:00:18+00:00",
+        "text": "Europe cannot see Strait \nEurope's mantra of \"de-risking\" means nothing if it doesn't account for the imminent threat to Taiwan \nToday’s edition is powered by Metal Packaging Europe\r\nThe proposed EU Steel Measure will harm circularity and raise consumer costs.Europe must protect the entire steel value chain, including downstre… [+12167 chars]",
+        "positive": 0.00022721817367710173,
+        "negative": 0.9962190985679626,
+        "neutral": 0.003553646383807063
+      },
+      {
+        "source": "news",
+        "id": "https://www.biblegateway.com/reading-plans/old-new-testament/2025/12/06/",
+        "timestamp": "2025-12-06T05:00:00+00:00",
+        "text": "Old/New Testament Reading for Saturday December 6, 2025 (KJV) \nDaniel 3-4\r\n\n\n 3 Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.\r… [+15287 chars]",
+        "positive": 1.0064722118841019e-05,
+        "negative": 2.005677970373654e-06,
+        "neutral": 0.9999879598617554
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/business/economy/2025/12/06/its-time-to-sound-the-alarm-on-growing-fiscal-and-financial-risk/",
+        "timestamp": "2025-12-06T05:00:00+00:00",
+        "text": "It’s time to sound the alarm on growing fiscal and financial risk \nRising public debt is one concern – another is how it is being financed \nBefore the financial crisis of 2007-2009, the Bank for International Settlements (BIS) made itself unpopular with monetary authorities around the world by pointing to the risks being created by accom… [+5757 chars]",
+        "positive": 0.0012563016498461366,
+        "negative": 0.9612738490104675,
+        "neutral": 0.03746991604566574
+      },
+      {
+        "source": "news",
+        "id": "https://www.americanthinker.com/blog/2025/12/housing_costs_cause_and_effect.html",
+        "timestamp": "2025-12-06T05:00:00+00:00",
+        "text": "Housing costs: cause and effect \nAmong Democrat’s attack narratives against President Trump is the claim he’s responsible for a lack of housing of all kinds, for high mortgage interest rates, and high inflation generally, affecting rent. That Trump has been in office les... \nAmong Democrat’s attack narratives against President Trump is the claim he’s responsible for a lack of housing of all kinds, for high mortgage interest rates, and high inflation generally, affecting … [+3575 chars]",
+        "positive": 0.0007706436445005238,
+        "negative": 0.09417396038770676,
+        "neutral": 0.9050553441047668
+      },
+      {
+        "source": "news",
+        "id": "https://afuse8production.slj.com/2025/12/06/31-days-31-lists-2025-funny-picture-books/",
+        "timestamp": "2025-12-06T05:00:00+00:00",
+        "text": "31 Days, 31 Lists: 2025 Funny Picture Books \nHumor may be subjective but odds are at least a couple of the books on this list will deeply amuse some child in your life/classroom. \nHumor in the year 2025 has been in short supply, no question. We’ve seen no end of cruelty and stupidity coming out at unprecedented levels from the federal level. To make a work of picture book humo… [+35016 chars]",
+        "positive": 1.541688834549859e-05,
+        "negative": 0.0007009066757746041,
+        "neutral": 0.9992837309837341
+      },
+      {
+        "source": "news",
+        "id": "https://www.americanthinker.com/blog/2025/12/the_stages_of_a_color_revolution_and_where_the_u_s_is_right_now.html",
+        "timestamp": "2025-12-06T05:00:00+00:00",
+        "text": "The stages of a color revolution — and where the U.S. is right now \nA “color revolution” (sometimes called a “soft coup” or “regime-change operation by non-kinetic means”) is a modern form of orchestrated political upheaval designed to replace an existing government without traditi... \nA “color revolution” (sometimes called a “soft coup” or “regime-change operation by non-kinetic means”) is a modern form of orchestrated political upheaval designed to replace an existing government … [+4420 chars]",
+        "positive": 1.0685549568734132e-05,
+        "negative": 8.680834184815467e-07,
+        "neutral": 0.9999884366989136
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/economy/agri-business/maharashtra-poised-to-lead-indias-natural-farming-revolution/article70363385.ece",
+        "timestamp": "2025-12-06T05:00:00+00:00",
+        "text": "Maharashtra poised to lead India’s natural farming revolution \nIf the State translates intent into execution, it will not only mainstream natural farming but set a national benchmark for an agriculture that is ecologically regenerative, economically rewarding and socially inclusive \nMaharashtra is uniquely placed to emerge as Indias leading state in natural farming at a time when the country is fundamentally rethinking the future of its agricultural growth. Decades of chemical-i… [+3705 chars]",
+        "positive": 0.9986440539360046,
+        "negative": 4.888639523414895e-06,
+        "neutral": 0.001351077575236559
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/life-style/fine-art-antiques/2025/12/06/a-drunk-decanter-set-for-christmas-quaint-finds-in-dublins-antiques-quarter/",
+        "timestamp": "2025-12-06T05:00:00+00:00",
+        "text": "A drunk decanter set for Christmas? Quaint finds in Dublin’s antiques quarter \nTake a wander down Francis Street to find something out of the ordinary this festive season \nAs most auction rooms begin to wind down for Christmas, browsing through antique shops rather than auction catalogues in Dublins antique quarter is another way to satiate your appetite for antique fu… [+4934 chars]",
+        "positive": 2.7894919185200706e-05,
+        "negative": 0.0002750033454503864,
+        "neutral": 0.9996970891952515
+      },
+      {
+        "source": "news",
+        "id": "https://www.americanthinker.com/blog/2025/12/why_did_it_take_five_years_to_catch_the_j6_bomber.html",
+        "timestamp": "2025-12-06T05:00:00+00:00",
+        "text": "Why did it take five years to catch the J6 bomber? \nThe alleged January 6 pipe bomber has finally been arrested, and his political leanings and race should be no surprise:\r\n\r\n\r\n\r\nGraphic: X Post\r\n\r\nIt’s a case I’ve covered in detail at my home blog, and here at AT.  There is much... \nThe alleged January 6 pipe bomber has finally been arrested, and his political leanings and race should be no surprise:\r\nGraphic: X Post\r\nIt’s a case I’ve covered in detail at my home blog, and here … [+4609 chars]",
+        "positive": 0.0033903003204613924,
+        "negative": 0.061891522258520126,
+        "neutral": 0.9347181916236877
+      },
+      {
+        "source": "news",
+        "id": "https://www.tennessean.com/story/sports/high-school/2025/12/05/tssaa-football-state-championship-page-sevier-county-bluecross-bowl/87474274007/",
+        "timestamp": "2025-12-06T04:56:26+00:00",
+        "text": "Page seniors deliver first TSSAA football state championship after 4 years of heartbreak \nPage won its first TSSAA football state championship after losing four consecutive from 2021-24. Its seniors celebrated accordingly. \nCHATTANOOGA Page senior offensive lineman Jacob Rathbone cradled the TSSAA football state championship as if hed never let the trophy go.\r\nIt took this long to capture it why give it away?\r\nIn each o… [+3283 chars]",
+        "positive": 0.003072890918701887,
+        "negative": 0.0024263637606054544,
+        "neutral": 0.9945007562637329
+      },
+      {
+        "source": "news",
+        "id": "https://www.forbes.com/sites/daphneewingchow/2025/12/05/this-exclusive-cayman-getaway-tastes-as-good-as-it-feels/",
+        "timestamp": "2025-12-06T04:56:21+00:00",
+        "text": "This Exclusive Cayman Getaway Tastes As Good As It Feels \nA Cayman retreat, one brilliant chef and seven days of ocean-soaked nourishment turned burnout into rebirth. \n1OAKs Sand Soleil sits on Grand Cayman's iconic Seven Mile Beach\r\n1OAK\r\nExhausted and professionally burnt out, I arrived at 1OAKs Sand Soleil in search of the type of restoration that could still my… [+8861 chars]",
+        "positive": 1.956000943437175e-07,
+        "negative": 2.170486368413549e-06,
+        "neutral": 0.999997615814209
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/economy/indicators/indian-households-expect-ease-in-inflation-pressures-to-continue-rbi-survey/articleshow/125799958.cms",
+        "timestamp": "2025-12-06T04:56:14+00:00",
+        "text": "Indian households expect ease in inflation pressures to continue: RBI survey \nThe RBI survey found that fewer households now anticipate price increases across key segments such as food, non-food items, housing, household durables, and services. \nIndian households are anticipating a notable softening in inflation expectations for the next three months and one year ahead, the Reserve Bank of India's latest Households' Inflation Expectations Su… [+2560 chars]",
+        "positive": 0.001509060268290341,
+        "negative": 0.9859326481819153,
+        "neutral": 0.01255831029266119
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/what-is-the-biggest-bear-in-mexico/",
+        "timestamp": "2025-12-06T04:56:06+00:00",
+        "text": "What is the biggest bear in Mexico? \nWhat is the Biggest Bear in Mexico? Unveiling the Enigmatic Giant The biggest bear in Mexico is, without a doubt, the Mexican grizzly bear (Ursus arctos nelsoni). Sadly, this magnificent creature is now extinct, but understanding its history and ecological ro… \nWhat is the Biggest Bear in Mexico? Unveiling the Enigmatic Giant\r\nThe biggest bear in Mexico is, without a doubt, the Mexican grizzly bear (Ursus arctos nelsoni). Sadly, this magnificent creature is… [+9721 chars]",
+        "positive": 0.0001659413828747347,
+        "negative": 0.002563026500865817,
+        "neutral": 0.9972710013389587
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/politics-and-nation/utterly-ridiculous-cm-pinarayi-vijayan-on-ed-show-cause-notice-to-him-in-kiifb-case/articleshow/125799957.cms",
+        "timestamp": "2025-12-06T04:56:02+00:00",
+        "text": "\"Utterly ridiculous:\" CM Pinarayi Vijayan on ED show cause notice to him in KIIFB case \nKerala CM Pinarayi Vijayan dismissed the ED's show-cause notice over alleged FEMA violations in the KIIFB case as \"utterly ridiculous,\" attributing it to approaching elections. He asserted that KIIFB projects adhered strictly to RBI guidelines for infrastruct… \nErnakulam: Kerala Chief Minister Pinarayi Vijayan, reacting to the show-cause notice issued by the Enforcement Directorate over alleged FEMA violations in the KIIFB case on Friday, dismissed it as \"u… [+4056 chars]",
+        "positive": 0.0022130387369543314,
+        "negative": 0.07379133254289627,
+        "neutral": 0.9239956140518188
+      },
+      {
+        "source": "news",
+        "id": "https://guardian.ng/news/babarinde-others-recognised-among-brandcoms-35-under-35-outstanding-marketing-professionals/",
+        "timestamp": "2025-12-06T04:56:01+00:00",
+        "text": "Babarinde, others recognised among brandcom's ‘35 under 35’ outstanding marketing professionals \nHead of Marketing and Growth at Waza, MuyiwaBabarinde, was celebrated among Nigeria's top marketing leaders at the Brandcom \nHead of Marketing and Growth at Waza, Muyiwa Babarinde, was celebrated among Nigeria’s top marketing leaders at the Brandcom “35 Under 35” Awards. \r\nThe recognition, which highlights the most impactf… [+3374 chars]",
+        "positive": 0.9440241456031799,
+        "negative": 6.3973125179472845e-06,
+        "neutral": 0.05596946179866791
+      },
       {
         "source": "news",
         "id": "https://www.irishtimes.com/culture/books/review/2025/12/06/the-art-of-status-leonardo-da-vinci-who-owns-beauty-art-books-about-plundering-dilemmas-and-fabricated-back-stories/",
@@ -716,75 +977,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.nintendolife.com/news/2025/12/switch-online-holiday-icons-super-mario-ornament-and-2026-calendar-now-available-us",
-        "timestamp": "2025-12-06T03:30:00+00:00",
-        "text": "Switch Online Holiday Icons, Super Mario Ornament And 2026 Calendar Now Available (US) \nGet them with your Platinum Points.To celebrate the holiday season this year, Nintendo has released special Super Mario icons you can redeem right now with My Nintendo Platinum Points.Read the full article on nintendolife.com \nImage: Nintendo\r\nTo celebrate the holiday season this year, Nintendo has released special Super Mario icons you can redeem right now with My Nintendo Platinum Points.\r\nThis is a \"limited time\" offer,… [+1024 chars]",
-        "positive": 7.559361984021962e-05,
-        "negative": 8.925322617869824e-06,
-        "neutral": 0.9999154806137085
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/economy/agri-business/climate-law-and-agriculture-building-a-legally-enforceable-path-to-sustainable-low-emission-farming/article70363007.ece",
-        "timestamp": "2025-12-06T03:30:00+00:00",
-        "text": "Climate law and agriculture: Building a legally enforceable path to sustainable, low-emission farming \nThe Government and relevant stakeholders need to approach the challenges as opportunities that actually fuel innovation and sustainable growth \nOne of the most imminent challenges today is the erratic climate change occurring across many parts of the globe. \r\nClimate is a key element for any industry due to its effect on temperature, local e… [+5454 chars]",
-        "positive": 3.6376692150952294e-05,
-        "negative": 0.9380881190299988,
-        "neutral": 0.06187550723552704
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/b668b6184c9bb998",
-        "timestamp": "2025-12-06T03:28:25+00:00",
-        "text": "Oil climbs to 2-week high on Fed rate-cut signals, supply concerns \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Googles search c… [+785 chars]",
-        "positive": 0.05859136953949928,
-        "negative": 0.00017147749895229936,
-        "neutral": 0.941237211227417
-      },
-      {
-        "source": "news",
-        "id": "https://www.syllad.com/half-of-meghalaya-under-20-cm-sees-tremendous-opportunity-and-challenge/",
-        "timestamp": "2025-12-06T03:28:22+00:00",
-        "text": "Half of Meghalaya under 20: CM sees tremendous opportunity and challenge \nChief Minister Conrad K Sangma on Thursday highlighted Meghalaya’s challenges and opportunities, noting that half of the state’s 38 lakh residents are under the age of 20. “This young population is both a tremendous opportunity and a significant challenge. Th… \nSyllad | The Rising MeghalayaDecember 6, 2025\r\n Chief Minister Conrad K Sangma on Thursday highlighted Meghalayas challenges and opportunities, noting that half of the states 38 lakh residents are un… [+3614 chars]",
-        "positive": 0.7605448365211487,
-        "negative": 0.22402530908584595,
-        "neutral": 0.015429876744747162
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/184d05b974899e21",
-        "timestamp": "2025-12-06T03:28:20+00:00",
-        "text": "Meta delays release of Phoenix mixed-reality glasses to 2027, Business Insider reports \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Googles search c… [+781 chars]",
-        "positive": 0.00012629733828362077,
-        "negative": 4.746269041788764e-05,
-        "neutral": 0.9998262524604797
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/defence/drdo-hands-over-7-technologies-developed-under-tech-development-fund-to-armed-forces/articleshow/125799176.cms",
-        "timestamp": "2025-12-06T03:25:46+00:00",
-        "text": "DRDO hands over 7 technologies developed under tech development fund to armed forces \nEach of these technologies or products has been designed, developed and extensively tested by the Indian industry with close collaboration and guidance of DRDO's domain experts and the tri-services, reinforcing the scheme's focus on import substitution and cr… \nFrom a long-life seawater battery system for sustained underwater sensing and surveillance applications to a waterjet propulsion system for fast interceptor craft, the DRDO has handed over seven tech… [+2846 chars]",
-        "positive": 0.021453646942973137,
-        "negative": 5.291553679853678e-05,
-        "neutral": 0.9784933924674988
-      },
-      {
-        "source": "news",
         "id": "https://economictimes.indiatimes.com/news/economy/policy/rbi-did-its-part-now-time-for-markets-to-show-maturity-sbi-report/articleshow/125799174.cms",
         "timestamp": "2025-12-06T03:25:38+00:00",
         "text": "RBI did its part, now time for markets to show maturity: SBI report \nThe Reserve Bank of India has reduced the repo rate to boost economic growth. This move comes as India experiences strong GDP expansion and very low inflation. SBI Research suggests markets should act with maturity. The central bank has lowered its inflation … \nNew Delhi: The Reserve Bank of India (RBI) has done its best to ensure monetary policy continues to support India's economic growth and it is now time for the markets to show maturity and remain non … [+3020 chars]",
         "positive": 0.956183671951294,
         "negative": 0.0003113216662313789,
         "neutral": 0.04350503534078598
-      },
-      {
-        "source": "news",
-        "id": "https://freerepublic.com/focus/f-bloggers/4356167/posts",
-        "timestamp": "2025-12-06T03:24:50+00:00",
-        "text": "AI Data Centers Are Wreaking Havoc On Local Communities Across America \n‘We are building these things so damn fast that by the time they are online and activated, the problems are already built in.’Since returning to office, President Trump has made the advancement of artificial intelligence (AI) a key focal point of his second a… \nSince returning to office, President Trump has made the advancement of artificial intelligence (AI) a key focal point of his second administration. Just last week, the president signed an executive o… [+6930 chars]",
-        "positive": 0.12084568291902542,
-        "negative": 0.00012135431461501867,
-        "neutral": 0.8790329694747925
       },
       {
         "source": "news",
@@ -806,15 +1004,6 @@
       },
       {
         "source": "news",
-        "id": "https://freerepublic.com/focus/f-religion/4356165/posts",
-        "timestamp": "2025-12-06T03:19:40+00:00",
-        "text": "America Prayer Vigil - 12/6/2025 \nJoin with fellow FREEPERS to pray for AMERICA: For those in Authority in Government, Family, Military, Business, Agri-Business; End to Sex Slavery; Healthcare, Education, Churches, and the Media. This is the confidence we have in approaching God: that if we a… \nJoin with fellow FREEPERS to pray for AMERICA: For those in Authority in Government, Family, Military, Business, Agri-Business; End to Sex Slavery; Healthcare, Education, Churches, and the Media. Thi… [+4844 chars]",
-        "positive": 0.3842408359050751,
-        "negative": 0.0005285115330480039,
-        "neutral": 0.6152307391166687
-      },
-      {
-        "source": "news",
         "id": "https://www.newsbreak.com/share/4383405176976-hhs-changed-the-name-of-transgender-health-leader-on-her-official-portrait?_f=app_share&amp;pd=0CEEmJKC&amp;lang=en_US&amp;send_time=1764990997&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.23.0.48%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2",
         "timestamp": "2025-12-06T03:19:03+00:00",
         "text": "HHS changed the name of transgender health leader on her official portrait - NewsBreak \nAdmiral Rachel Levine was the first transgender person to be confirmed by the Senate to serve in the federal government. Her official portrait at HHS headq \nAdmiral Rachel L. Levine, pictured at HHS headquarters last year, led the Public Health Corps during the Biden administration. Her official portrait was changed during the government shutdown to her … [+3459 chars]",
@@ -824,75 +1013,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.digitaljournal.com/world/avatar-3-aims-to-become-end-of-year-blockbuster/article",
-        "timestamp": "2025-12-06T03:17:20+00:00",
-        "text": "Avatar 3 aims to become end-of-year blockbuster \nThe third film in the Avatar series, which will hit cinemas this month, is hoping to extend the success of one of the highest-grossing franchises in history with another environment-themed visual thriller. “Avatar: Fire and Ashes”, directed by James Cameron 1… \nOscar-winning US actress Zoe Saldana is back as Neytiri - Copyright AFP VALERIE MACON\r\nThe third film in the Avatar series, which will hit cinemas this month, is hoping to extend the success of one o… [+3966 chars]",
-        "positive": 0.9999905824661255,
-        "negative": 1.994493317170054e-07,
-        "neutral": 9.217427759722341e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitaljournal.com/entertainment/avatar-3-aims-to-become-end-of-year-blockbuster/article",
-        "timestamp": "2025-12-06T03:17:20+00:00",
-        "text": "Avatar 3 aims to become end-of-year blockbuster \nThe first Avatar made a record $2.9 billion at the global box office, while 2022's follow up \"The Way of Water\" scored around $2.3 billion.\nThe post Avatar 3 aims to become end-of-year blockbuster appeared first on Digital Journal. \nOscar-winning US actress Zoe Saldana is back as Neytiri - Copyright AFP VALERIE MACON\r\nThe third film in the Avatar series, which will hit cinemas this month, is hoping to extend the success of one o… [+3961 chars]",
-        "positive": 0.9999784231185913,
-        "negative": 1.6251483714313508e-07,
-        "neutral": 2.1516318156500347e-05
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/8ccabd74a5cbd03f",
-        "timestamp": "2025-12-06T03:17:14+00:00",
-        "text": "Netflix’s $5.8 Billion Breakup Fee for Warner Among Largest Ever \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Googles search c… [+774 chars]",
-        "positive": 7.765967166051269e-05,
-        "negative": 2.020705096583697e-06,
-        "neutral": 0.9999202489852905
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/82d7ba34664e8d50",
-        "timestamp": "2025-12-06T03:17:05+00:00",
-        "text": "Wall St Week Ahead Fed's internal split puts spotlight on Powell's rate guidance, dissents \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Netflix acquiring Warner Bros. for $72B? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Googles search c… [+777 chars]",
-        "positive": 0.0005833616596646607,
-        "negative": 1.4193097740644589e-05,
-        "neutral": 0.9994024038314819
-      },
-      {
-        "source": "news",
         "id": "https://www.lifesciencesworld.com/what-ate-nemos-family/",
         "timestamp": "2025-12-06T03:16:52+00:00",
         "text": "What ate Nemo’s family? \nWhat Ate Nemo’s Family?: Unraveling the Mystery of the Great Barrier Reef Tragedy The demise of Nemo’s family is primarily attributed to a predatory barracuda attack, a common danger for clownfish in the wild. What ate Nemo’s family? was a large, likely matur… \nThe demise of Nemo’s family is primarily attributed to a predatorybarracuda attack, a common danger for clownfish in the wild. What ate Nemo’s family? was a large, likely mature, fish.\r\nThe sudden an… [+7982 chars]",
         "positive": 0.0004044825618620962,
         "negative": 0.2766926884651184,
         "neutral": 0.7229028344154358
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/toripalimab-presents-long-term-survival-benefits-as-1st-line-treatment-for-advanced-nasopharyngeal-carcinoma-and-esophageal-squamous-cell-carcinoma-patients",
-        "timestamp": "2025-12-06T03:13:03+00:00",
-        "text": "Toripalimab Presents Long-Term Survival Benefits as 1st-line Treatment for Advanced Nasopharyngeal Carcinoma and Esophageal Squamous Cell Carcinoma Patients \nLong-term OS follow-up analysis of JUPITER-02 demonstrates significantly better and clinically meaningful improvement with toripalimab plus chemotherapy as 1st-line treatment for R/M NPC, achieving mOS of 64.8 months and a 5-year OS rate of 52.3%. Torpalimab … \nAbout Toripalimab\r\nToripalimab is an anti-PD-1 monoclonal antibody developed for its ability to block PD-1 interactions with its ligands, PD-L1 and PD-L2, and to induce PD-1 receptor internalization … [+4964 chars]",
-        "positive": 0.9999998807907104,
-        "negative": 8.582719424055085e-09,
-        "neutral": 7.289246894970347e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/06/3201030/0/en/Toripalimab-Presents-Long-Term-Survival-Benefits-as-1st-line-Treatment-for-Advanced-Nasopharyngeal-Carcinoma-and-Esophageal-Squamous-Cell-Carcinoma-Patients.html",
-        "timestamp": "2025-12-06T03:11:00+00:00",
-        "text": "Toripalimab Presents Long-Term Survival Benefits as 1st-line Treatment for Advanced Nasopharyngeal Carcinoma and Esophageal Squamous Cell Carcinoma Patients \nPromising long-term survival results from toripalimab's JUPITER-02 and JUPITER-06 presented at the ESMO ASIA... \n<ul><li>Long-term OS follow-up analysis of JUPITER-02 demonstrates significantly better and clinically meaningful improvement with toripalimab plus chemotherapy as 1st-line treatment for R/M NPC, ach… [+12521 chars]",
-        "positive": 1.0,
-        "negative": 3.4676663762667204e-09,
-        "neutral": 2.0180985771389715e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/do-foxes-cry-when-sad/",
-        "timestamp": "2025-12-06T03:09:08+00:00",
-        "text": "Do foxes cry when sad? \nDo Foxes Cry When Sad? Unveiling the Truth Behind Vulpes Emotions The question “Do foxes cry when sad?” is a fascinating one. The short answer is: While foxes experience complex emotions, they don’t express sadness through human-like crying, meaning shedding … \nDo Foxes Cry When Sad? Unveiling the Truth Behind Vulpes Emotions\r\nThe question “Do foxes cry when sad?” is a fascinating one. The short answer is: While foxes experience complex emotions, they don’t… [+8004 chars]",
-        "positive": 1.0172527254326269e-05,
-        "negative": 0.0005322782089933753,
-        "neutral": 0.9994576573371887
       },
       {
         "source": "news",
@@ -911,33 +1037,6 @@
         "positive": 0.0015332287875935435,
         "negative": 0.00018127782095689327,
         "neutral": 0.9982854723930359
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/does-a-jellyfish-hatch-from-an-egg/",
-        "timestamp": "2025-12-06T03:04:31+00:00",
-        "text": "Does a jellyfish hatch from an egg? \nDoes a Jellyfish Hatch From An Egg? The Mesmerizing Life Cycle Unveiled The answer to “Does a jellyfish hatch from an egg?” is a bit more complex than a simple yes or no. While many jellyfish do originate from eggs, they don’t hatch in the way we typically en… \nDoes a Jellyfish Hatch From An Egg? The Mesmerizing Life Cycle Unveiled\r\nThe answer to “Does a jellyfish hatch from an egg?” is a bit more complex than a simple yes or no. While many jellyfish do ori… [+9526 chars]",
-        "positive": 7.02550380538014e-07,
-        "negative": 8.90995124791516e-06,
-        "neutral": 0.9999903440475464
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2025/12/05/us-news/biden-suffers-brutal-gaffe-while-trying-to-pronounce-america-at-lgbtq-conference-in-dc/",
-        "timestamp": "2025-12-06T03:01:47+00:00",
-        "text": "Biden suffers brutal gaffe while trying to pronounce ‘America’ at LGBTQ conference in DC \nBiden's mortifying mishap comes after his health and age became central to political debates during his final year in office. \nFormer President Joe Biden suffered a humiliating gaffe while trying to pronounce “America” as he criticized the Trump administration at a forum on LGBTQ rights in Washington, DC, Friday afternoon. \r… [+2817 chars]",
-        "positive": 0.0010962251108139753,
-        "negative": 0.9751996397972107,
-        "neutral": 0.023704081773757935
-      },
-      {
-        "source": "news",
-        "id": "https://bitcoinist.com/key-updates-on-the-us-crypto-market-structure-bill/",
-        "timestamp": "2025-12-06T03:00:41+00:00",
-        "text": "Key Updates On The US Crypto Market Structure Bill: What You Need To Know \nThe anticipated crypto market structure bill, or namely the CLARITY Act, designed to provide essential regulatory clarity for digital assets in the United States, is approaching critical dates in the Senate. However, it faces significant complexities related … \nThe anticipated crypto market structure bill, or namely the CLARITY Act, designed to provide essential regulatory clarity for digital assets in the United States, is approaching critical dates in the… [+3525 chars]",
-        "positive": 0.0014669803204014897,
-        "negative": 0.001126686460338533,
-        "neutral": 0.9974063038825989
       },
       {
         "source": "news",
@@ -1253,150 +1352,6 @@
         "positive": 0.4978564977645874,
         "negative": 0.012504146434366703,
         "neutral": 0.4896393418312073
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/opinion/fall-in-inflation-prepares-the-ground-for-rate-cut/article70363071.ece",
-        "timestamp": "2025-12-06T00:45:00+00:00",
-        "text": "Fall in inflation prepares the ground for rate cut \nAlso, the MPC pares the rates on likely near-term softening in GDP growth on account of external uncertainties \nWith inflation at a series-low, the Monetary Policy Committee (MPC) unanimously decided to cut rates by 25 basis points (bps) to 5.25 per cent in its December 2025 meeting, while keeping the stance u… [+3907 chars]",
-        "positive": 0.03009478934109211,
-        "negative": 0.354682594537735,
-        "neutral": 0.6152225732803345
-      },
-      {
-        "source": "news",
-        "id": "https://www.sportingnews.com/us/ncaa-football/colorado/news/one-burning-question-deion-sanders-recent-offensive-coordinator-hire/24785702b267b4ab5bcb4ee8",
-        "timestamp": "2025-12-06T00:44:39+00:00",
-        "text": "One burning question from Deion Sanders’ recent offensive coordinator hire \nColorado had a qualified offensive coordinator on staff. \nOne burning question from Deion Sanders recent offensive coordinator hire originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nIn Coach Sanders fin… [+4420 chars]",
-        "positive": 3.3561864256625995e-06,
-        "negative": 0.0004413166316226125,
-        "neutral": 0.9995552897453308
-      },
-      {
-        "source": "news",
-        "id": "https://www.jacksonsun.com/story/sports/high-school/2025/12/05/tssaa-football-playoffs-championship-mckenzie-cole-brown-2025/87513583007/",
-        "timestamp": "2025-12-06T00:42:23+00:00",
-        "text": "Why McKenzie's Cole Brown is 'ready' for 2026 after TSSAA football championship loss \nMcKenzie remains proud of its season despite coming up short in the TSSAA football state championship against South Pittsburg. \nCHATTANOOGA McKenzies championship hopes fell short as the team was defeated 42-14 by South Pittsburg in the TSSAA Division I Class 1A championship game.\r\nHowever, head coach Keith Hodge was proud as… [+2661 chars]",
-        "positive": 0.9999946355819702,
-        "negative": 2.2794663436798146e-06,
-        "neutral": 3.0922699352231575e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.desmoinesregister.com/story/sports/college/iowa-state/football/2025/12/05/coach-matt-campbell-iowa-state-football-penn-state/87617891007/",
-        "timestamp": "2025-12-06T00:42:15+00:00",
-        "text": "Matt Campbell made Cyclones relevant. Penn State is his reward | Hines \nMatt Campbell turned Iowa State football into a program where 6-6 wasn't good enough. His reward for sustained excellence is Penn State's resources. \nThere are any number of moments you could pick from Matt Campbells 10 years leading the Iowa State football program as the most emblematic or iconic or memorable of his tenure.\r\nMaybe it was his reco… [+6595 chars]",
-        "positive": 0.00011886810534633696,
-        "negative": 7.040760829113424e-05,
-        "neutral": 0.9998107552528381
-      },
-      {
-        "source": "news",
-        "id": "https://www.heatpumped.org/p/from-rockets-to-heat-pumps",
-        "timestamp": "2025-12-06T00:41:42+00:00",
-        "text": "From Rockets to Heat Pumps \nMy candid take on heat pumps, real costs, broken incentives, contractor chaos, and the quiet progress reshaping home electrification. \nUsually Im the one interviewing people about electrification on the Heat Pumped Podcast. Recently, I got to flip roles a bit as a guest on Less Talk, More Action. I was stoked to get the invite - I l… [+7993 chars]",
-        "positive": 4.099012221558951e-05,
-        "negative": 0.00046520575415343046,
-        "neutral": 0.9994938373565674
-      },
-      {
-        "source": "news",
-        "id": "https://www.aljazeera.com/news/2025/12/6/trump-wins-fifas-new-peace-prize",
-        "timestamp": "2025-12-06T00:40:24+00:00",
-        "text": "Trump wins FIFA’s new peace prize \nThe US leader, who has campaigned for the Nobel Peace Prize, gets FIFA's award at the 2026 World Cup draw in Washington. \nUnited States President Donald Trump has been awarded FIFAs newly created peace prize at the draw for the 2026 mens football World Cup.\r\nTrump, who has campaigned aggressively for a Nobel Peace Prize… [+4150 chars]",
-        "positive": 0.9909844398498535,
-        "negative": 1.4024284610059112e-05,
-        "neutral": 0.009001451544463634
-      },
-      {
-        "source": "news",
-        "id": "https://gatewayhispanic.com/2025/12/sudanese-armed-forces-massacre-45-nubian-civilians-kauda/",
-        "timestamp": "2025-12-06T00:40:00+00:00",
-        "text": "Sudanese Armed Forces massacre 45 Nubian civilians in Kauda with a “double-tap” drone strike: first they hit a civilian gathering, then deliberately bombed the vehicles evacuating the wounded to hospital \nThis is a Gateway Hispanic article.\nThe post Sudanese Armed Forces massacre 45 Nubian civilians in Kauda with a “double-tap” drone strike: first they hit a civilian gathering, then deliberately bombed the vehicles evacuating the wounded to hospital appeared f… \nA drone attack today by the Sudan Armed Forces (SAF) in Kauda, located in the Nuba mountains, has resulted in the deaths of 45 civilians (so far), with dozens more wounded. The unprovoked attack, whi… [+2106 chars]",
-        "positive": 0.0010313818929716945,
-        "negative": 0.05465931072831154,
-        "neutral": 0.9443093538284302
-      },
-      {
-        "source": "news",
-        "id": "https://www.nbcsports.com/olympics/news/gretchen-walsh-shaine-casas-us-open-swimming-2025",
-        "timestamp": "2025-12-06T00:37:47+00:00",
-        "text": "Gretchen Walsh, Shaine Casas win butterfly showdowns at Toyota U.S. Open \nThe Toyota U.S. Open concludes Saturday in Austin, Texas. \nGretchen Walsh and Shaine Casas came out on top of 100m butterfly showdowns among Olympic and world champions at the Toyota U.S. Open.\r\nWalsh won the women's 100m fly in 55.60 seconds, exactly one se… [+1423 chars]",
-        "positive": 0.0004457468749023974,
-        "negative": 8.051343684201129e-06,
-        "neutral": 0.9995461106300354
-      },
-      {
-        "source": "news",
-        "id": "https://www.phillymag.com/news/2025/12/05/trump-philadelphia-funding-cuts/",
-        "timestamp": "2025-12-06T00:37:33+00:00",
-        "text": "Trump’s Cuts Are Hitting Philly Hard. Can the City Hold On? \nI. The letter informing Penn researcher Aaron Richterman that his multiyear, multimillion-dollar NIH grant was being terminated came at the very end of May, 131 […] \nLongformWhy we are uniquely vulnerable to the president's economic rampage ... and how Philadelphia can (maybe) fortify itself for the future.\r\nCan Philly survive Trump? / Illustration by Leticia R. … [+41362 chars]",
-        "positive": 0.00020178330305498093,
-        "negative": 0.6481420397758484,
-        "neutral": 0.3516561985015869
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/opinion/cafe-norms-are-too-lenient/article70361928.ece",
-        "timestamp": "2025-12-06T00:30:00+00:00",
-        "text": "CAFE norms are too lenient \nWhy fuel economy standards are important and how proposed revisions to CAFE norms fall short \nFossil fuels today are at the root of multiple societal problems. Among the alternatives ways in which society can reduce consumption of fossil fuels, raising energy efficiency is perhaps the simples… [+7953 chars]",
-        "positive": 0.00027721779770217836,
-        "negative": 0.9807716012001038,
-        "neutral": 0.01895114965736866
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/wmd/library/news/russia/2025/12/russia-251205-kremlin03.htm",
-        "timestamp": "2025-12-06T00:28:48+00:00",
-        "text": "Media statements by the President of Russia and the Prime Minister of India \nFollowing Russian-Indian talks, Vladimir Putin and Prime Minister of India Narendra Modi made statements for the media. The statements were preceded by a ceremony for the exchange of signed documents. \nFollowing Russian-Indian talks, Vladimir Putin and Prime Minister of India Narendra Modi made statements for the media. The statements were preceded by a ceremony for the exchange of signed documents… [+14344 chars]",
-        "positive": 3.1105041671253275e-06,
-        "negative": 1.1770152013923507e-05,
-        "neutral": 0.9999850988388062
-      },
-      {
-        "source": "news",
-        "id": "https://www.globalsecurity.org/wmd/library/news/syria/2025/syria-251205-canada01.htm",
-        "timestamp": "2025-12-06T00:27:49+00:00",
-        "text": "Canada announces measures related to Syria \nThe Honourable Anita Anand, Minister of Foreign Affairs, and the Honourable Gary Anandasangaree, Minister of Public Safety, today announced measures taken by the Government of Canada in relation to Syria. \nGlobal Affairs Canada\r\nNews release\r\nDecember 5, 2025 - Ottawa, Ontario - Global Affairs Canada\r\nThe Honourable Anita Anand, Minister of Foreign Affairs, and the Honourable Gary Anandasangaree, Minis… [+4130 chars]",
-        "positive": 0.00033260288182646036,
-        "negative": 4.324854671722278e-05,
-        "neutral": 0.9996241331100464
-      },
-      {
-        "source": "news",
-        "id": "https://www.justjared.com/2025/12/05/is-toby-sandeman-single-or-married-new-hallmark-star-was-recently-linked-to-a-famous-actress/",
-        "timestamp": "2025-12-06T00:25:13+00:00",
-        "text": "Is Toby Sandeman Single or Married? New Hallmark Star Was Recently Linked to a Famous Actress \nToby Sandeman is making his Hallmark Channel debut in the new holiday series Twelve Dates ‘Til Christmas and fans will definitely want to know more about him. The 37-year-old actor and model is a former track star who won two gold medals for Great Britain in … \nToby Sandeman is making his Hallmark Channel debut in the new holiday series Twelve Dates ‘Til Christmas and fans will definitely want to know more about him.\r\nThe 37-year-old actor and model is a fo… [+1540 chars]",
-        "positive": 0.00010179372475249693,
-        "negative": 2.3144159058574587e-05,
-        "neutral": 0.9998750686645508
-      },
-      {
-        "source": "news",
-        "id": "https://econbrowser.com/archives/2025/12/instantaneous-pce-core-inflation-at-2-9",
-        "timestamp": "2025-12-06T00:23:56+00:00",
-        "text": "Instantaneous PCE Core Inflation at 2.6% \nCompare to 2.8% y/y, 2.7% q/q AR. Figure 1: Instantaneous inflation (T=12,a=4) for core CPI (blue), core PCE deflator (brown), supercore CPI (green), all in decimal form %. Calculations per Eeckhout (2023).Source: BLS, BEA, and author’s calculations. So y/y c… \nCompare to 2.8% y/y, 2.7% q/q AR.\r\nFigure 1: Instantaneous inflation (T=12,a=4) for core CPI (blue), core PCE deflator (brown), supercore CPI (green), all in decimal form %. Calculations per Eeckhout… [+262 chars]",
-        "positive": 3.390796700841747e-05,
-        "negative": 9.105982826440595e-06,
-        "neutral": 0.9999570846557617
-      },
-      {
-        "source": "news",
-        "id": "https://japantoday.com/category/world/putin-modi-agree-to-expand-and-widen-india-russia-trade-strengthen-friendship2",
-        "timestamp": "2025-12-06T00:18:55+00:00",
-        "text": "Putin, Modi agree to expand and widen India-Russia trade, strengthen friendship \nRussian President Vladimir Putin offered India uninterrupted fuel supplies on Friday, eliciting a cautious response even as he and Indian Prime Minister Narendra Modi agreed to expand trade and defence ties between countries with decades-old ties. India, the … \nRussian President Vladimir Putin offered India uninterrupted fuel supplies on Friday, eliciting a cautious response even as he and Indian Prime Minister Narendra Modi agreed to expand trade and defen… [+3910 chars]",
-        "positive": 0.005810093134641647,
-        "negative": 0.0005275838193483651,
-        "neutral": 0.9936623573303223
-      },
-      {
-        "source": "news",
-        "id": "https://english.khabarhub.com/2025/06/510253/",
-        "timestamp": "2025-12-06T00:15:34+00:00",
-        "text": "The Four Faultlines in Reshaping Nepal \nNearly two decades after the 2006 People’s Movement dismantled Nepal’s absolute monarchy and established a secular federal democratic republic, the country faces a critical juncture. Nepal’s political landscape was shaped by Transformers (those seeking to rad… \nNearly two decades after the 2006 Peoples Movement dismantled Nepals absolute monarchy and established a secular federal democratic republic, the country faces a critical juncture. Nepals political l… [+13330 chars]",
-        "positive": 1.4666529750684276e-05,
-        "negative": 0.0005198459839448333,
-        "neutral": 0.9994655251502991
       },
       {
         "source": "news",
@@ -25195,9 +25150,9 @@
         "neutral": 0.999786913394928
       }
     ],
-    "nw": 0.507692689088104,
-    "nw_norm": 75.3846344544052
+    "nw": 0.4873264250976527,
+    "nw_norm": 74.36632125488264
   },
-  "gsi": 75.3846344544052,
-  "classification": "Extremely Bullish"
+  "gsi": 74.36632125488264,
+  "classification": "Bullish"
 }
