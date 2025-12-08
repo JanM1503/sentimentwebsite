@@ -1,8 +1,314 @@
 {
-  "timestamp": "2025-12-08T14:20:03.533151+00:00",
+  "timestamp": "2025-12-08T14:45:24.151542+00:00",
   "news": {
-    "count": 2635,
+    "count": 2632,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.forbes.com/sites/break80/2025/12/07/golf-isnt-getting-cheaper-heres-how-expensive-its-become/",
+        "timestamp": "2025-12-07T14:38:33+00:00",
+        "text": "Golf Isn’t Getting Cheaper—Here’s How Expensive It’s Become \nThe rise in golf's popularity following COVID-19 have lead to dramatic increases in costs to play the sport at many of the United States top places to play. \nPEBBLE BEACH, CA - FEBRUARY 1991: A general view of the 7th hole at Pebble Beach Golf Links during the 1991 AT&amp;T Pebble Beach National Pro-Am held during February 1991 in Pebble Beach, California… [+4479 chars]",
+        "positive": 9.25274707697099e-06,
+        "negative": 0.00026399994385428727,
+        "neutral": 0.9997267127037048
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/ray-dalio-warns-america-track-143300394.html",
+        "timestamp": "2025-12-07T14:33:00+00:00",
+        "text": "Ray Dalio warns that America is on track for a ‘debt death spiral.’ Are your assets safe? \nPlus, how to hedge against history. \nAmal Alhasan / Getty Images\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nThe early 1970s were a turbulent time in America marked by soaring inf… [+10332 chars]",
+        "positive": 0.0001421720371581614,
+        "negative": 0.5635240077972412,
+        "neutral": 0.4363338053226471
+      },
+      {
+        "source": "news",
+        "id": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-hindu-rate-of-growth-conviction-under-pmla-and-currency-decline-10407818/",
+        "timestamp": "2025-12-07T14:32:00+00:00",
+        "text": "UPSC Key: Hindu rate of growth, Conviction under PMLA, and Currency decline \nHow is knowing about the Hindu rate of growth relevant to the UPSC exam? What significance do topics like the conviction under PMLA, currency decline, and Quad hold for both the Preliminary and Main examinations? You can learn more by reading the Indian Expre… \nPreliminary Examination: Economic and Social Development-Sustainable Development, Poverty, Inclusion, Demographics, Social Sector Initiatives, etc.\r\nMain Examination: General Studies-III: Indian Econ… [+26467 chars]",
+        "positive": 7.364672455878463e-06,
+        "negative": 3.243192259105854e-05,
+        "neutral": 0.99996018409729
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/globe-newswire/nayax-considering-an-offering-of-notes-and-warrants-in-israel",
+        "timestamp": "2025-12-07T14:31:42+00:00",
+        "text": "Nayax Considering an Offering of Notes and Warrants in Israel \nHERZLIYA, Israel, Dec. 07, 2025 (GLOBE NEWSWIRE) — Nayax Ltd. (Nasdaq: NYAX; TASE: NYAX) (the “Company”), a global commerce payments and loyalty platform designed to help merchants scale their business, announced today that it is considering an offering by wa… \nHERZLIYA, Israel, Dec. 07, 2025 (GLOBE NEWSWIRE) Nayax Ltd. (Nasdaq: NYAX; TASE: NYAX) (the Company), a global commerce payments and loyalty platform designed to help merchants scale their business, … [+8412 chars]",
+        "positive": 0.00026198202976956964,
+        "negative": 7.275709776877193e-06,
+        "neutral": 0.9997307658195496
+      },
+      {
+        "source": "news",
+        "id": "https://www.mmamania.com/bjj-news/408298/jozef-chen-wins-second-adcc-trials-gold-in-higher-division-2025-adcc-asia-oceania-trials-results",
+        "timestamp": "2025-12-07T14:30:59+00:00",
+        "text": "Jozef Chen wins second ADCC Trials gold in higher division – 2025 ADCC Asia & Oceania Trials results \nJozef Chen booked a spot at ADCC 2026 by winning his second ADCC Trials event at a higher division. \nSunday in Bangkok, Thailand, Brazilian jiu-jitsu (BJJ) star Jozef Chen moved up a weight class and still managed to win gold at the 2025 ADCC Asia &amp; Oceania Trials. Going up from his usual 77 kg … [+2362 chars]",
+        "positive": 0.012310467660427094,
+        "negative": 0.00016500237688887864,
+        "neutral": 0.9875245094299316
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/sports/paralympics/winter-sports/para-ice-hockey/canada-falls-to-the-u-s-2-0-in-final-of-para-cup-hockey-tournament-9.7006301",
+        "timestamp": "2025-12-07T14:30:33+00:00",
+        "text": "Canada falls to the U.S. 2-0 in final of Para Cup hockey tournament \nCanada earned a silver medal after falling to the United States 2-0 in the Para Hockey Cup final Saturday evening. The Americans have now won 10-straight Para Hockey Cups and hold a world-best 12 titles all-time. \nCanada earned a silver medal after falling to the United States 2-0 in the Para Hockey Cup final Saturday evening\r\nBrett Bolton scored in the first period and Brody Roybal added an empty-netter for t… [+3017 chars]",
+        "positive": 0.012922046706080437,
+        "negative": 0.00010124925756826997,
+        "neutral": 0.986976683139801
+      },
+      {
+        "source": "news",
+        "id": "https://www.huffpost.com/entry/materialists-pedro-pascal-dakota-johnson_n_69247d74e4b04a88b45edcf0",
+        "timestamp": "2025-12-07T14:30:17+00:00",
+        "text": "This Pedro Pascal Film Isn’t Your Average Rom-Com \nThe most compelling parts of Celine Song’s new film lie not in a classic love triangle, but in a poignant observation of modern dating culture. \nMidway through screening Materialists, the follow-up to Celine Songs Oscar-nominated Past Lives, I realize I have the A24 romantic comedy all wrong partly because the movie is a bit too serious to fi… [+9880 chars]",
+        "positive": 9.979143942473456e-05,
+        "negative": 0.4467364549636841,
+        "neutral": 0.5531637668609619
+      },
+      {
+        "source": "news",
+        "id": "https://thefly.com/permalinks/entry.php/id4251505/PAAS-Pan-American-Silver-price-target-raised-by--at-Jefferies-heres-why",
+        "timestamp": "2025-12-07T14:30:13+00:00",
+        "text": "Pan American Silver price target raised by $8 at Jefferies, here's why \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
+        "positive": 0.1260402500629425,
+        "negative": 1.3623143786389846e-06,
+        "neutral": 0.8739583492279053
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/silver-copper-eclipse-gold-top-143000841.html",
+        "timestamp": "2025-12-07T14:30:00+00:00",
+        "text": "Silver, copper eclipse gold as top metals bets on supply fears \nSilver has nearly doubled this year, with most gains occurring in the past two months due to a historic supply squeeze in the benchmark London market amid... \n(Bloomberg) Silver and copper have replaced gold as the hot metal trade heading into 2026, with institutional and retail traders positioning for record rallies.\r\nSilver has nearly doubled this year, … [+4844 chars]",
+        "positive": 0.9999990463256836,
+        "negative": 3.8376814615048715e-08,
+        "neutral": 9.84073835752497e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/07/3201137/0/en/Nayax-Considering-an-Offering-of-Notes-and-Warrants-in-Israel.html",
+        "timestamp": "2025-12-07T14:30:00+00:00",
+        "text": "Nayax Considering an Offering of Notes and Warrants in Israel \nHERZLIYA, Israel, Dec. 07, 2025 (GLOBE NEWSWIRE) -- Nayax Ltd. (Nasdaq: NYAX; TASE: NYAX) (the “Company”), a global commerce payments and loyalty platform designed to help merchants scale their business, announced today that it is considering an offering by w… \nHERZLIYA, Israel, Dec. 07, 2025 (GLOBE NEWSWIRE) -- Nayax Ltd. (Nasdaq: NYAX; TASE: NYAX) (the Company), a global commerce payments and loyalty platform designed to help merchants scale their busines… [+6205 chars]",
+        "positive": 6.996182492002845e-05,
+        "negative": 3.072882236665464e-06,
+        "neutral": 0.9999269247055054
+      },
+      {
+        "source": "news",
+        "id": "http://robbreport.com/style/watch-collector/francis-ford-coppola-f-p-journe-ffc-prototype-watch-1237398223/",
+        "timestamp": "2025-12-07T14:30:00+00:00",
+        "text": "Francis Ford Coppola Sells His Personal F.P. Journe FFC Prototype Watch for $10.75 Million at Phillips \nIt is now the most expensive timepiece by the independent watchmaker ever sold, but here's why the brand doesn't care for its skyrocketing auction results. \nThis weekend at Phillips‘ New York Watch Auction XIII the headline lot, a F.P. Journe FFC prototype belonging to director Francis Ford Coppola sold for $10.75 million making it the most expensive tim… [+3941 chars]",
+        "positive": 5.817630881210789e-05,
+        "negative": 0.00025183497928082943,
+        "neutral": 0.999690055847168
+      },
+      {
+        "source": "news",
+        "id": "https://www.globalresearch.ca/finland-not-provide-security-guarantees-ukraine/5908149",
+        "timestamp": "2025-12-07T14:29:30+00:00",
+        "text": "Finland Will Not Provide Security Guarantees to Ukraine: PM Petteri Orpo \nApparently, Western countries are beginning to scale back their promises to the Kiev regime. Recognizing the difficulties they would face in the event of prolonged military escalation, some countries are beginning to establish clearer limits to their support … \nApparently, Western countries are beginning to scale back their promises to the Kiev regime. Recognizing the difficulties they would face in the event of prolonged military escalation, some countries… [+5430 chars]",
+        "positive": 0.0033099830616265535,
+        "negative": 0.7860111594200134,
+        "neutral": 0.21067892014980316
+      },
+      {
+        "source": "news",
+        "id": "https://thefly.com/permalinks/entry.php/id4251501/LUGDF-Lundin-Gold-price-target-raised-by-C-at-Jefferies-heres-why",
+        "timestamp": "2025-12-07T14:28:54+00:00",
+        "text": "Lundin Gold price target raised by C$15 at Jefferies, here's why \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
+        "positive": 0.035503089427948,
+        "negative": 1.220885224029189e-06,
+        "neutral": 0.9644955992698669
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2025/12/07/opinion/city-councils-big-24k-pay-hike-is-just-a-slice-of-its-self-dealing/",
+        "timestamp": "2025-12-07T14:27:59+00:00",
+        "text": "City Council’s big $24K pay hike is just a slice of its self-dealing greed \nA City Council truly concerned about affordability should lead by example — and whittle down its platinum-plus perks package. \nThe New York City Council is poised to ring in 2026 by giving itself a meaty pay raise, hiking the salary for rank-and-file members from $148,500 to $172,500.\r\nBut wait, theres more: That pay is the … [+4834 chars]",
+        "positive": 0.014716261066496372,
+        "negative": 0.0031427235808223486,
+        "neutral": 0.9821410179138184
+      },
+      {
+        "source": "news",
+        "id": "https://www.globalresearch.ca/us-eu-saudi-bring-imec-route-back/5908138",
+        "timestamp": "2025-12-07T14:27:38+00:00",
+        "text": "US/EU with Saudi Help Bring The IMEC Economic Corridor Route Back. Geopolitical Objective: Challenge China and Pull India Westward \nThe “revival” of the India–Middle East–Europe Economic Corridor (IMEC) has been curiously underreported, despite its geopolitical claims and grand rhetoric.\nSaudi Crown Prince Mohammed bin Salman’s (MBS) visit to Washington on November 18-22 has once again pl… \nThe revival of the IndiaMiddle EastEurope Economic Corridor (IMEC) has been curiously underreported, despite its geopolitical claims and grand rhetoric.\r\nSaudi Crown Prince Mohammed bin Salmans (MBS)… [+6524 chars]",
+        "positive": 0.0003215775068383664,
+        "negative": 0.9832134246826172,
+        "neutral": 0.01646493934094906
+      },
+      {
+        "source": "news",
+        "id": "https://worldsoccertalk.com/news/mohamed-salahs-anger-accelerates-plans-liverpool-reportedly-chase-premier-league-rising-star-as-replacement/",
+        "timestamp": "2025-12-07T14:27:33+00:00",
+        "text": "Mohamed Salah’s anger accelerates plans: Liverpool reportedly chase Premier League rising star as replacement \nLiverpool have struggled lately, winning just once in their last five Premier League outings. Adding to this, Mohamed Salah's recent comments on his situation are speeding up the club's plans. The Reds are reportedly eyeing a young rising star as a possible r… \nMohamed Salah has struggled to shine at the start of the 2025-26 season, remaining one of the most criticized players on Coach Arne Slots team. Liverpool have secured only one win in their last five … [+3071 chars]",
+        "positive": 2.2870210614200914e-06,
+        "negative": 0.9999969005584717,
+        "neutral": 7.881550914135005e-07
+      },
+      {
+        "source": "news",
+        "id": "https://thefly.com/permalinks/entry.php/id4251499/GMINF-G-Mining-Ventures-price-target-raised-by-C-at-Jefferies-heres-why",
+        "timestamp": "2025-12-07T14:27:11+00:00",
+        "text": "G Mining Ventures price target raised by C$5 at Jefferies, here's why \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
+        "positive": 0.033910609781742096,
+        "negative": 1.0536982699704822e-06,
+        "neutral": 0.9660883545875549
+      },
+      {
+        "source": "news",
+        "id": "https://thefly.com/permalinks/entry.php/id4251498/WPM-Wheaton-Precious-Metals-price-target-raised-by--at-Jefferies-heres-why",
+        "timestamp": "2025-12-07T14:26:46+00:00",
+        "text": "Wheaton Precious Metals price target raised by $8 at Jefferies, here's why \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
+        "positive": 0.08768604695796967,
+        "negative": 1.7277872075283085e-06,
+        "neutral": 0.9123122692108154
+      },
+      {
+        "source": "news",
+        "id": "https://roundtable.io/cardinals/news/mlb-insider-provides-gut-punch-preview-of-winter-meetings-for-st-louis-cardinals-fans",
+        "timestamp": "2025-12-07T14:25:34+00:00",
+        "text": "MLB Insider Provides Gut-Punch Preview of Winter Meetings For St. Louis Cardinals Fans \nApparently the \"for sale\" sign is out for the Cardinals, who are prepared to rip the band-aid off. \nThe St. Louis Cardinals publicly say that they aren't fully rebuilding, but all the information coming out ahead of the MLB winter meetings indicates that they are.\r\nSt. Louis has already traded away… [+2711 chars]",
+        "positive": 5.4564927268074825e-05,
+        "negative": 1.0231689884676598e-05,
+        "neutral": 0.9999351501464844
+      },
+      {
+        "source": "news",
+        "id": "https://thefly.com/permalinks/entry.php/id4251495/KGC-Kinross-Gold-price-target-raised-by--at-Jefferies-heres-why",
+        "timestamp": "2025-12-07T14:25:20+00:00",
+        "text": "Kinross Gold price target raised by $1 at Jefferies, here's why \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
+        "positive": 0.09998061507940292,
+        "negative": 1.1485701634228462e-06,
+        "neutral": 0.9000182151794434
+      },
+      {
+        "source": "news",
+        "id": "https://thefly.com/permalinks/entry.php/id4251494/EDVMF-Endeavour-Mining-price-target-raised-by-C-at-Jefferies-heres-why",
+        "timestamp": "2025-12-07T14:25:03+00:00",
+        "text": "Endeavour Mining price target raised by C$4 at Jefferies, here's why \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
+        "positive": 0.037088457494974136,
+        "negative": 1.4809936601523077e-06,
+        "neutral": 0.9629101157188416
+      },
+      {
+        "source": "news",
+        "id": "https://www.usmagazine.com/celebrity-news/news/king-charles-iii-and-wife-queen-camilla-reveal-their-2025-christmas-card/#article",
+        "timestamp": "2025-12-07T14:25:01+00:00",
+        "text": "King Charles and Queen Camilla Reveal Their 2025 Christmas Card \nKing Charles III and his wife, Queen Camilla, have debuted their annual Christmas card. “✨It’s beginning to look a lot like Christmas!” a Saturday, December 7, post via the royal family’s official Instagram read. “The King and Queen are pleased to share thi… \nKing Charles III and his wife, Queen Camilla, have debuted their annual Christmas card.\r\n“✨It’s beginning to look a lot like Christmas!” a Saturday, December 7, post via the royal family’s official I… [+3115 chars]",
+        "positive": 0.0004909424460493028,
+        "negative": 2.654212039487902e-06,
+        "neutral": 0.9995064735412598
+      },
+      {
+        "source": "news",
+        "id": "https://www.pockettactics.com/mini-empires-codes",
+        "timestamp": "2025-12-07T14:21:59+00:00",
+        "text": "Mini Empires codes December 2025 \nWith these Mini Empires codes, you can redeem free gems and gold so that you can become the new ruler of the land and dominate your opponents. \nMini Empires is an intriguing experience that half reminds me of the Battle of Polytopia, and half reminds me of the Civilization series. There's something about the color-coded lands and PvP modes t… [+2163 chars]",
+        "positive": 0.016847213730216026,
+        "negative": 8.806018740870059e-06,
+        "neutral": 0.9831439852714539
+      },
+      {
+        "source": "news",
+        "id": "https://thefly.com/permalinks/entry.php/id4251490/RGLD-Royal-Gold-price-target-raised-by--at-Jefferies-heres-why",
+        "timestamp": "2025-12-07T14:21:34+00:00",
+        "text": "Royal Gold price target raised by $9 at Jefferies, here's why \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
+        "positive": 0.09480994939804077,
+        "negative": 1.2499372132879216e-06,
+        "neutral": 0.905188798904419
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/info-tech/as-india-becoming-ai-data-centre-hub-company-engaging-with-global-companies-neevcloud-ceo/article70368789.ece",
+        "timestamp": "2025-12-07T14:20:52+00:00",
+        "text": "As India becoming AI data centre hub, company engaging with global companies: NeevCloud CEO \nThe Indore-based startup is India’s first artificial intelligence (AI) Supercloud that provides cloud infrastructure for compute-intensive AI workloads \nCiting government support and Indias status as one of the cheapest data centre markets globally, even compared to nations like South Africa and Malaysia, a top official at NeevCloud said the country … [+2272 chars]",
+        "positive": 0.08221513032913208,
+        "negative": 4.752112727146596e-05,
+        "neutral": 0.9177373647689819
+      },
+      {
+        "source": "news",
+        "id": "https://thefly.com/permalinks/entry.php/id4251489/AGI-Alamos-Gold-price-target-raised-by--at-Jefferies-heres-why",
+        "timestamp": "2025-12-07T14:20:45+00:00",
+        "text": "Alamos Gold price target raised by $5 at Jefferies, here's why \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
+        "positive": 0.08011140674352646,
+        "negative": 1.1665885040201829e-06,
+        "neutral": 0.9198874235153198
+      },
+      {
+        "source": "news",
+        "id": "https://www.yankodesign.com/2025/12/07/this-studio-grows-coffee-cups-from-gourds/",
+        "timestamp": "2025-12-07T14:20:21+00:00",
+        "text": "This Studio Grows Coffee Cups From Gourds \nThis Studio Grows Coffee Cups From GourdsPicture this: instead of manufacturing your next coffee cup, what if you could just grow it? That’s the beautifully simple yet radical idea behind The... \nPicture this: instead of manufacturing your next coffee cup, what if you could just grow it? That’s the beautifully simple yet radical idea behind The Gourd Project, an ongoing exploration by Brookly… [+3898 chars]",
+        "positive": 1.1274320058873855e-05,
+        "negative": 3.016102891706396e-05,
+        "neutral": 0.9999585151672363
+      },
+      {
+        "source": "news",
+        "id": "https://www.the-independent.com/life-style/health-and-families/bathroom-share-toothbrush-towel-razor-b2879672.html",
+        "timestamp": "2025-12-07T14:20:17+00:00",
+        "text": "These are the bathroom items that you should never share \nMany disease-causing bacteria, viruses or fungi live on these objects \nYour support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+6011 chars]",
+        "positive": 0.00011898430238943547,
+        "negative": 4.303715832065791e-05,
+        "neutral": 0.9998379945755005
+      },
+      {
+        "source": "news",
+        "id": "https://thefly.com/permalinks/entry.php/id4251488/B-Barrick-Mining-price-target-raised-by--at-Jefferies-heres-why",
+        "timestamp": "2025-12-07T14:20:10+00:00",
+        "text": "Barrick Mining price target raised by $9 at Jefferies, here's why \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
+        "positive": 0.048069585114717484,
+        "negative": 1.3078441725156154e-06,
+        "neutral": 0.9519290328025818
+      },
+      {
+        "source": "news",
+        "id": "https://www.rawstory.com/trump-2674376507/",
+        "timestamp": "2025-12-07T14:16:27+00:00",
+        "text": "Fox News 'starting to crack' as 'even Trump's best bulwarks' are now attacking him: report \nWhile President Donald Trump has struggled to successfully counter Democrats’ recent messaging strategy around affordability – which has handed the party a series of blowout victories in last month’s off-year elections – his attempts are now being challenged … \nWhile President Donald Trump has struggled to successfully counter Democrats recent messaging strategy around affordability which has handed the party a series of blowout victories in last months off… [+1979 chars]",
+        "positive": 9.413295629201457e-05,
+        "negative": 0.9998990297317505,
+        "neutral": 6.788142400182551e-06
+      },
+      {
+        "source": "news",
+        "id": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:251207-99-857807/",
+        "timestamp": "2025-12-07T14:15:25+00:00",
+        "text": "Macron floats possible tariffs if China doesn't change course \nFrench President Emmanuel Macron has raised the prospect of countermeasures against China unless it changes its trade policy, in an interview with French... \nFrench President Emmanuel Macron gives a press conference at the European Digital Sovereignty Summit at the Euref Campus. French President Emmanuel Macron is hopeful that China will join his country'… [+2517 chars]",
+        "positive": 0.00013462499191518873,
+        "negative": 2.2091742721386254e-05,
+        "neutral": 0.9998433589935303
+      },
+      {
+        "source": "news",
+        "id": "https://www.landgrantholyland.com/ohio-state-football/108906/theres-a-silver-lining-in-the-buckeyes-big-ten-championship-loss-to-indiana",
+        "timestamp": "2025-12-07T14:15:00+00:00",
+        "text": "There is a silver lining in the Buckeyes’ Big Ten Championship loss to Indiana \nRevisiting Ohio State’s best play of the Big Ten Championship game as the Buckeyes head into the playoffs \nSo theres good news and bad news, Buckeye fans.\r\nThe bad news is, of course, Saturdays game against Indiana didnt go our way. Though you do have to hand it to Curt Cignetti and the Hoosiers for their… [+4192 chars]",
+        "positive": 0.2787129878997803,
+        "negative": 0.28562894463539124,
+        "neutral": 0.4356580376625061
+      },
+      {
+        "source": "news",
+        "id": "https://www.dw.com/en/merz-in-israel-working-toward-goal-of-new-middle-east/live-75044496",
+        "timestamp": "2025-12-07T14:15:00+00:00",
+        "text": "Merz in Israel: Working toward goal of 'new Middle East' \nThe German chancellor said \"lasting peace is possible\" in Gaza and that the possible establishment of a Palestinian state, alongside Israel, offered the best prospect for future peace. DW has more. \nGerman Chancellor Friedrich Merz said on Sunday that he believed that a \"lasting peace is possible\" in Gaza despite isolated violations of the ceasefire currently in place under a US-brokered peace p… [+1452 chars]",
+        "positive": 0.4525749981403351,
+        "negative": 0.00022934710432309657,
+        "neutral": 0.5471956729888916
+      },
+      {
+        "source": "news",
+        "id": "https://designyoutrust.com/2025/12/spectacular-winning-images-of-the-royal-society-publishing-photography-competition-2025/",
+        "timestamp": "2025-12-07T14:14:35+00:00",
+        "text": "Spectacular Winning Images of the Royal Society Publishing Photography Competition 2025 \nCompetition winner: “Mesmerizing spider threads” by Dr Martín J. Ramírez. Sample obtained by Dr Jonas Wolff he 2025 Royal Society Publishing Photography Competition brought science to life through breathtaking images from around the world. Scientists submitte… \nCompetition winner: “Mesmerizing spider threads” by Dr Martín J. Ramírez. Sample obtained by Dr Jonas Wolff\r\nhe 2025 Royal Society Publishing Photography Competition brought science to life through b… [+1625 chars]",
+        "positive": 0.0011557771358639002,
+        "negative": 6.271195161389187e-05,
+        "neutral": 0.9987815022468567
+      },
       {
         "source": "news",
         "id": "https://www.blogger.com/comment/fullpage/post/26204193/4521357031903159290",
@@ -194,6 +500,15 @@
       },
       {
         "source": "news",
+        "id": "https://www.cnet.com/health/nutrition/meal-kit-mistakes-to-avoid/",
+        "timestamp": "2025-12-07T14:00:00+00:00",
+        "text": "After Testing Dozens of Meal Kits, We Found 7 Costly Mistakes You'll Want to Avoid \nMeal kits are tasty and fun but these blunders can prevent you from getting the most out of your subscription. \nMeal kits have become the love child of \"I want to eat something that didn't come from a drive-through\" and \"I wouldn't know a good recipe if it kissed me on the mouth.\" Meal kits are perfect for hea… [+7302 chars]",
+        "positive": 0.023490730673074722,
+        "negative": 0.04956623166799545,
+        "neutral": 0.9269431233406067
+      },
+      {
+        "source": "news",
         "id": "https://www.cracked.com/article_49365_home-alones-kevin-probably-wouldnt-have-survived-in-trumps-america.html",
         "timestamp": "2025-12-07T14:00:00+00:00",
         "text": "'Home Alone's Kevin Probably Wouldn't Have Survived in Trump's America \nBy\n JM McNab\n Published: December 07th, 2025 \nAlong with carolling, opening presents and quietly resenting family members while ingesting copious amounts of red wine, watching Home Alone has become an annual holiday tradition. \r\nWhile the McCall… [+2584 chars]",
@@ -209,15 +524,6 @@
         "positive": 0.00041172653436660767,
         "negative": 0.05386534705758095,
         "neutral": 0.9457229375839233
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnet.com/health/nutrition/meal-kit-mistakes-to-avoid/",
-        "timestamp": "2025-12-07T14:00:00+00:00",
-        "text": "After Testing Dozens of Meal Kits, We Found 7 Costly Mistakes You'll Want to Avoid \nMeal kits are tasty and fun but these blunders can prevent you from getting the most out of your subscription. \nMeal kits have become the love child of \"I want to eat something that didn't come from a drive-through\" and \"I wouldn't know a good recipe if it kissed me on the mouth.\" Meal kits are perfect for hea… [+7302 chars]",
-        "positive": 0.023490730673074722,
-        "negative": 0.04956623166799545,
-        "neutral": 0.9269431233406067
       },
       {
         "source": "news",
@@ -698,84 +1004,12 @@
       },
       {
         "source": "news",
-        "id": "https://biztoc.com/x/687d7305188e7028",
-        "timestamp": "2025-12-07T13:05:15+00:00",
-        "text": "Vance’s Mentor Is Also His Millstone \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix's Warner Bros acquisition impact Hollywood? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Apple… [+777 chars]",
-        "positive": 1.3909595509176143e-05,
-        "negative": 8.723150131118018e-06,
-        "neutral": 0.9999773502349854
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/bd2076c9fe0fe176",
-        "timestamp": "2025-12-07T13:05:10+00:00",
-        "text": "Firing Immigration Judges Threatens More Than Immigrants \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix's Warner Bros acquisition impact Hollywood? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Apple… [+777 chars]",
-        "positive": 0.004455295391380787,
-        "negative": 0.08976138383150101,
-        "neutral": 0.9057833552360535
-      },
-      {
-        "source": "news",
         "id": "https://biztoc.com/x/b51416a9343adde8",
         "timestamp": "2025-12-07T13:05:00+00:00",
         "text": "Mortgage and refinance interest rates today, December 7, 2025: As rates rise, comparing offers is crucial \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix's Warner Bros acquisition impact Hollywood? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Apple… [+797 chars]",
         "positive": 6.083650441723876e-05,
         "negative": 9.222698281519115e-06,
         "neutral": 0.9999300241470337
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/07/3201130/0/en/Ophthalmic-Drugs-Market-Size-to-Cross-USD-62-74-Billion-by-2032-Driven-by-Advances-in-Eye-Care-Treatments-and-Rising-Global-Vision-Disorders-SNS-Insider.html",
-        "timestamp": "2025-12-07T13:05:00+00:00",
-        "text": "Ophthalmic Drugs Market Size to Cross USD 62.74 Billion by 2032, Driven by Advances in Eye Care Treatments and Rising Global Vision Disorders - SNS Insider \nSNS Insider Projects U.S. Ophthalmic Drugs Market Growth from USD 14.06 Billion in 2023 to USD 23.11 Billion by 2032, Supported by Strong R&D Investments and Rising Incidence of Eye Disorders. SNS Insider Projects U.S. Ophthalmic Drugs Market Growth from USD … \nAustin, Texas, Dec. 07, 2025 (GLOBE NEWSWIRE) -- Ophthalmic Drugs Market Size &amp; Growth Outlook\r\nAccording to SNS Insider, The Ophthalmic Drugs Market size was valued at USD 37.35 billion in 2023 … [+9685 chars]",
-        "positive": 0.9999983310699463,
-        "negative": 3.195370723574342e-08,
-        "neutral": 1.6203191535169026e-06
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/3320e9146bc5af1e",
-        "timestamp": "2025-12-07T13:05:00+00:00",
-        "text": "Benin's interior minister says a coup announced earlier has been foiled \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Netflix's Warner Bros acquisition impact Hollywood? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Apple… [+747 chars]",
-        "positive": 4.764025652548298e-05,
-        "negative": 5.777399201178923e-05,
-        "neutral": 0.9998944997787476
-      },
-      {
-        "source": "news",
-        "id": "https://www.trendir.com/back-patio-ideas/",
-        "timestamp": "2025-12-07T13:04:53+00:00",
-        "text": "30 Back Patio Ideas For Anyone Who Wants a Relaxing Outdoor Setup Without a Full Reno \nDreaming of a backyard retreat that’s equal parts relaxing and stylish? These 30 back patio ideas are inviting, inspired, and full of outdoor charm — perfect for creating a space where you can unwind, entertain, and enjoy the open air in comfort and style. 30… \nDreaming of a backyard retreat thats equal parts relaxing and stylish? These 30 back patio ideas are inviting, inspired, and full of outdoor charm perfect for creating a space where you can unwind, e… [+21051 chars]",
-        "positive": 0.0005331848515197635,
-        "negative": 5.890959528187523e-06,
-        "neutral": 0.9994609951972961
-      },
-      {
-        "source": "news",
-        "id": "https://freerepublic.com/focus/f-news/4356323/posts",
-        "timestamp": "2025-12-07T13:04:31+00:00",
-        "text": "Sunday Morning Talk Show Thread 7 December 2025 \nThe Talk ShowsDec 7th, 2025 Guests to be interviewed today on major television talk shows:FACE THE NATION (CBS): Margaret Brennan anchors: Treasury Secretary Scott Bessent; Rep. Ilhan Omar (D-Minn.); Rep. Jim Himes (D-Conn.); Rep. Dan (Eye Patch McCain) Crens… \nSkip to comments.\r\nSunday Morning Talk Show Thread 7 December 2025 Various driveby media television networks ^\r\n | 7 December 2025 \r\n | Various Self-Serving Politicians and Big Media Screaming Faces\r… [+9426 chars]",
-        "positive": 3.2916716463660123e-06,
-        "negative": 3.3218416319868993e-06,
-        "neutral": 0.9999933242797852
-      },
-      {
-        "source": "news",
-        "id": "https://www.celebitchy.com/953104/thomas_markle_is_still_talking_to_the_mail_claims_he_never_received_meghans_email/",
-        "timestamp": "2025-12-07T13:04:11+00:00",
-        "text": "Thomas Markle is still talking to the Mail & claims he never received Meghan’s email \nThomas Markle cannot be trusted. He’s spent the last eight years ensuring that the Duchess of Sussex cannot trust him and that she has every right to ignore his abusive existence. The biggest problem is that the British media still believes that Thomas is Meg… \nThomas Markle cannot be trusted. Hes spent the last eight years ensuring that the Duchess of Sussex cannot trust him and that she has every right to ignore his abusive existence. The biggest problem … [+11373 chars]",
-        "positive": 0.002231084043160081,
-        "negative": 0.4020191431045532,
-        "neutral": 0.5957497954368591
-      },
-      {
-        "source": "news",
-        "id": "https://www.channelnewsasia.com/sport/marathon-kenyans-korir-and-jepkosgei-win-valencia-marathon-triathlete-yee-impresses-5566511",
-        "timestamp": "2025-12-07T13:03:30+00:00",
-        "text": "Marathon-Kenyans Korir and Jepkosgei win Valencia Marathon, triathlete Yee impresses \nVALENCIA, Dec 7 : Kenyan runner John Korir silenced his doubters in spectacular fashion on Sunday by claiming his second marathon victory of the season at Valencia while proving the \"Korir name\" is far from fading.Korir, who endured the disappointment of drop… \nVALENCIA, Dec 7 : Kenyan runner John Korir silenced his doubters in spectacular fashion on Sunday by claiming his second marathon victory of the season at Valencia while proving the \"Korir name\" is f… [+2092 chars]",
-        "positive": 0.011005130596458912,
-        "negative": 0.006713093724101782,
-        "neutral": 0.9822818040847778
       },
       {
         "source": "news",
@@ -797,33 +1031,6 @@
       },
       {
         "source": "news",
-        "id": "https://autos.yahoo.com/deals-and-buying-guides/articles/6-hybrid-cars-see-massive-130218519.html",
-        "timestamp": "2025-12-07T13:02:18+00:00",
-        "text": "6 Hybrid Cars That Will See Massive Price Drops in Early 2026 \nA combination of higher supply and predictable depreciation should translate into softer prices on these popular hybrid nameplates. \nRising inventory, moderating demand and shifting incentives are setting up early 2026 as a prime window for scoring big hybrid discounts. According to hybrid rankings from Edmunds, more efficient pow… [+5192 chars]",
-        "positive": 0.9984111785888672,
-        "negative": 0.000784453353844583,
-        "neutral": 0.0008042884874157608
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/07/3201129/0/en/Secura-Bio-Presents-Extended-Follow-Up-Analyses-from-Phase-2-PRIMO-Trial-in-Patients-with-Relapsed-Refractory-peripheral-T-cell-lymphoma-at-the-2025-American-Society-of-Hematology-.html",
-        "timestamp": "2025-12-07T13:01:00+00:00",
-        "text": "Secura Bio Presents Extended Follow Up Analyses from Phase 2 PRIMO Trial in Patients with Relapsed/Refractory peripheral T-cell lymphoma at the 2025 American Society of Hematology Meeting \nLonger-term analyses reinforce duvelisib’s activity across treatment-experienced PTCL populations, including patients with ≥3 prior lines of therapy, with no new safety signals emerging over time. \nLonger-term analyses reinforce duvelisibs activity across treatment-experienced PTCL populations, including patients with 3 prior lines of therapy, with no new safety signals emerging over time. \r\nFi… [+9735 chars]",
-        "positive": 0.005172170232981443,
-        "negative": 5.220103048486635e-06,
-        "neutral": 0.99482262134552
-      },
-      {
-        "source": "news",
-        "id": "https://martech.zone/seo-organic-search-potential/",
-        "timestamp": "2025-12-07T13:01:00+00:00",
-        "text": "How To Calculate Your Organic Search Potential in 2026 \nMost SEO forecasting models dramatically overestimate organic growth because they begin with a flawed premise: take keyword volume, apply a legacy CTR curve, assume a top-three ranking, and produce a traffic number that looks good on a slide but has no ground… \nMost SEO forecasting models dramatically overestimate organic growth because they begin with a flawed premise: take keyword volume, apply a legacy CTR curve, assume a top-three ranking, and produce a… [+9286 chars]",
-        "positive": 0.00016371297533623874,
-        "negative": 0.9607546329498291,
-        "neutral": 0.03908167779445648
-      },
-      {
-        "source": "news",
         "id": "https://www.foxnews.com/entertainment/trumps-kennedy-center-honors-overhaul-delivers-star-studded-lineup-new-medallion-historic-hosting-role",
         "timestamp": "2025-12-07T13:00:56+00:00",
         "text": "Trump’s Kennedy Center Honors overhaul delivers star-studded lineup, new medallion and historic hosting role \nPresident Donald Trump overhauls Kennedy Center Honors with new medallion design, handpicked honorees including KISS and Stallone, and becomes first president to host. \nPresident Donald Trump spearheaded major changes to the Kennedy Center Honors ahead of the highly anticipated awards ceremony. \r\nFounded in 1978, the Kennedy Center Honors recognize a handful of perf… [+9772 chars]",
@@ -839,15 +1046,6 @@
         "positive": 0.00025841474416665733,
         "negative": 2.4198097889893688e-05,
         "neutral": 0.9997174143791199
-      },
-      {
-        "source": "news",
-        "id": "https://www.androidauthority.com/pick-8-gen-5-snapdragon-3620554/",
-        "timestamp": "2025-12-07T13:00:39+00:00",
-        "text": "Why I’m choosing non-Elite performance for my next smartphone \nQualcomm’s Snapdragon 8 Gen 5 could power the best-value phones of 2026, with cooler performance, long battery life, and flagship-level features. \nQualcomm has not one but two top-tier chipsets to pick from for 2026 flagship Android handsets. First, we had the Snapdragon 8 Elite Gen 5, which packs the companys most powerful CPU, GPU, and AI com… [+5422 chars]",
-        "positive": 0.9999676942825317,
-        "negative": 2.696619674225076e-07,
-        "neutral": 3.2055206247605383e-05
       },
       {
         "source": "news",
@@ -869,42 +1067,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.denverpost.com/2025/12/07/denver-landfill-methane-emissions-greenhouse-gases/",
-        "timestamp": "2025-12-07T13:00:32+00:00",
-        "text": "Denver’s landfill will convert methane emitted from decomposing trash into natural gas \n“From a climate action perspective, addressing methane is the fastest thing we can do to affect climate change right now,\" says a deputy director at Colorado's Air Pollution Control Division. \nDenver and WM, one of the nation’s largest waste companies, will soon turn the city landfill into Colorado’s first garbage dump that converts methane into renewable natural gas — repurposing a greenh… [+10096 chars]",
-        "positive": 0.0017368458211421967,
-        "negative": 8.80456282175146e-05,
-        "neutral": 0.9981751441955566
-      },
-      {
-        "source": "news",
-        "id": "https://www.foxnews.com/opinion/even-future-king-discovers-smartphones-royal-pain-kids-parents",
-        "timestamp": "2025-12-07T13:00:30+00:00",
-        "text": "Even the future king discovers smartphones are a royal pain for kids and parents \nPrince William reveals keeping smartphones away from Prince George, Princess Charlotte and Prince Louis has become a tense issue for royal family. \nIt appears that even a prince cant escape the smartphone struggle. \r\nPrince William one of the most recognizable figures in the world recently revealed that keeping smartphones out of the hands of Pr… [+5843 chars]",
-        "positive": 0.000516464002430439,
-        "negative": 0.8357523083686829,
-        "neutral": 0.16373121738433838
-      },
-      {
-        "source": "news",
-        "id": "https://reason.com/2025/12/07/why-i-support-reason-with-a-tax-deductible-donation-and-you-should-too/",
-        "timestamp": "2025-12-07T13:00:29+00:00",
-        "text": "Why I Support Reason with a Tax-Deductible Donation (and You Should Too!) \nThe magazine of 'Free Minds and Free Markets' has changed millions of minds—including mine—to take freedom seriously. \nWe're near the tail end of our annual webathon, the one time a year we ask our online audience to help support Reason's principled, award-winning libertarian journalism. Go here now to check out givi… [+4947 chars]",
-        "positive": 0.002049179282039404,
-        "negative": 3.07450900436379e-05,
-        "neutral": 0.9979200959205627
-      },
-      {
-        "source": "news",
-        "id": "https://www.the-sun.com/news/15596264/assads-pathetic-life-putins-retirement-village-glam-brit-wife/",
-        "timestamp": "2025-12-07T13:00:21+00:00",
-        "text": "Inside Assad's life in 'warlord retirement village'... \nThe Best for News, Sport, Showbiz, Celebrities \nAttention,\r\nOur system has indicated that your user behaviour is potentially automated.\r\nNews Group Newspapers Limited does not permit the access, collection, text or data mining of any content from … [+717 chars]",
-        "positive": 8.106110271910438e-07,
-        "negative": 2.0924073851347202e-06,
-        "neutral": 0.9999970197677612
-      },
-      {
-        "source": "news",
         "id": "https://www.cnbc.com/2025/12/07/beef-prices-are-soaring-heres-why-thats-hard-to-fix.html",
         "timestamp": "2025-12-07T13:00:01+00:00",
         "text": "Beef prices are soaring. Here's why America is facing record-low cattle numbers \nBeef prices are up about 15% over the past year as ranchers face record low cattle herds amidst years of drought throughout U.S. farmlands. \nShoppers may be feeling sticker shock with the cost of beef at the grocery store.\r\nPrices in the beef and veal category are up 14.7%, while overall food is up 3.1% from September 2024 to September 20… [+4046 chars]",
@@ -923,15 +1085,6 @@
       },
       {
         "source": "news",
-        "id": "https://finance.yahoo.com/news/bubble-asset-managers-risk-mode-130000977.html",
-        "timestamp": "2025-12-07T13:00:00+00:00",
-        "text": "What bubble? Asset managers in risk-on mode stick with stocks \nFor global asset managers who’ve ridden double-digit gains in equities for three straight years, that time is not now.  “We are playing the powerful trends... \n(Bloomberg) Theres a time when investments run their course and the prudent move is to cash out. For global asset managers whove ridden double-digit gains in equities for three straight years, that t… [+8327 chars]",
-        "positive": 0.9564802050590515,
-        "negative": 0.00024881758145056665,
-        "neutral": 0.0432710163295269
-      },
-      {
-        "source": "news",
         "id": "http://nymag.com/intelligencer/article/who-is-on-jeffrey-epstein-list-names-clients-associates-files-emails.html",
         "timestamp": "2025-12-07T13:00:00+00:00",
         "text": "The Updated Epstein List: Who Is Named in All of the Files? \nNew data dumps and reports continue to reveal prominent people with ties to Jeffrey Epstein. Here’s an updated list. \nAll these years later, the list of prominent people who were somehow connected to Jeffrey Epstein continues to grow including some whose ties to the notorious sex trafficker and longtime hobnobber we… [+59637 chars]",
@@ -941,57 +1094,12 @@
       },
       {
         "source": "news",
-        "id": "http://www.rollingstone.com/politics/politics-features/donald-trump-charles-lindbergh-america-first-1235477975/",
+        "id": "https://finance.yahoo.com/news/bubble-asset-managers-risk-mode-130000977.html",
         "timestamp": "2025-12-07T13:00:00+00:00",
-        "text": "Where the Original ‘America First’ Leader Went to Die \nVisiting the grave of Charles Lindbergh, the original nativist celebrity, whose beliefs would fit right in to Donald Trump's vision of America. \nA century ago, Charles Lindbergh was the most famous man in the world, the pilot who first flew New York to Paris in 33 hours. Today, I am looking at his grave. It is located on the far side of the w… [+24759 chars]",
-        "positive": 3.1255603971658275e-06,
-        "negative": 1.0723426839831518e-06,
-        "neutral": 0.9999958276748657
-      },
-      {
-        "source": "news",
-        "id": "https://www.loudersound.com/bands-artists/foo-fighters-my-hero-the-story-of-the-song",
-        "timestamp": "2025-12-07T13:00:00+00:00",
-        "text": "\"It's a celebration of the common man and his extraordinary potential.\" The story behind the Foo Fighters classic that everyone assumed was about Kurt Cobain - but was actually about something a lot more simple \nPeople misinterpreted this song's meaning for years, but it made it no less poignant \nWhat a song means to you, and what it means to the person next to you, can often be completely different. Sometimes even the creator of said song won’t have a clear idea of exactly who or what they’r… [+5705 chars]",
-        "positive": 0.011850488372147083,
-        "negative": 0.0035512750037014484,
-        "neutral": 0.9845982789993286
-      },
-      {
-        "source": "news",
-        "id": "https://fortune.com/2025/12/07/so-much-of-crypto-is-not-even-real-but-thats-starting-to-change/",
-        "timestamp": "2025-12-07T13:00:00+00:00",
-        "text": "So much of crypto is not even real—but that’s starting to change \nCrypto has long felt like a giant casino with imaginary chips, but big recent breakthroughs mean it's fast becoming part of the real economy. \nWe spend a lot of time on the road meeting with LPs, fellow investors, and founders. No matter where the conversation starts whether its in Singapore, Abu Dhabi, London, or anywhere else it often dri… [+4427 chars]",
-        "positive": 1.989629254239844e-06,
-        "negative": 2.0602916265488602e-05,
-        "neutral": 0.9999773502349854
-      },
-      {
-        "source": "news",
-        "id": "https://trivia.cracked.com/article_49387_15-celebrities-and-public-figures-who-took-beefs-to-the-next-level.html",
-        "timestamp": "2025-12-07T13:00:00+00:00",
-        "text": "15 Celebrities and Public Figures Who Took Beefs To The Next Level \nBy\n Jay Wells L'Ecuyer\n Published: December 07th, 2025 \nWeve all seen some fun, petty celebrity beefs with a few back and forths online or in song, but the beefs we found today were out for career-killing blood. It really inspired us to finally get off ou… [+6728 chars]",
-        "positive": 0.9997994303703308,
-        "negative": 1.7254202475669445e-06,
-        "neutral": 0.00019894914294127375
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/07/3201127/0/en/Mutuum-Finance-MUTM-Approaches-100-Presale-Sellout-Amid-Ongoing-Halborn-Security-Review.html",
-        "timestamp": "2025-12-07T13:00:00+00:00",
-        "text": "Mutuum Finance (MUTM) Approaches 100% Presale Sellout Amid Ongoing Halborn Security Review \nDUBAI, United Arab Emirates, Dec. 07, 2025 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n, an emerging decentralized lending protocol, is approaching a major milestone as its presale moves toward a full Phase 6 sellout. With only a small allocation remaining at … \nDUBAI, United Arab Emirates, Dec. 07, 2025 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n, an emerging decentralized lending protocol, is approaching a major milestone as its presale moves toward a full… [+4945 chars]",
-        "positive": 0.9733527302742004,
-        "negative": 3.9380593079840764e-05,
-        "neutral": 0.026607969775795937
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/07/3201126/0/en/Energy-Trading-Risk-Management-Market-Size-to-Hit-61-59-Billion-by-2033-Report-by-SNS-Insider.html",
-        "timestamp": "2025-12-07T13:00:00+00:00",
-        "text": "Energy Trading & Risk Management Market Size to Hit $61.59 Billion by 2033 | Report by SNS Insider \nEnergy Trading And Risk Management (ETRM) Market Size, Share & Trends Analysis Report, By Type, By Application, By Regions and Global Forecast 2026-2033... \nAustin, Dec. 07, 2025 (GLOBE NEWSWIRE) -- Energy Trading And Risk Management (ETRM) Market Size &amp; Growth Insights:\r\nAccording to the SNS Insider,The Energy Trading and Risk Management (ETRM) Mark… [+6767 chars]",
-        "positive": 9.067725477507338e-05,
-        "negative": 2.138165427822969e-06,
-        "neutral": 0.9999071359634399
+        "text": "What bubble? Asset managers in risk-on mode stick with stocks \nFor global asset managers who’ve ridden double-digit gains in equities for three straight years, that time is not now.  “We are playing the powerful trends... \n(Bloomberg) Theres a time when investments run their course and the prudent move is to cash out. For global asset managers whove ridden double-digit gains in equities for three straight years, that t… [+8327 chars]",
+        "positive": 0.9564802050590515,
+        "negative": 0.00024881758145056665,
+        "neutral": 0.0432710163295269
       },
       {
         "source": "news",
@@ -1220,21 +1328,21 @@
       },
       {
         "source": "news",
-        "id": "http://wwd.com/eye/people/jenny-packham-dressing-celebrities-red-carpet-secrets-1238355766/",
-        "timestamp": "2025-12-07T12:30:00+00:00",
-        "text": "What Does It Really Take to Get a Dress on the Red Carpet? Ask Jenny Packham \nThe British designer has been creating looks for everyone from Kate Middleton to Scarlett Johansson, but admits that dressing stars for the red carpet remains a gamble. \nIt’s not just the actors on the edge of their seats hoping to take home a prize on awards night. The anticipation is also intense for the designers who dress them — although the anxiety bubbles up ea… [+5753 chars]",
-        "positive": 0.00011911403998965397,
-        "negative": 0.03490978106856346,
-        "neutral": 0.964971125125885
-      },
-      {
-        "source": "news",
         "id": "https://finance.yahoo.com/news/m-49-tired-living-paycheck-123000835.html",
         "timestamp": "2025-12-07T12:30:00+00:00",
         "text": "I’m 49 and tired of living paycheck to paycheck. How to break the cycle of financial struggle before it’s too late \nDon't get stuck in the trap. \nAs of 2025, more than 57% of American adults say they are living paycheck to paycheck, according to MarketWatch Guides (1). And persistent inflation certainly isnt helping matters in that regard.\r\nLi… [+5113 chars]",
         "positive": 0.006267554592341185,
         "negative": 0.023246338590979576,
         "neutral": 0.9704861044883728
+      },
+      {
+        "source": "news",
+        "id": "http://wwd.com/eye/people/jenny-packham-dressing-celebrities-red-carpet-secrets-1238355766/",
+        "timestamp": "2025-12-07T12:30:00+00:00",
+        "text": "What Does It Really Take to Get a Dress on the Red Carpet? Ask Jenny Packham \nThe British designer has been creating looks for everyone from Kate Middleton to Scarlett Johansson, but admits that dressing stars for the red carpet remains a gamble. \nIt’s not just the actors on the edge of their seats hoping to take home a prize on awards night. The anticipation is also intense for the designers who dress them — although the anxiety bubbles up ea… [+5753 chars]",
+        "positive": 0.00011911403998965397,
+        "negative": 0.03490978106856346,
+        "neutral": 0.964971125125885
       },
       {
         "source": "news",
@@ -1271,141 +1379,6 @@
         "positive": 0.011496905237436295,
         "negative": 0.4413650333881378,
         "neutral": 0.5471381545066833
-      },
-      {
-        "source": "news",
-        "id": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2025/12/07/washington-commanders-vikings-jonathan-allen-former-team/87654121007/",
-        "timestamp": "2025-12-07T12:15:29+00:00",
-        "text": "What did Vikings DT Jonathan Allen say about facing the Commanders? \nJonathan Allen spent his first eight NFL seasons in Washington. On Sunday, he faces his former team for the first time. \nWhen the Minnesota Vikings host the Washington Commanders in Sunday's Week 14 matchup from U.S. Bank Stadium, there will be a reunion. Minnesota defensive tackle Jonathan Allen faces off against his … [+2193 chars]",
-        "positive": 9.457915439270437e-06,
-        "negative": 0.00015235143655445427,
-        "neutral": 0.9998382329940796
-      },
-      {
-        "source": "news",
-        "id": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2025/12/07/notre-dame-cfp-college-football-playoff-selection-sunday-championship-saturday/87651570007/",
-        "timestamp": "2025-12-07T12:15:23+00:00",
-        "text": "Thoughts on Notre Dame and the CFP after Championship Saturday \nNotre Dame football will find out its fate later today with the College Football Playoff and here are three thoughts ahead of the seedings. \nIt was a Championship Saturday in college football that Notre Dame wanted to see, with every team losing that it needed to help the College Football Playoff cause.\r\nThe early games went exactly how t… [+3406 chars]",
-        "positive": 4.048408754897537e-06,
-        "negative": 3.398936314624734e-05,
-        "neutral": 0.9999619722366333
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-before-christmas-2025-new-year-gold-rate-to-go-up-as-u-s-fed-rate-cut-meeting-date-nears/articleshow/125816751.cms",
-        "timestamp": "2025-12-07T12:12:35+00:00",
-        "text": "Gold price prediction before Christmas 2025, New Year: Gold rate to go up as U.S. Fed rate cut meeting date nears? \nGold Ratev Prediction: Silver continues to outshine gold, scaling fresh record highs on industrial demand. \nGold prices are likely to remain firm in the coming week, driven by investor focus on the US Federal Reserve's monetary policy outcome, as Christmas 2025, New Year holiday near, according to analysts… [+2096 chars]",
-        "positive": 0.04883746802806854,
-        "negative": 0.006172737572342157,
-        "neutral": 0.9449897408485413
-      },
-      {
-        "source": "news",
-        "id": "https://www.the-independent.com/arts-entertainment/films/features/actor-director-feuds-clashes-on-set-b2879628.html",
-        "timestamp": "2025-12-07T12:12:23+00:00",
-        "text": "‘He threatened my career’: 22 actors who clashed with their directors \nAdam White lists just some of the times actors and directors couldn’t stand each other \nYour support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+14407 chars]",
-        "positive": 5.790569503005827e-06,
-        "negative": 2.319017039553728e-05,
-        "neutral": 0.9999709129333496
-      },
-      {
-        "source": "news",
-        "id": "https://www.sportingnews.com/us/mlb/cleveland-guardians/news/guardians-steven-kwan-trade-dodgers-prediction/7b2a025bbc6d1f9d190bde74",
-        "timestamp": "2025-12-07T12:10:02+00:00",
-        "text": "Guardians' Steven Kwan trade to Dodgers prediction keeps showing up with insiders \nThis could be concerning. \nGuardians' Steven Kwan trade to Dodgers prediction keeps showing up with insiders originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nThe Clevelan… [+1348 chars]",
-        "positive": 4.536486812867224e-05,
-        "negative": 5.384165342547931e-05,
-        "neutral": 0.9999006986618042
-      },
-      {
-        "source": "news",
-        "id": "https://hawkeyeswire.usatoday.com/story/sports/college/hawkeyes/mens-basketball/2025/12/07/iowa-basketball-trey-thompson-injury-status/87651282007/",
-        "timestamp": "2025-12-07T12:03:11+00:00",
-        "text": "Iowa basketball comments on Trey Thompson's injury status \nIowa basketball commented on the injury status of freshman forward Trey Thompson. \nIowa (8-1, 1-1 Big Ten) bounced back in a big way on Saturday afternoon, rolling past Maryland (6-4, 0-1 Big Ten), 83-64, in the Hawkeyes' Big Ten home opener from inside Carver-Hawkeye Arena.\r\nIn th… [+1682 chars]",
-        "positive": 0.00041508040158078074,
-        "negative": 0.058885831385850906,
-        "neutral": 0.9406991004943848
-      },
-      {
-        "source": "news",
-        "id": "https://www.huffpost.com/entry/why-you-cant-smile-in-passport-photos-g_l_6931b08ce4b0cee44382c8f2",
-        "timestamp": "2025-12-07T12:00:18+00:00",
-        "text": "So THAT'S Why You Can't Smile In Your Passport Photo \nHere's what to know about the State Department's passport rules and the reason behind them. \nDon't say \"cheese\" when you take your passport photo.\r\nOur passport photos are rarely the most flattering pictures we have of ourselves. That drugstore or post office lighting is not ideal, and it do… [+6344 chars]",
-        "positive": 2.3451961169485003e-05,
-        "negative": 0.0005424065748229623,
-        "neutral": 0.9994340538978577
-      },
-      {
-        "source": "news",
-        "id": "https://www.huffpost.com/entry/trumps-garish-white-house-decor-g_l_6931b0cbe4b0cee44382c969",
-        "timestamp": "2025-12-07T12:00:18+00:00",
-        "text": "We Asked Interior Designers To Explain Trump's 'Garish' White House Redesign — And They Had THOUGHTS \nExperts weigh in on the president's gold-soaked makeover of the Oval Office and more. \nPresident Donald Trumps dramatic changes to the design of the White House have sparked widespread attention and plenty of outrage.\r\nFrom the gold-heavy Oval Office to the newly renovated presidential… [+13592 chars]",
-        "positive": 0.034069955348968506,
-        "negative": 0.1979006975889206,
-        "neutral": 0.7680292725563049
-      },
-      {
-        "source": "news",
-        "id": "https://www.huffpost.com/entry/gloves-in-a-bottle-hand-lotion-ud_l_69330167e4b0d581e0923eb2",
-        "timestamp": "2025-12-07T12:00:18+00:00",
-        "text": "Meet The Life-Changing Hand Lotion That Nurses And Professionals Swear By \nIt's quite literally saved the skin of nurses, teachers and other frequent hand washers. \nAs someone who has dedicated decades of their life to finding solutions for the chronic eczema and severely dry skin on my hands, its surprising that I only just learned about Gloves in a Bottle, a u… [+15949 chars]",
-        "positive": 0.6026269197463989,
-        "negative": 0.01086193136870861,
-        "neutral": 0.3865111768245697
-      },
-      {
-        "source": "news",
-        "id": "https://www.mmamania.com/ufc-323-fight-card-start-time-live-results-merab-vs-yan-2-mma/407932/ufc-323-results-biggest-winners-loser-from-merab-vs-yan-2-last-night",
-        "timestamp": "2025-12-07T12:00:00+00:00",
-        "text": "UFC 323 results: Biggest winners, loser from ‘Merab vs. Yan 2’ last night \nUFC 323 went down last night (Sat., Dec. 6, 2025) inside T-Mobile Arena in Las Vegas, Nevada, the promotion’s final pay-per-view (PPV) event before it heads over to Paramount. Headlining the ESPN+-streamed event was a men’s Bantamweight title fight that saw P… \nUFC 323 went down last night (Sat., Dec. 6, 2025) inside T-Mobile Arena in Las Vegas, Nevada, the promotions final pay-per-view (PPV) event before it heads over to Paramount. Headlining the ESPN+-str… [+2244 chars]",
-        "positive": 0.14692038297653198,
-        "negative": 0.24419423937797546,
-        "neutral": 0.6088854670524597
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2025/12/07/betting/jets-vs-dolphins-prediction-nfl-week-14-picks-odds-bets/",
-        "timestamp": "2025-12-07T12:00:00+00:00",
-        "text": "Jets vs. Dolphins prediction: NFL Week 14 picks, odds, bets \nThe Jets host the Dolphins at MetLife Stadium in Week 14 of the NFL season. The Dolphins are in the midst of a surprising late-season run after winning their past three games. The Jets have also found a bit of rhythm after winning three of their past five gam… \nNew York Post may be compensated and/or receive an affiliate commission if you click or buy through our links. Featured pricing is subject to change.\r\nThe Jets host the Dolphins at MetLife Stadium in… [+1942 chars]",
-        "positive": 8.608470807303092e-07,
-        "negative": 3.1365758331958205e-05,
-        "neutral": 0.9999678134918213
-      },
-      {
-        "source": "news",
-        "id": "https://www.theatlantic.com/politics/2025/12/trump-biden-economy/685158/",
-        "timestamp": "2025-12-07T12:00:00+00:00",
-        "text": "Trump Is Repeating One of Biden’s Big Mistakes \nDownplaying voters’ economic pain will backfire. \nDonald Trump recaptured the White House in part by relentlessly exploiting Joe Biden’s failure to heed widespread concerns about the rising cost of living. Now, bizarrely, President Trump is walking … [+5964 chars]",
-        "positive": 0.00171718280762434,
-        "negative": 0.9976761937141418,
-        "neutral": 0.0006066294736228883
-      },
-      {
-        "source": "news",
-        "id": "https://sports.yahoo.com/articles/commentary-15-reasons-why-ucla-120000433.html",
-        "timestamp": "2025-12-07T12:00:00+00:00",
-        "text": "Commentary: Here are 15 reasons why UCLA should not abandon the Rose Bowl \nThe Rose Bowl has hosted too many iconic moments for UCLA's football team to leave for a new home field at SoFi Stadium, Bill Dwyre writes. \nHere are 15 unsolicited, heavily nostalgia-based reasons why the UCLA Bruins should not leave the Rose Bowl for the glitz and glitter of SoFi Stadium:\r\n Because the late Keith Jackson, legendary broa… [+9971 chars]",
-        "positive": 0.00010981864761561155,
-        "negative": 0.0008835830958560109,
-        "neutral": 0.9990066885948181
-      },
-      {
-        "source": "news",
-        "id": "https://www.nakedcapitalism.com/2025/12/links-12-7-2025.html",
-        "timestamp": "2025-12-07T11:55:56+00:00",
-        "text": "Links 12/7/2025 \nOur strategic daily links: giant crystals, the time on Mars, climate disasters, China train, Modi meets Putin, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles, Mr. market, AI, scams, and wret… \nthe year 2000, the Cave of Crystals was uncovered beneath Mexico’s Sierra de Naica Mountain.\r\nThis remarkable cavern, situated around 300 meters (984 feet) below the surface, houses some of Earth’s m… [+7275 chars]",
-        "positive": 1.0133305750059662e-06,
-        "negative": 1.7076357835321687e-05,
-        "neutral": 0.9999818801879883
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/125816485.cms",
-        "timestamp": "2025-12-07T11:35:42+00:00",
-        "text": "Ahead of Market: 10 things that will decide D-Street action on Monday \nIndian markets ended higher on Friday as the Sensex and Nifty rebounded, driven by gains in financial and auto stocks after the RBI delivered an unexpected 25 bps rate cut. The surprise move, paired with softer inflation forecasts and supportive liquidity, fu… \nThe Indian market ended higher on Friday, with the Sensex and Nifty reversing an early lull as financial and auto stockstypically sensitive to interest-rate movesled the advance after the Reserve Ban… [+4712 chars]",
-        "positive": 0.9999933242797852,
-        "negative": 3.0366120427061105e-06,
-        "neutral": 3.658649802673608e-06
       },
       {
         "source": "news",
@@ -23719,9 +23692,9 @@
         "neutral": 0.002497967565432191
       }
     ],
-    "nw": 0.4526006107010793,
-    "nw_norm": 72.63003053505398
+    "nw": 0.405952592694764,
+    "nw_norm": 70.2976296347382
   },
-  "gsi": 72.63003053505398,
+  "gsi": 70.2976296347382,
   "classification": "Bullish"
 }
