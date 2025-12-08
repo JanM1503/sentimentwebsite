@@ -1,8 +1,62 @@
 {
-  "timestamp": "2025-12-08T07:30:31.093493+00:00",
+  "timestamp": "2025-12-08T07:48:18.069923+00:00",
   "news": {
-    "count": 2643,
+    "count": 2644,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/news/articles/c1lrd6vdvm1o",
+        "timestamp": "2025-12-07T07:40:02+00:00",
+        "text": "Mum said goodbye to son nine times before op \nFive-year-old Kacey was diagnosed with the short bowel syndrome - an incurable disease - as a baby. \nSarah Spina-MatthewsNorth West\r\nVicky Ogg says she was told numerous times her son Kacey would not survive complications from short bowel syndrome\r\nThe mother of a five-year-old boy said she had been… [+2525 chars]",
+        "positive": 1.531567431811709e-05,
+        "negative": 0.0001431708224117756,
+        "neutral": 0.999841570854187
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/lagos-tops-nigerias-ease-of-doing-business-ranking/",
+        "timestamp": "2025-12-07T07:38:46+00:00",
+        "text": "Lagos tops Nigeria’s ease of doing business ranking \nLagos state ranks first in Nigeria’s 2025 Ease of Doing Business report by PEBEC, scoring 85.6%. Discover the top-performing states in the new report.\n\nRead More: https://punchng.com/lagos-tops-nigerias-ease-of-doing-business-ranking/ \nThe Presidential Enabling Business Environment Council has released the 2025 Subnational Ease of Doing Business Report, with Lagos emerging as the best-performing state, scoring 85.6 per cent.\r\nAs re… [+3465 chars]",
+        "positive": 0.27802515029907227,
+        "negative": 9.022335871122777e-05,
+        "neutral": 0.7218846678733826
+      },
+      {
+        "source": "news",
+        "id": "https://cryptoslate.com/uk-crypto-property-law-digital-asset-act-2025/",
+        "timestamp": "2025-12-07T07:30:20+00:00",
+        "text": "Crypto officially becomes a “third category” of property, fixing the fatal flaw in digital asset ownership. \nThe UK doesn’t pass many one-clause statutes that redraw the map of personal property, but that’s exactly what arrived with Royal Assent on Dec.2. After years of academic papers, Law Commission consultations, and scattered High Court judgments trying to make … \nThe UK doesnt pass many one-clause statutes that redraw the map of personal property, but thats exactly what arrived with Royal Assent on Dec.2.\r\nAfter years of academic papers, Law Commission consul… [+10638 chars]",
+        "positive": 7.10943777448847e-06,
+        "negative": 0.00021270218712743372,
+        "neutral": 0.9997801184654236
+      },
+      {
+        "source": "news",
+        "id": "http://deadline.com/2025/12/melissa-mccarthy-snl-season-51-host-episode-recap-1236638842/",
+        "timestamp": "2025-12-07T07:29:14+00:00",
+        "text": "Melissa McCarthy Reigns Over ‘SNL’ With Off-Kilter Characters In Season 51’s Best Episode Yet \nIn what has been a largely uneven Saturday Night Live season (shakily written sketches, over-reliance on cameo appearances and a significant rookie contingent that has struggled to find its place and gel with more established players — to name a few problems)… \nIn what has been a largely uneven Saturday Night Liveseason (shakily written sketches, over-reliance on cameo appearances and a significant rookie contingent that has struggled to find its place and … [+6238 chars]",
+        "positive": 0.0015536223072558641,
+        "negative": 0.9952665567398071,
+        "neutral": 0.0031798738054931164
+      },
+      {
+        "source": "news",
+        "id": "https://theconversation.com/djiboutis-democracy-takes-another-knock-as-ageing-president-engineers-yet-another-term-271009",
+        "timestamp": "2025-12-07T07:26:34+00:00",
+        "text": "Djibouti’s democracy takes another knock as ageing president engineers yet another term \nDjibouti is a presidential republic with a multiparty system, but political authority is highly centralised. \nDjibouti’s president, Ismaïl Omar Guelleh, pushed through constitutional changes removing presidential age limits in October 2025. The changes enable him to remain in power beyond 2026. He has alread… [+8856 chars]",
+        "positive": 9.534036507830024e-06,
+        "negative": 7.448900578310713e-05,
+        "neutral": 0.9999159574508667
+      },
+      {
+        "source": "news",
+        "id": "https://theconversation.com/south-africas-g20-presidency-is-over-what-did-it-achieve-for-climate-and-clean-energy-in-africa-270583",
+        "timestamp": "2025-12-07T07:25:45+00:00",
+        "text": "South Africa’s G20 presidency is over – what did it achieve for climate and clean energy in Africa? \nSouth Africa’s G20 presidency highlighted climate action and just energy transitions. \nSouth Africa opened its G20 presidency with an ambitious message for a world divided by conflict and economic strain: solidarity, equality and sustainability. The Johannesburg G20 leaders’ summit tri… [+6960 chars]",
+        "positive": 0.021967418491840363,
+        "negative": 4.336896017775871e-05,
+        "neutral": 0.9779892563819885
+      },
       {
         "source": "news",
         "id": "https://www.bbc.com/sport/football/articles/c0751p3mknlo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -545,21 +599,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.irishtimes.com/sport/cycling/2025/12/06/ben-healy-id-describe-my-racing-style-before-as-a-bit-of-a-mad-dog/",
-        "timestamp": "2025-12-07T06:00:00+00:00",
-        "text": "Ben Healy: ‘I’d describe my racing style before as a bit of a mad dog’ \nThe Irish rider reflects on his Tour de France success and his hopes for more in 2026 \nThings are busy in the hotel lobby where Ben Healy is waiting. People are coming and going, and it seems no one else recognises the Tour de France stage winner and wearer of the yellow jersey from la… [+9428 chars]",
-        "positive": 0.003848172491416335,
-        "negative": 5.3475003369385377e-05,
-        "neutral": 0.9960983991622925
-      },
-      {
-        "source": "news",
         "id": "https://www.creativebloq.com/design/why-do-apple-designers-keep-leaving",
         "timestamp": "2025-12-07T06:00:00+00:00",
         "text": "Why do Apple designers keep leaving? \nExecs behind the iPhone Air and Liquid Glass have recently left the firm. \nNews of Apple staff defecting is starting to feel like a daily occurrence – at least from the company's AI flailing division, which has seen several team members poached by Meta. But now a potentiall… [+1931 chars]",
         "positive": 0.0035573544446378946,
         "negative": 0.9802986979484558,
         "neutral": 0.016143953427672386
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/sport/cycling/2025/12/06/ben-healy-id-describe-my-racing-style-before-as-a-bit-of-a-mad-dog/",
+        "timestamp": "2025-12-07T06:00:00+00:00",
+        "text": "Ben Healy: ‘I’d describe my racing style before as a bit of a mad dog’ \nThe Irish rider reflects on his Tour de France success and his hopes for more in 2026 \nThings are busy in the hotel lobby where Ben Healy is waiting. People are coming and going, and it seems no one else recognises the Tour de France stage winner and wearer of the yellow jersey from la… [+9428 chars]",
+        "positive": 0.003848172491416335,
+        "negative": 5.3475003369385377e-05,
+        "neutral": 0.9960983991622925
       },
       {
         "source": "news",
@@ -923,12 +977,12 @@
       },
       {
         "source": "news",
-        "id": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b4339ff1-55b7-4fd2-a1d4-ed19a0b3030b",
-        "timestamp": "2025-12-07T05:00:03+00:00",
-        "text": "PSG 5-0 Rennes: Luis Enrique's Post-Match Press Conference \nEnrique dissects PSG's dominant 5-0 win, praising effectiveness while pushing back fiercely against media speculation and praising his emerging talent. \nIf you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-        "positive": 0.000405802798923105,
-        "negative": 3.993801510659978e-05,
-        "neutral": 0.9995542168617249
+        "id": "https://www.blogto.com/eat_drink/2025/12/stay-sawft-pudding-toronto/",
+        "timestamp": "2025-12-07T05:00:00+00:00",
+        "text": "There's a pudding business secretly operating out of a Toronto cocktail bar \nThough poutine and pizza tend to get all the glory when it comes to bar foods, there's a new business in Toronto serving something entirely different out of a local cocktail bar: pudding.Call it a recession indicator, but pudding has been having a real renais… \nThough poutine and pizza tend to get all the glory when it comes to bar foods, there's a new business in Toronto serving something entirely different out of a local cocktail bar: pudding.\r\nCall it a … [+2863 chars]",
+        "positive": 1.8831793568097055e-05,
+        "negative": 0.00012526560749392956,
+        "neutral": 0.9998558759689331
       },
       {
         "source": "news",
@@ -938,15 +992,6 @@
         "positive": 0.00031426126952283084,
         "negative": 0.00013876247976440936,
         "neutral": 0.9995469450950623
-      },
-      {
-        "source": "news",
-        "id": "https://www.blogto.com/eat_drink/2025/12/stay-sawft-pudding-toronto/",
-        "timestamp": "2025-12-07T05:00:00+00:00",
-        "text": "There's a pudding business secretly operating out of a Toronto cocktail bar \nThough poutine and pizza tend to get all the glory when it comes to bar foods, there's a new business in Toronto serving something entirely different out of a local cocktail bar: pudding.Call it a recession indicator, but pudding has been having a real renais… \nThough poutine and pizza tend to get all the glory when it comes to bar foods, there's a new business in Toronto serving something entirely different out of a local cocktail bar: pudding.\r\nCall it a … [+2863 chars]",
-        "positive": 1.8831793568097055e-05,
-        "negative": 0.00012526560749392956,
-        "neutral": 0.9998558759689331
       },
       {
         "source": "news",
@@ -983,24 +1028,6 @@
         "positive": 2.812189450196456e-07,
         "negative": 3.7214640542515554e-06,
         "neutral": 0.9999960660934448
-      },
-      {
-        "source": "news",
-        "id": "https://www.americanthinker.com/articles/2025/12/is_there_a_sleeping_giant_to_awaken_as_china_builds_for_war.html",
-        "timestamp": "2025-12-07T05:00:00+00:00",
-        "text": "Is There a ‘Sleeping Giant’ to Awaken As China Builds for War? \nOn December 7, 1941, the United States officially entered WWII with the attack on Pearl Harbor.  Japan struck Pearl Harbor with six aircraft carriers and an accompanying fleet, which resulted in 3,581 Americans being either killed or wounded, wi... \nOn December 7, 1941, the United States officially entered WWII with the attack on Pearl Harbor.  Japan struck Pearl Harbor with six aircraft carriers and an accompanying fleet, which resulted in 3,58… [+6710 chars]",
-        "positive": 0.0001180515973828733,
-        "negative": 0.0012771112378686666,
-        "neutral": 0.9986048340797424
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/economy/agri-business/how-biofortified-grains-are-becoming-indias-new-defence-against-bad-air/article70365583.ece",
-        "timestamp": "2025-12-07T05:00:00+00:00",
-        "text": "How biofortified grains are becoming India’s new defence against bad air \nIf the air is getting worse every year, what is your body getting better at? Because your lungs aren’t fighting alone. Your nutrition — especially your micronutrients — is actually your first line of defense. \nLets start with an uncomfortable truth: Even if you eat clean, work out, meditate, and drink haldi water, Delhis winter air can still knock you flat. And its not just Delhi. Mumbai, Lucknow, Kanpur, … [+3753 chars]",
-        "positive": 5.066125959274359e-05,
-        "negative": 0.0021295773331075907,
-        "neutral": 0.9978197813034058
       },
       {
         "source": "news",
@@ -1460,24 +1487,6 @@
         "positive": 0.0002853415790013969,
         "negative": 5.6331951782340184e-05,
         "neutral": 0.9996583461761475
-      },
-      {
-        "source": "news",
-        "id": "https://truthout.org/articles/trump-militarized-cities-in-ice-crackdowns-is-militarizing-the-ballot-box-next/",
-        "timestamp": "2025-12-07T00:57:44+00:00",
-        "text": "Trump Militarized Cities in ICE Crackdowns. Is Militarizing the Ballot Box Next? \nTrump has put election deniers in charge of overseeing “election integrity” for the 2026 midterms. \nPart of the Series\r\nTruthout is an indispensable resource for activists, movement leaders and workers everywhere. Please make this work possible with a quick donation.\r\nTwo months after Donald Trumps… [+8694 chars]",
-        "positive": 0.0005953781655989587,
-        "negative": 8.085517765721306e-05,
-        "neutral": 0.9993237257003784
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/do-pistol-shrimp-bury-themselves/",
-        "timestamp": "2025-12-07T00:50:38+00:00",
-        "text": "Do pistol shrimp bury themselves? \nDo Pistol Shrimp Bury Themselves? Unveiling the Secrets of Alpheidae Architects Pistol shrimp do bury themselves, utilizing their powerful claws to excavate and maintain burrows, providing shelter and protection from predators. Their burrowing behavior is an … \nDo Pistol Shrimp Bury Themselves? Unveiling the Secrets of Alpheidae Architects\r\nPistol shrimpdobury themselves, utilizing their powerful claws to excavate and maintain burrows, providing shelter and… [+8083 chars]",
-        "positive": 0.011114118620753288,
-        "negative": 5.4138356063049287e-05,
-        "neutral": 0.9888317584991455
       },
       {
         "source": "news",
@@ -23791,9 +23800,9 @@
         "neutral": 0.002497967565432191
       }
     ],
-    "nw": 0.3892363861354288,
-    "nw_norm": 69.46181930677145
+    "nw": 0.3839209780979196,
+    "nw_norm": 69.19604890489597
   },
-  "gsi": 69.46181930677145,
+  "gsi": 69.19604890489597,
   "classification": "Bullish"
 }
