@@ -1,8 +1,386 @@
 {
-  "timestamp": "2025-12-09T21:21:06.308968+00:00",
+  "timestamp": "2025-12-09T21:38:26.666259+00:00",
   "news": {
-    "count": 2643,
+    "count": 2640,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/world/trump-us-china-trade-tariff-farmers-5568836",
+        "timestamp": "2025-12-08T21:31:00+00:00",
+        "text": "Trump unveils US$12 billion aid package for farmers hit by trade war \n<![CDATA[ US$11 billion will go to row crop farmers, whilst the remaining US$1 billion will be held back for fruits, vegetables and other crops. ]]> \nFarmers have faced higher costs for agricultural inputs like seed and fertiliser, which the Trump administration has said it is examining. Soybean farmers expect to see their third consecutive year o… [+1221 chars]",
+        "positive": 0.849690854549408,
+        "negative": 0.05021875351667404,
+        "neutral": 0.10009033977985382
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201990/0/en/Aerom%C3%A9xico-November-2025-Traffic-Results.html",
+        "timestamp": "2025-12-08T21:31:00+00:00",
+        "text": "Aeroméxico November 2025 Traffic Results \nMEXICO CITY, Dec. 08, 2025 (GLOBE NEWSWIRE) -- Grupo Aeroméxico S.A.B. de C.V. (NYSE: AERO & BMV: AERO) (“Aeroméxico”) reports its November 2025 operational results: \nMEXICO CITY, Dec. 08, 2025 (GLOBE NEWSWIRE) -- Grupo Aeroméxico S.A.B. de C.V. (NYSE: AERO &amp; BMV: AERO) (Aeroméxico) reports its November 2025 operational results:\r\n<ul><li>Grupo Aeroméxico trans… [+8225 chars]",
+        "positive": 2.097330934702768e-06,
+        "negative": 4.852583401770971e-07,
+        "neutral": 0.9999973773956299
+      },
+      {
+        "source": "news",
+        "id": "https://www.forbes.com/sites/ianquillen/2025/12/08/the-2026-fifa-world-cup-schedule-has-an-east-coast-bias/",
+        "timestamp": "2025-12-08T21:30:16+00:00",
+        "text": "The 2026 FIFA World Cup Schedule Has An East Coast Bias \nIn terms of team pedigree in group stage matches, there is a clear, heavy bias toward the nine venues in the eastern two time zones among the 15 total host cities. \nGianni Infantino, President of FIFA, holds FIFA World Cup Trophy during the FIFA World Cup 2026 official match schedule announcement on Friday in Washington, DC.\r\nFIFA via Getty Images\r\nOne of the un… [+3442 chars]",
+        "positive": 5.066431754130463e-07,
+        "negative": 5.430449618870625e-06,
+        "neutral": 0.9999940395355225
+      },
+      {
+        "source": "news",
+        "id": "https://gizmodo.com/stablechain-launch-shows-how-far-crypto-has-strayed-from-bitcoins-original-promise-2000696959",
+        "timestamp": "2025-12-08T21:30:13+00:00",
+        "text": "‘StableChain’ Launch Shows How Far Crypto Has Strayed From Bitcoin’s Original Promise \nThe centralization will continue until morale improves. \nStableChain, which is a new layer-one blockchain network built around Tethers USDT stablecoin by a company known as Stable, went live with its mainnet today, alongside the launch of its native STABLE… [+4154 chars]",
+        "positive": 0.19113792479038239,
+        "negative": 0.0002683698257897049,
+        "neutral": 0.8085936903953552
+      },
+      {
+        "source": "news",
+        "id": "https://newrepublic.com/post/204147/donald-trump-random-farmer-which-countries-tariff",
+        "timestamp": "2025-12-08T21:30:05+00:00",
+        "text": "Trump Asks Random Farmer Which Countries to Tariff Next \nPresident Donald Trump revealed Monday just how clueless he is about his own tariff policies, and appeared to improvise new rice tariffs on the fly after speaking with one rice farmer. During a roundtable to unveil a $12 billion bailout package for American f… \nWhile I was focused on delivering real results, judges in my state took advantage of a flawed blue slip tradition and became weapons for the politicized left.... They joined New Jersey senators, who … [+1334 chars]",
+        "positive": 0.0002620941086206585,
+        "negative": 0.0048041013069450855,
+        "neutral": 0.9949337840080261
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201989/1924/en/Toll-Brothers-Reports-FY-2025-Fourth-Quarter-Results.html",
+        "timestamp": "2025-12-08T21:30:00+00:00",
+        "text": "Toll Brothers Reports FY 2025 Fourth Quarter Results \nFORT WASHINGTON, Pa., Dec. 08, 2025 (GLOBE NEWSWIRE) -- Toll Brothers, Inc. (NYSE:TOL) (TollBrothers.com), the nation’s leading builder of luxury homes, today announced results for its fourth quarter ended October 31, 2025. \nFORT WASHINGTON, Pa., Dec. 08, 2025 (GLOBE NEWSWIRE) -- Toll Brothers, Inc. (NYSE:TOL) (TollBrothers.com), the nations leading builder of luxury homes, today announced results for its fourth quarter … [+62200 chars]",
+        "positive": 2.9247144993860275e-05,
+        "negative": 1.8655919120647013e-07,
+        "neutral": 0.999970555305481
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201987/0/en/Hungry-Hippo-Fairing-Successfully-Qualified-Rocket-Lab-Clears-Significant-Milestone-on-Path-to-First-Neutron-Launch.html",
+        "timestamp": "2025-12-08T21:30:00+00:00",
+        "text": "Hungry Hippo Fairing Successfully Qualified: Rocket Lab Clears Significant Milestone on Path to First Neutron Launch \nRocket Lab announces that the Neutron rocket's innovative “Hungry Hippo” fairing has successfully completed qualification testing and is enroute to LC-3.... \nLONG BEACH, Calif., Dec. 08, 2025 (GLOBE NEWSWIRE) -- Rocket Lab Corporation (Nasdaq: RKLB) (Rocket Lab or the Company), a global leader in launch services and space systems, today announced the Neut… [+8312 chars]",
+        "positive": 0.9999877214431763,
+        "negative": 1.3818153377087583e-07,
+        "neutral": 1.2147364031989127e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.fieldgulls.com/seattle-seahawks-news/156985/snap-reactions-backups-see-plenty-of-snaps-as-seahawks-stomp-falcons-week-14",
+        "timestamp": "2025-12-08T21:30:00+00:00",
+        "text": "Snap Reactions: Backups see plenty of snaps as Seahawks stomp Falcons \nSeattle dispatched yet another opponent by more than 20 points Sunday, letting a lot of depth players see the field. \nSunday afternoon the Seattle Seahawks became the first NFC team to reach double digit victories during the 2025 season, though the division rival Los Angeles Rams matched that win total just a few ho… [+1991 chars]",
+        "positive": 0.3150816261768341,
+        "negative": 0.0018371088663116097,
+        "neutral": 0.6830812692642212
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201984/0/en/Genmab-Announces-New-Data-from-Phase-1b-2-EPCORE-CLL-1-Highlighting-Potential-of-Epcoritamab-as-Monotherapy-and-in-Combination-for-Patients-with-Richter-Transformation-RT.html",
+        "timestamp": "2025-12-08T21:30:00+00:00",
+        "text": "Genmab Announces New Data from Phase 1b/2 EPCORE® CLL-1 Highlighting Potential of Epcoritamab as Monotherapy and in Combination for Patients with Richter Transformation (RT) \nMedia ReleaseCOPENHAGEN, Denmark; December 8, 2025  Two-year epcoritamab monotherapy data demonstrate high complete response and encouraging survival rates... \nMedia Release\r\nCOPENHAGEN, Denmark; December 8, 2025\r\n<ul><li>Two-year epcoritamab monotherapy data demonstrate high complete response and encouraging survival rates in patients with Richter transfor… [+13937 chars]",
+        "positive": 0.9998840093612671,
+        "negative": 3.373628203462431e-07,
+        "neutral": 0.00011563942825887352
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201983/0/en/Roche-presents-Lunsumio-data-showing-potential-across-earlier-treatment-lines-in-indolent-and-aggressive-lymphomas.html",
+        "timestamp": "2025-12-08T21:30:00+00:00",
+        "text": "Roche presents Lunsumio data showing potential across earlier treatment lines in indolent and aggressive lymphomas \nBasel, 8 December 2025 - Roche (SIX: RO, ROG; OTCQX: RHHBY) announced today new data highlighting the potential of Lunsumio® (mosunetuzumab) in earlier treatment lines for people living with different types of lymphoma, presented at the 67th American Society … \n<ul><li>Lunsumio in combination with lenalidomide may offer an effective treatment in relapsed or refractory follicular lymphoma based on first data from single-arm US cohort of phase III CELESTIMO s… [+13992 chars]",
+        "positive": 0.030455593019723892,
+        "negative": 6.600864253414329e-06,
+        "neutral": 0.9695377945899963
+      },
+      {
+        "source": "news",
+        "id": "https://slashdot.org/submission/17343047/meta-pledge-to-use-less-personal-data-for-ads-gets-eu-nod-avoids-daily-fines",
+        "timestamp": "2025-12-08T21:28:27+00:00",
+        "text": "Meta Pledge To Use Less Personal Data For Ads Gets EU Nod, Avoids Daily Fines \nMeta's proposal to use less personal data for targeted advertising in its pay-or-consent model that will be rolled out next month won the approval of EU antitrust regulators on Monday, signaling the company will not face daily fines after all. [...] The U.S. … \nMeta's proposal to use less personal data for targeted advertising in its pay-or-consent model that will be rolled out next month won the approval of EU antitrust regulators on Monday, signaling the … [+1390 chars]",
+        "positive": 0.057742513716220856,
+        "negative": 0.0005048841121606529,
+        "neutral": 0.9417526721954346
+      },
+      {
+        "source": "news",
+        "id": "https://post.rlsbb.to/the-essex-murders-who-killed-goldfinger-s01-1080p-skst-web-dl-h264-playweb/",
+        "timestamp": "2025-12-08T21:28:10+00:00",
+        "text": "The Essex Murders Who Killed Goldfinger S01 1080p SKST WEB-DL H264-playWEB \nInvestigating the unsolved 2015 murder of John Palmer, who was nicknamed Goldfinger after his involvement in melting down gold from the 1983 Brink's-Mat robbery. Links: HOMEPAGE – iMDBThe.Essex.Murders.Who.Killed.Goldfinger.S01.1080p.SKST.WEB-DL.DD+5.1.H.264-… \nInvestigating the unsolved 2015 murder of John Palmer, who was nicknamed Goldfinger after his involvement in melting down gold from the 1983 Brink's-Mat robbery. \r\nLinks:HOMEPAGEiMDB\r\nThe.Essex.Murde… [+153 chars]",
+        "positive": 7.792682481522206e-06,
+        "negative": 4.95545900776051e-05,
+        "neutral": 0.9999426603317261
+      },
+      {
+        "source": "news",
+        "id": "https://www.marca.com/en/mlb/new-york-yankees/2025/12/08/693740eb46163f07378b4597.html",
+        "timestamp": "2025-12-08T21:27:29+00:00",
+        "text": "The painful sacrifice the Yankees will have to make if they want to sign Fernando Tatis Jr. \nIn New York they know they cannot afford to continue to rely so much on Aaron Judge, which is why they are after one of the most explosive bats in MLB, Fernando Tatis Jr. However, \nIn New York they know they cannot afford to continue to rely so much on Aaron Judge, which is why they are after one of the most explosive bats in MLB, Fernando Tatis Jr. However, that desire comes a… [+2929 chars]",
+        "positive": 0.0007837348384782672,
+        "negative": 0.4225988984107971,
+        "neutral": 0.5766173601150513
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/613495945af62c3e",
+        "timestamp": "2025-12-08T21:26:49+00:00",
+        "text": "Will the Netflix-Warner Bros. Merger Go Through? It Depends on How You Define Market Share \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+779 chars]",
+        "positive": 2.0718098312499933e-05,
+        "negative": 5.060471721662907e-06,
+        "neutral": 0.999974250793457
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/f31f2b08c4599cee",
+        "timestamp": "2025-12-08T21:26:42+00:00",
+        "text": "Trump Foe Jasmine Crockett Unveils Bid for Texas Senate Seat \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+794 chars]",
+        "positive": 8.550747588742524e-05,
+        "negative": 2.761630094028078e-05,
+        "neutral": 0.9998868703842163
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/a06ddb049819b6b3",
+        "timestamp": "2025-12-08T21:26:37+00:00",
+        "text": "Kinder Morgan expects higher 2026 profit on strong natural gas demand \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+798 chars]",
+        "positive": 1.0,
+        "negative": 4.5250279079311895e-09,
+        "neutral": 5.5100265683449834e-08
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/1a6b75ab31f166a3",
+        "timestamp": "2025-12-08T21:26:34+00:00",
+        "text": "TikTok announces Shared Collection, to organize and share saved videos, and plans to launch Shared Feed, a daily curated selection of 15 videos, globally \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+780 chars]",
+        "positive": 0.00011497305240482092,
+        "negative": 3.8708340071025304e-06,
+        "neutral": 0.9998811483383179
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/cc62118b5ee1af06",
+        "timestamp": "2025-12-08T21:26:26+00:00",
+        "text": "Wall Street pulls back from its record heights \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+774 chars]",
+        "positive": 0.004825056530535221,
+        "negative": 0.0006288848235271871,
+        "neutral": 0.9945461750030518
+      },
+      {
+        "source": "news",
+        "id": "http://electrek.co/2025/12/08/nissan-shopping-for-partners-to-build-evs-with-one-major-caveat/",
+        "timestamp": "2025-12-08T21:25:59+00:00",
+        "text": "Nissan is shopping for partners to build EVs, with one major caveat \nNissan is looking for a partner to co-develop new EVs with as it struggles to turn things around, but only on one condition.\n\n\n\n more… \nNissan is looking for a partner to co-develop new EVs with as it struggles to turn things around, but only on one condition.\r\nAfter its plans with Honda fell through earlier this year, Nissan is stil… [+2769 chars]",
+        "positive": 2.063196006929502e-06,
+        "negative": 4.4876564061269164e-05,
+        "neutral": 0.9999531507492065
+      },
+      {
+        "source": "news",
+        "id": "https://www.usatoday.com/story/sports/fantasy/football/2025/12/08/fantasy-football-rankings-week-15-waiver-wire-targets-sleepers/87673362007/",
+        "timestamp": "2025-12-08T21:25:49+00:00",
+        "text": "Early Week 15 fantasy football rankings: 13 risers and sleepers \nEarly Week 15 expert fantasy football rankings for PPR, half-PPR and standard leagues to help with waiver wire and lineup decisions. \nIf you're reading this, welcome to the 2025 fantasy football playoffs.\r\nWeek 14 was an appropriate grand finale to a rollercoaster season.\r\nWith \"Monday Night Football\" pending, three of the top-10 q… [+10185 chars]",
+        "positive": 5.1527517825888935e-06,
+        "negative": 5.938973686170357e-07,
+        "neutral": 0.9999942779541016
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201982/0/en/Vornado-Declares-Common-Dividend-of-74-Per-Share.html",
+        "timestamp": "2025-12-08T21:25:00+00:00",
+        "text": "Vornado Declares Common Dividend of $.74 Per Share \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- Vornado Realty Trust (NYSE:VNO) announced today that its Board of Trustees has declared a dividend of $.74 per common share. The dividend will be payable on December 29, 2025 to shareholders of record on December 18… \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- Vornado Realty Trust (NYSE:VNO) announced today that its Board of Trustees has declared a dividend of $.74 per common share. The dividend will be payable o… [+1680 chars]",
+        "positive": 0.00020278134616091847,
+        "negative": 1.8735169078354375e-06,
+        "neutral": 0.9997953772544861
+      },
+      {
+        "source": "news",
+        "id": "https://www.rte.ie/entertainment/2025/1208/1547850-director-david-freyne-delivers-irish-rom-com-eternity/",
+        "timestamp": "2025-12-08T21:25:00+00:00",
+        "text": "Director David Freyne delivers Irish rom com Eternity \nDublin-born director David Freyne goes somewhere few Irish directors have gone before and made a rom com. \nDublin-born director David Freyne goes somewhere few Irish directors have gone before and made a rom com.\r\nEternity is the latest movie from the Dating Amber and The Cured film maker and it is a char… [+6024 chars]",
+        "positive": 1.0802742735904758e-06,
+        "negative": 9.881051710181055e-07,
+        "neutral": 0.9999979734420776
+      },
+      {
+        "source": "news",
+        "id": "https://pypi.org/project/powl/2.1.9/",
+        "timestamp": "2025-12-08T21:23:31+00:00",
+        "text": "powl 2.1.9 \nPOWL Miner: Process Mining with the Partially Ordered Workflow Language \nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "positive": 3.458675337242312e-07,
+        "negative": 5.048821913078427e-05,
+        "neutral": 0.9999490976333618
+      },
+      {
+        "source": "news",
+        "id": "http://www.thecut.com/article/snowboarder-brenna-huckaby-stores-gold-medals-in-her-socks.html",
+        "timestamp": "2025-12-08T21:23:19+00:00",
+        "text": "Paralympic Snowboarder Brenna Huckaby Stores Gold Medals in Her Socks \nThe Polo Ralph Lauren ambassador is gearing up for her third Paralympics, which will take place in Milan in March. \nSnowboarder Brenna Huckaby is competitive about everything even Olympic uniforms. Before we even get on the snow, Im judging everybody, she said recently at Ralph Laurens headquarters, where she appe… [+3345 chars]",
+        "positive": 2.4030380245676497e-06,
+        "negative": 6.515637505799532e-05,
+        "neutral": 0.9999324083328247
+      },
+      {
+        "source": "news",
+        "id": "https://www.sun-sentinel.com/2025/12/08/source-heat-to-consider-rozier-trade-option-even-with-lack-of-nba-clarity-as-guard-is-arraigned-in-gambling-probe/",
+        "timestamp": "2025-12-08T21:22:00+00:00",
+        "text": "Heat to consider Rozier trade option despite arraignment in gambling probe \nORLANDO, Fla. — In the void of clarity from the NBA, the Miami Heat are moving forward under the presumption that they can negotiate potential trades involving Terry Rozier’s expiring contract. According to an NBA source familiar with the process, the Heat ar… \nORLANDO, Fla. In the void of clarity from the NBA, the Miami Heat are moving forward under the presumption that they can negotiate potential trades involving Terry Roziers expiring contract.\r\nAccordi… [+3308 chars]",
+        "positive": 0.0008013097103685141,
+        "negative": 0.002148805186152458,
+        "neutral": 0.9970498085021973
+      },
+      {
+        "source": "news",
+        "id": "https://www.npr.org/2025/12/08/g-s1-101202/syria-anniversary-assad-deposed",
+        "timestamp": "2025-12-08T21:21:24+00:00",
+        "text": "Syria marks a year since Assad fled, but struggles to heal \nSyria is struggling to heal a year after the Assad dynasty's repressive 50-year reign came to an end following 14 years of civil war that left the country battered and divided. \nHOMS, Syria A year ago, Mohammad Marwan found himself stumbling, barefoot and dazed, out of Syria's notorious Saydnaya prison on the outskirts of Damascus as rebel forces pushing toward the capital t… [+7980 chars]",
+        "positive": 8.463920494250488e-06,
+        "negative": 0.9999598264694214,
+        "neutral": 3.17085869028233e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.firstshowing.net/2025/new-trailer-for-extended-editions-lotr-trilogy-screenings-in-january/",
+        "timestamp": "2025-12-08T21:21:12+00:00",
+        "text": "New Trailer for Extended Editions LOTR Trilogy Screenings in January \n\"You carry the fate of us all, little one.\" Fathom has revealed an official trailer to promote their upcoming screening series in January 2026 of the \"Extended Editions\" of The Lord of the Rings trilogy. For years now, Warner Bros has been running retrospecti… \nby Alex BillingtonDecember 8, 2025Source:YouTube\r\n\"You carry the fate of us all, little one.\" Fathom has revealed an official trailer to promote their upcoming screening series in January 2026 of the… [+2599 chars]",
+        "positive": 6.5665713918861e-05,
+        "negative": 3.817457763943821e-05,
+        "neutral": 0.9998961687088013
+      },
+      {
+        "source": "news",
+        "id": "https://newatlas.com/automotive/kia-vision-meta-turismo-concept/",
+        "timestamp": "2025-12-08T21:20:58+00:00",
+        "text": "Kia's Vision Meta Turismo concept EV looks like it was AI-generated \nThis past week, Kia celebrated its 80th anniversary with an exhibition that honored the brand’s history, at the center of which was the Vision Meta Turismo, a bonkers concept that foreshadows what Kia refers to as \"a new era of mobility.\"Continue ReadingCateg… \nThis past week, Kia celebrated its 80th anniversary with an exhibition that honored the brands history, at the center of which was the Vision Meta Turismo, a bonkers concept that foreshadows what Kia… [+2890 chars]",
+        "positive": 0.5543214678764343,
+        "negative": 9.163939830614254e-05,
+        "neutral": 0.4455868899822235
+      },
+      {
+        "source": "news",
+        "id": "http://coolhunting.com/culture/velocity-black-ups-the-ante-during-the-austin-grand-prix/",
+        "timestamp": "2025-12-08T21:18:34+00:00",
+        "text": "Velocity Black Ups the Ante During the Austin Grand Prix \nThe digital concierge service—and official luxury lifestyle partner of the Aston Martin Aramco Formula 1 team—show its members an exclusive and memorable way to experience the Grand Prix race weekend When it … \nThe digital concierge service—and official luxury lifestyle partner of the Aston Martin Aramco Formula 1 team—show its members an exclusive and memorable way to experience the Grand Prix race weekend… [+13298 chars]",
+        "positive": 0.001395485713146627,
+        "negative": 6.497810772998491e-06,
+        "neutral": 0.9985979199409485
+      },
+      {
+        "source": "news",
+        "id": "https://www.motherjones.com/sponsored/the-movement-to-build-the-future-america-promised/",
+        "timestamp": "2025-12-08T21:17:40+00:00",
+        "text": "The Movement to Build the Future America Promised \nFor decades, Americans have lived with the consequences of underinvestment and outdated systems in their communities. Families are navigating unaffordable housing, unreliable transportation, aging and inadequate water systems, and energy infrastructure stretc… \nCornell Watson Photography\r\nThis content was written by Anne Hawke, and paid for by Communities First; it was not written by and does not necessarily reflect the views of Mother Jones' editorial staf… [+12413 chars]",
+        "positive": 1.614671782590449e-05,
+        "negative": 0.022418340668082237,
+        "neutral": 0.9775654077529907
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/4887e439095a3f91",
+        "timestamp": "2025-12-08T21:15:44+00:00",
+        "text": "Dog Slept Outside for 12 Years—Night Routine at Foster Carer's Melts Hearts \nAfter years of living outside, one rescue dog started a precious nighttime routine in her foster home that quickly became a tearjerker among TikTok viewers.\nDanielle Vitti began fostering dogs through Real Dog Rescue in New Jersey at the start of the pandemic… \nAfter years of living outside, one rescue dog started a precious nighttime routine in her foster home that quickly became a tearjerker among TikTok viewers.Danielle Vitti began fostering dogs through… [+144 chars]",
+        "positive": 1.6522137229912914e-05,
+        "negative": 2.396032869000919e-05,
+        "neutral": 0.9999594688415527
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/0bbd95481c7cdaa5",
+        "timestamp": "2025-12-08T21:15:42+00:00",
+        "text": "U.S. Tech Stocks May Not Be So Exceptional in 2026 \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+740 chars]",
+        "positive": 0.002740281168371439,
+        "negative": 0.0009191034478135407,
+        "neutral": 0.9963405728340149
+      },
+      {
+        "source": "news",
+        "id": "https://mymodernmet.com/frank-gehry-trailblazing-architect-tribute/",
+        "timestamp": "2025-12-08T21:15:40+00:00",
+        "text": "RIP Frank Gehry: Legendary Postmodern Architect Has Died at 96 \nRIP Frank Gehry: Legendary Postmodern Architect Has Died at 96\nPioneering architect Frank Gehry died at his home in Santa Monica, Calif., on December 5, 2025, at the age of 96. His death followed a brief respiratory illness, according to his chief of staff, M… \nPioneering architect Frank Gehry died at his home in Santa Monica, Calif., on December 5, 2025, at the age of 96. His death followed a brief respiratory illness, according to his chief of staff, Meag… [+3706 chars]",
+        "positive": 0.001990350428968668,
+        "negative": 0.3996455669403076,
+        "neutral": 0.5983641147613525
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/39a42556bca07ac2",
+        "timestamp": "2025-12-08T21:15:35+00:00",
+        "text": "Mastercard, Mubadala Work on Deal for Embattled Brazil Fintech \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+795 chars]",
+        "positive": 9.696841152617708e-05,
+        "negative": 1.8455915778758936e-05,
+        "neutral": 0.9998844861984253
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/ec5db088875c7a0f",
+        "timestamp": "2025-12-08T21:15:29+00:00",
+        "text": "Asia outlook for 2026 shaped by cooling growth, tech investment and tariff resets \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+808 chars]",
+        "positive": 0.11233322322368622,
+        "negative": 0.00019371588132344186,
+        "neutral": 0.8874731063842773
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/2d7b930c497d04e7",
+        "timestamp": "2025-12-08T21:15:26+00:00",
+        "text": "This Popular Wall Street Strategist Says It’s a ‘High-Risk Bull Market.’ He’s Right, with the Fed in Focus \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+820 chars]",
+        "positive": 0.0006191170541569591,
+        "negative": 2.74397916655289e-05,
+        "neutral": 0.9993534684181213
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/e5f3c7deb4e073de",
+        "timestamp": "2025-12-08T21:15:25+00:00",
+        "text": "NBA’S Rozier Pleads Not Guilty to Passing Information for Bets \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+796 chars]",
+        "positive": 6.633938755840063e-05,
+        "negative": 0.00012741578393615782,
+        "neutral": 0.9998062252998352
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/4fff491a92358091",
+        "timestamp": "2025-12-08T21:15:24+00:00",
+        "text": "Stocks close lower, Treasury yields rise as Fed’s interest-rate decision nears \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+766 chars]",
+        "positive": 0.02161305397748947,
+        "negative": 0.00015508881187997758,
+        "neutral": 0.9782318472862244
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/c170d452d8cf076c",
+        "timestamp": "2025-12-08T21:15:21+00:00",
+        "text": "Simulated Trading Firm Accused of Fraud Clears Hurdle to Restart \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+800 chars]",
+        "positive": 0.0017848856514319777,
+        "negative": 0.0011094403453171253,
+        "neutral": 0.9971056580543518
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/a5df3992ed01f108",
+        "timestamp": "2025-12-08T21:15:14+00:00",
+        "text": "U.S. Markets Declined Monday; Air Products & Chemicals Fell Furthest \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+780 chars]",
+        "positive": 0.02143157832324505,
+        "negative": 0.9623100757598877,
+        "neutral": 0.016258321702480316
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201980/0/en/Microchip-Technology-to-Present-at-the-Barclays-23rd-Annual-Global-Technology-Conference.html",
+        "timestamp": "2025-12-08T21:15:00+00:00",
+        "text": "Microchip Technology to Present at the Barclays 23rd Annual Global Technology Conference \nCHANDLER, Ariz., Dec. 08, 2025 (GLOBE NEWSWIRE) -- (NASDAQ:MCHP) – Microchip Technology Incorporated, a leading provider of smart, connected, and secure embedded control solutions, today announced that the Company will present at the Barclays 23rd Annual Glob… \nCHANDLER, Ariz., Dec. 08, 2025 (GLOBE NEWSWIRE) -- (NASDAQ:MCHP) Microchip Technology Incorporated, a leading provider of smart, connected, and secure embedded control solutions, today announced that… [+1563 chars]",
+        "positive": 0.002285713329911232,
+        "negative": 9.648983905208297e-06,
+        "neutral": 0.9977046847343445
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201978/0/en/Latham-Group-Appoints-Sean-Gadd-as-Chief-Executive-Officer.html",
+        "timestamp": "2025-12-08T21:15:00+00:00",
+        "text": "Latham Group Appoints Sean Gadd as Chief Executive Officer \nLATHAM, N.Y., Dec. 08, 2025 (GLOBE NEWSWIRE) -- Latham Group, Inc. (Nasdaq: SWIM), the largest designer, manufacturer, and marketer of in-ground residential swimming pools in North America, Australia, and New Zealand, appoints Sean Gadd as the company’s new P… \n<ul><li>Lathams Board of Directors has appointed Sean Gadd as President and CEO following a comprehensive succession planning process</li><li>Mr. Gadd joins following a 21-year career at James Hardie… [+8529 chars]",
+        "positive": 9.532320291327778e-06,
+        "negative": 8.4674666140927e-06,
+        "neutral": 0.9999819993972778
+      },
       {
         "source": "news",
         "id": "https://www.globenewswire.com/news-release/2025/12/08/3201975/0/en/Broadway-Star-Morgan-Dudley-Joins-Stargaze-as-Creative-Advisor.html",
@@ -14,21 +392,21 @@
       },
       {
         "source": "news",
-        "id": "https://financialpost.com/pmn/business-pmn/simulated-trading-firm-clears-hurdle-restart",
-        "timestamp": "2025-12-08T21:12:29+00:00",
-        "text": "Simulated trading firm accused of fraud clears hurdle to restart \nA court in Canada has unfrozen most assets of MyForexFunds and its CEO, paving the way for the firm to resume operations. Find out more here \nA court in Canada has unfrozen most assets of MyForexFunds and its chief executive , paving the way for the simulated trading firm previously accused of fraud to resume operations.\r\nTHIS CONTENT IS R… [+4903 chars]",
-        "positive": 0.004378615412861109,
-        "negative": 0.0055850110948085785,
-        "neutral": 0.9900363683700562
-      },
-      {
-        "source": "news",
         "id": "https://financialpost.com/news/simulated-trading-firm-clears-hurdle-restart",
         "timestamp": "2025-12-08T21:12:29+00:00",
         "text": "Simulated trading firm accused of fraud clears hurdle to restart \nA court in Canada has unfrozen most assets of MyForexFunds and its chief executive officer, paving the way for the simulated trading firm previously accused of fraud to resume operations. \nA court in Canada has unfrozen most assets of MyForexFunds and its chief executive , paving the way for the simulated trading firm previously accused of fraud to resume operations.\r\nTHIS CONTENT IS R… [+4940 chars]",
         "positive": 0.003232510294765234,
         "negative": 0.009397833608090878,
         "neutral": 0.98736971616745
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/simulated-trading-firm-clears-hurdle-restart",
+        "timestamp": "2025-12-08T21:12:29+00:00",
+        "text": "Simulated trading firm accused of fraud clears hurdle to restart \nA court in Canada has unfrozen most assets of MyForexFunds and its CEO, paving the way for the firm to resume operations. Find out more here \nA court in Canada has unfrozen most assets of MyForexFunds and its chief executive , paving the way for the simulated trading firm previously accused of fraud to resume operations.\r\nTHIS CONTENT IS R… [+4903 chars]",
+        "positive": 0.004378615412861109,
+        "negative": 0.0055850110948085785,
+        "neutral": 0.9900363683700562
       },
       {
         "source": "news",
@@ -194,21 +572,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201964/10765/en/Reed-s-Inc-Announces-Closing-of-10-Million-Public-Offering-and-Uplisting-to-NYSE-American-Stock-Exchange.html",
-        "timestamp": "2025-12-08T21:05:00+00:00",
-        "text": "Reed’s, Inc. Announces Closing of $10 Million Public Offering and Uplisting to NYSE American Stock Exchange \nNORWALK, Conn., Dec. 08, 2025 (GLOBE NEWSWIRE) -- Reed’s, Inc. (NYSE American: REED) (“Reed’s” or the “Company”), owner of the nation’s leading portfolio of handcrafted, natural ginger beverages, today announced the closing of its previously announced underwr… \nNORWALK, Conn., Dec. 08, 2025 (GLOBE NEWSWIRE) -- Reeds, Inc. (NYSE American: REED) (Reeds or the Company), owner of the nations leading portfolio of handcrafted, natural ginger beverages, today anno… [+5070 chars]",
-        "positive": 4.261314825271256e-05,
-        "negative": 1.9035309151149704e-07,
-        "neutral": 0.9999572038650513
-      },
-      {
-        "source": "news",
         "id": "https://www.globenewswire.com/news-release/2025/12/08/3201963/0/en/Autolus-Therapeutics-Presents-Updated-Clinical-Data-from-the-CARLYSLE-Trial-in-Patients-with-Severe-Refractory-Systemic-Lupus-Erythematosus-at-the-American-Society-of-Hematology-AS.html",
         "timestamp": "2025-12-08T21:05:00+00:00",
         "text": "Autolus Therapeutics Presents Updated Clinical Data from the CARLYSLE Trial in Patients with Severe Refractory Systemic Lupus Erythematosus at the American Society of Hematology (ASH) Annual Meeting 2025 \nAutolus presented preliminary data from the Phase 1 CARLYSLE trial in patients with severe refractory systemic lupus erythematosus (srSLE) at ASH 2025.... \n<ul><li>Data show deep, durable responses in the 50 million cell dose level cohort; initial data suggest substantial early improvement in three patients dosed with 100 million cells</li><li>All patie… [+19224 chars]",
         "positive": 0.7620000839233398,
         "negative": 4.475002424442209e-05,
         "neutral": 0.23795513808727264
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201964/10765/en/Reed-s-Inc-Announces-Closing-of-10-Million-Public-Offering-and-Uplisting-to-NYSE-American-Stock-Exchange.html",
+        "timestamp": "2025-12-08T21:05:00+00:00",
+        "text": "Reed’s, Inc. Announces Closing of $10 Million Public Offering and Uplisting to NYSE American Stock Exchange \nNORWALK, Conn., Dec. 08, 2025 (GLOBE NEWSWIRE) -- Reed’s, Inc. (NYSE American: REED) (“Reed’s” or the “Company”), owner of the nation’s leading portfolio of handcrafted, natural ginger beverages, today announced the closing of its previously announced underwr… \nNORWALK, Conn., Dec. 08, 2025 (GLOBE NEWSWIRE) -- Reeds, Inc. (NYSE American: REED) (Reeds or the Company), owner of the nations leading portfolio of handcrafted, natural ginger beverages, today anno… [+5070 chars]",
+        "positive": 4.261314825271256e-05,
+        "negative": 1.9035309151149704e-07,
+        "neutral": 0.9999572038650513
       },
       {
         "source": "news",
@@ -464,21 +842,21 @@
       },
       {
         "source": "news",
-        "id": "https://www.discovermagazine.com/ancient-dirty-dishes-may-be-misleading-archaeologists-and-rewriting-history-48364",
-        "timestamp": "2025-12-08T21:00:00+00:00",
-        "text": "Ancient Dirty Dishes May Be Misleading Archaeologists ​and Rewriting History \nLearn more about oil residue left over on ancient \"dirty dishes\" and what they can tell us about ancient olive oil production. \nOlive oil has been a highly sought-after commodity for millennia, with evidence of cultivation since Neolithic times.\r\nOnly researchers at Cornell University are now saying its presence in ancient ar… [+4413 chars]",
-        "positive": 6.220499926712364e-05,
-        "negative": 4.0160153730539605e-05,
-        "neutral": 0.9998975992202759
-      },
-      {
-        "source": "news",
         "id": "https://www.abc.net.au/news/2025-12-09/the-australian-christmas-carols-that-should-be-on-your-playlist/106105838",
         "timestamp": "2025-12-08T21:00:00+00:00",
         "text": "Australian carols that are perfect for celebrating Christmas in the sun \nWe've rounded up some Australian Christmas carols to enhance your festive mood, from W.G. James to Christine Anu. \nAre you stuck listening to Let It Snow while figuring out how to crank your aircon?\r\nMost Australians can't have chestnuts roasting on an open fire because there's usually a fire ban in December.\r\n\"E… [+4255 chars]",
         "positive": 8.436047210125253e-06,
         "negative": 4.5915337977930903e-05,
         "neutral": 0.9999456405639648
+      },
+      {
+        "source": "news",
+        "id": "https://www.discovermagazine.com/ancient-dirty-dishes-may-be-misleading-archaeologists-and-rewriting-history-48364",
+        "timestamp": "2025-12-08T21:00:00+00:00",
+        "text": "Ancient Dirty Dishes May Be Misleading Archaeologists ​and Rewriting History \nLearn more about oil residue left over on ancient \"dirty dishes\" and what they can tell us about ancient olive oil production. \nOlive oil has been a highly sought-after commodity for millennia, with evidence of cultivation since Neolithic times.\r\nOnly researchers at Cornell University are now saying its presence in ancient ar… [+4413 chars]",
+        "positive": 6.220499926712364e-05,
+        "negative": 4.0160153730539605e-05,
+        "neutral": 0.9998975992202759
       },
       {
         "source": "news",
@@ -824,15 +1202,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.artnews.com/art-news/news/billboard-200-chart-everybodys-album-1234765833/",
-        "timestamp": "2025-12-08T20:42:41+00:00",
-        "text": "A Guerrilla Artist’s Latest Project? Game the Billboard Charts With an Album Made by 100,000 People \nMajor labels use creative tactics to inflate sales and so these charts don't really reflect true consumption patterns. So I thought, is there a way for common people to play that game?\" artist Danny Cole said. \nEditor’s note: This story is an edition of Link Rot, a bi-weekly column by Shanti Escalante-De Mattei that explores the intersections of art, technology, and the internet.\r\nThe plan? To steal the num… [+5789 chars]",
-        "positive": 9.545996135784662e-07,
-        "negative": 5.811278697365196e-06,
-        "neutral": 0.9999932050704956
-      },
-      {
-        "source": "news",
         "id": "https://biztoc.com/x/c9a8f43ea4c497dd",
         "timestamp": "2025-12-08T20:42:14+00:00",
         "text": "Jimmy Kimmel Extends Deal With Disney’s ABC for at Least a Year \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+797 chars]",
@@ -851,6 +1220,15 @@
       },
       {
         "source": "news",
+        "id": "https://biztoc.com/x/0ec2987636750ddc",
+        "timestamp": "2025-12-08T20:42:03+00:00",
+        "text": "US, Greenland Pledge ‘Mutual Respect’ at Talks Over the Arctic \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+793 chars]",
+        "positive": 0.0001344825141131878,
+        "negative": 4.729026113636792e-05,
+        "neutral": 0.9998182654380798
+      },
+      {
+        "source": "news",
         "id": "https://biztoc.com/x/dd94444f3ad907cf",
         "timestamp": "2025-12-08T20:42:03+00:00",
         "text": "Netflix Executives Confident They’ll Win Warner Bros. Fight \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+792 chars]",
@@ -866,15 +1244,6 @@
         "positive": 0.007248959504067898,
         "negative": 0.00035071081947535276,
         "neutral": 0.9924002885818481
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/0ec2987636750ddc",
-        "timestamp": "2025-12-08T20:42:03+00:00",
-        "text": "US, Greenland Pledge ‘Mutual Respect’ at Talks Over the Arctic \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+793 chars]",
-        "positive": 0.0001344825141131878,
-        "negative": 4.729026113636792e-05,
-        "neutral": 0.9998182654380798
       },
       {
         "source": "news",
@@ -923,30 +1292,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs",
-        "timestamp": "2025-12-08T20:41:34+00:00",
-        "text": "Trump announces $12bn package to aid farmers hurt by his tariffs \nFarmers have been dogged by trade wars that have seen reduced purchases and increased prices on seeds and fertiliser. \nUnited States President Donald Trump has announced a $12bn aid package to help farmers harmed by his hardline tariff policies.\r\nTrump announced the package at a White House event on Monday, saying th… [+2581 chars]",
-        "positive": 0.019092446193099022,
-        "negative": 0.09520269185304642,
-        "neutral": 0.8857048153877258
-      },
-      {
-        "source": "news",
         "id": "https://dailycaller.com/2025/12/08/trump-to-send-12-billion-in-tariff-revenue-to-farmers/",
         "timestamp": "2025-12-08T20:40:35+00:00",
         "text": "Trump To Send $12 Billion In Tariff Revenue To Farmers \nThe Trump administration rolled out a $12 billion relief package aimed at farmers who have been hammered by depressed crop prices and a sharp drop in exports. \nThe Trump administration on Monday rolled out a $12 billion relief package, funded by tariff revenue, aimed at farmers who have been hammered by depressed crop prices and a sharp drop in exports.\r\nRo… [+4151 chars]",
         "positive": 0.006734819151461124,
         "negative": 0.7589400410652161,
         "neutral": 0.23432523012161255
-      },
-      {
-        "source": "news",
-        "id": "https://www.memeorandum.com/251208/p103",
-        "timestamp": "2025-12-08T20:40:01+00:00",
-        "text": "Trump to unveil $12 billion aid package for farmers hit by trade war (Reuters) \nReuters:\nTrump to unveil $12 billion aid package for farmers hit by trade war  —  U.S. President Donald Trump will unveil a $12 billion aid package for American farmers on Monday, two White House officials said, a boost to an industry hit hard by his trade po… \nmemeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]",
-        "positive": 0.768475353717804,
-        "negative": 0.0005161636509001255,
-        "neutral": 0.23100854456424713
       },
       {
         "source": "news",
@@ -977,48 +1328,12 @@
       },
       {
         "source": "news",
-        "id": "https://smartphones.gadgethacks.com/news/apple-and-google-finally-team-up-to-fix-phone-switching/",
-        "timestamp": "2025-12-08T20:35:35+00:00",
-        "text": "Apple and Google Finally Team Up to Fix Phone Switching \nWhen you think about the relationship between Apple and Google, collaboration probably isn't the first word that comes to mind. These are the companies behind iOS and Android, the two platforms that have been locked in mobile warfare for over a decade. Yet so… \nWhen you think about the relationship between Apple and Google, collaboration probably isn't the first word that comes to mind. These are the companies behind iOS and Android, the two platforms that … [+10342 chars]",
-        "positive": 5.257647353573702e-05,
-        "negative": 2.744050470937509e-05,
-        "neutral": 0.9999200105667114
-      },
-      {
-        "source": "news",
-        "id": "https://smartphones.gadgethacks.com/news/apple-google-break-down-iphone-android-switch-barriers/",
-        "timestamp": "2025-12-08T20:35:33+00:00",
-        "text": "Apple & Google Break Down iPhone-Android Switch Barriers \nThe smartphone landscape is about to experience a seismic shift. Two of tech's biggest rivals are breaking down the walls that have long separated iPhone and Android users, making it easier than ever to jump between platforms. This unprecedented collaboration… \nThe smartphone landscape is about to experience a seismic shift. Two of tech's biggest rivals are breaking down the walls that have long separated iPhone and Android users, making it easier than ever… [+8727 chars]",
-        "positive": 0.6774200797080994,
-        "negative": 0.045377250760793686,
-        "neutral": 0.27720269560813904
-      },
-      {
-        "source": "news",
         "id": "https://nypost.com/2025/12/08/lifestyle/giant-santa-decor-is-impossible-to-find-this-season/",
         "timestamp": "2025-12-08T20:35:22+00:00",
         "text": "Giant Santas are impossible to find this season — and it’s killing the joy for Christmas decor devotees \nSleigh it ain't so! \nSleigh it ain’t so!\r\nChristmas enthusiasts are losing their holiday spirit due to the lack of giant Santa decor this season.\r\nIt seems as though the time to start shopping for holiday decor gets earl… [+3285 chars]",
         "positive": 3.978106178692542e-05,
         "negative": 0.9073547124862671,
         "neutral": 0.09260546416044235
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/1979-ford-bronco-231/",
-        "timestamp": "2025-12-08T20:33:40+00:00",
-        "text": "1979 Ford Bronco Custom Free Wheeling Project at No Reserve \nThis Raven Black 1979 Ford Bronco Custom was ordered with the Free Wheeling trim package, and it has Handling Package suspension in addition to a four-speed manual transmission. The truck was acquired in 2019 by the selling dealer, who reports that its 351ci … \nThis Raven Black 1979 Ford Bronco Custom was ordered with the Free Wheeling trim package, and it has Handling Package suspension in addition to a four-speed manual transmission. The truck was acquire… [+2400 chars]",
-        "positive": 5.697420419892296e-06,
-        "negative": 2.7066127586294897e-05,
-        "neutral": 0.9999672174453735
-      },
-      {
-        "source": "news",
-        "id": "https://zycrypto.com/blackrock-seeks-sec-nod-to-launch-staked-ethereum-etf/",
-        "timestamp": "2025-12-08T20:32:44+00:00",
-        "text": "BlackRock Seeks SEC Nod To Launch Staked Ethereum ETF \nBlackRock has officially applied to list and trade shares of an investment vehicle tied to a staked Ethereum exchange-traded fund (ETF). \nIn a bold push into on-chain yield exposure, BlackRock, the worlds largest asset manager, has officially applied to list and trade shares of an investment vehicle tied to a staked Ethereum exchange-t… [+1927 chars]",
-        "positive": 6.756879156455398e-05,
-        "negative": 2.8315596409811405e-06,
-        "neutral": 0.9999295473098755
       },
       {
         "source": "news",
@@ -1085,57 +1400,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.foxsports.com/stories/nfl/nfl-cfb-weekend-betting-recap-we-survived-bad-day",
-        "timestamp": "2025-12-08T20:30:22+00:00",
-        "text": "NFL, CFB Weekend Betting Recap: 'We Survived a Bad Day' \nHouston upsetting Kansas City helped the books survive on Sunday, while Indiana bolstered the house on Saturday. Patrick Everson breaks it all down. \nOn any given NFL Sunday, the bookmakers day comes down to who wins the Sunday night game. Ditto for the public betting masses.\r\nWhy? Because any moneyline parlays that are still live will inevitably … [+6268 chars]",
-        "positive": 0.00028125153039582074,
-        "negative": 0.09149637818336487,
-        "neutral": 0.9082223773002625
-      },
-      {
-        "source": "news",
-        "id": "https://www.businessinsider.com/tesla-stock-price-downgrade-morgan-stanley-fsd-optimus-evs-tsla-2025-12",
-        "timestamp": "2025-12-08T20:30:16+00:00",
-        "text": "Morgan Stanley cuts Tesla's stock rating from 'buy' for the first time in 2 years on valuation concerns \nTesla stock fell on Monday as Morgan Stanley downgraded its rating on the stock from \"buy\" to \"hold.\" \nTesla stock got a downgrade on Monday, sending it tumbling as much as 4% as Morgan Stanley lowered its recommendation for the first time since 2023. \r\nMorgan Stanley's Andrew Percoco downgraded Tesla… [+3181 chars]",
-        "positive": 0.00011763595102820545,
-        "negative": 0.9998747110366821,
-        "neutral": 7.616084076289553e-06
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/1987-ducati-750-f1-3/",
-        "timestamp": "2025-12-08T20:30:06+00:00",
-        "text": "1987 Ducati 750 F1 Laguna Seca Project at No Reserve \nThis 1987 Ducati 750 F1 is finished in the Laguna Seca red and silver livery over a red trellis frame and id equipped with a 748cc desmodromic L-twin paired with a five-speed transmission. Features include a two-into-one exhaust system, a full fairing, a mono… \nThis 1987 Ducati 750 F1 is finished in the Laguna Seca red and silver livery over a red trellis frame and id equipped with a 748cc desmodromic L-twin paired with a five-speed transmission. Features i… [+2419 chars]",
-        "positive": 1.2738138366330531e-06,
-        "negative": 1.7720574305712944e-06,
-        "neutral": 0.9999969005584717
-      },
-      {
-        "source": "news",
         "id": "https://oilprice.com/Latest-Energy-News/World-News/National-Gas-Prices-Fall-Again-To-Multi-Year-Lows.html",
         "timestamp": "2025-12-08T20:30:00+00:00",
         "text": "National Gas Prices Fall Again To Multi-Year Lows \nThe national average price of gasoline has continued on a downward trend after dropping below $3 a gallon a week ago, sinking to their lowest level since 2021. The median U.S. gas price is now $2.79 per gallon, with the national average 4 cents lower from a w… \nU.S. LNG exports are hitting…\r\nSoaring U.S. natural gas pricesdriven…\r\nBy Alex Kimani - Dec 08, 2025, 2:30 PM CSTThe national average price of gasoline has continued on a downward trend after droppin… [+2145 chars]",
         "positive": 0.0013087987899780273,
         "negative": 0.9984758496284485,
         "neutral": 0.0002153419191017747
-      },
-      {
-        "source": "news",
-        "id": "https://www.dawgsbynature.com/cleveland-browns-injuries/111986/cleveland-browns-confirm-ethan-pocic-suffered-season-ending-achilles-injury",
-        "timestamp": "2025-12-08T20:30:00+00:00",
-        "text": "Browns lose another O-lineman to season-ending injury \nStarting center Ethan Pocic’s season is finished after suffering a torn Achille’s tendon in Sunday’s game. \nCleveland Browns head coach Kevin Stefanski confirmed the news that no one wanted to hear on Monday.\r\nEthan Pocic, the clubs starting center since 2022, will miss the remainder of the season after su… [+2301 chars]",
-        "positive": 0.0005810977309010923,
-        "negative": 0.48803848028182983,
-        "neutral": 0.5113804340362549
-      },
-      {
-        "source": "news",
-        "id": "https://zycrypto.com/coinbase-returns-to-india-after-2-year-hiatus-targets-cash-to-crypto-purchases-in-2026/",
-        "timestamp": "2025-12-08T20:29:51+00:00",
-        "text": "Coinbase Returns To India After 2-Year Hiatus, Targets Cash-to-Crypto Purchases In 2026 \nCoinbase has resumed user registrations in India after a freeze of over two years, marking its first step back into a market the U.S. exchange abruptly exited in 2023 due to regulatory pressure over payment rails. Coinbase’s Cautious India Comeback Coinbase i… \nCoinbase has resumed user registrations in India after a freeze of over two years, marking its first step back into a market the U.S. exchange abruptly exited in 2023 due to regulatory pressure over … [+1949 chars]",
-        "positive": 0.04483482986688614,
-        "negative": 0.7183949947357178,
-        "neutral": 0.2367701232433319
       },
       {
         "source": "news",
@@ -1148,75 +1418,12 @@
       },
       {
         "source": "news",
-        "id": "https://rollingout.com/2025/12/08/trumps-12b-farmer-package-comes-costs/",
-        "timestamp": "2025-12-08T20:28:47+00:00",
-        "text": "Trump’s $12B farmer package comes with hidden costs \nPresident Donald Trump is preparing to unveil a $12 billion aid package designed to support American farmers weathering the storm of international trade tensions. The announcement, scheduled for Monday during a White House roundtable event, brings Treasury Se… \nPresident Donald Trump is preparing to unveil a $12 billion aid package designed to support American farmers weathering the storm of international trade tensions. The announcement, scheduled for Mond… [+4887 chars]",
-        "positive": 0.0009255672921426594,
-        "negative": 7.44101926102303e-05,
-        "neutral": 0.9990000128746033
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201942/0/en/Xtreme-One-Entertainment-Inc-OTC-XONI-to-Present-at-the-Small-Cap-Growth-Virtual-Investor-Conference-on-December-9.html",
-        "timestamp": "2025-12-08T20:28:00+00:00",
-        "text": "Xtreme One Entertainment, Inc. (OTC: XONI) to Present at the Small Cap Growth Virtual Investor Conference on December 9 \nCompany invites individual and institutional investors, financial advisors, and analysts to attend online via VirtualInvestorConferences.com Company invites individual and institutional investors, financial advisors, and analysts to attend online via VirtualI… \nGRAND RAPIDS, Mich., Dec. 08, 2025 (GLOBE NEWSWIRE) -- Xtreme One Entertainment, Inc. (OTCPink: XONI), a leading innovator in live sports and entertainment and the parent company of Xtreme Fighting C… [+3127 chars]",
-        "positive": 0.004717246629297733,
-        "negative": 2.4726341507630423e-06,
-        "neutral": 0.9952802658081055
-      },
-      {
-        "source": "news",
         "id": "https://theweek.com/personal-finance/housing-market-2026-mortgage-rates-home-prices",
         "timestamp": "2025-12-08T20:26:59+00:00",
         "text": "What will next year’s housing market look like? \nHere is what to expect from mortgage rates and home prices in 2026 \nThinking about buying or selling a house in 2026? If so, you are likely wondering how the housing market will shape up in the new year — and whether it will offer more favorable conditions than this … [+2991 chars]",
         "positive": 0.00010353057587053627,
         "negative": 0.007362058851867914,
         "neutral": 0.9925343990325928
-      },
-      {
-        "source": "news",
-        "id": "https://www.dw.com/en/us-supreme-court-poised-to-back-trump-over-ftc-case/a-75069359",
-        "timestamp": "2025-12-08T20:26:00+00:00",
-        "text": "US: Supreme Court poised to back Trump over FTC case \nConservative justices hinted that a legal precedent protecting agency tenure lengths and restricting presidential authority is out of date, but Liberals have warned of a significant boost to President Trump's power. \nThe United States Supreme Court on Monday appeared poised to hand President Donald Trump a significant boost in executive power after conservative justices signaled that they would uphold the dismiss… [+3588 chars]",
-        "positive": 0.9999988079071045,
-        "negative": 1.6565907401400182e-07,
-        "neutral": 1.1107222235295922e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.dw.com/en/usa-supreme-court-poised-to-back-trump-over-ftc-case/a-75069359",
-        "timestamp": "2025-12-08T20:26:00+00:00",
-        "text": "USA: Supreme Court poised to back Trump over FTC case \nConservative justices hinted that a legal precedent protecting agency tenure lengths and restricting presidential authority is out of date, but Liberals have warned of a significant boost to President Trump's power. \nThe United States Supreme Court on Monday appeared poised to hand President Donald Trump a significant boost in executive power after conservative justices signaled that they would uphold the dismiss… [+3588 chars]",
-        "positive": 0.9999984502792358,
-        "negative": 1.6842012939832784e-07,
-        "neutral": 1.404860995535273e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.blogto.com/travel/2025/12/uber-new-service-ontario-ski-resorts/",
-        "timestamp": "2025-12-08T20:25:38+00:00",
-        "text": "Uber launches new service connecting to Ontario ski resorts \nRidesharing giant Uber is now helping Ontario residents hit the ski slopes with its newly launched Uber Ski option on the Uber app.With Uber Ski, riders can book an UberXL — a vehicle large enough to accommodate passengers and their equipment — by simply sele… \nRidesharing giant Uber is now helping Ontario residents hit the ski slopes with its newly launched Uber Ski option on the Uber app.\r\nWith Uber Ski, riders can book an UberXL — a vehicle large enough … [+1899 chars]",
-        "positive": 0.01639736443758011,
-        "negative": 5.520252670976333e-05,
-        "neutral": 0.9835473895072937
-      },
-      {
-        "source": "news",
-        "id": "https://www.talkandroid.com/519126-one-ui-8-5-beta/",
-        "timestamp": "2025-12-08T20:25:00+00:00",
-        "text": "Samsung Turns the S25 Into a Powerhouse With One UI 8.5 Beta \nOne UI 8.5 Beta is now rolling out to your Galaxy S25 phone. \nSamsung has launched the One UI 8.5 beta, four months after the rollout of One UI 8. It's a big step toward a smarter Galaxy experience. Starting today, Galaxy S25 users in select markets can sign up… [+3080 chars]",
-        "positive": 0.0620436817407608,
-        "negative": 2.5605968403397128e-05,
-        "neutral": 0.9379307627677917
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201939/0/en/DarkPulse-Inc-to-Present-at-the-Small-Cap-Growth-Virtual-Investor-Conference-December-9th.html",
-        "timestamp": "2025-12-08T20:25:00+00:00",
-        "text": "DarkPulse, Inc. to Present at the Small Cap Growth Virtual Investor Conference December 9th \nCompany invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualInvestorConferences.com Company invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualI… \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- DarkPulse, Inc. (OTCQB: DPLS) (DarkPulse or the Company), based in New York and focused on advanced distributed fiber optic sensing technology for critical… [+6008 chars]",
-        "positive": 4.685521162173245e-06,
-        "negative": 2.8862513090643915e-07,
-        "neutral": 0.9999951124191284
       },
       {
         "source": "news",
@@ -1244,240 +1451,6 @@
         "positive": 5.848655564477667e-05,
         "negative": 2.923244574049022e-05,
         "neutral": 0.9999122619628906
-      },
-      {
-        "source": "news",
-        "id": "https://bulinews.com/leipzig-lens-haidara-winter-move-edges-closer",
-        "timestamp": "2025-12-08T20:20:00+00:00",
-        "text": "From Leipzig to Lens: Haidara’s winter move edges closer \nRC Lens are closing in on a major winter signing: Amadou Haidara is set to leave RB Leipzig and join the Ligue 1 leaders after reportedly passing his medical. The Malian midfielder has agreed terms ... \nRC Lens are closing in on a major winter signing: Amadou Haidara is set to leave RB Leipzig and join the Ligue 1 leaders after reportedly passing his medical. The Malian midfielder has agreed terms w… [+912 chars]",
-        "positive": 5.974099167360691e-06,
-        "negative": 4.696481482824311e-06,
-        "neutral": 0.99998939037323
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/763480c55cd4408c",
-        "timestamp": "2025-12-08T20:19:42+00:00",
-        "text": "Dow leading stocks lower in final hour as Fed's interest-rate call looms — live \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+766 chars]",
-        "positive": 0.05502590537071228,
-        "negative": 0.04624273627996445,
-        "neutral": 0.8987312912940979
-      },
-      {
-        "source": "news",
-        "id": "https://www.abc.net.au/news/2025-12-09/australia-biofuel-sector-has-untapped-potential-say-farmers/105802948",
-        "timestamp": "2025-12-08T20:19:41+00:00",
-        "text": "Farmers say Australia needs government will to unlock biofuel potential \nFuels produced from waste and agricultural feedstock are tipped to play a role in cutting emissions, but a leading Victorian farmer says political will is required to seize the opportunity. \nFifth-generation farmer Brett Hosking is preparing for harvest in Quambatook, western Victoria, where he grows wheat, barley and canola.\r\nAs the Victorian Farmers Federation president, he sees an opp… [+5482 chars]",
-        "positive": 0.003777244593948126,
-        "negative": 4.616024671122432e-05,
-        "neutral": 0.9961766004562378
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/17a9d9321b9891b4",
-        "timestamp": "2025-12-08T20:19:15+00:00",
-        "text": "Trump: There will be no deflation \nUnited States President Donald Trump commented on Monday that he sees inflation easing \"a little more.\" He added, however, that \"there will be no deflation.\"\"The prices are going down already. Prices ... \nUnited States President Donald Trump commented on Monday that he sees inflation easing \"a little more.\" He added, however, that \"there will be no deflation.\"\"The prices are going down already. Prices… [+69 chars]",
-        "positive": 0.017779579386115074,
-        "negative": 0.7832968831062317,
-        "neutral": 0.19892354309558868
-      },
-      {
-        "source": "news",
-        "id": "https://www.irishtimes.com/world/middle-east/2025/12/08/a-year-after-tyrant-assads-fall-syrians-mark-liberation-day-with-flags-and-fireworks/",
-        "timestamp": "2025-12-08T20:19:13+00:00",
-        "text": "A year after tyrant Assad’s fall, Syrians mark ‘liberation day’ with flags and fireworks \nCrowds gathered in celebration, but questions remain over country’s future \nHurry, the woman said as groups around her quickened their pace through the still-closed Damascus market, merging together into a swelling crowd. \r\nIt was just after 6am, and they were almost at Umay… [+4985 chars]",
-        "positive": 4.112248007004382e-06,
-        "negative": 0.002713971072807908,
-        "neutral": 0.9972819089889526
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/49b5b76217cb0fca",
-        "timestamp": "2025-12-08T20:19:13+00:00",
-        "text": "Medical supply firm Medline aims to raise $5.4 billion in US IPO \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Paramount launching a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's $… [+808 chars]",
-        "positive": 0.010897123254835606,
-        "negative": 9.979854439734481e-06,
-        "neutral": 0.9890928268432617
-      },
-      {
-        "source": "news",
-        "id": "https://www.kut.org/health/2025-12-08/ascension-seton-providence-blue-cross-blue-shield-health-insurance",
-        "timestamp": "2025-12-08T20:15:47+00:00",
-        "text": "Patients could lose in-network care if Ascension and Blue Cross don’t reach a deal by Jan. 1 \nPatients could lose in-network care if Ascension and Blue Cross don’t reach a deal by Jan. 1kut.org \nPeople with Blue Cross and Blue Shield insurance may lose access to in-network care at Ascension Seton facilities in the Austin area on Jan. 1 if the two entities do not agree on a new contract befor… [+2621 chars]",
-        "positive": 7.113794708857313e-05,
-        "negative": 0.997657060623169,
-        "neutral": 0.0022717821411788464
-      },
-      {
-        "source": "news",
-        "id": "https://techcrunch.com/2025/12/08/tiger-global-plans-cautious-venture-future-with-a-new-2-2b-fund/",
-        "timestamp": "2025-12-08T20:13:47+00:00",
-        "text": "Tiger Global plans cautious venture future with a new $2.2B fund | TechCrunch \nTiger's last fund did well with investmetments in OpenAI, Waymo and Databricks. But it warns investors that AI valuations are already 'elevated.' \nTiger Global, the investor that spurred the VC bull market of 2020-2021, is reportedly raising a fresh $2.2 billion fund.\r\nThe firm sent a letter to potential limited partners, according to a copy ob… [+2158 chars]",
-        "positive": 0.0010866486700251698,
-        "negative": 0.01037285104393959,
-        "neutral": 0.9885405898094177
-      },
-      {
-        "source": "news",
-        "id": "https://www.sportingnews.com/us/mlb/new-york-yankees/news/yankees-gm-brian-cashman-delivers-disappointing-news-regarding-pursuit-free-agent-superstar-kyle-tucker/15503e7235c196c8195887a8",
-        "timestamp": "2025-12-08T20:13:06+00:00",
-        "text": "Yankees GM Brian Cashman delivers disappointing news regarding the pursuit of free agent superstar Kyle Tucker \nThis might not be what Yankees fans want to hear. \nYankees GM Brian Cashman delivers disappointing news regarding the pursuit of free agent superstar Kyle Tucker originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by… [+2088 chars]",
-        "positive": 4.28937710239552e-06,
-        "negative": 0.9999945163726807,
-        "neutral": 1.2349729558991385e-06
-      },
-      {
-        "source": "news",
-        "id": "https://bleedingcool.com/games/rush-royale-celebrates-its-5th-anniversary-with-new-event/",
-        "timestamp": "2025-12-08T20:12:03+00:00",
-        "text": "Rush Royale Celebrates Its 5th Anniversary With New Event \nMobile publisher MY.GAMES has released a new update for Rush Royale this week, celebrating the game's 5th Anniversary. The shorthand is they're throwing a birthday event for the strategy tower defense game, as players will see special modes, rewards, decorati… \nPosted in: Games, Mobile Games | Tagged: MY.GAMES, Rush Royale\r\nRush Royale is celebrating its 5th Anniversary this week with an all-new celebration event, as they are marking its birthday in style\r\n… [+3172 chars]",
-        "positive": 0.009493331424891949,
-        "negative": 7.69999223848572e-06,
-        "neutral": 0.990498960018158
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201933/0/en/Primo-Brands-Corporation-Primo-Water-Corporation-Sued-for-Securities-Law-Violations-Contact-The-Gross-Law-Firm-Before-January-12-2026-to-Discuss-Your-Rights-PRMB.html",
-        "timestamp": "2025-12-08T20:12:00+00:00",
-        "text": "Primo Brands Corporation / Primo Water Corporation Sued for Securities Law Violations - Contact The Gross Law Firm Before January 12, 2026 to Discuss Your Rights – PRMB \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Primo Brands Corporation / Primo Water Corporation (NYSE: PRMB). \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Primo Brands Corporation / Primo Water Corporation (NYSE: PRMB).\r\nShareholders who purcha… [+2316 chars]",
-        "positive": 7.958312926348299e-05,
-        "negative": 0.0009184976224787533,
-        "neutral": 0.9990019202232361
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201934/0/en/The-Gross-Law-Firm-Reminds-StubHub-Holdings-Inc-Investors-of-the-Pending-Class-Action-Lawsuit-with-a-Lead-Plaintiff-Deadline-of-January-23-2026-STUB.html",
-        "timestamp": "2025-12-08T20:12:00+00:00",
-        "text": "The Gross Law Firm Reminds StubHub Holdings, Inc. Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of January 23, 2026 – STUB \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of StubHub Holdings, Inc. (NYSE: STUB). ... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of StubHub Holdings, Inc. (NYSE: STUB).\r\nShareholders who purchased shares of STUB during th… [+2615 chars]",
-        "positive": 5.560867521126056e-06,
-        "negative": 1.7478207155363634e-05,
-        "neutral": 0.9999768733978271
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201932/0/en/DeFi-Technologies-Sued-for-Securities-Law-Violations-Investors-Should-Contact-The-Gross-Law-Firm-for-More-Information-DEFT.html",
-        "timestamp": "2025-12-08T20:12:00+00:00",
-        "text": "DeFi Technologies Sued for Securities Law Violations – Investors Should Contact The Gross Law Firm for More Information – DEFT \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of DeFi Technologies (NASDAQ: DEFT). ... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of DeFi Technologies (NASDAQ: DEFT).\r\nShareholders who purchased shares of DEFT during the c… [+2739 chars]",
-        "positive": 7.853906026866753e-06,
-        "negative": 0.0002229872770840302,
-        "neutral": 0.9997691512107849
-      },
-      {
-        "source": "news",
-        "id": "https://screenrant.com/netflix-ad-tier-movies-shows-unavailable-december-2025/",
-        "timestamp": "2025-12-08T20:11:59+00:00",
-        "text": "135 Movies & Shows Unavailable To Some Netflix Subscribers In December \nOver 100 movies and TV shows are unavailable on Netflix if you subscribe to the advertising tier, including originals and licensed titles. \n135 movies and TV shows are blocked on Netflix for subscribers to the platform's advertising tier, as of December 2025 (see full list below). The streaming era began with Netflix, but the giant has s… [+7220 chars]",
-        "positive": 2.0932016013830435e-06,
-        "negative": 0.0004985108389519155,
-        "neutral": 0.9994993209838867
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201929/0/en/Shareholders-that-lost-money-on-Avantor-Inc-AVTR-should-contact-The-Gross-Law-Firm-about-pending-Class-Action-AVTR.html",
-        "timestamp": "2025-12-08T20:11:00+00:00",
-        "text": "Shareholders that lost money on Avantor, Inc.(AVTR) should contact The Gross Law Firm about pending Class Action - AVTR \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Avantor, Inc. (NYSE: AVTR).  Shareholders... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Avantor, Inc. (NYSE: AVTR).\r\nShareholders who purchased shares of AVTR during the class p… [+2234 chars]",
-        "positive": 2.6512245767662534e-06,
-        "negative": 6.445091003115522e-06,
-        "neutral": 0.9999909400939941
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201930/0/en/Telix-Pharmaceuticals-Ltd-Securities-Fraud-Class-Action-Lawsuit-Pending-Contact-The-Gross-Law-Firm-Before-January-9-2026-to-Discuss-Your-Rights-TLX.html",
-        "timestamp": "2025-12-08T20:11:00+00:00",
-        "text": "Telix Pharmaceuticals Ltd. Securities Fraud Class Action Lawsuit Pending: Contact The Gross Law Firm Before January 9, 2026 to Discuss Your Rights – TLX \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Telix Pharmaceuticals Ltd. (NASDAQ: TLX). ... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Telix Pharmaceuticals Ltd. (NASDAQ: TLX).\r\nShareholders who purchased shares of TLX durin… [+2330 chars]",
-        "positive": 2.010736579904915e-06,
-        "negative": 1.6445441360701807e-05,
-        "neutral": 0.9999815225601196
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201931/0/en/The-Gross-Law-Firm-Reminds-Perrigo-Company-plc-Investors-of-the-Pending-Class-Action-Lawsuit-with-a-Lead-Plaintiff-Deadline-of-January-16-2026-PRGO.html",
-        "timestamp": "2025-12-08T20:11:00+00:00",
-        "text": "The Gross Law Firm Reminds Perrigo Company plc Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of January 16, 2026 – PRGO \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Perrigo Company plc (NYSE: PRGO). ... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Perrigo Company plc (NYSE: PRGO).\r\nShareholders who purchased shares of PRGO during the c… [+2656 chars]",
-        "positive": 4.710539542429615e-06,
-        "negative": 1.9192122636013664e-05,
-        "neutral": 0.9999760389328003
-      },
-      {
-        "source": "news",
-        "id": "https://adswerve.com/blog/2026-marketing-predictions-the-year-the-complacent-get-left-behind",
-        "timestamp": "2025-12-08T20:10:35+00:00",
-        "text": "2026 Marketing Predictions: The Year the Complacent Get Left Behind \n2026 rewards proactive marketers: modernize analytics, win in fragmented media and CTV, adopt AI wisely, and get ahead of privacy shifts. \nAmid rapid evolution in 2026, marketers cant afford to sit still. Those who lean into restructuring measurement, embracing AI and solving fragmentation will lead. Those who wait will fall behind.\r\nBe… [+5872 chars]",
-        "positive": 0.29090896248817444,
-        "negative": 0.0018766606226563454,
-        "neutral": 0.7072144150733948
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201924/0/en/Shareholders-of-James-Hardie-Industries-plc-Should-Contact-The-Gross-Law-Firm-Before-December-23-2025-to-Discuss-Your-Rights-JHX.html",
-        "timestamp": "2025-12-08T20:10:00+00:00",
-        "text": "Shareholders of James Hardie Industries plc. Should Contact The Gross Law Firm Before December 23, 2025 to Discuss Your Rights – JHX \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of James Hardie Industries plc. (NYSE: JHX). ... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of James Hardie Industries plc. (NYSE: JHX).\r\nShareholders who purchased shares of JHX durin… [+2258 chars]",
-        "positive": 1.1945984397243592e-06,
-        "negative": 5.830745976709295e-06,
-        "neutral": 0.9999929666519165
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201925/0/en/Shareholders-that-lost-money-on-DexCom-Inc-DXCM-Urged-to-Join-Class-Action-Contact-The-Gross-Law-Firm-to-Learn-More.html",
-        "timestamp": "2025-12-08T20:10:00+00:00",
-        "text": "Shareholders that lost money on DexCom, Inc.(DXCM) Urged to Join Class Action – Contact The Gross Law Firm to Learn More \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of DexCom, Inc. (NASDAQ: DXCM).  Shareholders... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of DexCom, Inc. (NASDAQ: DXCM).\r\nShareholders who purchased shares of DXCM during the class … [+2822 chars]",
-        "positive": 3.605491201597033e-06,
-        "negative": 6.1013756749161985e-06,
-        "neutral": 0.9999903440475464
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201926/0/en/Lost-Money-on-Stride-Inc-LRN-Join-Class-Action-Suit-Seeking-Recovery-Contact-The-Gross-Law-Firm.html",
-        "timestamp": "2025-12-08T20:10:00+00:00",
-        "text": "Lost Money on Stride, Inc.(LRN)? Join Class Action Suit Seeking Recovery – Contact The Gross Law Firm \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Stride, Inc. (NYSE: LRN).  Shareholders who... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Stride, Inc. (NYSE: LRN).\r\nShareholders who purchased shares of LRN during the class peri… [+2391 chars]",
-        "positive": 3.2856842153705657e-05,
-        "negative": 0.00014406460104510188,
-        "neutral": 0.9998230338096619
-      },
-      {
-        "source": "news",
-        "id": "https://theweek.com/politics/trump-bubble-gop-voters-media",
-        "timestamp": "2025-12-08T20:09:57+00:00",
-        "text": "Is Trump in a bubble? \nGOP allies worry he is not hearing voters \nIt is tough for any president to sense what their policies look like in the real world, surrounded as they are by security agents and yes-men. Those protective layers are called a “bubble,” and some … [+3561 chars]",
-        "positive": 6.349418981699273e-05,
-        "negative": 0.11268002539873123,
-        "neutral": 0.8872564435005188
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201920/0/en/The-Gross-Law-Firm-Reminds-Shareholders-of-a-Lead-Plaintiff-Deadline-of-January-12-2026-in-Firefly-Aerospace-Inc-Lawsuit-FLY.html",
-        "timestamp": "2025-12-08T20:09:00+00:00",
-        "text": "The Gross Law Firm Reminds Shareholders of a Lead Plaintiff Deadline of January 12, 2026 in Firefly Aerospace Inc. Lawsuit – FLY \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Firefly Aerospace Inc. (NASDAQ: FLY). ... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Firefly Aerospace Inc. (NASDAQ: FLY).\r\nShareholders who purchased shares of FLY during th… [+2836 chars]",
-        "positive": 6.166466846480034e-06,
-        "negative": 2.8908114472869784e-05,
-        "neutral": 0.9999648332595825
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201923/0/en/December-15-2025-Deadline-Contact-The-Gross-Law-Firm-to-Join-Class-Action-Suit-Against-BAX.html",
-        "timestamp": "2025-12-08T20:09:00+00:00",
-        "text": "December 15, 2025 Deadline: Contact The Gross Law Firm to Join Class Action Suit Against BAX \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Baxter International, Inc. (NYSE: BAX). ... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Baxter International, Inc. (NYSE: BAX).\r\nShareholders who purchased shares of BAX during … [+2853 chars]",
-        "positive": 8.598832209827378e-06,
-        "negative": 1.6162484826054424e-05,
-        "neutral": 0.9999752044677734
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201922/0/en/Contact-The-Gross-Law-Firm-by-December-15-2025-Deadline-to-Join-Class-Action-Against-MoonLake-Immunotherapeutics-MLTX.html",
-        "timestamp": "2025-12-08T20:09:00+00:00",
-        "text": "Contact The Gross Law Firm by December 15, 2025 Deadline to Join Class Action Against MoonLake Immunotherapeutics(MLTX) \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of MoonLake Immunotherapeutics (NASDAQ: MLTX).... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of MoonLake Immunotherapeutics (NASDAQ: MLTX).\r\nShareholders who purchased shares of MLTX du… [+2453 chars]",
-        "positive": 9.536606171423045e-07,
-        "negative": 3.85067824026919e-06,
-        "neutral": 0.999995231628418
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/08/3201921/0/en/Investors-who-lost-money-on-Skye-Bioscience-Inc-SKYE-should-contact-The-Gross-Law-Firm-about-pending-Class-Action-SKYE.html",
-        "timestamp": "2025-12-08T20:09:00+00:00",
-        "text": "Investors who lost money on Skye Bioscience, Inc.(SKYE) should contact The Gross Law Firm about pending Class Action - SKYE \nNEW YORK, Dec.  08, 2025  (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Skye Bioscience, Inc. (NASDAQ: SKYE). ... \nNEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Skye Bioscience, Inc. (NASDAQ: SKYE).\r\nShareholders who purchased shares of SKYE during t… [+2245 chars]",
-        "positive": 2.1271409877954284e-06,
-        "negative": 1.2917541425849777e-05,
-        "neutral": 0.9999849796295166
       },
       {
         "source": "news",
@@ -23791,9 +23764,9 @@
         "neutral": 0.002497967565432191
       }
     ],
-    "nw": 0.42479396306121187,
-    "nw_norm": 71.23969815306059
+    "nw": 0.44615718730492754,
+    "nw_norm": 72.30785936524637
   },
-  "gsi": 71.23969815306059,
+  "gsi": 72.30785936524637,
   "classification": "Bullish"
 }
