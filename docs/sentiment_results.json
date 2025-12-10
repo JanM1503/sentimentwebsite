@@ -1,8 +1,233 @@
 {
-  "timestamp": "2025-12-10T19:28:23.386552+00:00",
+  "timestamp": "2025-12-10T19:40:45.001982+00:00",
   "news": {
-    "count": 2639,
+    "count": 2644,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.foxnews.com/politics/minnesotas-anti-fraud-spending-has-quietly-ballooned-leaving-taxpayers-pay-failure-twice",
+        "timestamp": "2025-12-09T19:33:16+00:00",
+        "text": "Minnesota’s anti-fraud spending has quietly ballooned, leaving taxpayers to pay for failure twice \nMinnesota taxpayers face double hit from $250 million Feeding Our Future fraud – paying for the theft and now funding expensive state cleanup efforts. \nIn the wake of a years-long $250 million welfare fraud scheme, Minnesota taxpayers will now finance a pricey state-level cleanup effort, effectively paying for the failure twice after state officials… [+3448 chars]",
+        "positive": 0.3760296702384949,
+        "negative": 0.0628378838300705,
+        "neutral": 0.5611324310302734
+      },
+      {
+        "source": "news",
+        "id": "https://www.nzherald.co.nz/the-country/news/new-government-rules-coming-for-micro-abattoirs-homekill-for-sale-in-pipeline/YWAQED5OHZGURMZHI6JZEGTU4I/",
+        "timestamp": "2025-12-09T19:33:13+00:00",
+        "text": "New government rules coming for micro-abattoirs; homekill for sale in pipeline \nThe Government is looking to cut red tape for small meat processors. \nThat will be reduced to 30 in the first season and 12 in subsequent seasons, from April next year.\r\nFood Safety Minister Andrew Hoggard said micro-abattoirs told officials the testing rules were unne… [+1524 chars]",
+        "positive": 1.5219503438856918e-05,
+        "negative": 0.00223489198833704,
+        "neutral": 0.9977498650550842
+      },
+      {
+        "source": "news",
+        "id": "https://www.rt.com/news/629237-eurasia-unity-global-security/",
+        "timestamp": "2025-12-09T19:32:56+00:00",
+        "text": "Eurasian unity key to global stability – experts \nEurasian unity and a security architecture are vital for global stability, resisting sanctions and interference, Valdai experts have told RT Read Full Article at RT.com \nEurasian unity is essential to global stability and should be backed by a new regional security architecture, experts have told RT on the sidelines of the Valdai Discussion Club.\r\nThe conference ‘Sec… [+2194 chars]",
+        "positive": 0.00014557168469764292,
+        "negative": 1.7617459889152087e-05,
+        "neutral": 0.999836802482605
+      },
+      {
+        "source": "news",
+        "id": "https://consequence.net/2025/12/joe-satriani-steve-vai-2026-north-american-satchvai-band-tour/",
+        "timestamp": "2025-12-09T19:32:49+00:00",
+        "text": "Joe Satriani and Steve Vai Announce 2026 North American SATCHVAI Band Tour \nThe guitar legends will be supported by Animal As Leaders on the spring outing.\nJoe Satriani and Steve Vai Announce 2026 North American SATCHVAI Band Tour\nSpencer Kaufman \nGuitar virtuosos Joe Satriani and Steve Vai are taking their new outfit SATCHVAI Band on a 2026 North American tour. The spring outing features support from the acclaimed instrumental prog-metal band… [+3833 chars]",
+        "positive": 0.0010874009458348155,
+        "negative": 1.917592499012244e-06,
+        "neutral": 0.998910665512085
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2025/12/09/business/the-labubu-craze-is-so-hot-that-even-copycat-versions-are-selling-out/",
+        "timestamp": "2025-12-09T19:32:43+00:00",
+        "text": "The Labubu craze is so hot that even copycat versions are selling out \n“We sold 10,000 of them in 30 minutes -- this was a huge surprise for us,\" Larian told The Post. \nThe Labubu craze is so hot that even copycat versions of the fuzzy, big-eyed elf dolls are selling out, The Post has learned.\r\nBratziez — whose wooly, neon-and-pastel outfits evoke Labubus as well as… [+4407 chars]",
+        "positive": 0.7805913090705872,
+        "negative": 0.008281653746962547,
+        "neutral": 0.21112705767154694
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202741/0/en/White-Lodging-Names-David-Cirincione-to-Regional-Director-of-Operations.html",
+        "timestamp": "2025-12-09T19:32:00+00:00",
+        "text": "White Lodging Names David Cirincione to Regional Director of Operations \nMerrillville, Indiana, Dec. 09, 2025 (GLOBE NEWSWIRE) -- White Lodging, one of the hospitality industry’s leading hotel development, ownership, and management companies, is pleased to announce the promotion of David Cirincione to the role of Regional Director… \nMerrillville, Indiana, Dec. 09, 2025 (GLOBE NEWSWIRE) -- White Lodging, one of the hospitality industrys leading hotel development, ownership, and management companies, is pleased to announce the pro… [+2933 chars]",
+        "positive": 0.9477078914642334,
+        "negative": 3.5857335660693934e-06,
+        "neutral": 0.05228845775127411
+      },
+      {
+        "source": "news",
+        "id": "https://brobible.com/sports/article/negaunee-high-school-basketball-michigan-controversy-player-kicked-off-team-hunting/",
+        "timestamp": "2025-12-09T19:30:57+00:00",
+        "text": "Michigan High School Basketball Player Kicked Off Team For Skipping Practice To Go Hunting With Family \nNegaunee head coach William Hill decided to remove one of his players from the team prior to the first game of the high school basketball season in Michigan. The student-athlete missed two practices to go hunting with his family. As of this writing, he has no… \nAs a result of its remote location, Neguanee High School enrolls 450 students in Grades 9-12.Only 12 students tried out for the boys varsity basketball team in total. Two of the students who tried ou… [+3738 chars]",
+        "positive": 2.175874442400527e-06,
+        "negative": 0.0001196752127725631,
+        "neutral": 0.9998781681060791
+      },
+      {
+        "source": "news",
+        "id": "https://9to5mac.com/2025/12/09/spotify-music-videos-us-canada-beta/",
+        "timestamp": "2025-12-09T19:30:53+00:00",
+        "text": "Spotify subscribers in the U.S. and Canada can now watch music videos \nIt’s been a long time coming, but premium Spotify subscribers in the U.S. and Canada can finally watch music videos of their favorite artists. However, the feature is still in beta. Here are the details.\n\n\n\n more… \nIts been a long time coming, but premium Spotify subscribers in the U.S. and Canada can finally watch music videos of their favorite artists. However, the feature is still in beta. Here are the detai… [+1911 chars]",
+        "positive": 6.409187335520983e-06,
+        "negative": 5.15348847329733e-06,
+        "neutral": 0.9999884366989136
+      },
+      {
+        "source": "news",
+        "id": "https://www.bleedinggreennation.com/news/165869/eagles-news-philadelphias-worst-offensive-stretch-in-13-years",
+        "timestamp": "2025-12-09T19:30:49+00:00",
+        "text": "Eagles News: Philadelphia’s worst offensive stretch in 13 years \nPhiladelphia Eagles news and links for 12/9/25. \nLets get to the Philadelphia Eagles news and links \r\nRoobs Eagles Observations after a nightmare loss to Chargers NBCSPAnd beyond Jalen, this offense is just such a mess right now. They had drives to… [+18710 chars]",
+        "positive": 0.0034085416700690985,
+        "negative": 0.8416052460670471,
+        "neutral": 0.15498623251914978
+      },
+      {
+        "source": "news",
+        "id": "https://www.commonsensewithmoney.com/3-pairs-gold-thick-hoop-earrings-14k-gold-plated-just-8-98/",
+        "timestamp": "2025-12-09T19:30:47+00:00",
+        "text": "3 Pairs Gold Thick Hoop Earrings, 14k Gold Plated – Just $8.98! \nAre you on the lookout for fun hoop earrings for stuffing the stockings? How about grabbing these for a gift or just for yourself? Such a good idea! Save big on pretty earrings! Get on over to Amazon and get 3 Pairs Gold Thick Hoop Earrings – 14... \nAre you on the lookout for fun hoop earrings for stuffing the stockings? How about grabbing these for a gift or just for yourself? Such a good idea! Save big on pretty earrings! Get on over to Amazon… [+423 chars]",
+        "positive": 1.328324378846446e-05,
+        "negative": 7.310338332899846e-06,
+        "neutral": 0.9999794960021973
+      },
+      {
+        "source": "news",
+        "id": "https://www.pymnts.com/blockchain/2025/stripe-and-paradigm-open-tempo-blockchain-project-to-public/",
+        "timestamp": "2025-12-09T19:30:30+00:00",
+        "text": "Stripe and Paradigm Open Tempo Blockchain Project to Public \nStripe and cryptocurrency venture firm Paradigm have reportedly begun a public trial for their blockchain project, Tempo. That’s according to a report Tuesday (Dec. 9) from Bloomberg News, which says the partners have opened the network to any company that wa… \nStripe and cryptocurrency venture firm Paradigm have reportedly begun a public trial for their blockchain project, Tempo.Thats according to a report Tuesday (Dec. 9) from Bloomberg News, which says t… [+2437 chars]",
+        "positive": 2.4984806259453762e-06,
+        "negative": 8.771440661803354e-06,
+        "neutral": 0.9999886751174927
+      },
+      {
+        "source": "news",
+        "id": "https://www.dw.com/en/what-donald-trump-likes-so-much-about-middle-east-authoritarians/a-75078375",
+        "timestamp": "2025-12-09T19:30:00+00:00",
+        "text": "What Donald Trump likes so much about Middle East authoritarians \nThe US president called Europe \"weak\" and \"pathetic\" and seems to prefer the company of \"strong\" Middle Eastern leaders. That may be because he has more in common with them than the US' traditional allies, experts say. \nIt's hard to find US President Donald Trump saying a bad word about the \"strong men\" and authoritarians of the Middle East.\r\nHe's called Saudi Arabian leader Mohammed bin Salman \"fantastic\" and \"bril… [+7582 chars]",
+        "positive": 0.004874260164797306,
+        "negative": 0.032872967422008514,
+        "neutral": 0.9622527956962585
+      },
+      {
+        "source": "news",
+        "id": "https://oilprice.com/Latest-Energy-News/World-News/Israel-To-Approve-35B-Gas-Export-Deal-With-Egypt-Amid-US-Pressure.html",
+        "timestamp": "2025-12-09T19:30:00+00:00",
+        "text": "Israel To Approve $35B Gas Export Deal With Egypt Amid U.S. Pressure \nIsrael is expected to approve its $35 billion gas export with Egypt, worth an estimated $35 billion, amid pressure from the Trump administration. Under the deal, Israel will export 130 billion cubic meters of natural gas from the Leviathan gas field to Egypt … \nIrans decades-long strategic partnership with…\r\nEuropes ambitious 2027 phase-out of…\r\nBy Charles Kennedy - Dec 09, 2025, 1:30 PM CSTIsrael is expected to approve its $35 billion gas export with Egypt… [+1942 chars]",
+        "positive": 0.008400783874094486,
+        "negative": 0.00023812490690033883,
+        "neutral": 0.9913610816001892
+      },
+      {
+        "source": "news",
+        "id": "http://comicbook.com/movies/list/every-stranger-things-star-cast-for-the-mcu-now-that-sadie-sink-is-joining-spider-man/",
+        "timestamp": "2025-12-09T19:30:00+00:00",
+        "text": "Every Stranger Things Star Cast for the MCU (Now That Sadie Sink is Joining Spider-Man) \nimages courtesy of Netflix and Marvel Studios\nStranger Things is in the midst of airing its final episodes and suffice to say, a lot of people are tuning in to see where things end up. And, when something is as popular as Stranger Things is, it typically is n… \nStranger Thingsis in the midst of airing its final episodes and suffice to say, a lot of people are tuning in to see where things end up. And, when something is as popular as Stranger Thingsis, it ty… [+6035 chars]",
+        "positive": 4.152202109253267e-06,
+        "negative": 5.0450678827473894e-05,
+        "neutral": 0.9999454021453857
+      },
+      {
+        "source": "news",
+        "id": "https://www.zdnet.com/article/anthropic-openai-enterprise-market-share-2025/",
+        "timestamp": "2025-12-09T19:29:57+00:00",
+        "text": "While Google and OpenAI battle for model dominance, Anthropic is quietly winning the enterprise AI race \nA survey by venture capital firm Menlo Ventures also finds that agentic AI is still a niche. \nYuichiro Chino/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways  \r\n<ul><li>Anthropic has toppled OpenAI in share of enterprise GenAI spending.</li><li>En… [+9582 chars]",
+        "positive": 0.8558245897293091,
+        "negative": 0.000437818089267239,
+        "neutral": 0.14373762905597687
+      },
+      {
+        "source": "news",
+        "id": "https://www.the-sun.com/news/15613594/",
+        "timestamp": "2025-12-09T19:28:39+00:00",
+        "text": "DEPTHS OF HELL: Inside 'Gaza Metro' terror tunnels... \nDEPTHS OF HELL: Inside 'Gaza Metro' terror tunnels...\r\n\n \n \n \n (Third column, 5th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Where Hamas plotted attacks, hostages chained & tortured...\r\nHow Jared became indispensable second peace envoy...\r\nWhite House sees Eur… \nAttention,\r\nOur system has indicated that your user behaviour is potentially automated.\r\nNews Group Newspapers Limited does not permit the access, collection, text or data mining of any content from … [+717 chars]",
+        "positive": 7.39486040401971e-07,
+        "negative": 3.037055421373225e-06,
+        "neutral": 0.9999963045120239
+      },
+      {
+        "source": "news",
+        "id": "https://www.the-sun.com/money/15613177",
+        "timestamp": "2025-12-09T19:28:39+00:00",
+        "text": "Paper checks could soon disappear... \nPaper checks could soon disappear...\r\n\n \n \n \n (Third column, 16th story, link)\r\n\n \r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron \nAttention,\r\nOur system has indicated that your user behaviour is potentially automated.\r\nNews Group Newspapers Limited does not permit the access, collection, text or data mining of any content from … [+717 chars]",
+        "positive": 9.0321594825582e-07,
+        "negative": 3.959959030908067e-06,
+        "neutral": 0.9999951124191284
+      },
+      {
+        "source": "news",
+        "id": "https://www.coindesk.com/markets/2025/12/10/dogecoin-surges-as-ether-zooms-8-sparking-bullish-reversal-for-memecoins",
+        "timestamp": "2025-12-09T19:27:47+00:00",
+        "text": "Dogecoin Surges as Ether Zooms 8%, Sparking Bullish Reversal For Memecoins \nThe breakout now sets up a clean continuation zone—provided bulls defend the mid-range pivot they just reclaimed. \nDogecoin finally forced a resolve on its multi-session compression, punching above $0.15 on a volume-backed breakout that signaled the first real momentum shift in days as ether ETH\r\n$3,350.92 zoomed… [+1812 chars]",
+        "positive": 0.9999159574508667,
+        "negative": 7.546817505499348e-05,
+        "neutral": 8.612348210590426e-06
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/f27d83cb2467be18",
+        "timestamp": "2025-12-09T19:26:09+00:00",
+        "text": "Trump unveils $12B bailout for tariff-hit farmers \nWhat happened\nPresident Donald Trump Monday announced $12 billion in aid for farmers struggling with higher fertilizer and equipment costs and the loss of export markets — China, especially — tied to his trade war. He unveiled the bailout at a White House rou… \nWhat happenedPresident Donald Trump Monday announced $12 billion in aid for farmers struggling with higher fertilizer and equipment costs and the loss of export markets China, especially tied to his … [+133 chars]",
+        "positive": 2.6108587917406112e-05,
+        "negative": 0.999775230884552,
+        "neutral": 0.00019871679251082242
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/2d18780a5b515f16",
+        "timestamp": "2025-12-09T19:25:46+00:00",
+        "text": "Rangebound markets, resilient onchain lending \nCrypto lags behind TradFi benchmarks, but trends in stablecoins, deposits and loans point to durable multi-year growth \nCrypto lags behind TradFi benchmarks, but trends in stablecoins, deposits and loans point to durable multi-year growth\r\nThis story appeared on blockworks.co, 2025-12-09 18:38:30.",
+        "positive": 0.11823996901512146,
+        "negative": 0.0007250240887515247,
+        "neutral": 0.8810349702835083
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/9baca3e72a512514",
+        "timestamp": "2025-12-09T19:25:41+00:00",
+        "text": "US car prices are going up, but how much of it is from tariffs? \nBy Luke Ramseth, Detroit News\nNew car prices didn’t spike after President Donald Trump announced sweeping tariffs in the spring, as some experts and dealers projected.\nBut prices on many models are now pushing notably higher — and analysts said carmakers reco… \nBy Luke Ramseth, Detroit NewsNew car prices didnt spike after President Donald Trump announced sweeping tariffs in the spring, as some experts and dealers projected.But prices on many models are now … [+144 chars]",
+        "positive": 0.011930766515433788,
+        "negative": 0.009037106297910213,
+        "neutral": 0.9790321588516235
+      },
+      {
+        "source": "news",
+        "id": "https://www.ibtimes.com/how-dope-daiquiris-unlocking-new-era-alcohol-alternative-experiences-3792197",
+        "timestamp": "2025-12-09T19:25:24+00:00",
+        "text": "How Dope Daiquiris Is Unlocking a New Era of Alcohol-Alternative Experiences \nA growing number of consumers are choosing alcohol-free lifestyles, and studies show a sharp rise in sober-curious events and wellness-driven social experiences. \nDope Daiquiris is emerging at the center of a cultural shift that is reshaping how people gather, celebrate, and unwind. A growing number of consumers are choosing alcohol-free lifestyles, and studie… [+3549 chars]",
+        "positive": 0.3670775294303894,
+        "negative": 0.0016981485532596707,
+        "neutral": 0.6312243342399597
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202738/0/en/Sintana-Energy-Inc-Provides-Update-on-Conditions-and-Timetable.html",
+        "timestamp": "2025-12-09T19:24:00+00:00",
+        "text": "Sintana Energy Inc. Provides Update on Conditions and Timetable \nTORONTO, Dec. 09, 2025 (GLOBE NEWSWIRE) -- Sintana Energy Inc. (TSX-V: SEI, OTCQX: SEUSF) (“Sintana” or the “Company”) announces that on October 9 2025, the board of Sintana (TSXV: SEI) and the Independent Challenger Directors announced they had reached agree… \nTORONTO, Dec. 09, 2025 (GLOBE NEWSWIRE) -- Sintana Energy Inc. (TSX-V: SEI, OTCQX: SEUSF) (Sintana or the Company) announces that on October 9 2025, the board of Sintana (TSXV: SEI) and the Independe… [+34887 chars]",
+        "positive": 1.2400716514093801e-05,
+        "negative": 1.0261859415550134e-06,
+        "neutral": 0.9999865293502808
+      },
+      {
+        "source": "news",
+        "id": "https://post.rlsbb.to/zz-top-the-complete-studio-albums-1970-1990-2013/",
+        "timestamp": "2025-12-09T19:23:35+00:00",
+        "text": "ZZ Top - The Complete Studio Albums 1970-1990 (2013) \nTracklist: Disc 01: First Album [1970] 01. (Somebody Else Been) Shaking Your Tree02. Brown Sugar03. Squank04. Goin'' Down To Mexico05. Old Man06. Neighbor, Neighbor07. Certified Blues08. Bedroom Thang09. Just Got Back From Baby''s10. Backdoor Love Affair Disc… \nTracklist:\r\n Disc 01: First Album [1970] \r\n 01. (Somebody Else Been) Shaking Your Tree02. Brown Sugar03. Squank04. Goin'' Down To Mexico05. Old Man06. Neighbor, Neighbor07. Certified Blues08. Bedroom… [+2294 chars]",
+        "positive": 3.5518746699381154e-07,
+        "negative": 3.3959149732254446e-06,
+        "neutral": 0.9999963045120239
+      },
+      {
+        "source": "news",
+        "id": "https://www.redfin.com/blog/who-signs-first-at-closing-buyer-or-seller/",
+        "timestamp": "2025-12-09T19:22:10+00:00",
+        "text": "Who Signs First at Closing? The Buyer or Seller? \nWho signs first at closing? The buyer or seller? This Redfin guide explains the signing order, why buyers typically sign first, and how the process works so you can feel confident and prepared on closing day.\nThe post Who Signs First at Closing? The Buyer or … \nQuick Answer: – The buyer typically signs first, especially when a mortgage loan is involved.– The seller signs after the buyer, once all loan documents are finalized.– The signing order helps ensure… [+7164 chars]",
+        "positive": 0.08635111898183823,
+        "negative": 2.228489211120177e-05,
+        "neutral": 0.9136266112327576
+      },
       {
         "source": "news",
         "id": "https://www.globenewswire.com/news-release/2025/12/09/3202736/0/en/Tevogen-Celebrates-Board-Member-Dr-Curtis-Patton-Honored-by-Yale-University-for-Distinguished-Career-and-Lasting-Contributions-to-Medical-Education-and-Equity-in-Medicine.html",
@@ -761,30 +986,12 @@
       },
       {
         "source": "news",
-        "id": "https://techcrunch.com/2025/12/09/truecaller-now-lets-users-protect-households-from-scam-calls/",
-        "timestamp": "2025-12-09T18:50:01+00:00",
-        "text": "Truecaller now lets users protect households from scam calls | TechCrunch \nTruecaller's Family Protection will be rolled out widely in the first quarter of 2026. The new feature lets up to five people join a family group overseen by one member who acts as the administrator and manages scam-blocking settings for the others. \nTruecaller has launched a household-level scam-protection feature as the Swedish company broadens its role beyond caller ID in response to the rising number of fraud attempts that target multiple mem… [+2811 chars]",
-        "positive": 0.24952217936515808,
-        "negative": 8.060726395342499e-05,
-        "neutral": 0.7503972053527832
-      },
-      {
-        "source": "news",
         "id": "https://financialpost.com/commodities/mining/silver-tops-gold-advances",
         "timestamp": "2025-12-09T18:48:54+00:00",
         "text": "Silver tops US$60, gold advances as traders bet on lower rates \nSilver topped US$60 an ounce for the first time as traders bet on monetary easing by the Federal Reserve amid supply tightness. Read here \nSilver topped US$60 an ounce for the first time as traders bet on further monetary easing by the United States Federal Reserve and continued supply tightness. Gold also climbed.\r\nTHIS CONTENT IS RESE… [+4776 chars]",
         "positive": 0.9872718453407288,
         "negative": 7.505647954531014e-05,
         "neutral": 0.012653086334466934
-      },
-      {
-        "source": "news",
-        "id": "https://www.citizen.digital/business/safaricom-first-bond-offer-oversubscribed-by-over-175-n374230",
-        "timestamp": "2025-12-09T18:48:41+00:00",
-        "text": "Safaricom first bond offer oversubscribed by over 175% \nSafaricom PLC has received an overwhelming response for the first tranche of its newly launched medium‑term note programme. \nFollowing the closure of the offer period\r\non December 5th, Safaricom says it has received applications totalling about Ksh.41.4billion.\r\nThis, even larger than the Ksh.40billionshilling ceiling set … [+222 chars]",
-        "positive": 0.00852824468165636,
-        "negative": 0.000259041873505339,
-        "neutral": 0.991212785243988
       },
       {
         "source": "news",
@@ -797,78 +1004,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.digitaljournal.com/tech-science/⁠10-ai-companies-defining-the-next-wave-of-innovation/article",
-        "timestamp": "2025-12-09T18:47:38+00:00",
-        "text": "⁠10 AI companies defining the next wave of innovation \nArtificial intelligence has shifted from an emerging technology to the backbone of modern innovation, powering transformation across sectors like telecom, logistics, finance, manufacturing, and creative industries. \nThe post ⁠10 AI companies defining the next… \nPhoto courtesy of \r\nmacrovector on Freepik. \r\nOpinions expressed by Digital Journal contributors are their own.\r\nArtificial intelligence has shifted from an emerging technology to the backbone of mod… [+13447 chars]",
-        "positive": 0.004268777556717396,
-        "negative": 0.00016854818386491388,
-        "neutral": 0.9955626726150513
-      },
-      {
-        "source": "news",
-        "id": "https://www.coindesk.com/markets/2025/12/09/ether-surges-8-outpacing-bitcoin-gains-amid-staking-etf-tokenization-optimism",
-        "timestamp": "2025-12-09T18:47:33+00:00",
-        "text": "Ether Surges 8%, Outpacing Bitcoin Gains Amid Staking ETF, Tokenization Optimism \nBlackRock's filing for a staking ether ETF earlier this week has contributed to ETH's relative strength to bitcoin, one market strategist noted. \nEthereum's ether ETH\r\n$3,369.70 surged on Tuesday to its strongest price since mid-November, leading crypto markets higher as bitcoin BTC\r\n$93,888.69 climbed above $94,000.\r\nThe second-largest crypto… [+1663 chars]",
-        "positive": 1.0,
-        "negative": 7.260479772952522e-09,
-        "neutral": 1.7059045731571132e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.androidheadlines.com/2025/12/xiaomi-17-series-global-launch-debut-announcement-january-2026-leak.html",
-        "timestamp": "2025-12-09T18:47:31+00:00",
-        "text": "Xiaomi 17 Series Global Launch Hinted for January 2026 \nXiaomi 17 is tipped to launch in global markets in January. The phone has appeared on Geekbench with Snapdragon 8 Elite Gen 5 and Android 16. \nThe Xiaomi 17 went official in September and was one of the first to feature Qualcomms Snapdragon 8 Elite Gen 5. However, its still awaiting a wider release. Much like this year, the vanilla model ma… [+1758 chars]",
-        "positive": 0.00040834586252458394,
-        "negative": 4.2395800846861675e-05,
-        "neutral": 0.9995492100715637
-      },
-      {
-        "source": "news",
-        "id": "https://www.bostonherald.com/2025/12/09/red-sox-rumors-ketel-marte-eugenio-suarez-among-clubs-possible-targets/",
-        "timestamp": "2025-12-09T18:47:13+00:00",
-        "text": "Red Sox Rumors: Ketel Marte, Eugenio Suarez among club’s possible targets \nWith Kyle Schwarber off the board, the position player market is expected to heat up at the MLB Winter Meetings. Here are the latest rumors and reports pertaining to the Red Sox. \nWith Kyle Schwarber off the board, the expectation around baseball is that the rest of the position player market should begin moving more quickly.\r\nAs talks pick up at the MLB Winter Meetings, the R… [+2508 chars]",
-        "positive": 0.007864754647016525,
-        "negative": 0.014089228585362434,
-        "neutral": 0.9780460596084595
-      },
-      {
-        "source": "news",
-        "id": "https://www.animenewsnetwork.com/press-release/2025-12-09/hawthorne-launches-cologne-collaboration-with-sega-jet-set-radio/.231894",
-        "timestamp": "2025-12-09T18:47:05+00:00",
-        "text": "Hawthorne Launches Cologne Collaboration with Sega's Jet Set Radio \nHAWTHORNE LAUNCHES COLOGNE COLLABORATION WITH SEGA'S ICONIC JET SET RADIO™ A unique fragrance collab celebrating the 25th anniversary of one of gaming's... \nHAWTHORNE LAUNCHES COLOGNE COLLABORATION WITH SEGA'S ICONIC JET SET RADIOA unique fragrance collab celebrating the 25th anniversary of one of gaming's most beloved cult classics \r\nNew York, NYDecembe… [+4318 chars]",
-        "positive": 0.00952926091849804,
-        "negative": 3.252990427426994e-05,
-        "neutral": 0.9904381632804871
-      },
-      {
-        "source": "news",
-        "id": "http://longreads.com/2025/12/09/digital-twin-technology/",
-        "timestamp": "2025-12-09T18:46:59+00:00",
-        "text": "Model Employees \nThe dawn of digital twins. \nFor The Drift, Max Hancock reports on digital-twin technology: virtual replicas of physical assets, processes, or systems that sync to their real-world counterparts via sensor data. Though many in te… [+1269 chars]",
-        "positive": 9.296441589867754e-07,
-        "negative": 2.811641479638638e-06,
-        "neutral": 0.9999961853027344
-      },
-      {
-        "source": "news",
-        "id": "https://www.telecompetitor.com/home-telecom-increases-subscriber-upgrades-5x-with-new-residential-experiences/",
-        "timestamp": "2025-12-09T18:46:43+00:00",
-        "text": "Home Telecom increases subscriber upgrades 5X with new residential experiences \nHome Telecom increases subscriber upgrades 5X with new residential experiences\nSAN JOSE, Calif. — December 4, 2025 — (BUSINESS WIRE) — Today, Calix, Inc. (NYSE: CALX) announced that Home Telecom drove subscriber upgrades 5X in just six months after launching … \nSAN JOSE, Calif. December 4, 2025 (BUSINESS WIRE)  Today, Calix, Inc. (NYSE: CALX) announced that Home Telecom drove subscriber upgrades 5X in just six months after launching lifestyle-based resident… [+4908 chars]",
-        "positive": 0.007529695052653551,
-        "negative": 4.976657874067314e-05,
-        "neutral": 0.992420494556427
-      },
-      {
-        "source": "news",
-        "id": "https://www.theverge.com/news/841019/nothing-phone-3a-community-edition",
-        "timestamp": "2025-12-09T18:46:14+00:00",
-        "text": "Nothing’s community-designed Phone 3A adds some color and matching dice \nThe Nothing Phone 3A Community Edition revamps Nothing's usual monochrome look with a 90s-inspired design infused by pops of color. It's updating the basic 3A's transparent backplate with a teal tint, plus yellow and magenta buttons. They're also throwing in … \n<ul><li></li><li></li><li></li></ul>\r\nThe Translucent Memories design won out, adding a 90s-inspired look to the translucent Phone 3A design.\r\nThe Translucent Memories design won out, adding a 90s-in… [+2305 chars]",
-        "positive": 7.004733924986795e-05,
-        "negative": 9.789842806640081e-06,
-        "neutral": 0.999920129776001
-      },
-      {
-        "source": "news",
         "id": "https://noblepig.com/sweet-spicy-furikake-popcorn/",
         "timestamp": "2025-12-09T18:45:02+00:00",
         "text": "Sweet and Spicy Furikake Popcorn \nSweet and spicy furikake popcorn rises warm and fragrant, sugar melting into spice in that way certain rituals soften the room. Hand someone a bag and it stops feeling like a snack and starts feeling like something you made with your full attention. Furikake … \nSweet and spicy furikake popcorn rises warm and fragrant, sugar melting into spice in that way certain rituals soften the room. Hand someone a bag and it stops feeling like a snack and starts feeling… [+16569 chars]",
@@ -878,30 +1013,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.rawstory.com/mexico/",
-        "timestamp": "2025-12-09T18:45:02+00:00",
-        "text": "Trump threatens new tariffs as he demands Mexico release water owed under treaty \nPresident Donald Trump erupted on Truth Social Monday, accusing Mexico of violating a decades-old water treaty and demanding the immediate release of hundreds of thousands of acre-feet of water he claims the U.S. is owed — or face a new 5% tariff. Trump insis… \nPresident Donald Trump erupted on Truth Social Monday, accusing Mexico of violating a decades-old water treaty and demanding the immediate release of hundreds of thousands of acre-feet of water he cl… [+692 chars]",
-        "positive": 0.02383485995233059,
-        "negative": 0.47685444355010986,
-        "neutral": 0.4993107318878174
-      },
-      {
-        "source": "news",
         "id": "https://radaronline.com/p/donald-trump-mortgage-fraud-letitia-james-prison/",
         "timestamp": "2025-12-09T18:45:00+00:00",
         "text": "Donald Trump 'Committed Same Mortgage Fraud' He Wants Letitia James Imprisoned For, Investigation Claims \nPresident Trump has been accused of claiming more than one primary residence, in a sneaky bid for lower mortgage rates. \nMortgages for a person's main home often qualify for lower interest rates or more favorable terms than mortgages for a second home or an investment rental property.\r\nThe charges that Trump tried to s… [+902 chars]",
         "positive": 0.0007419444154947996,
         "negative": 0.023730887100100517,
         "neutral": 0.9755271673202515
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202726/0/en/U%C4%9Fur-Akku%C5%9F-Completes-Landmark-Acquisition-of-Andy-Warhol-s-Muhammad-Ali-at-Miami-Art-Basel-2025.html",
-        "timestamp": "2025-12-09T18:45:00+00:00",
-        "text": "Uğur Akkuş Completes Landmark Acquisition of Andy Warhol’s “Muhammad Ali” at Miami Art Basel 2025 \nMIAMI, Dec. 09, 2025 (GLOBE NEWSWIRE) -- A&S Investment Holding Chairman Uğur Akkuş has completed one of the most significant transactions of this year’s Miami Art Basel with the purchase of Andy Warhol’s 1977 “Muhammad Ali” portrait for USD 18 million. The a… \nMIAMI, Dec. 09, 2025 (GLOBE NEWSWIRE) -- A&amp;S Investment Holding Chairman Uur Akku has completed one of the most significant transactions of this years Miami Art Basel with the purchase of Andy Wa… [+3737 chars]",
-        "positive": 0.0010444583604112267,
-        "negative": 5.969292942609172e-06,
-        "neutral": 0.9989495873451233
       },
       {
         "source": "news",
@@ -941,39 +1058,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.aero-news.net/index.cfm?do=main.textpost&id=0E7AB144-AC84-452D-BFF6-ABCEDB44F79B",
-        "timestamp": "2025-12-09T18:40:32+00:00",
-        "text": "Airborne 12.08.25: Samaritans Purse Hijack, FAA Med Relief, China Rocket Fail \nAlso: Cosmonaut Kicked Out, Airbus Scales Back, AF Silver Star, Russian A-60 Clobbered A Samaritan’s Purse humanitarian flight was hijacked on Tuesday, December 2, while attempting to supply a mobile medical unit in South Sudan. Authorities were able to meet … \nA Samaritan’s Purse humanitarian flight was hijacked on Tuesday, December 2, while attempting to supply a mobile medical unit in South Sudan. \r\nAuthorities were able to meet the aircraft on the groun… [+2206 chars]",
-        "positive": 0.02188609540462494,
-        "negative": 0.0033332309685647488,
-        "neutral": 0.9747806191444397
-      },
-      {
-        "source": "news",
         "id": "https://www.lrb.co.uk/blog/2025/december/on-the-picket-line",
         "timestamp": "2025-12-09T18:40:01+00:00",
         "text": "On the Picket Line \nOn Monday morning, more than a hundred people formed a picket line outside one of the entrances to the British Library’s St Pancras building. ‘We... \nMore than three hundred British Library workers are on strike this week. They are demanding an inflation-proof pay rise, restoration for last year’s shortfall and an ‘end to non-payment of alternativ… [+4417 chars]",
         "positive": 0.00013647638843394816,
         "negative": 0.004079422913491726,
         "neutral": 0.9957839846611023
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202725/0/en/TAP-Launches-New-Brokerage-Integrations-and-Advanced-Market-Intelligence-Features.html",
-        "timestamp": "2025-12-09T18:40:00+00:00",
-        "text": "TAP Launches New Brokerage Integrations and Advanced Market Intelligence Features \nSan Diego, CA, Dec. 09, 2025 (GLOBE NEWSWIRE) -- TAP, Inc., an AI-driven, multi-asset investment and payments platform, today announced an expansion of capabilities across the TAP Platform. New TAP Platform updates include access to individual stock trading t… \nSan Diego, CA, Dec. 09, 2025 (GLOBE NEWSWIRE) -- TAP, Inc., an AI-driven, multi-asset investment and payments platform, today announced an expansion of capabilities across the TAP Platform. New TAP P… [+6265 chars]",
-        "positive": 0.7077217102050781,
-        "negative": 2.552576916059479e-05,
-        "neutral": 0.29225265979766846
-      },
-      {
-        "source": "news",
-        "id": "https://worldsoccertalk.com/news/saudi-pro-league-to-make-shock-play-for-mohamed-salah-as-cristiano-ronaldos-crowned-heir-after-liverpool-chaos-which-clubs-have-reportedly-shown-interest/",
-        "timestamp": "2025-12-09T18:40:00+00:00",
-        "text": "Saudi Pro League to make shock play for Mohamed Salah as Cristiano Ronaldo’s crowned heir after Liverpool chaos: Which clubs have reportedly shown interest? \nWhile Cristiano Ronaldo continues his global-superstar reign in the Saudi Pro League, it is Salah whose name now echoes through boardrooms in the Middle East—fueling talk of a blockbuster move that could redefine the league’s future.\n Liverpool’s season has l… \nLiverpools season has lurched into crisis, and few moments encapsulate the turmoil more sharply than the sight of Mohamed Salah, frustrated and sidelined, watching from the bench as tensions with Arn… [+2988 chars]",
-        "positive": 0.0019515719031915069,
-        "negative": 0.013061365112662315,
-        "neutral": 0.9849870800971985
       },
       {
         "source": "news",
@@ -1397,51 +1487,6 @@
         "positive": 0.976293683052063,
         "negative": 8.324648661073297e-05,
         "neutral": 0.02362317591905594
-      },
-      {
-        "source": "news",
-        "id": "https://consequence.net/2025/12/triumph-first-tour-30-years/",
-        "timestamp": "2025-12-09T17:58:27+00:00",
-        "text": "Legendary Rockers Triumph Announce First Tour in Over 30 Years \nLegendary rock act Triumph have announced their first tour in more than 30 years. The North American outing will celebrate the Canadian band's 50th anniversary. \nLegendary rock act Triumph have announced their first tour in more than 30 years. The North American outing will celebrate the Canadian band’s 50th anniversary, and feature support from April Wine.\r\n… [+3550 chars]",
-        "positive": 0.005607975646853447,
-        "negative": 4.182689281151397e-06,
-        "neutral": 0.9943878054618835
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbssports.com/nba/news/anthony-davis-trade-rumors-mavericks-raptors-pistons-hawks/",
-        "timestamp": "2025-12-09T17:58:11+00:00",
-        "text": "Anthony Davis trade rumors: Three East teams emerge as suitors; what could possible deals look like? \nThe Mavericks are weighing their options with All-Star forward Anthony Davis \nThe trade landscape for Dallas Mavericks All-Star forward Anthony Davis is starting to take shape. Since the Mavericks fired embattled general manager Nico Harrison in November, all eyes turned to Da… [+6781 chars]",
-        "positive": 0.011079467833042145,
-        "negative": 0.0016174835618585348,
-        "neutral": 0.9873030185699463
-      },
-      {
-        "source": "news",
-        "id": "https://abcnews.go.com/US/wireStory/us-sanctions-network-recruiting-colombian-fighters-sudanese-paramilitary-128249439",
-        "timestamp": "2025-12-09T17:58:07+00:00",
-        "text": "US sanctions network recruiting Colombian fighters for Sudanese paramilitary \nThe U.S. has imposed sanctions on four people and four firms for allegedly recruiting former Colombian military members to train soldiers for Sudan's Rapid Support Forces \nWASHINGTON -- The U.S. imposed sanctions on four people and four firms for their alleged involvement in a transnational network that recruits former Colombian military members who train soldiers to f… [+1994 chars]",
-        "positive": 0.00020294482237659395,
-        "negative": 0.9801697134971619,
-        "neutral": 0.01962733268737793
-      },
-      {
-        "source": "news",
-        "id": "https://www.bbc.com/news/articles/c04vqyl13rlo",
-        "timestamp": "2025-12-09T17:57:03+00:00",
-        "text": "Trump hits the road to sell economic message and counter cost of living concerns \nThe US president will hold an event in Pennsylvania, where he is expected to address the key issue of affordability. \nBernd Debusmann Jrat the White House\r\nUS President Donald Trump will hold a rally in Pennsylvania on Tuesday where he is expected to defend his economic record and address voter concerns about the ri… [+5413 chars]",
-        "positive": 0.021794572472572327,
-        "negative": 0.0016480801859870553,
-        "neutral": 0.9765573143959045
-      },
-      {
-        "source": "news",
-        "id": "https://www.rte.ie/entertainment/2025/1209/1548116-ricky-gervais-donates-almost-l2-5m-to-animal-charities/",
-        "timestamp": "2025-12-09T17:56:52+00:00",
-        "text": "Ricky Gervais donates almost £2.5m to animal charities \nComedian Ricky Gervais has donated almost £2.5 million to a group of animal charities from the proceeds from his Mortality stand-up tour. \nComedian Ricky Gervais has donated almost £2.5 million to a group of animal charities from the proceeds from his Mortality stand-up tour.\r\nThe 64-year-old has given £2.43 million to 22 charities, inc… [+1908 chars]",
-        "positive": 7.877461598582158e-07,
-        "negative": 4.333916513132863e-05,
-        "neutral": 0.9999557733535767
       },
       {
         "source": "news",
@@ -23755,9 +23800,9 @@
         "neutral": 0.002497967565432191
       }
     ],
-    "nw": 0.5443666558789185,
-    "nw_norm": 77.21833279394592
+    "nw": 0.5481047814335495,
+    "nw_norm": 77.40523907167747
   },
-  "gsi": 77.21833279394592,
+  "gsi": 77.40523907167747,
   "classification": "Extremely Bullish"
 }
