@@ -1,8 +1,359 @@
 {
-  "timestamp": "2025-12-10T22:56:27.010794+00:00",
+  "timestamp": "2025-12-10T23:16:28.631972+00:00",
   "news": {
-    "count": 2650,
+    "count": 2641,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/be60abfcb0985d63",
+        "timestamp": "2025-12-09T23:09:46+00:00",
+        "text": "Markets anxious over Japan’s risk of ’negative spiral,’ top bank MUFG exec says \nWhat if the next Fed move was up?\nTOKYO, Dec 10 (Reuters) - Markets are increasingly worried about Japan’s \"tail risk\" of slipping into a negative spiral, where monetary tightening lags inflation and a weak yen pushes prices higher, the markets chief at top l… \nWhat if the next Fed move was up?TOKYO, Dec 10 (Reuters) - Markets are increasingly worried about Japans \"tail risk\" of slipping into a negative spiral, where monetary tightening lags inflation and a… [+137 chars]",
+        "positive": 0.0008181175799109042,
+        "negative": 0.988838791847229,
+        "neutral": 0.010343139991164207
+      },
+      {
+        "source": "news",
+        "id": "https://decrypt.co/351694/us-tech-giants-unite-battle-chinas-open-source-ai-dominance",
+        "timestamp": "2025-12-09T23:09:33+00:00",
+        "text": "US Tech Giants Unite to Battle China’s Open-Source AI Dominance \nAnthropic and OpenAI donate key protocols to Linux Foundation as China overtakes US in open-source AI downloads. \nIn brief\r\n<ul><li>Major tech companies including Anthropic, OpenAI, and Block established the Agentic AI Foundation under the Linux Foundation to create open standards for AI agents.</li><li>The foun… [+4358 chars]",
+        "positive": 0.00017190912330988795,
+        "negative": 1.2820072697650176e-05,
+        "neutral": 0.9998152852058411
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/986a31da5cafcd94",
+        "timestamp": "2025-12-09T23:09:29+00:00",
+        "text": "Australia is banning young teens from social media. Could it happen in the US? \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+765 chars]",
+        "positive": 0.004422320984303951,
+        "negative": 0.03974303975701332,
+        "neutral": 0.955834686756134
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/be142504f9dd4adb",
+        "timestamp": "2025-12-09T23:09:20+00:00",
+        "text": "In 'The Chronology of Water,' Imogen Poots found a great role, and a best friend in Kristen Stewart \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+784 chars]",
+        "positive": 0.9772855639457703,
+        "negative": 0.00016654637875035405,
+        "neutral": 0.022547787055373192
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/587c6e078e9b8190",
+        "timestamp": "2025-12-09T23:09:18+00:00",
+        "text": "Texas authorities have made multiple arrests in an NVIDIA GPU smuggling operation \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+804 chars]",
+        "positive": 0.0009527876391075552,
+        "negative": 0.0028346574399620295,
+        "neutral": 0.9962126016616821
+      },
+      {
+        "source": "news",
+        "id": "https://apnews.com/article/vaccine-safety-mmr-autism-rfk-hepatitis-20d3122d7a9a339cd8447a347bd49928",
+        "timestamp": "2025-12-09T23:08:10+00:00",
+        "text": "Doctors clash with Trump administration over vaccines \nThe nation’s leading doctors groups are in a standoff with federal health officials over vaccines. The conflict intensified when an advisory panel, handpicked by Health Secretary Robert F. Kennedy Jr., a longtime anti-vaccine activist, recommended ending rout… \nIts normal for parents, or anyone, to have questions about vaccinations -- but what happens if your pediatrician urges a shot thats under attack by the Trump administration?\r\nThats getting more likel… [+6315 chars]",
+        "positive": 0.00010153585753869265,
+        "negative": 0.26785191893577576,
+        "neutral": 0.7320464849472046
+      },
+      {
+        "source": "news",
+        "id": "https://www.smashingapps.com/is-fiverr-guest-posting-worth-it/",
+        "timestamp": "2025-12-09T23:07:40+00:00",
+        "text": "Is Fiverr Guest Posting Worth It? A Full Breakdown for 2026 \nThinking about Fiverr guest posting service? I reviewed the market, common gig types, red flags, and real outcomes so you can decide if a Fiverr guest post makes sense for your site in 2026. \nClick here to buy secure, speedy, and reliable Web hosting, Cloud hosting, Agency hosting, VPS hosting, Website builder, Business email, Reach email marketing at 20% discount from our Gold Partner Ho… [+7185 chars]",
+        "positive": 1.5809921478648903e-06,
+        "negative": 1.2407301710481988e-06,
+        "neutral": 0.9999972581863403
+      },
+      {
+        "source": "news",
+        "id": "https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans",
+        "timestamp": "2025-12-09T23:03:41+00:00",
+        "text": "Both sides of the aisle hate the AI moratorium \nHello and welcome to Regulator. If you're a subscriber, you are stalwart and true, and if you're here from the internet, prove your chivalry and worth by subscribing to The Verge here. (And if you're David Sacks: we said what we said.) As of Tuesday, Presiden… \n<ul><li></li><li></li><li></li></ul>\r\nBoth sides of the aisle hate the AI moratorium\r\nIts the one of the few things Republicans and Democrats can agree on right now.\r\nby\r\nTina NguyenClose\r\nTina Nguye… [+18098 chars]",
+        "positive": 5.075460649095476e-05,
+        "negative": 6.306225986918435e-05,
+        "neutral": 0.999886155128479
+      },
+      {
+        "source": "news",
+        "id": "https://www.bostonherald.com/2025/12/09/rate-cut-decision-looms-at-fed/",
+        "timestamp": "2025-12-09T23:02:52+00:00",
+        "text": "Rate cut decision looms at Fed \nThe Federal Reserve faces an unusually contentious meeting this week that will test Chair Jerome Powell's ability to corral the necessary support from fellow policymakers for a third straight interest rate cut. \nWASHINGTON The Federal Reserve faces an unusually contentious meeting this week that will test Chair Jerome Powell’s ability to corral the necessary support from fellow policymakers for a third strai… [+4555 chars]",
+        "positive": 0.7402218580245972,
+        "negative": 0.07717502862215042,
+        "neutral": 0.18260304629802704
+      },
+      {
+        "source": "news",
+        "id": "https://www.brewcrewball.com/mlb-news/74910/2025-mlb-winter-meetings-wrap-up-day-2",
+        "timestamp": "2025-12-09T23:01:19+00:00",
+        "text": "2025 MLB Winter Meetings Wrap-up: Day 2 \nSome major action on the second day of the Winter Meetings \nMonday was a slow day at the MLB Winter Meetings, but things finally started moving on Tuesday when two of the top available free agents signed new deals, one with his incumbent team and one with a n… [+3090 chars]",
+        "positive": 4.347553840489127e-06,
+        "negative": 8.539221198589075e-06,
+        "neutral": 0.9999871253967285
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202845/0/en/Fancamp-Announces-Intention-to-Launch-Normal-Course-Issuer-Bid.html",
+        "timestamp": "2025-12-09T23:01:00+00:00",
+        "text": "Fancamp Announces Intention to Launch Normal Course Issuer Bid \nVANCOUVER, British Columbia, Dec. 09, 2025 (GLOBE NEWSWIRE) -- Fancamp Exploration Ltd. (“Fancamp” or the “Corporation”) (TSX Venture Exchange: FNC) is pleased to announce that its Board of Directors has authorized the Corporation to proceed with a normal cou… \nVANCOUVER, British Columbia, Dec. 09, 2025 (GLOBE NEWSWIRE) -- Fancamp Exploration Ltd. (Fancamp or the Corporation) (TSX Venture Exchange: FNC) is pleased to announce that its Board of Directors has… [+9290 chars]",
+        "positive": 0.09746939688920975,
+        "negative": 2.4120130547089502e-05,
+        "neutral": 0.9025064706802368
+      },
+      {
+        "source": "news",
+        "id": "https://dailyreckoning.com/a-money-stealing-demon/",
+        "timestamp": "2025-12-09T23:00:59+00:00",
+        "text": "A Money-Stealing Demon \nThis post A Money-Stealing Demon appeared first on Daily Reckoning.\nThe outlook for inflation is complex and worrying…\nThe post A Money-Stealing Demon appeared first on Daily Reckoning. \nInflation is a demon. A thief that steals the fruits of our labor.\r\nThe primary cause of inflation is growth in money supply. More money sloshing around = higher prices, all else being equal.\r\nSee th… [+4929 chars]",
+        "positive": 7.397627632599324e-05,
+        "negative": 0.0007512110169045627,
+        "neutral": 0.9991747736930847
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnbc.com/2025/12/09/trump-economy-pennsylvania-speech.html",
+        "timestamp": "2025-12-09T23:00:58+00:00",
+        "text": "Watch: Trump delivers speech on the economy in Pennsylvania as cost concerns grow \nThe Pennsylvania trip marks a return to the sort of voter outreach that defined Trump's political campaigns, but has grown rarer during his second term so far. \n[The stream is slated to start at 6:10 p.m. ET. Please refresh the page if you do not see a player above at that time.]\r\nPresident Donald Trump is scheduled to deliver remarks on the U.S. economy as … [+1446 chars]",
+        "positive": 0.0001277025876333937,
+        "negative": 1.4963633475417737e-05,
+        "neutral": 0.9998573064804077
+      },
+      {
+        "source": "news",
+        "id": "http://www.newsbtc.com/news/ethereum/ethereum-sees-largest-binance-inflow-since-2023-warning-sign/",
+        "timestamp": "2025-12-09T23:00:44+00:00",
+        "text": "Ethereum Sees Largest Binance Inflow Since 2023 – Warning Sign? \nEthereum has spent the past several days consolidating in a tight range between $3,000 and $3,200, signaling a moment of hesitation as the broader market struggles to find direction. Despite attempts to push higher, momentum has flattened, and uncertainty con… \nEthereum has spent the past several days consolidating in a tight range between $3,000 and $3,200, signaling a moment of hesitation as the broader market struggles to find direction. Despite attempts… [+3951 chars]",
+        "positive": 0.0006794648361392319,
+        "negative": 0.99619460105896,
+        "neutral": 0.0031259660609066486
+      },
+      {
+        "source": "news",
+        "id": "https://mmajunkie.usatoday.com/story/sports/ufc/2025/12/09/merab-dvalishvili-ufc-petr-yan-trilogy-next/87691098007/",
+        "timestamp": "2025-12-09T23:00:36+00:00",
+        "text": "Merab Dvalishvili says UFC wants Petr Yan trilogy next \nMerab Dvalishvili's next fight will be a trilogy bout against Petr Yan, according to the former champion. \nMerab Dvalishvili says he has been told his next fight will be a trilogy bout against Petr Yan.\r\nAt UFC 323, Dvalishvili (21-5 MMA, 14-3 UFC) lost the bantamweight title by unanimous decision in a re… [+1421 chars]",
+        "positive": 0.00046249988372437656,
+        "negative": 0.007662705611437559,
+        "neutral": 0.9918747544288635
+      },
+      {
+        "source": "news",
+        "id": "https://ambcrypto.com/has-bitcoin-entered-a-new-era-where-etfs-lead-and-retail-steps-back/",
+        "timestamp": "2025-12-09T23:00:35+00:00",
+        "text": "Has Bitcoin entered a new era where ETFs lead and retail steps back? \nBTC's hesitance below its EMAs leaves the market waiting for a catalyst. \nBitcoin is hogging the spotlight while altcoins struggle to find a pulse. At the same time, retail traders (once the heartbeat of every rally) have stepped back and have been replaced by the clinical… [+2610 chars]",
+        "positive": 0.030204040929675102,
+        "negative": 0.9685096740722656,
+        "neutral": 0.0012862858129665256
+      },
+      {
+        "source": "news",
+        "id": "https://sneakernews.com/2025/12/09/pharrell-adidas-jellyfish-black-kj3841/",
+        "timestamp": "2025-12-09T23:00:27+00:00",
+        "text": "Official Images Of The Black adidas Jellyfish \nIf you had somehow written off the hype for Pharrell Williams’ adidas Jellyfish following its three-colorway market introduction, each commanding sky-high resale premiums, the in-person...\n\n© Sneaker News, 2025. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\n… \nIf you had somehow written off the hype for Pharrell Williams’ adidas Jellyfish following its three-colorway market introduction, each commanding sky-high resale premiums, the in-person activations f… [+1960 chars]",
+        "positive": 6.801263225497678e-05,
+        "negative": 9.671278348832857e-06,
+        "neutral": 0.9999222755432129
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2025-12-10/data-dreams-art-and-ai-mca-sydney-christopher-kulendran-thomas/106115358",
+        "timestamp": "2025-12-09T23:00:08+00:00",
+        "text": "A Kim Kardashian deepfake appears in new exhibition exploring art and AI \nCan you tell what's real and what's fake online? Data Dreams: Art and AI at the MCA looks at truth, art and history in the AI age. \nWhat does truth look like in the AI age?\r\nThat's one of the pressing questions asked by British Tamil artist Christopher Kulendran Thomas in his video installation The Finesse, one of the works featu… [+9683 chars]",
+        "positive": 8.851879101712257e-06,
+        "negative": 0.00044766743667423725,
+        "neutral": 0.9995434880256653
+      },
+      {
+        "source": "news",
+        "id": "https://oilprice.com/Energy/Natural-Gas/Europe-Locks-In-Endgame-for-Russian-Gas-And-Oil.html",
+        "timestamp": "2025-12-09T23:00:00+00:00",
+        "text": "Europe Locks In Endgame for Russian Gas And Oil \nThe European Union (E.U.) of 27 member countries will “never go back to our dangerous dependence on Russia”, said Dan Jørgensen, European Commissioner (E.C.) for Energy last week. “We will never go back to volatile supplies and market manipulation, and we wil… \nSurging demand from LNG exporters,…\r\nGermany is set to become…\r\nGreece, Italy, and the UK…\r\nSet us as your preferred Google source\r\nBy Simon Watkins - Dec 09, 2025, 5:00 PM CSTThe European Union (E.U… [+9414 chars]",
+        "positive": 0.00020994806254748255,
+        "negative": 0.0006618943298235536,
+        "neutral": 0.9991281628608704
+      },
+      {
+        "source": "news",
+        "id": "https://www.activistpost.com/exposing-the-vaccine-industry-how-corruption-fraud-and-coercion-endanger-public-health/",
+        "timestamp": "2025-12-09T23:00:00+00:00",
+        "text": "Exposing the vaccine industry: How corruption, fraud and coercion endanger public health \nIn a damning exposé, lawyer Aaron Siri’s book “Vaccines, Amen: The Religion of Vaccines” reveals how the American public has been systematically deceived by institutions they were taught to trust—namely, the Centers for Disease Control and Prevention (CDC), F… \n<ul><li>Vaccines are treated as unquestionable dogma rather than science, with proponents demanding blind faith while suppressing critical scrutiny of flawed studies, industry-funded research and dec… [+5916 chars]",
+        "positive": 0.00022194423945620656,
+        "negative": 0.0006611248827539384,
+        "neutral": 0.9991169571876526
+      },
+      {
+        "source": "news",
+        "id": "http://comicbook.com/movies/list/7-awesome-sci-fi-movies-that-flopped-at-the-box-office-but-that-everyone-loves-now/",
+        "timestamp": "2025-12-09T23:00:00+00:00",
+        "text": "7 Awesome Sci-fi Movies That Flopped at the Box Office (But That Everyone Loves Now) \nimages courtesy of Warner Bros.\nGreat things are not always appreciated in their time. Two or three movies are given a wide release per week and, occasionally, one of them is almost entirely ignored when audiences have the chance to see them on the big screen… \nGreat things are not always appreciated in their time. Two or three movies are given a wide release per week and, occasionally, one of them is almost entirely ignored when audiences have the chance t… [+7380 chars]",
+        "positive": 1.6172433561223443e-06,
+        "negative": 7.281226135091856e-05,
+        "neutral": 0.9999254941940308
+      },
+      {
+        "source": "news",
+        "id": "https://www.yahoo.com/news/articles/scientist-makes-first-kind-discovery-230000559.html",
+        "timestamp": "2025-12-09T23:00:00+00:00",
+        "text": "Scientist makes first-of-its-kind discovery on remote mountain range: 'It was incredible' \nFew people live in the area. \nThere are over 20,000 bee species worldwide, and one more was just added to the list after a survey of pollinators in one of Australia's remotest areas.\r\nThe Australian Broadcasting Corporation repor… [+2031 chars]",
+        "positive": 0.007482155691832304,
+        "negative": 3.087485674768686e-05,
+        "neutral": 0.9924869537353516
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/f5418704137d43a3",
+        "timestamp": "2025-12-09T22:58:30+00:00",
+        "text": "Trump Says He Has ‘Good Idea’ of Who He Wants for Fed Chair \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+782 chars]",
+        "positive": 0.008754724636673927,
+        "negative": 0.00031411158852279186,
+        "neutral": 0.9909311532974243
+      },
+      {
+        "source": "news",
+        "id": "https://pleated-jeans.com/2025/12/09/what-is-this-thing-times-people-asked-the-internet-to-identify-mysterious-objects-this-week-12-9-25/",
+        "timestamp": "2025-12-09T22:58:23+00:00",
+        "text": "“What Is This Thing?” — 25 Times People Asked The Internet To Identify Mysterious Objects This Week \nThe post “What Is This Thing?” — 25 Times People Asked The Internet To Identify Mysterious Objects This Week appeared first on Pleated Jeans. \nSometimes you stumble on a random object that looks like it fell out of a time machine or a hardware store run by a mad scientist, and naturally, the only thing to do is ask the internet, Uh what is … [+15174 chars]",
+        "positive": 7.315759376069764e-06,
+        "negative": 7.49459577491507e-05,
+        "neutral": 0.99991774559021
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/bff68c36c321c63d",
+        "timestamp": "2025-12-09T22:58:22+00:00",
+        "text": "Trump Ally Plots Gamified Bid to Boost Memecoin After 87% Crash \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+788 chars]",
+        "positive": 0.0016607557190582156,
+        "negative": 0.0006571448757313192,
+        "neutral": 0.9976820945739746
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/e0e9c2c4eb43a787",
+        "timestamp": "2025-12-09T22:58:16+00:00",
+        "text": "GE Vernova expects 80 gigawatts of gas turbine contracts by year's end \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+790 chars]",
+        "positive": 0.0008060719701461494,
+        "negative": 0.00014595736865885556,
+        "neutral": 0.9990479350090027
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/12740aef11f4de1e",
+        "timestamp": "2025-12-09T22:58:10+00:00",
+        "text": "$1000 Invested In Barrick Mining 5 Years Ago Would Be Worth This Much Today \nBarrick Mining (NYSE:B) has outperformed the market over the past 5 years by 16.16% on an annualized basis producing an average annual return of 29.53%. Currently, Barrick Mining has a market capitalization of $70.27 billion. \nBuying $1000 In B: If ...\nFull s… \nBarrick Mining (NYSE:B) has outperformed the market over the past 5 years by 16.16% on an annualized basis producing an average annual return of 29.53%. Currently, Barrick Mining has a market capital… [+146 chars]",
+        "positive": 0.9999969005584717,
+        "negative": 1.9478945034734352e-07,
+        "neutral": 2.8538213427964365e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/world-news/eu-leaders-agree-funding-for-ukraine-but-using-russian-assets-poses-major-test/a479712626.html",
+        "timestamp": "2025-12-09T22:58:02+00:00",
+        "text": "EU leaders agree funding for Ukraine but using Russian assets poses major test \nAlmost four years into Russia’s full-scale war on Ukraine, European Union leaders have committed to funding Kyiv’s economic and military needs for the next two years, one way or another. \nAlmost four years into Russias full-scale war on Ukraine, European Union leaders have committed to funding Kyivs economic and military needs for the next two years, one way or another.At a summit nex… [+4177 chars]",
+        "positive": 3.363080759299919e-05,
+        "negative": 8.510387488058768e-06,
+        "neutral": 0.9999579191207886
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/a4c98719f7ab8947",
+        "timestamp": "2025-12-09T22:58:02+00:00",
+        "text": "SpaceX to pursue 2026 IPO raising above $25 billion, source says \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+787 chars]",
+        "positive": 0.0031053018756210804,
+        "negative": 0.0020070895552635193,
+        "neutral": 0.99488765001297
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/448fe4fcdcd2c797",
+        "timestamp": "2025-12-09T22:58:00+00:00",
+        "text": "Musk's Neuralink taps FDA's David McMullen to lead medical affairs \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+805 chars]",
+        "positive": 0.00026706946664489806,
+        "negative": 0.0005577084957621992,
+        "neutral": 0.9991752505302429
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/994265eef6daf98a",
+        "timestamp": "2025-12-09T22:57:57+00:00",
+        "text": "UK’s higher borrowing costs compared with major countries ‘may be coming to an end’ \nThinktank says Rachel Reeves’s budget had started to assure bond markets about fiscal approach\nRachel Reeves’s test from the bond markets starts now\nThe “premium” that the UK pays to borrow money compared with its international peers may be coming to an end a… \nThinktank says Rachel Reevess budget had started to assure bond markets about fiscal approachRachel Reevess test from the bond markets starts nowThe premium that the UK pays to borrow money compared … [+144 chars]",
+        "positive": 5.052318738307804e-05,
+        "negative": 0.00023677358694840223,
+        "neutral": 0.9997126460075378
+      },
+      {
+        "source": "news",
+        "id": "https://www.theatlantic.com/newsletters/2025/12/trump-lost-physical-stamina/685203/",
+        "timestamp": "2025-12-09T22:56:00+00:00",
+        "text": "The Enfeebling of the President \nTrump is showing signs that he’s lost the physical stamina to do the job. \nThis is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Th… [+9112 chars]",
+        "positive": 0.47947898507118225,
+        "negative": 8.250649989349768e-05,
+        "neutral": 0.5204384922981262
+      },
+      {
+        "source": "news",
+        "id": "https://bringatrailer.com/listing/1999-toyota-land-cruiser-prado-90-series-3/",
+        "timestamp": "2025-12-09T22:55:11+00:00",
+        "text": "1999 Toyota Land Cruiser Prado RX KZJ90 Turbodiesel \nThis 1999 Toyota Land Cruiser Prado KZJ90 is a Japanese-market example that was brought to the US following the selling dealer's acquisition in 2025. Finished in Silver Metallic over gray cloth, the truck is powered by a 3.0L 1KZ-TE turbodiesel inline-four li… \nThis 1999 Toyota Land Cruiser Prado KZJ90 is a Japanese-market example that was brought to the US following the selling dealer’s acquisition in 2025. Finished in Silver Metallic over gray cloth, the … [+2463 chars]",
+        "positive": 2.3389638954540715e-05,
+        "negative": 1.360075088996382e-06,
+        "neutral": 0.999975323677063
+      },
+      {
+        "source": "news",
+        "id": "https://www.androidheadlines.com/2025/12/spotify-brings-music-videos-to-the-us-and-canada.html",
+        "timestamp": "2025-12-09T22:54:59+00:00",
+        "text": "Spotify Brings Music Videos to The US and Canada \nSpotify is rolling out Music Videos to its subscribers in the US and Canada in beta. However, the initial music video catalog is limited. \nSpotify is rolling out Music Videos in beta to its subscribers in the US and Canada. YouTube Music already offers a toggle between an audio track and its official video. This expansion gives users ac… [+1551 chars]",
+        "positive": 8.853653707774356e-05,
+        "negative": 5.948651960352436e-06,
+        "neutral": 0.9999054670333862
+      },
+      {
+        "source": "news",
+        "id": "https://www.bluetracker.gg/wow/topic/us-en/24242434-mists-of-pandaria-classic-the-thunder-king-content-update-is-now-live/",
+        "timestamp": "2025-12-09T22:53:00+00:00",
+        "text": "[US] Mists of Pandaria Classic: The Thunder King Content Update is Now Live! \n[Blue Topic] Gather heroes, sound the drums, the Thunder King comes! The time is nigh to spearhead an assault on the Thunder King’s stronghold. The Thunder King content update delivers two new zones—Isle of Thunder and Isle of Giants, a new gear upgrade syste… \nGather heroes, sound the drums, the Thunder King comes! The time is nigh to spearhead an assault on the Thunder Kings stronghold.\r\nThe Thunder King content update delivers two new zonesIsle of Thunde… [+6302 chars]",
+        "positive": 0.0007535576587542892,
+        "negative": 1.2128006346756592e-05,
+        "neutral": 0.9992343187332153
+      },
+      {
+        "source": "news",
+        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180349325",
+        "timestamp": "2025-12-09T22:52:59+00:00",
+        "text": "Ukraine reportedly targets Russia's shadow fleet in foreign waters as sanctions fail to sink Putin's oil sales - CBS News \nUkraine reportedly targets Russia's shadow fleet in foreign waters as sanctions fail to sink Putin's oil salesCBS News NATO Sounds Alarm on Black Sea Tanker AttacksgCaptain Ukraine’s Black Sea attacks trigger surge in shipping insurance pricesFinancial Times … \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+        "positive": 3.577905590645969e-05,
+        "negative": 0.0013328143395483494,
+        "neutral": 0.9986312985420227
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbc.ca/news/canada/saskatchewan/potash-mining-tariffs-fertilizer-9.7008646",
+        "timestamp": "2025-12-09T22:52:09+00:00",
+        "text": "Trump's threats to tariff Canadian fertilizer imports could hurt Sask. potash industry \nDonald Trump’s threats to tariff Canadian fertilizer imports could damage Saskatchewan’s potash industry if demand for the mineral critical in making fertilizer drops off, according to a University of Saskatchewan professor. \nU.S. President Donald Trumps threats to tariff Canadian fertilizer imports could damage Saskatchewans potash industry if demand for the mineral critical in making fertilizer drops off, according to a… [+3392 chars]",
+        "positive": 0.0005108957411721349,
+        "negative": 0.9994285702705383,
+        "neutral": 6.053752076695673e-05
+      },
+      {
+        "source": "news",
+        "id": "https://screenrant.com/predator-badlands-box-office-budget-success/",
+        "timestamp": "2025-12-09T22:50:17+00:00",
+        "text": "Predator: Badlands Has Broken The Franchise's Biggest Record - But Is It A Success? \nPredator: Badlands keeps breaking records at the box office for the Predator franchise. But, is it even a successful, profitable release? \nPredator: Badlands has been a record-breaking performer at the box office. Dan Trachtenberg's bold twist on the sci-fi franchise that puts the Yautja front and center and pairs him up with a Weyland-… [+3605 chars]",
+        "positive": 0.9999996423721313,
+        "negative": 2.431326890928176e-07,
+        "neutral": 1.786433472261706e-07
+      },
+      {
+        "source": "news",
+        "id": "https://newsonjapan.com/article/147843.php",
+        "timestamp": "2025-12-09T22:50:06+00:00",
+        "text": "Why SoftBank Is Taking Aim at Loss-Making Rakuten Mobile \nRakuten Mobile continues to draw attention every earnings season, and while its losses have been narrowing, the pain it inflicts on the Rakuten Group’s overall performance has not fundamentally changed. Even so, chair Hiroshi Mikitani describes the mobile bus… \nTOKYO, Dec 10 (News On Japan) -\r\n Rakuten Mobile continues to draw attention every earnings season, and while its losses have been narrowing, the pain it inflicts on the Rakuten Groups overall perfor… [+4560 chars]",
+        "positive": 0.011088667437434196,
+        "negative": 0.5407195687294006,
+        "neutral": 0.44819173216819763
+      },
       {
         "source": "news",
         "id": "https://indianexpress.com/article/india/trade-defence-energy-on-table-as-top-us-official-foreign-secretary-hold-talks-10412032/",
@@ -581,273 +932,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.vox.com/climate/471758/zillow-climate-risk-score-real-estate-wildfire-tahoe",
-        "timestamp": "2025-12-09T22:17:12+00:00",
-        "text": "Zillow’s short-sighted move to overlook climate risk \nEarlier this month, the real-estate listing site Zillow ended a subtle social experiment. In 2024, they began to embed climate risk data directly in their property profiles, scoring a home’s future risks from flood, wildfire, wind, heat, and air quality on a … \nEarlier this month, the real-estate listing site Zillow ended a subtle social experiment. In 2024, they began to embed climate risk data directly in their property profiles, scoring a home’s future r… [+8594 chars]",
-        "positive": 0.0005101508577354252,
-        "negative": 0.0001374918210785836,
-        "neutral": 0.9993523955345154
-      },
-      {
-        "source": "news",
-        "id": "https://www.psychologytoday.com/us/blog/writing-for-impact/202512/how-do-you-catch-a-trophy-idea-deep-mind-fishing",
-        "timestamp": "2025-12-09T22:17:07+00:00",
-        "text": "How Do You Catch a Trophy Idea? Deep Mind Fishing \nThe secret to developing insight: Put your line in the water of the unconscious. \nPrepping to speak at a womens school, novelist Virginia Woolf sat by a brook: [My train of thought] let its line down into the stream. It swayed, minute after minute, hither and thither among the ref… [+6254 chars]",
-        "positive": 4.7560170060023665e-06,
-        "negative": 5.0902788643725216e-05,
-        "neutral": 0.9999443292617798
-      },
-      {
-        "source": "news",
         "id": "https://www.breitbart.com/asia/2025/12/09/nearly-1000-casualties-one-million-displaced-indonesia-floods/",
         "timestamp": "2025-12-09T22:15:48+00:00",
         "text": "Nearly 1,000 Casualties, One Million Displaced by Indonesia Floods \nIndonesia’s National Disaster Management Agency reports 961 confirmed deaths, 234 missing persons, and 5,000 injuries from flooding.\nThe post Nearly 1,000 Casualties, One Million Displaced by Indonesia Floods appeared first on Breitbart. \nIndonesias National Disaster Management Agency (known by its acronym BNPB) reported 961 confirmed deaths, 234 missing persons, roughly 5,000 injuries, and almost a million displaced persons from week… [+3542 chars]",
         "positive": 4.183728378848173e-05,
         "negative": 0.0007574753253720701,
         "neutral": 0.9992007613182068
-      },
-      {
-        "source": "news",
-        "id": "https://www.indiewire.com/news/trailers/epic-teaser-baz-luhrmann-1235166491/",
-        "timestamp": "2025-12-09T22:15:00+00:00",
-        "text": "‘Epic’ Teaser: Baz Luhrmann Promises an Elvis Concert Film That Will Blow You Away \nThe \"Elvis\" director is framing his next ode to Presley as more than a documentary, more than a concert film, and unlike anything audiences have ever seen. \nFilmmaker Baz Luhrmann is still very much “All Shook Up” over the King of Rock &amp; Roll, as the teaser trailer for his upcoming feature, “Epic: Elvis Presley in Concert,” makes clear. Luhrmann’s ci… [+1795 chars]",
-        "positive": 0.00024382819538004696,
-        "negative": 2.2926178644411266e-05,
-        "neutral": 0.9997332692146301
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/business-pmn/canadas-us-envoy-to-step-down-mark-wiseman-seen-as-likely-successor",
-        "timestamp": "2025-12-09T22:14:37+00:00",
-        "text": "Canada’s US Envoy to Step Down; Mark Wiseman Seen as Likely Successor \nCanada’s ambassador to Washington is preparing to leave office, and Prime Minister Mark Carney is considering a former BlackRock Inc. senior executive for the job ahead of crucial trade talks with the US and Mexico. \n(Bloomberg) Canadas ambassador to Washington is preparing to leave office, and Prime Minister Mark Carney is considering a former BlackRock Inc. senior executive for the job ahead of crucial trade ta… [+4971 chars]",
-        "positive": 3.849064341920894e-06,
-        "negative": 6.146632949821651e-05,
-        "neutral": 0.9999346733093262
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/booze-bonanza-manitobas-temporary-lifting-on-u-s-alcohol-ban-sees-strong-sales",
-        "timestamp": "2025-12-09T22:14:07+00:00",
-        "text": "Booze bonanza: Manitoba’s temporary lifting on U.S. alcohol ban sees strong sales \nWINNIPEG — The thirst for United States booze in Manitoba appears to be much higher than initially thought. The provincial government pulled American liquor from its store shelves in March, in response to tariffs on Canadian goods imposed by the United States… \nWINNIPEG The thirst for United States booze in Manitoba appears to be much higher than initially thought.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your… [+3590 chars]",
-        "positive": 0.9999986886978149,
-        "negative": 5.30767579220992e-07,
-        "neutral": 8.140504519360547e-07
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/34c1bb1396f7c12f",
-        "timestamp": "2025-12-09T22:13:56+00:00",
-        "text": "How the Fed's Decision Could Affect Markets \nHow the Fed's Decision Could Affect Markets \nHow the Fed's Decision Could Affect Markets\r\nThis story appeared on barrons.com, 2025-12-09 22:12:16.",
-        "positive": 7.663384735678846e-07,
-        "negative": 1.624409378564451e-05,
-        "neutral": 0.9999830722808838
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/f40fc124822c26cd",
-        "timestamp": "2025-12-09T22:13:56+00:00",
-        "text": "Here's How Many Cuts Markets Predict for 2026 \nHere's How Many Cuts Markets Predict for 2026 \nHere's How Many Cuts Markets Predict for 2026\r\nThis story appeared on barrons.com, 2025-12-09 22:12:06.",
-        "positive": 1.4771646306144248e-07,
-        "negative": 9.454489031668345e-07,
-        "neutral": 0.999998927116394
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/e7998a7f47158998",
-        "timestamp": "2025-12-09T22:13:56+00:00",
-        "text": "Nuclear and Fossil Fuels Join Forces to Undermine Renewables \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+799 chars]",
-        "positive": 0.05363436043262482,
-        "negative": 0.04894420877099037,
-        "neutral": 0.8974214196205139
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/7a439227d4d760ef",
-        "timestamp": "2025-12-09T22:13:55+00:00",
-        "text": "CFTC's Pham Brings the America First Agenda to Digital Assets \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+790 chars]",
-        "positive": 0.005547276698052883,
-        "negative": 0.0004853655118495226,
-        "neutral": 0.9939674139022827
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/89e4fb76ab7cfc28",
-        "timestamp": "2025-12-09T22:13:53+00:00",
-        "text": "Senior HSBC Executives Hid Behind Co-Head Roles, CEO Says \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+782 chars]",
-        "positive": 0.0010382580803707242,
-        "negative": 0.0010378393344581127,
-        "neutral": 0.9979238510131836
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/0db14cd2447a2fe1",
-        "timestamp": "2025-12-09T22:13:50+00:00",
-        "text": "Is Australia’s Social Media Ban Destined to Fail? \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+789 chars]",
-        "positive": 0.0033989842049777508,
-        "negative": 0.018735351040959358,
-        "neutral": 0.9778656959533691
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/5f4d3a251bcb3874",
-        "timestamp": "2025-12-09T22:13:48+00:00",
-        "text": "Disney Nominates Ex-Apple Operating Chief to Board in 2026 \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+784 chars]",
-        "positive": 0.00017934756760951132,
-        "negative": 0.00019386013445910066,
-        "neutral": 0.9996267557144165
-      },
-      {
-        "source": "news",
-        "id": "https://www.notus.org/senate/senate-republicans-health-care-aca-subsidy-plans",
-        "timestamp": "2025-12-09T22:13:48+00:00",
-        "text": "Senate Republicans Needed a Plan on Health Care. They Ended Up With Too Many. \n“If we’ve got to take a mixture of everything and put it together, I'm OK with that,” one GOP senator said. \nAs of last week, Senate Republicans had no clear plan to address expiring health care subsidies. Now, theyre swimming in plans theyre just not sure if any can actually pass.\r\nThis is all a bunch of p… [+5290 chars]",
-        "positive": 5.338824280443077e-07,
-        "negative": 5.6549008149886504e-05,
-        "neutral": 0.9999430179595947
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/d344d0fcf1831bfe",
-        "timestamp": "2025-12-09T22:13:47+00:00",
-        "text": "Anglo-Teck Merger Takes Another Step Toward Reality \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+784 chars]",
-        "positive": 0.12175452709197998,
-        "negative": 0.0016828587977215648,
-        "neutral": 0.8765626549720764
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/86c86de55583443f",
-        "timestamp": "2025-12-09T22:13:44+00:00",
-        "text": "US FDA launches fresh safety scrutiny of approved RSV therapies for infants \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+812 chars]",
-        "positive": 0.12186913192272186,
-        "negative": 0.03621665760874748,
-        "neutral": 0.8419142365455627
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/a69b4dacdec7d380",
-        "timestamp": "2025-12-09T22:13:42+00:00",
-        "text": "Australia Has Banned Social Media for Kids Under 16. How Does It Work? \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+804 chars]",
-        "positive": 0.0010736354161053896,
-        "negative": 0.004921814892441034,
-        "neutral": 0.9940045475959778
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/f4036c348c45b91d",
-        "timestamp": "2025-12-09T22:13:35+00:00",
-        "text": "The Fed Will Cut Rates. What It Plans to Do Next Year Is the Question \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+846 chars]",
-        "positive": 0.0011486724251881242,
-        "negative": 0.0034869967494159937,
-        "neutral": 0.9953643083572388
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/0f1e27b24d1ce2bc",
-        "timestamp": "2025-12-09T22:13:34+00:00",
-        "text": "GE Vernova Boosts Buyback, Doubles Dividend on AI Power Boom \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+785 chars]",
-        "positive": 0.9975784420967102,
-        "negative": 5.039371899329126e-06,
-        "neutral": 0.0024165732320398092
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/5b1fff237890ed37",
-        "timestamp": "2025-12-09T22:13:34+00:00",
-        "text": "How Tariff Chaos Threw India's Toy-Making Dreams Into Disarray \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+796 chars]",
-        "positive": 0.0017454680055379868,
-        "negative": 0.006580251269042492,
-        "neutral": 0.9916742444038391
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/592ff1936079cc26",
-        "timestamp": "2025-12-09T22:13:25+00:00",
-        "text": "GameStop's stock slides after earnings as value of bitcoin holdings drops \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+794 chars]",
-        "positive": 0.0007552361348643899,
-        "negative": 0.0007733927923254669,
-        "neutral": 0.9984713196754456
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/f2b6d829c9a8d350",
-        "timestamp": "2025-12-09T22:13:24+00:00",
-        "text": "Canada’s US Envoy to Step Down; Mark Wiseman Seen as Likely Successor \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix face a class-action lawsuit over Warner deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Pa… [+794 chars]",
-        "positive": 0.002160156611353159,
-        "negative": 0.012655353173613548,
-        "neutral": 0.9851845502853394
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202827/673/en/ROSEN-TOP-RANKED-INVESTOR-COUNSEL-Encourages-Sprouts-Farmers-Market-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-SFM.html",
-        "timestamp": "2025-12-09T22:13:00+00:00",
-        "text": "ROSEN, TOP RANKED INVESTOR COUNSEL, Encourages Sprouts Farmers Market, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - SFM \nNEW YORK, Dec. 09, 2025 (GLOBE NEWSWIRE) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities and sellers of put options of Sprouts Farmers Market, Inc. (NASDAQ: SFM) between June 4, 2025 and October 29, 2025, both dates… \nNEW YORK, Dec. 09, 2025 (GLOBE NEWSWIRE) -- \r\nWHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities and sellers of put options of Sprouts Farmers Market, Inc. (NASD… [+4137 chars]",
-        "positive": 1.9738632545340806e-05,
-        "negative": 1.5732990505057387e-05,
-        "neutral": 0.9999644756317139
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbssports.com/nba/news/nba-cup-2025-bracket-schedule-where-to-watch/",
-        "timestamp": "2025-12-09T22:12:23+00:00",
-        "text": "NBA Cup bracket and schedule 2025: Where to watch Heat vs. Magic, Knicks vs. Raptors in quarterfinals \nThe 2025 NBA Cup knockout stage begins on Tuesday night \nThe NBA Cup quarterfinals are here. Eight teams remain in the battle to win the league's in-season tournament, and that number will be cut in half by the end of Wednesday night. The East side of the … [+1481 chars]",
-        "positive": 7.635669135197531e-06,
-        "negative": 4.145611455896869e-05,
-        "neutral": 0.9999508857727051
-      },
-      {
-        "source": "news",
-        "id": "https://freerepublic.com/focus/f-news/4356672/posts",
-        "timestamp": "2025-12-09T22:12:22+00:00",
-        "text": "Jim Farley (Ford CEO) warns Europe could turn into a ‘museum of manufacturing’ \nFord CEO Jim Farley has proven himself to be a passionate car guy, but every now and again he pops up to remind everyone he’s running a multi-billion dollar company with one of the most recognisable brand names in the world. Earlier this week, Farley stood wi… \nSkip to comments.\r\nJim Farley (Ford CEO) warns Europe could turn into a museum of manufacturingSpeedcafe ^\r\n | December 9, 2025\r\n | Jordan Mulach\r\nPosted on 12/09/2025 2:12:22 PM PST by WhiteHatBobby… [+5257 chars]",
-        "positive": 0.014966133050620556,
-        "negative": 0.0002736611058935523,
-        "neutral": 0.9847602248191833
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitaljournal.com/entertainment/autistic-scottish-artist-nnena-kalu-smashes-turner-prize-glass-ceiling/article",
-        "timestamp": "2025-12-09T22:12:20+00:00",
-        "text": "Autistic Scottish artist Nnena Kalu smashes Turner Prize ‘glass ceiling’ \nScotland's Nnena Kalu took home the Turner Prize with the autistic artist beating four competitors.\nThe post Autistic Scottish artist Nnena Kalu smashes Turner Prize ‘glass ceiling’ appeared first on Digital Journal. \nThe Turner Prize shortlist includes autistic artist Nnena Kalu - Copyright AFP Yuri CORTEZ\r\nScotland’s Nnena Kalu took home the Turner Prize on Tuesday, with the autistic artist beating four competit… [+3761 chars]",
-        "positive": 1.8472924239176791e-06,
-        "negative": 7.607977181578462e-07,
-        "neutral": 0.9999974966049194
-      },
-      {
-        "source": "news",
-        "id": "https://www.digitaljournal.com/world/autistic-scottish-artist-nnena-kalu-smashes-turner-prize-glass-ceiling/article",
-        "timestamp": "2025-12-09T22:12:20+00:00",
-        "text": "Autistic Scottish artist Nnena Kalu smashes Turner Prize ‘glass ceiling’ \nScotland’s Nnena Kalu took home the Turner Prize on Tuesday, with the autistic artist beating four competitors including an Iraqi painter to the prestigious contemporary art award. Glasgow-born Kalu, 59, was nominated for her hanging sculptures using wrapped … \nThe Turner Prize shortlist includes autistic artist Nnena Kalu - Copyright AFP Yuri CORTEZ\r\nScotland’s Nnena Kalu took home the Turner Prize on Tuesday, with the autistic artist beating four competit… [+3763 chars]",
-        "positive": 3.854832539218478e-05,
-        "negative": 8.907932169677224e-06,
-        "neutral": 0.9999525547027588
-      },
-      {
-        "source": "news",
-        "id": "https://comicbookmovie.com/comics/marvel-comics/marvel-rivals-galacta-makes-her-official-marvel-comics-debut-in-marchs-x-men-shadows-of-tomorrow-titles-a225448",
-        "timestamp": "2025-12-09T22:11:00+00:00",
-        "text": "MARVEL RIVALS' Galacta Makes Her Official Marvel Comics Debut In March's X-MEN Shadows Of Tomorrow Titles \nMarvel Comics has revealed a first look at what's to come this March as the X-Men enter Shadows of Tomorrow, a new era of mutant storytelling that's set to feature Galacta's debut. \nAge of Revelation, an event that took X-Men storytelling 10 years into the future, wraps up later this month in X-Men: Age of Revelation Finale #1 by Jed MacKay and Ryan Stegman.\r\nWhen the X-line ret… [+6817 chars]",
-        "positive": 1.5958257790771313e-05,
-        "negative": 1.1453065553723718e-06,
-        "neutral": 0.9999828338623047
-      },
-      {
-        "source": "news",
-        "id": "https://www.nbcnews.com/politics/politics-news/democrats-aim-keep-2025-election-momentum-going-politics-desk-rcna248293",
-        "timestamp": "2025-12-09T22:10:23+00:00",
-        "text": "Democrats aim to keep their 2025 election momentum going: From the Politics Desk \nDemocrats are aiming to keep their 2025 election momentum going in the Miami mayoral contest. \nWelcome to the online version of From the Politics Desk, a newsletter that brings you the NBC News Politics teams latest reporting and analysis from the White House, Capitol Hill and the campaign tra… [+4553 chars]",
-        "positive": 0.0015401188284158707,
-        "negative": 6.361587566061644e-06,
-        "neutral": 0.9984536170959473
-      },
-      {
-        "source": "news",
-        "id": "https://bringatrailer.com/listing/1999-suzuki-alto-works-ie/",
-        "timestamp": "2025-12-09T22:10:09+00:00",
-        "text": "1999 Suzuki Alto Works ie at No Reserve \nThis 1999 Suzuki Alto Works ie is a Japanese-market hatchback that was brought to the US before being acquired by the seller in August 2025. Power is provided by a turbocharged 657cc inline-three paired with a four-speed automatic transaxle, and the car is fi… \nThis 1999 Suzuki Alto Works ie is a Japanese-market hatchback that was brought to the US before being acquired by the seller in August 2025. Power is provided by a turbocharged 657cc inline-three pai… [+1908 chars]",
-        "positive": 0.0001144875495810993,
-        "negative": 1.973973303392995e-05,
-        "neutral": 0.9998656511306763
       },
       {
         "source": "news",
@@ -860,39 +950,12 @@
       },
       {
         "source": "news",
-        "id": "https://decrypt.co/351692/bitcoin-after-dark-etf-bet-btc-wall-street-sleeps",
-        "timestamp": "2025-12-09T22:09:42+00:00",
-        "text": "Bitcoin 'After Dark' ETF Would Bet on BTC as Wall Street Sleeps \nThe ETF would offer Bitcoin exposure when U.S. markets are closed. \nIn brief\r\n<ul><li>A company filed paperwork for an \"AfterDark\" Bitcoin ETF.</li><li>The funds exposure would shift between Bitcoin and U.S. Treasuries.</li><li>The product would offer Bitcoin exposur… [+2664 chars]",
-        "positive": 4.5263266201800434e-07,
-        "negative": 5.748493094870355e-07,
-        "neutral": 0.999998927116394
-      },
-      {
-        "source": "news",
         "id": "https://financialpost.com/pmn/business-pmn/bond-traders-cast-doubt-on-extended-fed-rate-cuts-past-december",
         "timestamp": "2025-12-09T22:09:36+00:00",
         "text": "Bond Traders Cast Doubt on Extended Fed Rate Cuts Past December \nBond traders are betting on a shallower path of Federal Reserve interest-rate cuts in the year ahead, part of a global move to wager that major central banks will slow or halt their monetary easing. \n(Bloomberg) Bond traders are betting on a shallower path of Federal Reserve interest-rate cuts in the year ahead, part of a global move to wager that major central banks will slow or halt their monet… [+5200 chars]",
         "positive": 0.0042589884251356125,
         "negative": 0.9913586378097534,
         "neutral": 0.004382348153740168
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2025/12/09/opinion/mamdanis-enabling-homeless-scheme-will-destroy-nycs-public-spaces/",
-        "timestamp": "2025-12-09T22:09:33+00:00",
-        "text": "LA’s MacArthur Park shows where Mamdani’s homeless-enabling scheme leads \nThe idea that bottomless aid and endless permissiveness will heal all society's ills is pure fantasy. \n“Go look at other cities,” Mayor EricAdams warns of Mayor-elect Zohran Mamdani’s plans to quit breaking up homeless encampments and LA’s MacArthur Park would be a great place to start.\r\nOnce enjoyed … [+2084 chars]",
-        "positive": 0.04142424091696739,
-        "negative": 0.0005402343813329935,
-        "neutral": 0.9580355286598206
-      },
-      {
-        "source": "news",
-        "id": "https://www.the-independent.com/life-style/design/christmas-gift-ideas-creatives-tastemakers-b2881332.html",
-        "timestamp": "2025-12-09T22:08:57+00:00",
-        "text": "What leading creatives and tastemakers want for Christmas this year \nWhat do you buy for the people who always seem to know exactly what’s cool before everyone else does? Adele Cardani asks designers and florists what they hope to unwrap \nTheir wish lists reveal the objects of desire inspiring Londons most inventive minds.\r\nConsider this your shortcut to gifting for the creatively inclined in your life...\r\nCo-founder and CEO of fashio… [+6474 chars]",
-        "positive": 3.671681406558491e-05,
-        "negative": 2.546469113440253e-05,
-        "neutral": 0.9999377727508545
       },
       {
         "source": "news",
@@ -1397,150 +1460,6 @@
         "positive": 0.0001342458708677441,
         "negative": 0.9486307501792908,
         "neutral": 0.05123502388596535
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202784/0/en/Apollo-Commercial-Real-Estate-Finance-Inc-Declares-Quarterly-Common-Stock-Dividend.html",
-        "timestamp": "2025-12-09T21:15:00+00:00",
-        "text": "Apollo Commercial Real Estate Finance, Inc. Declares Quarterly Common Stock Dividend \nNEW YORK, Dec. 09, 2025 (GLOBE NEWSWIRE) -- Apollo Commercial Real Estate Finance, Inc. (the “Company”) (NYSE:ARI) today announced the Board of Directors declared a dividend of $0.25 per share of common stock, which is payable on January 15, 2026 to common st… \nNEW YORK, Dec. 09, 2025 (GLOBE NEWSWIRE) -- Apollo Commercial Real Estate Finance, Inc. (the Company) (NYSE:ARI) today announced the Board of Directors declared a dividend of $0.25 per share of commo… [+3148 chars]",
-        "positive": 4.041270585730672e-05,
-        "negative": 6.18245985606336e-06,
-        "neutral": 0.9999533891677856
-      },
-      {
-        "source": "news",
-        "id": "https://norml.org/blog/2025/12/09/ohio-lawmakers-advance-bill-to-governors-desk-repealing-key-provisions-of-voter-approved-marijuana-legalization-law/",
-        "timestamp": "2025-12-09T21:13:44+00:00",
-        "text": "Ohio: Lawmakers Advance Bill to Governor’s Desk Repealing Key Provisions of Voter-Approved Marijuana Legalization Law \n“This bill is a slap in the face to the millions of Ohioans who voted in favor of Issue 2.\"\nThe post Ohio: Lawmakers Advance Bill to Governor’s Desk Repealing Key Provisions of Voter-Approved Marijuana Legalization Law appeared first on NORML. \nOhio Senators gave final approval today to legislation (SB 56) significantly amending the state’s voter-approved adult-use legalization law. The measure now goes to Republican Gov. Mike DeWine, who i… [+3844 chars]",
-        "positive": 0.0033011084888130426,
-        "negative": 0.00014456643839366734,
-        "neutral": 0.9965543746948242
-      },
-      {
-        "source": "news",
-        "id": "https://www.breitbart.com/politics/2025/12/09/senate-republicans-opt-for-crapo-cassidy-healthcare-reform-bill-as-alternative-to-democrat-plan/",
-        "timestamp": "2025-12-09T21:11:35+00:00",
-        "text": "Senate Republicans Opt for Crapo-Cassidy Healthcare Reform Bill as Alternative to Democrat Plan \nSenate Majority Leader John Thune (R-SD) said that the Senate will vote Thursday on a healthcare reform package led by Sens. Bill Cassidy (R-LA) and Mike Crapo (R-IL).\nThe post Senate Republicans Opt for Crapo-Cassidy Healthcare Reform Bill as Alternative to … \nSenate Majority Leader John Thune (R-SD) said that the Senate will vote Thursday on a healthcare reform package led by Sens. Bill Cassidy (R-LA) and Mike Crapo (R-ID).\r\nThune said that Republican sen… [+3624 chars]",
-        "positive": 7.958865171531215e-05,
-        "negative": 2.9393315344350412e-05,
-        "neutral": 0.999890923500061
-      },
-      {
-        "source": "news",
-        "id": "https://www.tubefilter.com/2025/12/09/whatnot-2026-live-shopping-trends-predictions/",
-        "timestamp": "2025-12-09T21:11:24+00:00",
-        "text": "Put the Labubus away and get ready for Whatnot’s 2026 live shopping trends \nIf you expected 2025 to be filled with espresso-headed ballerinas and sequential numeric memes, well, I don't believe you. Predicting the future is an inexact science, especially when the internet's volatile culture becomes part of the equation.\nThat said, th… \nIf you expected 2025 to be filled with espresso-headed ballerinas and sequential numeric memes, well, I don’t believe you. Predicting the future is an inexact science, especially when the internet’s … [+2791 chars]",
-        "positive": 4.461564913071925e-06,
-        "negative": 0.0024203963112086058,
-        "neutral": 0.9975751042366028
-      },
-      {
-        "source": "news",
-        "id": "http://theeconomiccollapseblog.com/the-unprecedented-explosion-in-the-price-of-silver-can-be-attributed-to-the-ai-boom-and-the-behavior-of-the-brics-nations/",
-        "timestamp": "2025-12-09T21:09:51+00:00",
-        "text": "The Unprecedented Explosion In The Price Of Silver Can Be Attributed To The AI Boom And The Behavior Of The BRICS Nations \n$60 silver is here!  The exponential rise in the price of silver that we have witnessed in recent months is astounding experts all over the globe.  So far in 2025, the price of gold is up about 60 percent, but the price of silver is up more than 100 percent. … \n$60 silver is here!  The exponential rise in the price of silver that we have witnessed in recent months is astounding experts all over the globe.  So far in 2025, the price of gold is up about 60 pe… [+7677 chars]",
-        "positive": 0.9985546469688416,
-        "negative": 0.0009375056251883507,
-        "neutral": 0.000507787277456373
-      },
-      {
-        "source": "news",
-        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-about-the-economy-at-pennsylvania-rally",
-        "timestamp": "2025-12-09T21:09:33+00:00",
-        "text": "WATCH LIVE: Trump speaks about the economy at Pennsylvania rally \nThe trip comes as polling consistently shows that public trust in Trump's economic leadership has faltered. \nWASHINGTON (AP) President Donald Trump will road-test his claims that he’s tackling Americans’ affordability woes at a Tuesday rally in Mount Pocono, Pennsylvania shifting an argument made in Oval Of… [+5083 chars]",
-        "positive": 0.0030467126052826643,
-        "negative": 0.16023747622966766,
-        "neutral": 0.836715817451477
-      },
-      {
-        "source": "news",
-        "id": "https://press.un.org/en/2025/sc16240.doc.htm",
-        "timestamp": "2025-12-09T21:07:29+00:00",
-        "text": "Security Council 1518 Sanctions Committee Removes One Entry from Its Sanctions List \nOn 9 December 2025, the Security Council Committee established pursuant to resolution 1518 (2003) removed the following entry from its Sanctions List of individuals and entities. \nOn 9 December 2025, the Security Council Committee established pursuant to resolution 1518 (2003) removed the following entry from its Sanctions List of individuals and entities.\r\nA. Individuals\r\nIQi… [+1069 chars]",
-        "positive": 7.263867155415937e-05,
-        "negative": 0.010781831108033657,
-        "neutral": 0.9891455173492432
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/e79a1274da3df305",
-        "timestamp": "2025-12-09T21:06:51+00:00",
-        "text": "FDA probes possible link between COVID vaccines and related deaths across age groups \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump approve Nvidia chip sales to China? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Paramo… [+815 chars]",
-        "positive": 2.5511419153190218e-05,
-        "negative": 8.024397538974881e-05,
-        "neutral": 0.9998942613601685
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/82c7e52788f6e8b1",
-        "timestamp": "2025-12-09T21:06:49+00:00",
-        "text": "Proposed ‘AfterDark’ Bitcoin ETF Would Skip U.S. Trading Hours \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump approve Nvidia chip sales to China? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Paramo… [+770 chars]",
-        "positive": 2.6156400053878315e-05,
-        "negative": 2.3694155970588326e-05,
-        "neutral": 0.9999501705169678
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/e54f41e65b4d8cc8",
-        "timestamp": "2025-12-09T21:06:47+00:00",
-        "text": "How the Left Has Corrupted the Information on Wikipedia \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump approve Nvidia chip sales to China? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Paramo… [+707 chars]",
-        "positive": 4.737486960948445e-05,
-        "negative": 9.104311175178736e-05,
-        "neutral": 0.9998615980148315
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/d6194269de1c6197",
-        "timestamp": "2025-12-09T21:06:47+00:00",
-        "text": "BlackRock on track for record annual flows into iShares, says CFO \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump approve Nvidia chip sales to China? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Paramo… [+765 chars]",
-        "positive": 0.07509888708591461,
-        "negative": 0.00011886369611602277,
-        "neutral": 0.9247823357582092
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/761dccd91ded17c9",
-        "timestamp": "2025-12-09T21:06:47+00:00",
-        "text": "Dow ends lower, Nasdaq books slight gain as all eyes on Fed rate-policy meeting \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump approve Nvidia chip sales to China? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Paramo… [+749 chars]",
-        "positive": 0.14744672179222107,
-        "negative": 0.0006675813347101212,
-        "neutral": 0.8518857359886169
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/734724b295283899",
-        "timestamp": "2025-12-09T21:06:44+00:00",
-        "text": "Australia's ban on social media for users aged under 16 comes into effect; platforms that do not comply risk fines of up to AU$49.5M \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump approve Nvidia chip sales to China? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Paramo… [+777 chars]",
-        "positive": 0.00015290352166630328,
-        "negative": 0.0020473927725106478,
-        "neutral": 0.9977996945381165
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/ff38c877dd05016c",
-        "timestamp": "2025-12-09T21:06:40+00:00",
-        "text": "‘Work, Work, Work’ Stops at 60 in Japan. It Shouldn’t \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump approve Nvidia chip sales to China? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Paramo… [+769 chars]",
-        "positive": 0.00030871995841152966,
-        "negative": 0.00039795579505153,
-        "neutral": 0.9992932081222534
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/3aa87f069a3375d0",
-        "timestamp": "2025-12-09T21:06:36+00:00",
-        "text": "First Brands Rushes to Contain Panic as Loan Plunges to 63 Cents \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump approve Nvidia chip sales to China? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Paramo… [+781 chars]",
-        "positive": 0.00017429354193154722,
-        "negative": 0.0013491322752088308,
-        "neutral": 0.9984765648841858
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/73b5ddee379c2422",
-        "timestamp": "2025-12-09T21:06:35+00:00",
-        "text": "Citigroup CFO Mason expects investment banking to climb in mid 20s in fourth quarter \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump approve Nvidia chip sales to China? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Paramo… [+791 chars]",
-        "positive": 0.010571615770459175,
-        "negative": 0.0002570797223597765,
-        "neutral": 0.9891713261604309
       },
       {
         "source": "news",
@@ -23854,9 +23773,9 @@
         "neutral": 0.002497967565432191
       }
     ],
-    "nw": 0.501487728366574,
-    "nw_norm": 75.0743864183287
+    "nw": 0.44430935616330824,
+    "nw_norm": 72.21546780816541
   },
-  "gsi": 75.0743864183287,
-  "classification": "Extremely Bullish"
+  "gsi": 72.21546780816541,
+  "classification": "Bullish"
 }
