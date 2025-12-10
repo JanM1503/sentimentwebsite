@@ -1,8 +1,188 @@
 {
-  "timestamp": "2025-12-10T09:56:23.572385+00:00",
+  "timestamp": "2025-12-10T10:04:57.545061+00:00",
   "news": {
-    "count": 2656,
+    "count": 2652,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.pcgamer.com/games/survival-crafting/minecraft-spear-crafting-recipe/",
+        "timestamp": "2025-12-09T09:57:51+00:00",
+        "text": "How to craft and use a spear in Minecraft \nYour pocket guide to the game's newest weapon. \nMinecraft has answered the prayers of anyone looking for a longer-reach melee weapon rather than relying on the bow. That's right, the spear is here courtesy of the Mounts of Mayhem drop, and don't l… [+3132 chars]",
+        "positive": 4.821059974347008e-06,
+        "negative": 2.783991840260569e-05,
+        "neutral": 0.9999673366546631
+      },
+      {
+        "source": "news",
+        "id": "https://www.verdictfoodservice.com/news/tgi-fridays-maldives-debut/",
+        "timestamp": "2025-12-09T09:57:03+00:00",
+        "text": "TGI Fridays seals master franchise deal for Maldives debut \nThe move forms part of an international expansion strategy which prioritises franchise-led growth. \nSugarloaf TGIF Management, which manages the global TGI Fridays brand, has entered a master franchise agreement with Brew and Feast Holdings to launch the restaurant chain in the Republic of Maldives… [+2442 chars]",
+        "positive": 0.10035785287618637,
+        "negative": 4.695457755587995e-05,
+        "neutral": 0.8995951414108276
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/c6f2359a8357e1d3",
+        "timestamp": "2025-12-09T09:56:16+00:00",
+        "text": "Brookfield, Qatar Team Up on $20 Billion AI Investment Venture \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile bid for Warner Bros? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps a… [+791 chars]",
+        "positive": 0.001611915766261518,
+        "negative": 0.00013339522411115468,
+        "neutral": 0.9982547163963318
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/14170bb135bf3b60",
+        "timestamp": "2025-12-09T09:56:11+00:00",
+        "text": "Greek Farmers Continue Nationwide Blockades on Payment Delays \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile bid for Warner Bros? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps a… [+792 chars]",
+        "positive": 0.002683167112991214,
+        "negative": 0.0008883153786882758,
+        "neutral": 0.9964285492897034
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/a321e431c7d997d1",
+        "timestamp": "2025-12-09T09:56:02+00:00",
+        "text": "As inflation persists, Trump attempts a messaging pivot \nWith his approval ratings on the economy sagging and Republicans increasingly anxious about next year’s midterm elections, President Donald Trump will travel to Pennsylvania today in an attempt to rewrite the political narrative on inflation — the issue that … \nWith his approval ratings on the economy sagging and Republicans increasingly anxious about next years midterm elections, President Donald Trump will travel to Pennsylvania today in an attempt to rew… [+133 chars]",
+        "positive": 0.00014845197438262403,
+        "negative": 0.00012002016592305154,
+        "neutral": 0.9997314810752869
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/e9f1df6bf9074ee2",
+        "timestamp": "2025-12-09T09:56:02+00:00",
+        "text": "EU Financial Services Chief Eyes 2027 Start For Markets Reforms \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile bid for Warner Bros? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps a… [+794 chars]",
+        "positive": 0.0020132039207965136,
+        "negative": 0.00025057379389181733,
+        "neutral": 0.9977362155914307
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/119f72e462301ba5",
+        "timestamp": "2025-12-09T09:55:58+00:00",
+        "text": "Airlines Set to Earn Record Profit in 2026 Despite Supply Chain \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile bid for Warner Bros? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps a… [+787 chars]",
+        "positive": 0.9988034963607788,
+        "negative": 0.00012057684944011271,
+        "neutral": 0.0010758270509541035
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/333571f1a212a638",
+        "timestamp": "2025-12-09T09:55:49+00:00",
+        "text": "Combs’ Departure from Berkshire Leaves a Gap in Managing Equity Portfolio \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile bid for Warner Bros? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps a… [+752 chars]",
+        "positive": 0.0020384809467941523,
+        "negative": 0.0003959579044021666,
+        "neutral": 0.997565507888794
+      },
+      {
+        "source": "news",
+        "id": "https://www.worldconstructionnetwork.com/news/darglobal-coastal-destination-muscat/",
+        "timestamp": "2025-12-09T09:55:48+00:00",
+        "text": "DarGlobal launches $4.2bn coastal destination project in Muscat \nThe district aims to combine residential properties, hospitality facilities, cultural spaces, retail outlets, and more. \nReal-estate developer DarGlobal and Art District Real Estate Development have partnered to develop Marine, Art &amp; Digital District (MAD) in Muscat, Oman.\r\nThe project will cover more than 1.5 mill… [+2643 chars]",
+        "positive": 1.3591476999863517e-05,
+        "negative": 3.9857835076873016e-07,
+        "neutral": 0.9999860525131226
+      },
+      {
+        "source": "news",
+        "id": "https://bleedingcool.com/comics/green-arrow-an-absolute-horror-in-the-daily-litg-9th-december-2025/",
+        "timestamp": "2025-12-09T09:55:04+00:00",
+        "text": "Green Arrow An Absolute Horror in The Daily LITG, 9th December 2025 \nAbsolute Green Arrow To Be A Horror Title was the most-read story on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past seven years. Founded over sixteen years ago and steepe… \nPosted in: Comics | Tagged: absolute, Absolute Green Arrow\r\nAbsolute Green Arrow To Be A Horror Title was the most-read story on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround.\r… [+10881 chars]",
+        "positive": 0.002227933844551444,
+        "negative": 0.00014606534386985004,
+        "neutral": 0.997626006603241
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/oil-holds-biggest-decline-three-063226105.html",
+        "timestamp": "2025-12-09T09:54:42+00:00",
+        "text": "Oil Holds Biggest Decline in Three Weeks With Glut in Focus \nThe Energy Information Administration is set to release its Short-Term Energy Outlook on Tuesday, with reports due from the International Energy Agency and... \n(Bloomberg) -- Oil steadied after the biggest drop this month as traders look to reports coming this week to assess the extent of an oversupply.\r\nBrent crude traded held above $62 a barrel after tumb… [+944 chars]",
+        "positive": 0.011808281764388084,
+        "negative": 0.659072995185852,
+        "neutral": 0.3291187286376953
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/why-global-battery-prices-are-expected-to-drop-again-in-2026",
+        "timestamp": "2025-12-09T09:54:13+00:00",
+        "text": "Why Global Battery Prices Are Expected to Drop Again in 2026 \nThe technology is forecast to overcome tariffs and high metal costs to win new savings and help drive adoption of electric vehicles and energy storage systems. \n(Bloomberg) Battery prices are forecast to drop next year, though itll be a smaller dip than 2025 due to high costs of raw materials and tariffs .\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubs… [+4340 chars]",
+        "positive": 0.05513857677578926,
+        "negative": 0.4392508566379547,
+        "neutral": 0.5056106448173523
+      },
+      {
+        "source": "news",
+        "id": "https://news.sky.com/story/christmas-dinners-are-cheaper-thanks-to-a-fall-in-the-price-of-turkeys-13481256",
+        "timestamp": "2025-12-09T09:54:00+00:00",
+        "text": "Christmas dinners are cheaper thanks to a fall in the price of turkeys \nThe cost of parsnips is also lower, according to new industry data which reveals increased spending on promotional offers. \nChristmas dinner will be slightly cheaper this year compared to last, according to new industry data.\r\nThe cost of a traditional turkey dinner is £32.46, a few pence cheaper than in 2024 due to lower… [+1854 chars]",
+        "positive": 0.0020337800960987806,
+        "negative": 0.0006940460298210382,
+        "neutral": 0.9972721934318542
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-pmn/brookfield-qatar-team-up-on-20-billion-ai-investment-venture",
+        "timestamp": "2025-12-09T09:53:56+00:00",
+        "text": "Brookfield, Qatar Team Up on $20 Billion AI Investment Venture \nBrookfield Asset Management Ltd. and Qatar Investment Authority are teaming up on a $20 billion venture to invest in artificial-intelligence infrastructure, underscoring the escalating regional race for dominance in the sector. \n(Bloomberg) Brookfield Asset Management Ltd. and Qatar Investment Authority are teaming up on a $20 billion venture to invest in artificial-intelligence infrastructure, underscoring the escalating re… [+4829 chars]",
+        "positive": 0.00430305814370513,
+        "negative": 0.00043473875848576427,
+        "neutral": 0.9952622652053833
+      },
+      {
+        "source": "news",
+        "id": "https://www.timeout.com/london/news/london-tube-fares-are-going-up-massively-in-2026-heres-when-they-increase-and-by-how-much-120925",
+        "timestamp": "2025-12-09T09:53:26+00:00",
+        "text": "London tube fares are going up massively in 2026 – here’s when they increase and by how much \nDespite national rail freezes, the cost of the London Underground is being raised above inflation \nWhen the government announced last month that it would be freezing regulated rail fares across England for the first time in 30 years, there were faint hopes that the same freeze would be applied to … [+1997 chars]",
+        "positive": 0.006116416770964861,
+        "negative": 0.0504060834646225,
+        "neutral": 0.9434775710105896
+      },
+      {
+        "source": "news",
+        "id": "https://pointalize.com/stop-paying-amex-transfer-fees/#article",
+        "timestamp": "2025-12-09T09:52:30+00:00",
+        "text": "Stop Paying Amex Transfer Fees \nStop wasting money on the Amex Transfer Fees. Learn which partners trigger the charge, how the \"Partner Shield\" strategy saves you money, and when to pay. \nYou worked hard for those points. Maybe you just unlocked the massive 100,000-point welcome offer on the Amex Gold Card, or you’ve been grinding everyday spend on groceries for months. The last thing… [+7893 chars]",
+        "positive": 0.007078075315803289,
+        "negative": 0.0059560807421803474,
+        "neutral": 0.9869658946990967
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202116/0/en/NORBIT-Results-of-the-2025-employee-incentive-program-and-mandatory-trade-notification.html",
+        "timestamp": "2025-12-09T09:52:00+00:00",
+        "text": "NORBIT – Results of the 2025 employee incentive program and mandatory trade notification \nTrondheim, 9 December 2025: The Board of Directors of NORBIT ASA (the ‘Company’) has decided to approve an incentive share purchase program for employees in the NORBIT group of companies.  In total, 286 employees participated in the program. \nTrondheim, 9 December 2025: The Board of Directors of NORBIT ASA (the Company) has decided to approve an incentive share purchase program for employees in the NORBIT group of companies.  In total, 28… [+2041 chars]",
+        "positive": 5.17282824148424e-05,
+        "negative": 1.4963115063437726e-05,
+        "neutral": 0.9999332427978516
+      },
+      {
+        "source": "news",
+        "id": "https://paultan.org/2025/12/09/seres-3-ev-in-malaysia/",
+        "timestamp": "2025-12-09T09:51:23+00:00",
+        "text": "Seres 3 EV in Malaysia, 10 units only, RM95k all in – Seres 5 Pro REEV with 1,175 km range coming Q1 2026 \nThere’s a new electric vehicle (EV) in town and it is called the Seres 3. Distributed in Malaysia by Oriental Swan Motor Group, the Seres 3 (pronounced as ‘Series 3’) is being offered at a […]\nThe post Seres 3 EV in Malaysia, 10 units only, RM95k all in – Ser… \nTheres a new electric vehicle (EV) in town and it is called the Seres 3. Distributed in Malaysia by Oriental Swan Motor Group, the Seres 3 (pronounced as Series 3) is being offered at a promotional p… [+3102 chars]",
+        "positive": 4.0223875430456246e-07,
+        "negative": 5.090257104711782e-07,
+        "neutral": 0.9999991655349731
+      },
+      {
+        "source": "news",
+        "id": "https://ambcrypto.com/crypto-casino-bitcoin-vip-promotions-and-perks-that-big-players-get/",
+        "timestamp": "2025-12-09T09:50:07+00:00",
+        "text": "Crypto Casino Bitcoin VIP-promotions and perks that BIG players get \nSince there is a plethora of options all over the web, it may seem like […] \nSince there is a plethora of options all over the web, it may seem like it is an easy process to pinpoint a high-quality online gambling platform. Whether you are a fan of casino games or betting on … [+13110 chars]",
+        "positive": 0.00036632962292060256,
+        "negative": 6.926712376298383e-05,
+        "neutral": 0.9995644688606262
+      },
+      {
+        "source": "news",
+        "id": "https://www.coindesk.com/markets/2025/12/09/sgx-s-crypto-futures-draw-new-liquidity-not-diverted-cash-exchange-boss-says",
+        "timestamp": "2025-12-09T09:49:58+00:00",
+        "text": "SGX's Crypto Futures Draw New Liquidity, Not Diverted Cash, Exchange's President Says \nInstitutions are pursuing cash and carry arbitrage, not placing directional bets, Syn said. \nSGX's bitcoin BTC\r\n$90,350.13 and ether ETH\r\n$3,125.08 perpetual futures have become increasingly popular since their debut two weeks ago, and that growth represents new liquidity rather than cash re… [+4205 chars]",
+        "positive": 0.1290232390165329,
+        "negative": 0.00010750066576292738,
+        "neutral": 0.8708693385124207
+      },
       {
         "source": "news",
         "id": "https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/",
@@ -788,78 +968,6 @@
       },
       {
         "source": "news",
-        "id": "https://biztoc.com/x/6e731b34fc13c138",
-        "timestamp": "2025-12-09T09:11:14+00:00",
-        "text": "U.S. and Canada discussed tariff-rate quota for steel before trade talks halted \nBefore trade talks abruptly ended in October, Ottawa and Washington were discussing a U.S. proposal that would have lowered tariffs on most Canadian steel exports to the United States while effectively capping the amount of steel heading south across the bord… \nBefore trade talks abruptly ended in October, Ottawa and Washington were discussing a U.S. proposal that would have lowered tariffs on most Canadian steel exports to the United States while effective… [+150 chars]",
-        "positive": 0.00013425979705061764,
-        "negative": 0.00019420243916101754,
-        "neutral": 0.999671459197998
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/8ac1321c129f8f8b",
-        "timestamp": "2025-12-09T09:11:09+00:00",
-        "text": "Trump's Handouts Put Billionaires First, and Americans Last \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile Warner Bros bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidia chip … [+750 chars]",
-        "positive": 0.0022715572267770767,
-        "negative": 0.000272350269369781,
-        "neutral": 0.9974561333656311
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/cee8efa278343321",
-        "timestamp": "2025-12-09T09:11:07+00:00",
-        "text": "Why Shifting To An Aussie Retirement System Is A Bad Idea \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile Warner Bros bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidia chip … [+761 chars]",
-        "positive": 0.010025273077189922,
-        "negative": 0.0007260660058818758,
-        "neutral": 0.9892486333847046
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/e19345649edaa2dc",
-        "timestamp": "2025-12-09T09:11:06+00:00",
-        "text": "How My Retirement Savings Are Betraying U.S \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile Warner Bros bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidia chip … [+750 chars]",
-        "positive": 0.0010199534008279443,
-        "negative": 6.219789065653458e-05,
-        "neutral": 0.9989179372787476
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/8793eedaedb03880",
-        "timestamp": "2025-12-09T09:11:04+00:00",
-        "text": "The Private Equity Moguls Presently Taking Over Wall Street \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile Warner Bros bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidia chip … [+758 chars]",
-        "positive": 0.00039397444925270975,
-        "negative": 3.8657046388834715e-05,
-        "neutral": 0.999567449092865
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/5b3ea7ed91c84a76",
-        "timestamp": "2025-12-09T09:11:01+00:00",
-        "text": "BoJ governor says economy has weathered Trump’s tariffs \nKazuo Ueda’s comments feed market expectations of an interest rate rise at next week’s meeting \nKazuo Uedas comments feed market expectations of an interest rate rise at next weeks meeting\r\nThis story appeared on ft.com, 2025-12-09 09:01:50.",
-        "positive": 5.488180704560364e-06,
-        "negative": 6.607168415939668e-06,
-        "neutral": 0.9999879598617554
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202105/28124/en/Medical-Aesthetic-Devices-Market-Projected-to-Reach-37-9-Billion-by-2029.html",
-        "timestamp": "2025-12-09T09:11:00+00:00",
-        "text": "Medical Aesthetic Devices Market Projected to Reach $37.9 Billion by 2029 \nMarket opportunities for medical aesthetic devices include a surge in demand for minimally invasive procedures, the growing trend in facial aesthetics, and the rise in medical tourism. Key drivers are innovations in laser technology and an increase in procedu… \nDublin, Dec. 09, 2025 (GLOBE NEWSWIRE) -- The \"Medical Aesthetic Devices: Technologies and Global Markets\" has been added to ResearchAndMarkets.com's offering.The global market for medical aesthetic … [+4433 chars]",
-        "positive": 0.9999831914901733,
-        "negative": 1.0131130068202765e-07,
-        "neutral": 1.6685309674357995e-05
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/f3dab910394d6e7c",
-        "timestamp": "2025-12-09T09:11:00+00:00",
-        "text": "Stock Futures Rise as Wall Street Anticipates Key Fed Rate Decision \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile Warner Bros bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidia chip … [+821 chars]",
-        "positive": 0.4300112724304199,
-        "negative": 0.00033451258786953986,
-        "neutral": 0.5696541666984558
-      },
-      {
-        "source": "news",
         "id": "https://www.globenewswire.com/news-release/2025/12/09/3202103/28124/en/Asia-Pacific-Poised-for-Fastest-Growth-in-IoT-Fleet-Management-Sector.html",
         "timestamp": "2025-12-09T09:10:00+00:00",
         "text": "\"Asia-Pacific Poised for Fastest Growth in IoT Fleet Management Sector\" \nKey IoT fleet management opportunities include integration with autonomous vehicles, e-commerce expansion, predictive analytics adoption, and 5G connectivity. These trends enhance operational efficiency, safety, and sustainability, appealing to businesses aim… \nDublin, Dec. 09, 2025 (GLOBE NEWSWIRE) -- The \"IoT Fleet Management Global Market Report 2025\" has been added to ResearchAndMarkets.com's offering.\r\nThe IoT fleet management market has experienced no… [+7693 chars]",
@@ -884,69 +992,6 @@
         "positive": 0.9956458210945129,
         "negative": 3.736331927939318e-05,
         "neutral": 0.004316708538681269
-      },
-      {
-        "source": "news",
-        "id": "https://www.privatebankerinternational.com/news/fab-signs-mou-with-amundi/",
-        "timestamp": "2025-12-09T09:09:00+00:00",
-        "text": "FAB signs MoU with Amundi to boost investment offerings in GCC \nThe collaboration will include a wide range of investment solutions across client segments, formats as well as asset classes. \nUAE-based First Abu Dhabi Bank (FAB) has signed a Memorandum of Understanding (MoU) with European asset management company Amundi to boost its investment management offerings across the Gulf Cooperat… [+2495 chars]",
-        "positive": 0.9669473767280579,
-        "negative": 6.356504400173435e-06,
-        "neutral": 0.03304626792669296
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/chinese-premier-cites-damage-from-us-tariffs-as-chinas-surplus-surpasses-1-trillion",
-        "timestamp": "2025-12-09T09:08:26+00:00",
-        "text": "Chinese premier cites damage from US tariffs, as China’s surplus surpasses $1 trillion \nBANGKOK (AP) — Higher tariffs have dealt a “severe blow” to the world economy, China’s premier said Tuesday, even as China’s own trade surplus has surged past $1 trillion. Premier Li Qiang made the remarks at a forum of top international organizations held in… \nBANGKOK (AP) Higher tariffs have dealt a severe blow to the world economy, Chinas premier said Tuesday, even as Chinas own trade surplus has surged past $1 trillion.\r\nTHIS CONTENT IS RESERVED FOR SUB… [+4577 chars]",
-        "positive": 0.03837716579437256,
-        "negative": 0.9549642205238342,
-        "neutral": 0.006658651400357485
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202100/28124/en/Polyurethane-Market-in-Americas-Gets-Latest-Analytical-Update.html",
-        "timestamp": "2025-12-09T09:07:00+00:00",
-        "text": "Polyurethane Market in Americas Gets Latest Analytical Update \nThe report highlights key opportunities in the American polyurethane market, focusing on rigid foam products. It identifies growth prospects across North and South America, covering supply-demand dynamics in sectors like refrigeration and insulation. Strategi… \nDublin, Dec. 09, 2025 (GLOBE NEWSWIRE) -- The \"Polyurethane Chemicals &amp; Products in the Americas - Rigid Foam - 2025 Edition\" has been added to ResearchAndMarkets.com's offering.\r\nThis comprehens… [+2529 chars]",
-        "positive": 0.16587446630001068,
-        "negative": 7.512188403779874e-06,
-        "neutral": 0.8341180086135864
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202099/28124/en/Polyurethane-Binder-Production-and-Raw-Material-Consumption-Forecast-to-2029.html",
-        "timestamp": "2025-12-09T09:06:00+00:00",
-        "text": "Polyurethane Binder Production and Raw Material Consumption Forecast to 2029 \nKey market opportunities in the polyurethane industry in the Americas include expanding raw material supply chains, particularly in binders for sectors like forest products and rubber crumb. Monitoring regional trends and understanding consumption patterns ca… \nDublin, Dec. 09, 2025 (GLOBE NEWSWIRE) -- The \"Polyurethane Chemicals &amp; Products in the Americas - Binders - 2025 Edition\" has been added to ResearchAndMarkets.com's offering.\r\nThis comprehensive… [+3287 chars]",
-        "positive": 0.06438779830932617,
-        "negative": 2.4501180178049253e-06,
-        "neutral": 0.935609757900238
-      },
-      {
-        "source": "news",
-        "id": "https://www.indystar.com/story/sports/high-school/2025/12/09/indiana-basketball-hall-of-fame-names-12-member-womens-induction-class/87679308007/",
-        "timestamp": "2025-12-09T09:05:19+00:00",
-        "text": "Indiana Basketball Hall of Fame announces women's induction class for 2026 \nIndiana Basketball Hall Fame women's induction class headlined by 1999 Miss Basketball April (McDivitt) Schilling. \nThe Indiana Basketball Hall of Fame announced its 24th annual womens induction class on Tuesday morning with a 12-member class that includes 1999 Miss Basketball April (McDivitt) Schilling and severa… [+13068 chars]",
-        "positive": 6.272888640523888e-06,
-        "negative": 2.704688881749462e-07,
-        "neutral": 0.9999934434890747
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/09/3202098/28124/en/Rising-Consumer-Demand-for-Natural-Formulations-Drives-Growth-in-Global-Personal-Care-Ingredients-Market.html",
-        "timestamp": "2025-12-09T09:05:00+00:00",
-        "text": "\"Rising Consumer Demand for Natural Formulations Drives Growth in Global Personal Care Ingredients Market\" \nThe personal care active ingredients market offers growth opportunities driven by consumer demand for natural, sustainable products, and biotechnology advancement. Specialty ingredients, particularly in skin care, are rising rapidly. Asia-Pacific leads growth… \nDublin, Dec. 09, 2025 (GLOBE NEWSWIRE) -- The \"Personal Care Active Ingredients Market, 2024-2031\" has been added to ResearchAndMarkets.com's offering.\r\nThis report provides a comprehensive analysis … [+3403 chars]",
-        "positive": 0.9999991655349731,
-        "negative": 9.330531014484222e-09,
-        "neutral": 8.615623414698348e-07
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/brandhub/pr-release/innoviti-appoints-sandeep-mina-as-chief-business-officer-retail/article70375483.ece",
-        "timestamp": "2025-12-09T09:04:27+00:00",
-        "text": "Innoviti Appoints Sandeep Mina As Chief Business Officer - Retail \nStrengthens leadership to accelerate scale across Innoviti’s retail businesses \nBENGALURU, India, Dec. 9, 2025 /PRNewswire/ -- Innoviti Technologies, Indias leading payments-centric retail SaaS platform, today announced the appointment of Sandeep Mina as Chief Business Officer R… [+3771 chars]",
-        "positive": 0.1023588702082634,
-        "negative": 3.569433101802133e-05,
-        "neutral": 0.8976054191589355
       },
       {
         "source": "news",
@@ -1514,87 +1559,6 @@
         "positive": 2.635023520269897e-05,
         "negative": 0.00034774435334838927,
         "neutral": 0.9996259212493896
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/bonds/building-financial-resilience-why-short-term-planning-deserves-a-bigger-seat-at-the-table/articleshow/125863924.cms",
-        "timestamp": "2025-12-09T07:21:39+00:00",
-        "text": "Building financial resilience: Why short-term planning deserves a bigger seat at the table \nShort-term financial stability is crucial for long-term wealth creation in India, especially amidst macro uncertainty. A structured short-term plan, utilizing instruments like corporate bonds, protects cash flows, limits behavioural mistakes, and provides the… \nFor years, financial advice in India has leaned heavily towards the long term: equity SIPs, retirement planning, compounding, staying invested through cycles. All of these remain important, but they … [+7734 chars]",
-        "positive": 0.9973821043968201,
-        "negative": 0.0003227963170502335,
-        "neutral": 0.00229511852376163
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/108690b9575e0e15",
-        "timestamp": "2025-12-09T07:19:29+00:00",
-        "text": "Will ECB's 'good place' turn into passive easing? \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidias Chi… [+740 chars]",
-        "positive": 0.005066815763711929,
-        "negative": 0.0002451268082950264,
-        "neutral": 0.9946880340576172
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/15b097755876b759",
-        "timestamp": "2025-12-09T07:19:11+00:00",
-        "text": "German exports unexpectedly rise in October \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidias Chi… [+735 chars]",
-        "positive": 0.009548529982566833,
-        "negative": 0.002397130476310849,
-        "neutral": 0.9880543351173401
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/26173316f678b09d",
-        "timestamp": "2025-12-09T07:19:04+00:00",
-        "text": "Europe's second 'China shock' is blessing in disguise \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile Warner Bros. bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidias Chi… [+766 chars]",
-        "positive": 0.006062026135623455,
-        "negative": 0.037583284080028534,
-        "neutral": 0.9563546180725098
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2025/12/09/europe-markets-fed-rate-decision-in-focus-for-stoxx-600-ftse-100.html",
-        "timestamp": "2025-12-09T07:18:46+00:00",
-        "text": "European markets set for soft open as investors await Fed decision \nEuropean shares are expected to open mostly flat on Tuesday as global investors await the U.S. Federal Reserve's monetary policy update. \nEuropean shares are expected to open mostly flat on Tuesday as global investors await the U.S. Federal Reserve's monetary policy update. \r\nFutures tied to the pan-European Stoxx 50 were last seen tra… [+1849 chars]",
-        "positive": 6.199358267622301e-06,
-        "negative": 6.035625483491458e-05,
-        "neutral": 0.9999334812164307
-      },
-      {
-        "source": "news",
-        "id": "https://www.bbc.com/sport/articles/cwypxw44ykxo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "timestamp": "2025-12-09T07:16:49+00:00",
-        "text": "Voting open for World Sport Star of the Year - meet the contenders \nVoting is open for the BBC Sports Personality's World Sport Star of the Year 2025 award. \nVoting is open for the BBC Sports Personality World Sport Star of the Year 2025 award.\r\nSix contenders have been shortlisted for the award, which will be presented during the live show on BBC One on … [+4405 chars]",
-        "positive": 3.0425474051298806e-06,
-        "negative": 1.0912299330811948e-06,
-        "neutral": 0.9999958276748657
-      },
-      {
-        "source": "news",
-        "id": "https://dailycaller.com/2025/12/09/opinion-sky-high-vacancy-sky-high-rents-and-progressive-policies-to-blame-for-blue-city-housing-mirage-bob-rubin/",
-        "timestamp": "2025-12-09T07:15:17+00:00",
-        "text": "BOB RUBIN: Sky-High Vacancy, Sky-High Rents, And Progressive Policies To Blame For Blue-City Housing Mirage \nCNBC reported this month that apartment vacancies across America have climbed to an all-time high. On the surface, that sounds like good news. More empty units should mean more options and more affordable rents for working families. \nCNBC reported this month that apartment vacancies across America have climbed to an all-time high. On the surface, that sounds like good news. More empty units should mean more options and more affor… [+5359 chars]",
-        "positive": 0.9997496008872986,
-        "negative": 7.582510443171486e-05,
-        "neutral": 0.0001745801855577156
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slips-nearly-2-in-one-day-to-90000-here-is-what-experts-say/articleshow/125864115.cms",
-        "timestamp": "2025-12-09T07:13:59+00:00",
-        "text": "Bitcoin slips nearly 2% in one day to $90,000. Here is what experts say \nBitcoin and major altcoins declined over the past day, with BTC near $89,885 and Ethereum slightly lower at $3,104. Analysts warn of heightened volatility ahead as Bitcoin struggles to break past resistance around $92,000 while key support lies near $89,500–$… \nBitcoin slipped nearly 2% in the past 24 hours to hover around the $90,000 mark on Tuesday, last trading near $89,885.Ethereum also eased 0.64% to about $3,104. Among major altcoins, XRP, BNB, Solana… [+3525 chars]",
-        "positive": 0.0002869353338610381,
-        "negative": 0.999612033367157,
-        "neutral": 0.00010104270768351853
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/wealth/plan/rs-1-crore-shortfall-in-retirement-corpus-if-you-misjudge-inflation-by-1-things-to-watch-out-for/articleshow/125863289.cms",
-        "timestamp": "2025-12-09T07:12:34+00:00",
-        "text": "Rs 1 crore shortfall in retirement corpus if you misjudge inflation by 1%: things to watch out for \nInflation quietly eats away at your retirement savings. What costs ₹50,000 monthly today could demand over ₹2 lakh in 30 years. Learn how to build a retirement corpus that grows faster than prices rise and keeps your money working even as you spend it. \nA lot of Indians tend to just focus on amassing a big pile of money without really thinking about what that cash will actually get them in two or three decades.Why your retirement math could fail\r\nWh… [+7277 chars]",
-        "positive": 0.00047283642925322056,
-        "negative": 0.000816501269582659,
-        "neutral": 0.9987106323242188
       },
       {
         "source": "news",
@@ -23908,9 +23872,9 @@
         "neutral": 0.002497967565432191
       }
     ],
-    "nw": 0.4293516674548506,
-    "nw_norm": 71.46758337274252
+    "nw": 0.41745244647120977,
+    "nw_norm": 70.87262232356049
   },
-  "gsi": 71.46758337274252,
+  "gsi": 70.87262232356049,
   "classification": "Bullish"
 }
