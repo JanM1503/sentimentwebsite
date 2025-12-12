@@ -1,8 +1,305 @@
 {
-  "timestamp": "2025-12-12T19:51:41.891126+00:00",
+  "timestamp": "2025-12-12T20:03:19.869164+00:00",
   "news": {
-    "count": 2461,
+    "count": 2463,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2025-12-12/rare-earth-processing-facility-mining-south-australia/106123882",
+        "timestamp": "2025-12-11T19:56:07+00:00",
+        "text": "First Australian rare earth processing facility under construction \nThe processing market is dominated by China, but Australia is building its capabilities in an attempt to boost the domestic industry. \nA processing facility believed to be the first of its kind in Australia is expected to strengthen national rare earth mining capabilities.\r\nAustralia is the fourth-largest produce of rare earths in t… [+4347 chars]",
+        "positive": 0.999987006187439,
+        "negative": 9.25421161923623e-08,
+        "neutral": 1.2845774108427577e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.abc.net.au/news/2025-12-12/dylan-brown-golden-boot-newcastle-knights-contract/106126952",
+        "timestamp": "2025-12-11T19:55:48+00:00",
+        "text": "Golden Boot or not, Dylan Brown's play for New Zealand can be the key for his record-breaking contract \nThe football Dylan Brown played for New Zealand should have won him the Golden Boot but it could also be the key to his record-breaking move to Newcastle. \nAfter a year where he signed the most lucrative contract in the history of rugby league, it would have been fitting if Dylan Brown ended 2025 in gold. \r\nThe future New Zealand playmaker was overlooke… [+8832 chars]",
+        "positive": 0.00013767695054411888,
+        "negative": 0.001099801971577108,
+        "neutral": 0.9987626075744629
+      },
+      {
+        "source": "news",
+        "id": "https://www.coindesk.com/policy/2025/12/11/u-s-cftc-s-pham-moves-for-do-over-on-actual-delivery-guidance-on-crypto",
+        "timestamp": "2025-12-11T19:55:39+00:00",
+        "text": "U.S. CFTC's Pham Moves for Do-Over on 'Actual Delivery' Guidance on Crypto \nIn what are likely her final days at the agency, the acting chairman checked another box from President Donald Trump's crypto agenda. \nU.S. Commodity Futures Trading Commission Acting Chairman Caroline Pham has moved again to advance President Donald Trump's crypto agenda by eliminating old guidance on \"actual delivery\" of crypto co… [+1410 chars]",
+        "positive": 7.66150769777596e-05,
+        "negative": 0.00010236597881885245,
+        "neutral": 0.9998210072517395
+      },
+      {
+        "source": "news",
+        "id": "https://www.pymnts.com/news/retail/2025/walmart-joins-nasdaq-as-amazon-competition-goes-high-tech-and-agentic/",
+        "timestamp": "2025-12-11T19:55:13+00:00",
+        "text": "Walmart Joins Nasdaq as Amazon Competition Goes High-Tech and Agentic \nWhen one thinks of retail competition, the battle between eCommerce and brick-and-mortar is typically what leaps to mind. Traditionally, Amazon has been the eCommerce landscape’s leading representative, and Walmart the flag bearer for traditional physical sho… \nWhen one thinks of retail competition, the battle between eCommerce and brick-and-mortar is typically what leaps to mind.Traditionally, Amazon has been the eCommerce landscapes leading representative… [+4828 chars]",
+        "positive": 0.0006219801143743098,
+        "negative": 0.00011808118870249018,
+        "neutral": 0.9992600083351135
+      },
+      {
+        "source": "news",
+        "id": "https://www.techpowerup.com/343996/just-launched-openai-gpt-5-2-trained-deployed-on-nvidia-infrastructure",
+        "timestamp": "2025-12-11T19:54:13+00:00",
+        "text": "(PR) Just Launched OpenAI GPT-5.2 Trained & Deployed on NVIDIA Infrastructure \nUnveiling what it describes as the most capable model series yet for professional knowledge work, OpenAI launched GPT-5.2 today. The model was trained and deployed on NVIDIA infrastructure, including NVIDIA Hopper and GB200 NVL72 systems. It's the latest exam… \nUnveiling what it describes as the most capable model series yet for professional knowledge work, OpenAI launched GPT-5.2 today. The model was trained and deployed on NVIDIA infrastructure, including… [+4139 chars]",
+        "positive": 0.0001385415525874123,
+        "negative": 5.5334016906272154e-06,
+        "neutral": 0.9998559951782227
+      },
+      {
+        "source": "news",
+        "id": "https://www.longwarjournal.org/archives/2025/12/us-deploys-carrier-issues-airspace-warning-seizes-oil-tanker-in-latest-caribbean-escalations.php",
+        "timestamp": "2025-12-11T19:54:07+00:00",
+        "text": "US deploys carrier, issues airspace warning, seizes oil tanker in latest Caribbean escalations \nThe United States has significantly escalated tensions with the regime of Venezuelan President Nicolas Maduro in recent weeks. After US Secretary of War Pete Hegseth announced “Operation Southern Spear” on November 13, the US sent the USS Gerald R. Ford Carri… \nThe USS Gerald Ford (pictured here in 2023) is currently deployed with its carrier strike group in the Caribbean. (Petty Officer 2nd Class Jackson Adkins, DVIDS)\r\nWashington continued ramping up its … [+5651 chars]",
+        "positive": 0.00030312652233988047,
+        "negative": 0.00022691438789479434,
+        "neutral": 0.9994699358940125
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/?p=2007596",
+        "timestamp": "2025-12-11T19:53:43+00:00",
+        "text": "Experts urge improved funding to curb drug resistance \nPublic health experts urge for increased funding and coordinated action to curb drug resistance in Nigeria, a growing threat causing severe illness and dea\n\nRead More: https://punchng.com/experts-urge-improved-funding-to-curb-drug-resistance/ \nExperts on Thursday called for increased funding, stronger public awareness, and more coordinated action to curb antimicrobial resistance (AMR) in Nigeria.\r\nThey made the appeal in Abuja during a mul… [+3437 chars]",
+        "positive": 0.9998014569282532,
+        "negative": 3.0157025321386755e-06,
+        "neutral": 0.00019555847393348813
+      },
+      {
+        "source": "news",
+        "id": "https://www.timeout.com/los-angeles/news/culver-city-just-approved-free-parking-and-other-changes-to-incentivize-local-film-production-efforts-121125",
+        "timestamp": "2025-12-11T19:53:41+00:00",
+        "text": "Culver City just approved free parking and other changes to incentivize local film production efforts \nCulver City is ready for its close-up (again). \nCulver City just made a serious play to bring film and TV production back to its streets, rolling out a new package of incentives designed to make shooting locally easier, cheaper and far more appeal… [+2268 chars]",
+        "positive": 0.4909813404083252,
+        "negative": 0.002083050087094307,
+        "neutral": 0.5069355368614197
+      },
+      {
+        "source": "news",
+        "id": "https://www.fool.com.au/2025/12/12/5-things-to-watch-on-the-asx-200-on-friday-12-december-2025/",
+        "timestamp": "2025-12-11T19:53:26+00:00",
+        "text": "5 things to watch on the ASX 200 on Friday \nIt looks set to be a good finish to the week for Aussie investors.\nThe post 5 things to watch on the ASX 200 on Friday appeared first on The Motley Fool Australia. \nOn Thursday, the S&amp;P/ASX 200 Index (ASX: XJO) had a reasonably positive session and edged higher. The benchmark index rose 0.15% to 8,592 points.\r\nWill the market be able to build on this on Frid… [+2237 chars]",
+        "positive": 0.9999592304229736,
+        "negative": 1.3975392221254879e-06,
+        "neutral": 3.93882546632085e-05
+      },
+      {
+        "source": "news",
+        "id": "https://hiphopwired.com/2945717/jay-z-k-pop-investment/",
+        "timestamp": "2025-12-11T19:52:57+00:00",
+        "text": "Always Two Steps Ahead: Breaking Down Jay-Z’s 500M Move To Invest In K-Pop \nLet’s be clear…Jay-Z didn’t just make hits; he made headway. We’ve watched him turn a street story into a global business narrative, one wise decision after another. From co-founding Rocawear and selling it for big money to launching Roc Nation, which became … \nSource: Nicolò Campo / Getty\r\nLet’s be clear…Jay-Z didn’t just make hits; he made headway. We’ve watched him turn a street story into a global business narrative, one wise decision after another. Fro… [+3436 chars]",
+        "positive": 0.005942454561591148,
+        "negative": 0.0009353096247650683,
+        "neutral": 0.9931222796440125
+      },
+      {
+        "source": "news",
+        "id": "https://www.mediaite.com/politics/white-house-spox-confirms-trump-wants-cnn-sold-moments-after-fight-with-kaitlan-collins-their-ratings-have-declined/",
+        "timestamp": "2025-12-11T19:52:25+00:00",
+        "text": "White House Spox Confirms Trump Wants CNN Sold Moments After Fight With Kaitlan Collins: ‘Their Ratings Have Declined’ \nWhite House Press Secretary Karoline Leavitt on Thursday said that CNN \"would benefit from new ownership\" moments after a tense exchange with Kaitlan Collins.\nThe post White House Spox Confirms Trump Wants CNN Sold Moments After Fight With Kaitlan Collins: ‘T… \nWhite House Press Secretary Karoline Leavitt on Thursday said that CNN “would benefit from new ownership” moments after a tense exchange with Kaitlan Collins.\r\nDuring Thursday’s White Housing briefin… [+1457 chars]",
+        "positive": 0.2546512186527252,
+        "negative": 0.0014804340898990631,
+        "neutral": 0.7438682913780212
+      },
+      {
+        "source": "news",
+        "id": "https://www.thefader.com/2025/12/11/teed-new-album-always-with-me-interview",
+        "timestamp": "2025-12-11T19:52:22+00:00",
+        "text": "TEED on new album Always With Me, his 10-year hiatus, and big tech \nAn interview with electronic artist TEED (aka Totally Enormous Extinct Dinosaurs) about his new album \"Always With Me,\" big tech and his debut, \"Trouble\" \nThe FADER: When you came out in 2012 with Trouble, that was a very earnest, maybe more optimistic time culturally. I was a child, but I have these vague memories of hipster, Coachella, sunshine, low-… [+1653 chars]",
+        "positive": 0.011587844230234623,
+        "negative": 0.18430589139461517,
+        "neutral": 0.8041061758995056
+      },
+      {
+        "source": "news",
+        "id": "https://observer.com/2025/12/web3-zero-10-art-basel-digital-art-market-future/",
+        "timestamp": "2025-12-11T19:52:22+00:00",
+        "text": "What Zero 10 Can Tell Us About the Art World’s Next Chapter \nThe digital section artists arrived at Art Basel with their legitimacy already established through peer-to-peer platforms, tools and communities native to the scene. \nZero 10, Art Basel’s new digital art section, debuted in Miami, building on the fair’s growing engagement with techno culture. Martina Hoyos\r\nIn a year when discussions about A.I. and the role of big… [+31373 chars]",
+        "positive": 0.009528093971312046,
+        "negative": 3.8810179830761626e-05,
+        "neutral": 0.9904329776763916
+      },
+      {
+        "source": "news",
+        "id": "https://www.channelnewsasia.com/world/us-preparing-seize-more-tankers-venezuelas-coast-after-first-ship-taken-sources-say-5577171",
+        "timestamp": "2025-12-11T19:52:00+00:00",
+        "text": "US preparing to seize more tankers off Venezuela's coast after first ship taken, sources say \nMove sparks caution among shipowners amid rising US enforcement of Venezuela oil sanctions. \nVenezuela's state oil company PDVSA did not reply to a request for comment. Venezuela's government this week said the US seizure constituted a \"theft.\" The White House National Security Council did n… [+1017 chars]",
+        "positive": 0.0003567561798263341,
+        "negative": 0.9805628061294556,
+        "neutral": 0.019080422818660736
+      },
+      {
+        "source": "news",
+        "id": "https://www.androidheadlines.com/2025/12/samsung-hub-vietnam-phone-exports-to-us-drop-lowest-2020.html",
+        "timestamp": "2025-12-11T19:51:57+00:00",
+        "text": "Samsung Hub Vietnam Phone Exports See Sharp Drop to US Market \nVietnam phone exports to the US hit their lowest level since 2020., with the drop tied to Samsung adjusting production amid weaker demand. \nTrade data emerging from Vietnam, a major global manufacturing hub for smartphones, shows a distinct slowdown in exports to the U.S. Shipments of phones and parts hit their lowest levels since May 20… [+1743 chars]",
+        "positive": 3.698844693644787e-06,
+        "negative": 0.9999953508377075,
+        "neutral": 9.247561365555157e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.rte.ie/news/ireland/2025/1211/1548526-eu-wastewater-sanctions/",
+        "timestamp": "2025-12-11T19:51:07+00:00",
+        "text": "EU seeking financial sanctions on Ireland over wastewater \nThe European Commission is to refer Ireland back to the European Court of Justice and is seeking financial sanctions to be imposed because of Ireland's failure to comply with a 2019 court judgement for breaching of the EU Urban Wastewater Directive. \nThe European Commission is to refer Ireland back to the European Court of Justice and is seeking financial sanctions to be imposed because of Ireland's failure to comply with a 2019 court judgement f… [+3815 chars]",
+        "positive": 0.0014703586930409074,
+        "negative": 0.9626603722572327,
+        "neutral": 0.03586925193667412
+      },
+      {
+        "source": "news",
+        "id": "https://thepointsguy.com/news/american-airlines-debuts-airbus-a321xlr-flagship-suites/",
+        "timestamp": "2025-12-11T19:51:07+00:00",
+        "text": "American unveils premium Airbus A321XLR with Flagship Suites, promises ‘sexy’ new routes \nAmerican Airlines next week will become the first U.S. airline to offer service on Airbus' new long-range aircraft: the Airbus A321XLR, featuring the carrier's Flagship Suites. \nSix and a half years ago, American Airlines promised to shake up international travel when it became the first U.S. airline to order Airbus brand-new, extra long range A321XLR jet a single-aisle plan… [+6438 chars]",
+        "positive": 0.23008562624454498,
+        "negative": 0.00014395707694347948,
+        "neutral": 0.7697704434394836
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/menopause-treatment-expands-hormone-therapy-non-hormonal-drugs-2025-12",
+        "timestamp": "2025-12-11T19:50:59+00:00",
+        "text": "Menopause treatment is getting personal \nMenopause care innovations include at-home hormone testing, virtual appointments, and new non-hormonal therapies for symptom relief. \nGetty Images; Alyssa Powell/BI\r\n<ul><li>Women experiencing menopause have long weathered uncomfortable symptoms in silence.</li><li>Advancements in menopause care include personalized hormone therapy… [+7444 chars]",
+        "positive": 0.0025782636366784573,
+        "negative": 2.461437588863191e-06,
+        "neutral": 0.9974192380905151
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/world/us-streamers/valkyraes-questions-shes-never-been-asked-video-reveals-her-long-term-streaming-plans/articleshow/125920792.cms",
+        "timestamp": "2025-12-11T19:50:49+00:00",
+        "text": "Valkyrae’s “questions she’s never been asked” video reveals her long-term streaming plans \nStreaming sensation Valkyrae revealed her long-term plans to continue gaming and streaming well into her 70s, highlighting her enduring passion. She envisions integrating new tech like the ROG Xbox Ally for portable play, from home to beach vacations. This de… \nStreaming sensation Valkyrae revealed her long-term plans to continue gaming and streaming well into her 70s, highlighting her enduring passion. She envisions integrating new tech like the ROG Xbox A… [+1839 chars]",
+        "positive": 0.04288087412714958,
+        "negative": 3.951086910092272e-05,
+        "neutral": 0.9570796489715576
+      },
+      {
+        "source": "news",
+        "id": "https://www.mediaite.com/media/news/i-wish-you-would-report-more-on-it-karoline-leavitt-brawls-with-kaitlan-collins-over-the-economy/",
+        "timestamp": "2025-12-11T19:50:21+00:00",
+        "text": "‘I Wish You Would Report More on It!’ Karoline Leavitt Brawls With Kaitlan Collins Over the Economy \nKaroline Leavitt brawled with Kaitlyn Collins Thursday over the affordability crisis and Donald Trump's seemingly contradictory statement about Christmas.\nThe post ‘I Wish You Would Report More on It!’ Karoline Leavitt Brawls With Kaitlan Collins Over the Eco… \nWhite House Press Secretary Karoline Leavitt brawled with CNN’s Kaitlyn Collins Thursday over the affordability crisis and President Donald Trump’s seemingly contradictory statement about Christmas p… [+2182 chars]",
+        "positive": 8.422825339948758e-05,
+        "negative": 0.00016485304513480514,
+        "neutral": 0.9997509121894836
+      },
+      {
+        "source": "news",
+        "id": "http://commercialobserver.com/2025/12/santander-bank-lease-grand-central-125-park-avenue/",
+        "timestamp": "2025-12-11T19:50:20+00:00",
+        "text": "Santander Bank Inks 6K-SF Deal for New Branch Near Grand Central \nSantander Bank is opening a new branch a block away from Midtown’s Grand Central Terminal, Commercial Observer has learned. The Spanish bank has signed a 15-year lease for 6,234 square feet on the ground floor of SL Green Realty’s 26-story office building at … \nSantander Bank is opening a new branch a block away from Midtowns Grand Central Terminal, Commercial Observer has learned.\r\nThe Spanish bank has signed a 15-year lease for 6,234 square feet on the gr… [+1563 chars]",
+        "positive": 1.8125443602912128e-05,
+        "negative": 1.9306592093926156e-06,
+        "neutral": 0.9999799728393555
+      },
+      {
+        "source": "news",
+        "id": "https://www.foxnews.com/politics/us-set-seize-tens-millions-venezuelan-oil-after-tanker-interception-white-house-says",
+        "timestamp": "2025-12-11T19:50:20+00:00",
+        "text": "US set to seize tens of millions in Venezuelan oil after tanker interception, White House says \nWhite House press secretary Karoline Leavitt confirms U.S. plans to seize oil from Venezuelan tanker captured off Venezuela's coast on Wednesday. \nWhite House press secretary Karoline Leavitt said the U.S. plans to take control of the oil currently on a tanker off the coast of Venezuela that was seized by U.S. forces Wednesday. \r\nTrump \"talks a… [+4188 chars]",
+        "positive": 0.008899538777768612,
+        "negative": 0.0001613348867977038,
+        "neutral": 0.9909391403198242
+      },
+      {
+        "source": "news",
+        "id": "https://punchng.com/reps-pledge-to-strengthen-occupational-health-safety-regulations/",
+        "timestamp": "2025-12-11T19:50:06+00:00",
+        "text": "Reps pledge to strengthen occupational health, safety regulations \nNigeria’s National Assembly is set to overhaul outdated workplace safety regulations, replacing the Factories Act of 2004 to protect all workers.\n\nRead More: https://punchng.com/reps-pledge-to-strengthen-occupational-health-safety-regulations/ \nThe Speaker of the House of Representatives, Tajudeen Abbas, on Thursday reaffirmed the commitment of the 10th National Assembly to overhaul Nigerias occupational health and safety laws, many of whic… [+3866 chars]",
+        "positive": 0.2794485092163086,
+        "negative": 0.0045180171728134155,
+        "neutral": 0.7160335779190063
+      },
+      {
+        "source": "news",
+        "id": "https://bringatrailer.com/listing/2004-ford-f-250-36/",
+        "timestamp": "2025-12-11T19:49:43+00:00",
+        "text": "37k-Mile 2004 Ford F-250 Super Duty SuperCab Power Stroke 4×4 Harley-Davidson Edition \nThis 2004 Ford F-250 Super Duty Harley-Davidson is a SuperCab long-bed 4×4 pickup that has 37k miles after 20 years of ownership in New Jersey. This black-over-black example is powered by a 6.0-liter Power Stroke turbodiesel V8 linked with a five-speed automa… \nThis 2004 Ford F-250 Super Duty Harley-Davidson is a SuperCab long-bed 4×4 pickup that has 37k miles after 20 years of ownership in New Jersey. This black-over-black example is powered by a 6.0-liter… [+2565 chars]",
+        "positive": 7.54211941966787e-05,
+        "negative": 2.8453130198613508e-06,
+        "neutral": 0.9999216794967651
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnet.com/personal-finance/taxes/homeowners-income-taxes-credits-deductions-2025/",
+        "timestamp": "2025-12-11T19:49:38+00:00",
+        "text": "All the Homeowner Tax Breaks for 2025: Learn How to Maximize Your Tax Refund \nYou might be putting up a tree or decorating your home now, but you'll be filing your 2025 taxes before you know it. \nThe expenses of owning a home are often counterbalanced by the tax advantages.\r\nPM Images/Getty Images\r\nBuying a home in the US is expensive enough, but even after you save up for your down payment, … [+11609 chars]",
+        "positive": 0.0037650042213499546,
+        "negative": 0.0004887548857368529,
+        "neutral": 0.9957463145256042
+      },
+      {
+        "source": "news",
+        "id": "https://www.un.org/sustainabledevelopment/blog/2025/12/media-advisory-wsisplus20/",
+        "timestamp": "2025-12-11T19:49:12+00:00",
+        "text": "Media Advisory | WSIS+20: Global stakeholders convene at the United Nations to drive an inclusive, sustainable and rights-based digital world \nPress Release | UN launches Transport Decade with global commitments for sustainable mobility\nThe post Media Advisory | WSIS+20: Global stakeholders convene at the United Nations to drive an inclusive, sustainable and rights-based digital world appeared first… \nMedia Advisory\r\nWSIS+20:Global stakeholders convene at the United Nations to drive an inclusive, sustainable and rights-based digital world \r\nMedia accreditation is open for WSIS+20\r\nThe United Natio… [+3208 chars]",
+        "positive": 0.0007666921010240912,
+        "negative": 5.5612235883018e-06,
+        "neutral": 0.99922776222229
+      },
+      {
+        "source": "news",
+        "id": "https://www.thestar.com.my/news/world/2025/12/12/m23-consolidates-control-over-congo-town-in-blow-to-peace-talks",
+        "timestamp": "2025-12-11T19:48:00+00:00",
+        "text": "M23 consolidates control over Congo town in blow to peace talks \nDec 11 (Reuters) - The M23 rebel group consolidated control over the strategic town of Uvira in eastern Democratic Republic of Congo on Thursday, residents said, as Kinshasa warned that the Rwanda-backed advance could derail U.S. President Donald Trump's effo… \nDec 11 (Reuters) - The M23 rebel group consolidated control over the strategic town of Uvira in eastern Democratic Republic of Congo on Thursday, residents said, as Kinshasa warned that the Rwanda-ba… [+5093 chars]",
+        "positive": 0.0006909411167725921,
+        "negative": 0.7604736089706421,
+        "neutral": 0.2388354241847992
+      },
+      {
+        "source": "news",
+        "id": "https://www.denverpost.com/2025/12/11/swire-coca-cola-colorado-springs/",
+        "timestamp": "2025-12-11T19:47:42+00:00",
+        "text": "After project near DIA falls through, Swire Coca-Cola looks to Colorado Springs \nThe facility will bring 170 new jobs to the region. \nSwire Coca-Cola has announced plans to construct a $475 million manufacturing facility in Colorado Springs after a project near Denver International Airport fell through. \r\nThe decision was tied to h… [+3863 chars]",
+        "positive": 2.270427103212569e-06,
+        "negative": 3.593082510633394e-06,
+        "neutral": 0.999994158744812
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2025/12/11/us-news/karoline-leavitt-rips-cnns-kaitlan-collins-over-biden-era-coverage-says-prez-believes-network-would-benefit-from-new-ownership/",
+        "timestamp": "2025-12-11T19:47:31+00:00",
+        "text": "Karoline Leavitt rips CNN’s Kaitlan Collins over Biden-era coverage, says prez believes network would benefit from ‘new ownership’ \nWhite House Press Secretary Karoline Leavitt tore into CNN's Kaitlan Collins during a Thursday briefing over her network's failure to press former President Joe Biden about poor economic indicators while he was in office. \nWhite House Press Secretary Karoline Leavitt tore into CNN’s Kaitlan Collins during a Thursday briefing over her network’s failure to press former President Joe Biden about poor economic indicators w… [+1847 chars]",
+        "positive": 0.003271643305197358,
+        "negative": 0.7130174040794373,
+        "neutral": 0.28371089696884155
+      },
+      {
+        "source": "news",
+        "id": "https://www.newser.com/story/380229/thieves-steal-600-imperial-artifacts-from-uk-museum.html",
+        "timestamp": "2025-12-11T19:47:01+00:00",
+        "text": "Thieves Steal 600 Imperial Artifacts From UK Museum \nA UK collection chronicling Britain's imperial past has become the latest high-profile museum target, with police saying more than 600 artifacts vanished in a single overnight break-in. Avon and Somerset police on Thursday released CCTV images of four men the… \nInvestigators described one suspect as stocky in a white cap, another slim in a gray hooded jacket, a third in a green cap who appeared to limp with his right leg, and a fourth in a two-tone puffed j… [+1508 chars]",
+        "positive": 0.00042745156679302454,
+        "negative": 2.6513278498896398e-05,
+        "neutral": 0.9995459914207458
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/f879995620fc19eb",
+        "timestamp": "2025-12-11T19:46:57+00:00",
+        "text": "Prediction Markets Form Lobbying Group as State Pressure Ramps Up \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plunge today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Disney's OpenAI deal impact… [+708 chars]",
+        "positive": 0.00118241214659065,
+        "negative": 0.0038016662001609802,
+        "neutral": 0.9950160384178162
+      },
+      {
+        "source": "news",
+        "id": "https://bringatrailer.com/listing/2013-porsche-911-carrera-s-coupe-35/",
+        "timestamp": "2025-12-11T19:46:45+00:00",
+        "text": "One-Owner 2013 Porsche 911 Carrera S Coupe \nThis 2013 Porsche 911 Carrera S coupe was purchased new by its late current owner, who picked it up in Europe via the Tourist Delivery Program, and it now has 11k miles. Powered by a 3.8-liter flat-six paired with a seven-speed PDK automatic transaxle, the ca… \nThis 2013 Porsche 911 Carrera S coupe was purchased new by its late current owner, who picked it up in Europe via the Tourist Delivery Program, and it now has 11k miles. Powered by a 3.8-liter flat-s… [+2582 chars]",
+        "positive": 2.6567724489723332e-05,
+        "negative": 5.909822448302293e-06,
+        "neutral": 0.9999674558639526
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/world/americas/2025/12/11/us-preparing-to-intercept-more-venezuelan-ships-say-sources/",
+        "timestamp": "2025-12-11T19:45:34+00:00",
+        "text": "US preparing to intercept more Venezuelan ships, say sources \nRussia and Belarus contact president Nicolás Maduro, raising possibility that he will seek refuge abroad \nThe US is preparing to intercept more ships transporting Venezuelan oil following the seizure of a tanker this week, as it increases pressure on Venezuelan president Nicolás Maduro, six sources famil… [+3960 chars]",
+        "positive": 3.756677642741124e-06,
+        "negative": 0.9996083378791809,
+        "neutral": 0.0003879738796968013
+      },
       {
         "source": "news",
         "id": "https://variety.com/2025/film/awards/rappers-oscars-acting-teyana-taylor-asap-rocky-tyler-creator-1236606735/",
@@ -959,30 +1256,12 @@
       },
       {
         "source": "news",
-        "id": "https://bringatrailer.com/listing/1999-porsche-911-carrera-4-coupe-28/",
-        "timestamp": "2025-12-11T19:05:03+00:00",
-        "text": "22k-Mile 1999 Porsche 911 Carrera 4 Coupe 6-Speed \nThis 1999 Porsche 911 Carrera 4 coupe has 22k miles following history with three registered owners, and it has spent a total of 25 years registered in California and Oregon. The car was specified with the Aerokit and Arena Red Metallic-finished bodywork over … \nThis 1999 Porsche 911 Carrera 4 coupe has 22k miles following history with three registered owners, and it has spent a total of 25 years registered in California and Oregon. The car was specified wit… [+3213 chars]",
-        "positive": 3.796799546762486e-06,
-        "negative": 4.103565515833907e-06,
-        "neutral": 0.9999921321868896
-      },
-      {
-        "source": "news",
         "id": "https://archinect.com/firms/project/59105967/multnomah-county-library-operations-center-renovation-expansion/150514484",
         "timestamp": "2025-12-11T19:05:00+00:00",
         "text": "Multnomah County Library Operations Center Renovation & Expansion by Hennebery Eddy Architects \nThe “beating heart” of the Multnomah County Library system – because it keeps the entire system running – the new Operations Center is essential for effectively managing more than 500,000 catalogue materials and outreach services. This adaptive reuse project … \nThe “beating heart” of the Multnomah County Library system – because it keeps the entire system running – the new Operations Center is essential for effectively managing more than 500,000 catalogue m… [+4084 chars]",
         "positive": 0.0003277355863247067,
         "negative": 0.0003409920318517834,
         "neutral": 0.9993313550949097
-      },
-      {
-        "source": "news",
-        "id": "https://www.marca.com/en/tennis/2025/12/11/693b0dddca4741e56f8b4587.html",
-        "timestamp": "2025-12-11T19:04:10+00:00",
-        "text": "Serena Williams sets social media alight with another cryptic tweet that could once again hint at her return \nSerena Williams has reignited speculation about a potential return to the WTA Tour after posting yet another cryptic message on social media, a move that immediately sent tennis fa \nSerena Williams has reignited speculation about a potential return to the WTA Tour after posting yet another cryptic message on social media, a move that immediately sent tennis fans and commentators… [+3524 chars]",
-        "positive": 0.00975510198622942,
-        "negative": 0.03303603455424309,
-        "neutral": 0.9572088718414307
       },
       {
         "source": "news",
@@ -995,30 +1274,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.kpbs.org/news/arts-culture/2025/12/11/san-diego-weekend-arts-events-video-game-art-imagined-futures-and-twinkling-lights",
-        "timestamp": "2025-12-11T19:03:33+00:00",
-        "text": "San Diego weekend arts events: Video game art, imagined futures and twinkling lights \nThis weekend in the arts in San Diego: Digitally inspired art in Escondido, exploring \"joy futurism,\" festive ska, a San Diego Scrooge, boat parades, Hanukkah and more. \nVisual art\r\n'Designing the Infinite: Virtual Worldbuilding in Art &amp; Gaming' and Kayla Mattes: 'Reboot &gt; Reweave &gt; Repeat'\r\nCalifornia Center for the Arts, Escondido just opened two digitall… [+11916 chars]",
-        "positive": 2.8152215236332268e-05,
-        "negative": 2.6196853468718473e-06,
-        "neutral": 0.9999692440032959
-      },
-      {
-        "source": "news",
         "id": "https://www.hodinkee.com/articles/why-grading-matters-and-how-it-impacts-the-value-of-your-collection",
         "timestamp": "2025-12-11T19:03:00+00:00",
         "text": "Why Grading Matters And How It Impacts The Value Of Your Collection \nStandardized grading isn't just about understanding quality, it's about determining value. \nAppreciation protection safeguards against this exact type of market price inflation that exceeds the insured value of your collection at the time of a covered loss. It's a collector-focused benefit … [+1076 chars]",
         "positive": 0.8236200213432312,
         "negative": 0.00011864244152093306,
         "neutral": 0.17626139521598816
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/11/3204242/0/en/Dr-Drew-Dickson-Sets-a-New-Standard-for-Verified-Surgical-Excellence-as-Iowa-s-Only-World-College-of-Refractive-Surgery-Fellow.html",
-        "timestamp": "2025-12-11T19:03:00+00:00",
-        "text": "Dr. Drew Dickson Sets a New Standard for Verified Surgical Excellence as Iowa’s Only World College of Refractive Surgery Fellow \nWest Des Moines, Iowa, Dec.  11, 2025  (GLOBE NEWSWIRE) -- West Des Moines, Iowa - December 11, 2025 -  -      In Modern Vision Center's new article, Dr.... \nWest Des Moines, Iowa, Dec. 11, 2025 (GLOBE NEWSWIRE) -- West Des Moines, Iowa - December 11, 2025 - - \r\nIn Modern Vision Center's new article, Dr. Drew Dickson: Des Moines's Only World College of Re… [+6400 chars]",
-        "positive": 8.60562522575492e-06,
-        "negative": 3.82208963856101e-06,
-        "neutral": 0.9999876022338867
       },
       {
         "source": "news",
@@ -1076,39 +1337,12 @@
       },
       {
         "source": "news",
-        "id": "https://biztoc.com/x/5d2b6c927db19669",
-        "timestamp": "2025-12-11T19:02:17+00:00",
-        "text": "Zelenskiy Floats Vote Over UkraineTerritory as US Seeks Deal \nPresident Volodymyr Zelenskiy floated the prospect of allowing Ukrainians to vote on whether to hand Donbas region to Russia as Kyiv comes under mounting pressure to agree to terms of an emerging US peace plan.\nMoscow has insisted that Ukraine withdraw its fo… \nPresident Volodymyr Zelenskiy floated the prospect of allowing Ukrainians to vote on whether to hand Donbas region to Russia as Kyiv comes under mounting pressure to agree to terms of an emerging US … [+137 chars]",
-        "positive": 5.5263732065213844e-05,
-        "negative": 0.00012045203766319901,
-        "neutral": 0.9998242259025574
-      },
-      {
-        "source": "news",
         "id": "https://biztoc.com/x/6e6c14b207efb5aa",
         "timestamp": "2025-12-11T19:02:13+00:00",
         "text": "Trump thinks more should be done to lower interest rates, White House says \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock drop sharply? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed's rate cut affect 2026 … [+731 chars]",
         "positive": 0.015588800422847271,
         "negative": 0.0055895959958434105,
         "neutral": 0.9788216352462769
-      },
-      {
-        "source": "news",
-        "id": "https://dramabeans.com/2025/12/heroes-next-door-episodes-7-8/",
-        "timestamp": "2025-12-11T19:00:51+00:00",
-        "text": "Heroes Next Door: Episodes 7-8 \nThe stakes rise even higher, now that the bomb mastermind’s scheme is nearing its final stages. With so many threats looming on the horizon, it’ll take all hands on deck to keep danger at bay — but our hero might just be a tad too inclined towards working on … \nHeroes Next Door: Episodes 7-8\r\nThe stakes rise even higher, now that the bomb mastermind’s scheme is nearing its final stages. With so many threats looming on the horizon, it’ll take all hands on de… [+8256 chars]",
-        "positive": 0.06085892394185066,
-        "negative": 0.021651575341820717,
-        "neutral": 0.9174895882606506
-      },
-      {
-        "source": "news",
-        "id": "http://www.newsbtc.com/news/ripple/speculation-rises-around-xrp-after-moonpay-purchase-and-cboe-greenlight-for-new-spot-etf/",
-        "timestamp": "2025-12-11T19:00:44+00:00",
-        "text": "Speculation Rises Around XRP After MoonPay Purchase and Cboe Greenlight for New Spot ETF \nXRP is going through the week under a renewed wave of speculation as two separate developments, a MoonPay purchase that revived a long-running community meme and the Cboe approval of a new spot ETF, pushed the token back into the spotlight. Related Reading: M… \nXRP is going through the week under a renewed wave of speculation as two separate developments, a MoonPay purchase that revived a long-running community meme and the Cboe approval of a new spot ETF, … [+3607 chars]",
-        "positive": 0.019305434077978134,
-        "negative": 0.02025468274950981,
-        "neutral": 0.960439920425415
       },
       {
         "source": "news",
@@ -1145,222 +1379,6 @@
         "positive": 3.397325372134219e-07,
         "negative": 3.343377784403856e-06,
         "neutral": 0.9999963045120239
-      },
-      {
-        "source": "news",
-        "id": "http://comicbook.com/comics/feature/31-years-ago-marvel-introduced-the-underrated-x-men-team-theyve-never-used-properly-since/",
-        "timestamp": "2025-12-11T19:00:00+00:00",
-        "text": "31 Years Ago, Marvel Introduced the Underrated X-Men Team They’ve Never Used Properly Since \nImage Courtesy of Marvel Comics\nThe X-Men weren’t the first team to branch beyond one book, but they’ve been by far the most successful. The first ancillary X-team was the New Mutants, a group of young mutants learning to use their powers and dealing with the… \nThe X-Men weren’t the first team to branch beyond one book, but they’ve been by far the most successful. The first ancillary X-team was the New Mutants, a group of young mutants learning to use their… [+5962 chars]",
-        "positive": 0.9999287128448486,
-        "negative": 3.3364296541549265e-05,
-        "neutral": 3.793773794313893e-05
-      },
-      {
-        "source": "news",
-        "id": "https://cheezburger.com/43569157/our-little-guy-stood-his-ground-when-the-larger-dog-lunged-at-him-with-its-teeth-baring-heroic",
-        "timestamp": "2025-12-11T19:00:00+00:00",
-        "text": "‘Our little guy stood his ground when the larger dog lunged at him with its teeth baring.’: Heroic canine proves his love for his hooman sister after firmly holding his ground when another dog attempted to attack her in the park, becoming the family hero \nThere are more than a few of us dog lovers who fantasize about what it would be like to have our hooman children grow up alongside a canine child. The pawdorable playtimes that they could share. The cheeky theft of food. The precious moments when your doggo l… \nThere are more than a few of us dog lovers who fantasize about what it would be like to have our hooman children grow up alongside a canine child. The pawdorable playtimes that they could share. The … [+670 chars]",
-        "positive": 7.195008220151067e-05,
-        "negative": 0.0004491629952099174,
-        "neutral": 0.9994788765907288
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/11/3204240/0/en/In-National-Advertising-Division-Challenge-Asutra-Voluntarily-Discontinues-Claims-for-Magnesium-Body-Butter-with-Capsaicin.html",
-        "timestamp": "2025-12-11T19:00:00+00:00",
-        "text": "In National Advertising Division Challenge, Asutra Voluntarily Discontinues Claims for Magnesium Body Butter with Capsaicin \nBBB National Programs’ National Advertising Division challenged express and implied advertising claims made by Proximity Capital Partners, LLC d/b/a Asutra concerning the efficacy of its Magnesium Body Butter with Capsaicin. BBB National Programs’ National Ad… \nNew York, NY, Dec. 11, 2025 (GLOBE NEWSWIRE) -- BBB National Programs National Advertising Division challenged express and implied advertising claims made by Proximity Capital Partners, LLC d/b/a Asu… [+2421 chars]",
-        "positive": 0.0019913441501557827,
-        "negative": 0.23428425192832947,
-        "neutral": 0.7637243866920471
-      },
-      {
-        "source": "news",
-        "id": "https://www.indiewire.com/features/interviews/hailey-gates-alia-shawkat-atropia-interview-1235167155/",
-        "timestamp": "2025-12-11T19:00:00+00:00",
-        "text": "Hailey Gates and Alia Shawkat Know Their Satire ‘Atropia’ Isn’t for Everyone \nINTERVIEW: But the people it is for? Oh, they're going to love it, the filmmaker and star tell IndieWire about their Sundance winner. \nTime for a cinematic litmus test. If the phrase “military industrial complex romantic comedy” rings your bells, Hailey Gates‘ feature directorial debut “Atropia” just might be for you. What if we tol… [+12485 chars]",
-        "positive": 7.744241884211078e-06,
-        "negative": 4.246382741257548e-05,
-        "neutral": 0.9999498128890991
-      },
-      {
-        "source": "news",
-        "id": "https://soldiersystems.net/2025/12/11/reveal-technology-launches-defense-tech-testing-series-battlelab-on-vet-tv/",
-        "timestamp": "2025-12-11T19:00:00+00:00",
-        "text": "Reveal Technology Launches Defense Tech Testing Series “BattleLab” on VET Tv \nSpecial Operations Veterans Test Emerging Military Technology Under Live Combat ConditionsBOZEMAN, Mont., Dec. 9, 2025 — Reveal Technology Inc., a veteran-founded defense technology company, today announced the premiere of “BattleLab” on VET Tv, a series that… \nSpecial Operations Veterans Test Emerging Military Technology Under Live Combat Conditions\r\nBOZEMAN, Mont., Dec. 9, 2025 — Reveal Technology Inc., a veteran-founded defense technology company, today … [+3582 chars]",
-        "positive": 0.9592475295066833,
-        "negative": 1.5018883459561039e-05,
-        "neutral": 0.04073746129870415
-      },
-      {
-        "source": "news",
-        "id": "https://www.elpasotimes.com/story/news/local/2025/12/11/el-paso-news-missing-person-arthur-crothers-las-cruces-fatal-head-on-crash-train-kills-pedestrian/87717564007/",
-        "timestamp": "2025-12-11T18:59:07+00:00",
-        "text": "Man missing for 2 weeks. Head-on crash kills 1 on Alameda \nNews: Silver Alert issued in El Paso and Las Cruces for missing man. A fatal head-on collision on Alameda Avenue. Train fatally strikes pedestrian. \nA driver was killed when she crashed head-on with a pickup truck while attempting to pass another truck on Alameda Avenue near Fabens, the El Paso County Sheriff's Office said.\r\nMaria De Cisneros Rom… [+2877 chars]",
-        "positive": 0.0006976618897169828,
-        "negative": 0.025602087378501892,
-        "neutral": 0.9737002849578857
-      },
-      {
-        "source": "news",
-        "id": "https://earmilk.com/2025/12/11/artists-on-your-radar-for-2026/",
-        "timestamp": "2025-12-11T18:58:38+00:00",
-        "text": "Artists on your radar for 2026 \n2025 is almost finished and it was a big year in music. From thousands of indie releases that garnered our attention to huge platinum selling artists' new albums including Bad… \n2025 is almost finished and it was a big year in music. From thousands of indie releases that garnered our attention to huge platinum selling artists' new albums including Bad Bunny, Sabrina Carpente… [+13608 chars]",
-        "positive": 0.0044290912337601185,
-        "negative": 0.00018172358977608383,
-        "neutral": 0.9953892230987549
-      },
-      {
-        "source": "news",
-        "id": "https://apnews.com/article/treasury-scott-bessent-financial-stability-f7bd96bb99824fd10c7e3ca239830bff",
-        "timestamp": "2025-12-11T18:57:22+00:00",
-        "text": "Treasury Secretary Bessent wants looser financial regulations \nU.S. Treasury Secretary Scott Bessent is proposing changes to the Financial Stability Oversight Council. It's a body that was created after the 2008 global financial crisis to prevent future economic meltdowns. Bessent is advocating for looser regulations. In… \nWASHINGTON (AP) U.S. Treasury Secretary Scott Bessent is proposing to overhaul a regulatory panel that monitors the nations financial stability, by advocating for looser regulations. \r\nThe Financial … [+1789 chars]",
-        "positive": 0.0005580311990343034,
-        "negative": 0.00035105852293781936,
-        "neutral": 0.9990909099578857
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/russias-diamond-miner-alrosa-eyes-india-foray-with-a-polishing-facility/articleshow/125920117.cms",
-        "timestamp": "2025-12-11T18:57:14+00:00",
-        "text": "Russia's diamond miner Alrosa eyes India foray with a polishing facility \nRussian diamond giant Alrosa is set to establish a polishing plant in India, marking its first international expansion. The company plans to invest $50 million, aiming to boost India's position as a global manufacturing hub. Alrosa will also launch co-branded… \nKolkata: Russian state-backed diamond miner Alrosa would enter India by setting up a polishing plant, either in Surat or Jaipur, CEO-chairman Pavel Maryinchev told ET. India would be the first overse… [+3031 chars]",
-        "positive": 0.10120560973882675,
-        "negative": 1.0089840543514583e-05,
-        "neutral": 0.8987842798233032
-      },
-      {
-        "source": "news",
-        "id": "https://ourbestbites.com/ultra-creamy-holiday-mashed-potatoes-with-make-ahead-option/",
-        "timestamp": "2025-12-11T18:54:26+00:00",
-        "text": "Ultra Creamy Holiday Mashed Potatoes (With Make-Ahead Option) \nThese ultra creamy mashed potatoes are everything you want on a holiday (or any day) table. They’re creamy, fluffy, buttery, and just fancy enough to feel special. They’re incredible served fresh, but they also happen to be totally make-ahead friendly, which … \nThese ultra creamy mashed potatoes are everything you want on a holiday (or any day) table. They’re creamy, fluffy, buttery, and just fancy enough to feel special. They’re incredible served fresh, bu… [+10465 chars]",
-        "positive": 3.743825072888285e-05,
-        "negative": 2.5348033886984922e-05,
-        "neutral": 0.9999371767044067
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2025/12/11/case-for-more-fed-rate-cuts-could-rest-on-systemic-overcount-of-jobs.html",
-        "timestamp": "2025-12-11T18:51:25+00:00",
-        "text": "The case for more Fed rate cuts could rest on a 'systemic overcount' of jobs numbers \nThere are indications that policymakers will be more inclined to cut further if the labor market stays weak. \nIn the Federal Reserve's battle between fighting inflation and limiting unemployment, the latter side carried the day Wednesday and could also have an edge heading into 2026 if labor market weakness … [+3973 chars]",
-        "positive": 0.9129388332366943,
-        "negative": 0.07387389242649078,
-        "neutral": 0.013187284581363201
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/a9248c02d376b1cb",
-        "timestamp": "2025-12-11T18:51:04+00:00",
-        "text": "GPT-5.2 is OpenAI’s latest move in the agentic AI battle \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock drop sharply? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed's rate cut affect 2026 … [+703 chars]",
-        "positive": 0.0005862979451194406,
-        "negative": 0.0003255782066844404,
-        "neutral": 0.9990880489349365
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/9359f6a248618b40",
-        "timestamp": "2025-12-11T18:51:01+00:00",
-        "text": "Time names “the Architects of AI” as its 2025 Person of the Year and takes a look at AI's effect on the economy, geopolitics, and how we interact with the world \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock drop sharply? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed's rate cut affect 2026 … [+674 chars]",
-        "positive": 2.558782034611795e-05,
-        "negative": 6.705815758323297e-05,
-        "neutral": 0.9999072551727295
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/0e73b4855c448dc6",
-        "timestamp": "2025-12-11T18:50:58+00:00",
-        "text": "What NYC's Interborough Express Means for Brooklyn, Queens \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock drop sharply? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed's rate cut affect 2026 … [+738 chars]",
-        "positive": 0.000956758507527411,
-        "negative": 0.0006496715941466391,
-        "neutral": 0.9983934760093689
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/b74814d122df45d2",
-        "timestamp": "2025-12-11T18:50:52+00:00",
-        "text": "US preparing to seize more tankers off Venezuela's coast after first ship taken, sources say \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock drop sharply? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed's rate cut affect 2026 … [+737 chars]",
-        "positive": 0.0019180109957233071,
-        "negative": 0.0026925578713417053,
-        "neutral": 0.995389461517334
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/pmn/canada-posts-merchandise-trade-surplus-for-september-first-since-january",
-        "timestamp": "2025-12-11T18:48:58+00:00",
-        "text": "Canada posts merchandise trade surplus for September, first since January \nOTTAWA — Canada’s merchandise trade balance swung to a surplus in September for the first time since January as exports shot higher and imports pulled back. Statistics Canada reported Thursday a merchandise trade surplus of $153 million for September, compare… \nOTTAWA Canadas merchandise trade balance swung to a surplus in September for the first time since January as exports shot higher and imports pulled back.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONL… [+5161 chars]",
-        "positive": 0.00017564775771461427,
-        "negative": 0.028827812522649765,
-        "neutral": 0.970996618270874
-      },
-      {
-        "source": "news",
-        "id": "https://blog.ted.com/the-most-popular-ted-talks-of-2025-and-whats-next-for-2026/",
-        "timestamp": "2025-12-11T18:48:53+00:00",
-        "text": "The most popular TED Talks of 2025 — and what’s next for 2026 \nAs 2025 winds down, take a moment to revisit the ideas that defined the year — through TED Talks that sparked curiosity, challenged assumptions and left us dreaming. TED’s end-of-year playlists gather the moments that stirred the biggest conversations and off… \nAs 2025 winds down, take a moment to revisit the ideas that defined the year — through TED Talks that sparked curiosity, challenged assumptions and left us dreaming. TED’s end-of-year playlists gathe… [+1099 chars]",
-        "positive": 0.00018669832206796855,
-        "negative": 0.00015640298079233617,
-        "neutral": 0.9996569156646729
-      },
-      {
-        "source": "news",
-        "id": "https://247wallst.com/personal-finance/2025/12/11/social-security-cost-of-living-cola-changes-after-fed-cuts-rates-again/",
-        "timestamp": "2025-12-11T18:47:52+00:00",
-        "text": "Social Security Cost Of Living Adjustment (COLA) Changes After Fed Cuts Rates Again \nThe U.S. Federal Reserve’s latest interest rate cut of a quarter percentage point lowered the benchmark federal funds rate to a range of 3.5%-3.75% in mid... \n2024 Getty Images / Getty Images News via Getty Images\r\n<ul><li>The 2026 COLA was announced at 2.8% in October 2025.\r\n</li><li>Fed projections suggest a potential 2027 COLA in the 2.3% to 2.6% range … [+6945 chars]",
-        "positive": 0.0003551211557351053,
-        "negative": 8.88442009454593e-05,
-        "neutral": 0.9995560050010681
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2025/12/11/single-income-households.html",
-        "timestamp": "2025-12-11T18:45:01+00:00",
-        "text": "Why single-income households are 'a bygone era,' according to experts \nIn two-parent households, both spouses are more likely to work outside the home, by choice and necessity. \nAchieving the American Dream doesn't look the way it used to. \r\nOver the years, societal and labor market changes, along with higher prices for everything from health care to higher education, have c… [+4037 chars]",
-        "positive": 0.0009223985834978521,
-        "negative": 0.040350332856178284,
-        "neutral": 0.9587271809577942
-      },
-      {
-        "source": "news",
-        "id": "https://www.breitbart.com/national-security/2025/12/11/maria-corina-machado-credits-trump-admin-aiding-daring-escape-venezuela/",
-        "timestamp": "2025-12-11T18:43:28+00:00",
-        "text": "Maria Corina Machado Credits Trump Admin with Aiding Daring Escape from Venezuela \nNobel Peace Prize Laureate María Corina Machado revealed that the Trump administration helped her escape from Venezuela.\nThe post Maria Corina Machado Credits Trump Admin with Aiding Daring Escape from Venezuela appeared first on Breitbart. \nNobel Peace Prize Laureate María Corina Machado revealed on Thursday that the administration of U.S. President Donald Trump helped her escape from Venezuela towards Norway.\r\nMachado arrived in Oslo o… [+4739 chars]",
-        "positive": 0.014496599324047565,
-        "negative": 0.000595357792917639,
-        "neutral": 0.9849079847335815
-      },
-      {
-        "source": "news",
-        "id": "https://www.nbcnews.com/politics/politics-news/venezuela-oil-tanker-seized-rcna248678",
-        "timestamp": "2025-12-11T18:41:06+00:00",
-        "text": "U.S. intends to seize oil from tanker captured near Venezuela, White House says \nThe Trump administration plans to seize the oil aboard a tanker captured near Venezuela this week, the White House said Thursday, calling the ship a \"sanctioned shadow\" vessel associated with the Islamic Revolutionary Guard Corps. \nThe Trump administration plans to seize the oil aboard a tanker captured near Venezuela this week, the White House said Thursday, calling the ship a \"sanctioned shadow\" vessel associated with the Isl… [+3101 chars]",
-        "positive": 0.002442233031615615,
-        "negative": 0.003429851960390806,
-        "neutral": 0.9941278696060181
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/463140c821e55d36",
-        "timestamp": "2025-12-11T18:40:24+00:00",
-        "text": "This 1 Unusually Active IWM Put Option Screams Covered Strangle \nThe big news on Wednesday was the Federal Reserve's 0.25% cut in its key federal funds rate to a range of 3.5%-3.75%. Projections suggest only one 0.25% interest rate cut will happen in 2026 due to slowing job growth and persistent inflation.\nDespite the real… \nThe big news on Wednesday was the Federal Reserve's 0.25% cut in its key federal funds rate to a range of 3.5%-3.75%. Projections suggest only one 0.25% interest rate cut will happen in 2026 due to s… [+144 chars]",
-        "positive": 0.005984794348478317,
-        "negative": 0.9851518273353577,
-        "neutral": 0.008863376453518867
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/b851e7c4424c6189",
-        "timestamp": "2025-12-11T18:40:06+00:00",
-        "text": "Indie Titles Outshine Big Names at Video Games Awards Show \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock drop sharply? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed's rate cut affect 2026 … [+725 chars]",
-        "positive": 0.005024657119065523,
-        "negative": 0.005904051475226879,
-        "neutral": 0.989071249961853
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/29b86581de5f28b3",
-        "timestamp": "2025-12-11T18:40:03+00:00",
-        "text": "Bulgaria Faces More Political Turmoil Just as It Adopts the Euro \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock drop sharply? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed's rate cut affect 2026 … [+728 chars]",
-        "positive": 0.016010209918022156,
-        "negative": 0.42052048444747925,
-        "neutral": 0.5634692907333374
       },
       {
         "source": "news",
@@ -22153,9 +22171,9 @@
         "neutral": 0.7501845359802246
       }
     ],
-    "nw": 0.369756997415327,
-    "nw_norm": 68.48784987076635
+    "nw": 0.35219487568948005,
+    "nw_norm": 67.60974378447399
   },
-  "gsi": 68.48784987076635,
+  "gsi": 67.60974378447399,
   "classification": "Bullish"
 }
