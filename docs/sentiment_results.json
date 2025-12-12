@@ -1,8 +1,710 @@
 {
-  "timestamp": "2025-12-12T15:34:32.333813+00:00",
+  "timestamp": "2025-12-12T15:52:56.042176+00:00",
   "news": {
-    "count": 2481,
+    "count": 2482,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.livemint.com/companies/news/mamaearths-parent-honasa-consumer-enters-mens-personal-care-market-with-reginald-men-acquisition-check-details-11765464370113.html",
+        "timestamp": "2025-12-11T15:46:38+00:00",
+        "text": "Mamaearth's parent Honasa Consumer enters men's personal care market with Reginald Men acquisition. Check details \nHonasa Consumer, parent of Mamaearth, has acquired a 95% stake in BTM Ventures, the parent of men's brand Reginald Men, for  ₹195 crore. This move aims to enhance its presence in the men's personal care market, focusing on products like sunscreen and serum. \nPersonal care brand Mamaearth's parent company, Honasa Consumer, has entered the men's personal care market with the acquisition of Reginald Men parent BTM Ventures, the company said in an exchange f… [+2539 chars]",
+        "positive": 0.01627318374812603,
+        "negative": 2.779512942652218e-05,
+        "neutral": 0.9836990833282471
+      },
+      {
+        "source": "news",
+        "id": "https://djmag.com/news/last-night-dj-saved-my-life-announce-himalayan-expedition-charity",
+        "timestamp": "2025-12-11T15:45:54+00:00",
+        "text": "Last Night A DJ Saved My Life announce Himalayan expedition for charity \nEveryone is invited to join a trip culminating in the highest altitude full moon party ever held \nMusic industry charity Last Night A DJ Saved My Life has announced a Himalayan expedition taking place in November next year. \r\nThe organisation will run a 13-day trek across the world's tallest moun… [+1398 chars]",
+        "positive": 0.004154523368924856,
+        "negative": 8.089451512205414e-06,
+        "neutral": 0.9958374500274658
+      },
+      {
+        "source": "news",
+        "id": "https://gizmodo.com/ai-fails-to-win-times-person-of-the-year-this-time-2000698441",
+        "timestamp": "2025-12-11T15:45:50+00:00",
+        "text": "AI Fails to Win Time’s Person of the Year… This Time \nSorry to the Polymarket bettors. \nMost years, Time Magazine names a person who for better or for worse … has done the most to influence the events of the year. The first-ever honoree was Charles Lindbergh in 1927, honored for being t… [+2669 chars]",
+        "positive": 0.04595954343676567,
+        "negative": 0.00023247649369295686,
+        "neutral": 0.9538078904151917
+      },
+      {
+        "source": "news",
+        "id": "https://www.politico.eu/article/eu-approves-legal-workaround-sideline-hungary-orban-russia-assets-frozen-forever/",
+        "timestamp": "2025-12-11T15:45:49+00:00",
+        "text": "EU approves legal workaround to sideline Orbán, keep Russian assets frozen forever \nThe EU's decision undermines the Kremlin’s hopes of unfreezing the money under a post-war peace settlement. \nThe legal mechanism deals a major blow to the Kremlins hopes of unfreezing its money as part of a post-war peace settlement  an idea that has been championed by U.S. President Donald Trump but remain… [+1107 chars]",
+        "positive": 0.005624170880764723,
+        "negative": 0.9921459555625916,
+        "neutral": 0.0022298803087323904
+      },
+      {
+        "source": "news",
+        "id": "https://www.bostonherald.com/2025/12/11/trump-aid-farmers-problems-remain/",
+        "timestamp": "2025-12-11T15:45:16+00:00",
+        "text": "Farmers got more money from Trump. They still have more problems \nDonald Trump unveiled a aid package for farmers, but they see it as a stopgap and not a permanent solution. \nBy JOSH FUNK and MARK VANCLEAVE, Associated Press\r\nRANDOLPH, Minn. (AP) When Donald Trump promised new tariffs while running for president, Gene Stehly worried that trade disputes would jeopardize hi… [+5058 chars]",
+        "positive": 3.192044823663309e-05,
+        "negative": 0.9929947257041931,
+        "neutral": 0.006973326671868563
+      },
+      {
+        "source": "news",
+        "id": "https://thefly.com/permalinks/entry.php/id4255073/CDE-Coeur-Mining-call-volume-above-normal-and-directionally-bullish",
+        "timestamp": "2025-12-11T15:45:01+00:00",
+        "text": "Coeur Mining call volume above normal and directionally bullish \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
+        "positive": 0.9713245034217834,
+        "negative": 1.0743287930381484e-06,
+        "neutral": 0.028674505650997162
+      },
+      {
+        "source": "news",
+        "id": "https://blog.computationalcomplexity.org/2025/12/learning-mathematical-process.html",
+        "timestamp": "2025-12-11T15:45:00+00:00",
+        "text": "Learning the Mathematical Process \nWatching Mathematicians at Work (AI generated) The Smithsonian Natural History Museum has a FossiLab  where visitors can peek through window... \n<table><tr><td></td></tr><tr><td>Watching Mathematicians at Work (AI generated)</td></tr>\r\n</table>The Smithsonian Natural History Museum has a FossiLab where visitors can peek through windows watchi… [+1767 chars]",
+        "positive": 9.34428499022033e-06,
+        "negative": 3.880624262819765e-06,
+        "neutral": 0.9999867677688599
+      },
+      {
+        "source": "news",
+        "id": "https://me.pcmag.com/en/news/34094/upgrade-your-movie-nights-with-this-65-inch-lg-smart-tv-deal-now-44-off",
+        "timestamp": "2025-12-11T15:45:00+00:00",
+        "text": "Upgrade Your Movie Nights With This 65-Inch LG Smart TV Deal, Now 44% Off \nToday's Walmart deals of the day also feature the Google Nest Audio smart speaker with a 30% price cut and Seagate's 2TB External HDD for $30 less.\nSometimes the universe aligns itself with you, to bring you deals on tech you've been putting off upgrading: a … \nSometimes the universe aligns itself with you, to bring you deals on tech you've been putting off upgrading: a TV that does your movie nights justice, a smart speaker that actually sounds great, and … [+2506 chars]",
+        "positive": 0.7008647918701172,
+        "negative": 3.5473716707201675e-05,
+        "neutral": 0.2990996837615967
+      },
+      {
+        "source": "news",
+        "id": "https://uk.pcmag.com/news/161981/upgrade-your-movie-nights-with-this-65-inch-lg-smart-tv-deal-now-44-off",
+        "timestamp": "2025-12-11T15:45:00+00:00",
+        "text": "Upgrade Your Movie Nights With This 65-Inch LG Smart TV Deal, Now 44% Off \nToday's Walmart deals of the day also feature the Google Nest Audio smart speaker with a 30% price cut and Seagate's 2TB External HDD for $30 less.\nSometimes the universe aligns itself with you, to bring you deals on tech you've been putting off upgrading: a … \nSometimes the universe aligns itself with you, to bring you deals on tech you've been putting off upgrading: a TV that does your movie nights justice, a smart speaker that actually sounds great, and … [+2506 chars]",
+        "positive": 0.7008647918701172,
+        "negative": 3.5473716707201675e-05,
+        "neutral": 0.2990996837615967
+      },
+      {
+        "source": "news",
+        "id": "https://www.cartoonbrew.com/artificial-intelligence/disney-plus-openai-sora-chatgpt-1-billion-257521.html",
+        "timestamp": "2025-12-11T15:44:05+00:00",
+        "text": "Disney Invests $1B In OpenAI, Studio Assets Heading To Sora, ChatGPT \nMore than 200 characters from Disney's portfolio will be available to users of the video-generating platform Sora and image-generating portion of ChatGPT. \nThe Walt Disney Company and ChatGPT/Sora parent company OpenAI unveiled one of the most significant generative AI agreements in the technologys young history today, with the former investing $1 billi… [+3701 chars]",
+        "positive": 0.02641555853188038,
+        "negative": 2.5116630695265485e-06,
+        "neutral": 0.973581850528717
+      },
+      {
+        "source": "news",
+        "id": "https://finance.yahoo.com/news/suncor-targets-870-000-bpd-154327951.html",
+        "timestamp": "2025-12-11T15:43:27+00:00",
+        "text": "Suncor Targets 870,000 bpd in 2026 as Oilsands Output Surges \nSuncor Energy has laid out an ambitious production and capital plan for 2026, forecasting a meaningful jump in oil and gas output as efficiencies improve... \nSuncor Energy has laid out an ambitious production and capital plan for 2026, forecasting a meaningful jump in oil and gas output as efficiencies improve across its oilsands and downstream assets. Th… [+2682 chars]",
+        "positive": 0.9999990463256836,
+        "negative": 1.213692826240731e-07,
+        "neutral": 8.528705848220852e-07
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/india/punjab-cm-bhagwant-mann-conducts-surprise-inspection-of-road-work-orders-action-against-contractors-over-irregularities/articleshow/125916435.cms",
+        "timestamp": "2025-12-11T15:43:24+00:00",
+        "text": "Punjab CM Bhagwant Mann conducts surprise inspection of road work; orders action against contractors over irregularities \nIndia News: NEW DELHI: Punjab chief minister Bhagwant Singh Mann on Thursday directed officials to issue a notice to a contractor and withhold payments after dete. \n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Punjab CM Bhagwant Mann conducts surprise inspection of road work; orders action against contractors over irregularities</li></ul>\r\nFollow Us On Social Med… [+1835 chars]",
+        "positive": 0.00010249216575175524,
+        "negative": 0.00020256807329133153,
+        "neutral": 0.9996949434280396
+      },
+      {
+        "source": "news",
+        "id": "https://www.tomshardware.com/tech-industry/china-presses-netherlands-to-resolve-nexperia-dispute-as-supply-concerns-grow",
+        "timestamp": "2025-12-11T15:43:06+00:00",
+        "text": "Chinese government wades into Dutch chipmaker dispute — presses Netherlands to resolve Nexperia saga as supply concerns grow \nChina has called on the Netherlands to move quickly to resolve the dispute surrounding Nexperia after months of supervision measures and a retaliatory export freeze disrupted shipments of components. \nChina has called on the Netherlands to move quickly to resolve the dispute surrounding Nexperia, the Dutch semiconductor manufacturer owned by China’s Wingtech, after months of supervision measures a… [+3389 chars]",
+        "positive": 0.00019801607413683087,
+        "negative": 0.9980328679084778,
+        "neutral": 0.0017691608518362045
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/11/3204090/0/en/Click-Share-Launches-AI-Powered-Autonomous-Bike-Rental-Platform-Cutting-Operating-Costs-Up-to-70.html",
+        "timestamp": "2025-12-11T15:43:00+00:00",
+        "text": "Click&Share Launches AI-Powered Autonomous Bike Rental Platform, Cutting Operating Costs Up to 70% \nComplete End-to-End Solution Enables True 24/7 Staff-Free Operations Across Any Location Complete End-to-End Solution Enables True 24/7 Staff-Free Operations Across Any Location \nFaak am See, Austria, Dec. 11, 2025 (GLOBE NEWSWIRE) -- Click&amp;Share today announced its fully integrated autonomous bike rental platform, combining its proven backend operations - already serving… [+4349 chars]",
+        "positive": 0.9723859429359436,
+        "negative": 3.909904989995994e-06,
+        "neutral": 0.027610139921307564
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/from-aries-to-pisces-how-your-zodiac-sign-would-handle-the-zombie-apocalypse/articleshow/125910907.cms",
+        "timestamp": "2025-12-11T15:42:50+00:00",
+        "text": "From Aries to Pisces; How your zodiac sign would handle the Zombie Apocalypse \nAs popular culture explores zombie apocalypse scenarios, this article humorously examines how each zodiac sign might react. From Aries leading the charge to Pisces offering emotional support, the piece playfully suggests personality traits could influence sur… \nAs popular culture explores zombie apocalypse scenarios, this article humorously examines how each zodiac sign might react. From Aries leading the charge to Pisces offering emotional support, the pie… [+1970 chars]",
+        "positive": 1.5304032785934396e-05,
+        "negative": 7.074634140735725e-06,
+        "neutral": 0.999977707862854
+      },
+      {
+        "source": "news",
+        "id": "https://247wallst.com/investing/2025/12/11/jepqs-10-dividend-is-legendary-but-at-what-cost/",
+        "timestamp": "2025-12-11T15:42:26+00:00",
+        "text": "JEPQ’s 10% Dividend Is Legendary, But At What Cost? \nThe JPMorgan Nasdaq Equity Premium Income ETF (quite the mouthful!) (NASDAQ:JEPQ) has attracted nearly $32 billion in assets with a simple and appealing... \n24/7 Wall St.\r\n<ul><li>JEPQ delivers an 11.52% dividend yield by selling covered calls on Nasdaq-100 stocks but caps upside gains during rallies.\r\n</li><li>QQQ returned 22.27% year-to-date and 106.68… [+4471 chars]",
+        "positive": 0.999958872795105,
+        "negative": 4.2135440025958815e-07,
+        "neutral": 4.065146640641615e-05
+      },
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/2026-will-shock-the-world-scary-predictions-by-baba-vanga-nostradamus-bhavishya-malika/articleshow/125913550.cms",
+        "timestamp": "2025-12-11T15:42:02+00:00",
+        "text": "2026 Will Shock the World? Scary Predictions by Baba Vanga, Nostradamus & Bhavishya Malika \nGlobal shock grips as Baba Vanga, Nostradamus, and Bhavishya Malika predict a terrifying 2026. Expect AI dominance, devastating climate disasters, alien encounters, and a potential World War involving major global powers. These prophecies paint a dire picture… \nGlobal shock grips as Baba Vanga, Nostradamus, and Bhavishya Malika predict a terrifying 2026. Expect AI dominance, devastating climate disasters, alien encounters, and a potential World War involvin… [+1977 chars]",
+        "positive": 0.0002926187589764595,
+        "negative": 0.0019435468129813671,
+        "neutral": 0.9977638721466064
+      },
+      {
+        "source": "news",
+        "id": "https://www.dw.com/en/venezuela-and-us-conflict-whats-it-all-about/a-75110149",
+        "timestamp": "2025-12-11T15:42:00+00:00",
+        "text": "Venezuela and US conflict: What's it all about? \nThe US seizure of an oil tanker near Venezeula is not the only point of contention between the two countries. Drugs, oil, sanctions and election disputes are all playing a part in the escalating conflict. The seizure of what US President Donald Trump called a… \nThe seizure of what US President Donald Trump called a \"very large\" oil tanker off the coast of Venezuela is the latest escalation in the conflict between the two nations.\r\nIn recent months, Trump ha… [+5811 chars]",
+        "positive": 2.46542040258646e-05,
+        "negative": 0.9972877502441406,
+        "neutral": 0.002687552012503147
+      },
+      {
+        "source": "news",
+        "id": "https://247wallst.com/investing/2025/12/11/boomers-looking-for-passive-income-can-buy-5-safe-high-yield-monthly-income-stocks/",
+        "timestamp": "2025-12-11T15:41:52+00:00",
+        "text": "Boomers Looking for Passive Income Can Buy 5 Safe High-Yield Monthly Income Stocks \nThese five high-yield stocks come with monthly dividends, making them great ideas for passive income-oriented Baby Boomer investors seeking upside... \nPeopleImages.com - Yuri A / Shutterstock.com\r\nPassive income is characterized by its ability to generate revenue without the earner's continuous active effort, making it a desirable financial strateg… [+9193 chars]",
+        "positive": 0.9997126460075378,
+        "negative": 7.357111826422624e-07,
+        "neutral": 0.00028666850994341075
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/bc0b754b39c7f284",
+        "timestamp": "2025-12-11T15:41:34+00:00",
+        "text": "S&P and Nasdaq under tech-sector pressure as Dow negotiates gain after Fed cut \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+710 chars]",
+        "positive": 0.014004352502524853,
+        "negative": 0.5811724662780762,
+        "neutral": 0.4048231840133667
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbssports.com/soccer/news/trinity-rodmans-contract-saga-timeline-updates-nwsl-washington-spirit-financials/",
+        "timestamp": "2025-12-11T15:41:30+00:00",
+        "text": "Trinity Rodman's contract saga timeline: NWSL board in talks to approve changes in an effort to keep star? \nWhere Rodman plays next is anyone's guess, but her drawn-out contract saga has featured some interesting events \nThe entire women's soccer audience is keeping an eye on the free agency race for Trinity Rodman. As 2025 comes to a close, a new wrinkle in the negotiation mix comes into play -- a historic vote.\r\nTh… [+15648 chars]",
+        "positive": 0.00017979295807890594,
+        "negative": 8.686644287081435e-05,
+        "neutral": 0.9997332692146301
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/82e531232d8ce5d6",
+        "timestamp": "2025-12-11T15:41:30+00:00",
+        "text": "WHO chief 'not worried' about US bilateral deals affecting pandemic treaty \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+768 chars]",
+        "positive": 0.020425044000148773,
+        "negative": 0.012757224030792713,
+        "neutral": 0.9668177962303162
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/6a1d77e5ca0ebe7c",
+        "timestamp": "2025-12-11T15:41:22+00:00",
+        "text": "US wholesale inventories rebound strongly in September \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+720 chars]",
+        "positive": 0.9966335892677307,
+        "negative": 0.00013883704377803952,
+        "neutral": 0.0032275086268782616
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/ea80b18f14f6a2f5",
+        "timestamp": "2025-12-11T15:41:16+00:00",
+        "text": "Parent of student charged in shooting that killed teen at Kentucky State University \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+737 chars]",
+        "positive": 0.0025327920448035,
+        "negative": 0.007675475440919399,
+        "neutral": 0.9897916316986084
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/ffdda30842cb3395",
+        "timestamp": "2025-12-11T15:41:16+00:00",
+        "text": "Lululemon Q3 Earnings Preview: Leadership Shakeup, Tariffs And Key Metrics To Watch \nLululemon Athletica Inc (NASDAQ:LULU) stock is trading lower Thursday morning before its fiscal third-quarter earnings release. Here’s what investors need to know.\nLululemon Athletica stock is trading at depressed levels. What should traders watch with LULU?\n… \nLululemon Athletica Inc (NASDAQ:LULU) stock is trading lower Thursday morning before its fiscal third-quarter earnings release. Heres what investors need to know.Lululemon Athletica stock is trading … [+142 chars]",
+        "positive": 2.1678308257833123e-05,
+        "negative": 0.0009466118062846363,
+        "neutral": 0.9990317821502686
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/07754f25b59d4e67",
+        "timestamp": "2025-12-11T15:41:13+00:00",
+        "text": "Brazil Oil Output Rebounds After Platform Outages Cut Production in November \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+757 chars]",
+        "positive": 0.9943363070487976,
+        "negative": 0.0003348694590386003,
+        "neutral": 0.005328869912773371
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/world/europe/2025/12/11/a-deal-too-far-the-fortress-belt-trump-wants-kyiv-to-surrender-for-peace/",
+        "timestamp": "2025-12-11T15:41:12+00:00",
+        "text": "A deal too far? The ‘fortress belt’ Trump wants Kyiv to surrender for peace \nThe Donbas region is at the centre of US-led efforts to end Russia’s war against Ukraine \nAs US-led efforts to end Russias war against Ukraine lurch forward, there is one considerable obstacle that could derail an agreement: territorial concessions.\r\nRussia and the US are demanding that K… [+9384 chars]",
+        "positive": 2.380796468059998e-05,
+        "negative": 0.7072963714599609,
+        "neutral": 0.2926798164844513
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/3ce585ea8a63c4fa",
+        "timestamp": "2025-12-11T15:41:10+00:00",
+        "text": "Thai PM Plans to Dissolve Parliament to Pave Way for Early Vote \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+741 chars]",
+        "positive": 0.0038941584061831236,
+        "negative": 0.0009970422834157944,
+        "neutral": 0.9951087832450867
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/a20f5773c3f56e21",
+        "timestamp": "2025-12-11T15:41:04+00:00",
+        "text": "Major automakers say China poses 'clear and present threat' to U.S. auto industry \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+760 chars]",
+        "positive": 0.015518439933657646,
+        "negative": 0.6395875811576843,
+        "neutral": 0.34489402174949646
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/6ae6864117ad4058",
+        "timestamp": "2025-12-11T15:41:01+00:00",
+        "text": "Why the Dow Is Outpacing the S&P 500 and Nasdaq Today \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+765 chars]",
+        "positive": 0.9177022576332092,
+        "negative": 0.00032184479641728103,
+        "neutral": 0.08197584003210068
+      },
+      {
+        "source": "news",
+        "id": "http://electrek.co/2025/12/11/jeep-ram-maker-turns-to-cheaper-vehicles-in-emergency-push/",
+        "timestamp": "2025-12-11T15:40:38+00:00",
+        "text": "Jeep, Ram maker turns to more affordable vehicles in ’emergency room’ push \nJeep and Ram’s parent company, Stellantis, is betting on cheaper vehicles as it fights for market share in what’s being described as an “emergency room” operation.\n\n\n\n more… \nJeep and Ram’s parent company, Stellantis, is betting on cheaper vehicles as it fights for market share in what’s being described as an “emergency room” operation.\r\nAfter Stellantis’ sales in the US … [+2999 chars]",
+        "positive": 0.0016874150605872273,
+        "negative": 0.0011949456529691815,
+        "neutral": 0.9971176385879517
+      },
+      {
+        "source": "news",
+        "id": "https://www.irishtimes.com/business/2025/12/11/pharma-deal-a-near-total-victory-for-industry-lobbying-effort/",
+        "timestamp": "2025-12-11T15:40:30+00:00",
+        "text": "Pharma deal a near-total victory for industry lobbying effort \nDocuments show Government assured pharmaceutical companies Ireland had their back in Washington and Brussels \nExecutives from the pharmaceutical industry were gathered around a table in the Italian Room inside Government Buildings. It was the middle of May and the prospect of a damaging trade war between Eur… [+4991 chars]",
+        "positive": 0.9999481439590454,
+        "negative": 1.0073827979795169e-05,
+        "neutral": 4.167032238910906e-05
+      },
+      {
+        "source": "news",
+        "id": "https://www.ndtvprofit.com/business/disney-invests-1-billion-in-openai-strikes-licensing-deal",
+        "timestamp": "2025-12-11T15:40:21+00:00",
+        "text": "Disney Invests $1 Billion In OpenAI, Strikes Licensing Deal \nWalt Disney Co. agreed to invest $1 billion in OpenAI and license iconic characters like Mickey Mouse and Cinderella for use on the startup’s short-form, artificial intelligence video platform. As part of the new three-year pact, OpenAI’s Sora will be able to… \nWalt Disney Co. agreed to invest $1 billion in OpenAI and license iconic characters like Mickey Mouse and Cinderella for use on the startups short-form, artificial intelligence video platform.\r\nAs pa… [+3187 chars]",
+        "positive": 0.00016276323003694415,
+        "negative": 7.766909220663365e-06,
+        "neutral": 0.9998294115066528
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2025/12/11/business/cnn-denies-banning-stephen-miller-after-top-wh-aide-claims-it-rejected-offer-to-discuss-any-topic-with-any-host-at-any-time/",
+        "timestamp": "2025-12-11T15:40:06+00:00",
+        "text": "CNN denies banning Stephen Miller after top WH aide claims it rejected offer to ‘discuss any topic with any host at any time’ \nDuring an appearance on Fox News’ “Hannity” on Wednesday, Miller claimed the lefty cable network refused to book him after the White House’s communications team reached out. \nCNN denied it banned top White House aide Stephen Miller from appearing on the network after he claimed the channel turned down his offer to speak on any topic with any host at any time.\r\nDuring an a… [+3271 chars]",
+        "positive": 0.0003971208643633872,
+        "negative": 0.24276481568813324,
+        "neutral": 0.7568380236625671
+      },
+      {
+        "source": "news",
+        "id": "https://247wallst.com/personal-finance/2025/12/11/youd-think-3-million-means-financial-freedom-not-so-fast/",
+        "timestamp": "2025-12-11T15:40:02+00:00",
+        "text": "You’d Think $3 Million Means Financial Freedom… Not So Fast \nMost people would probably be thrilled to reach the age of 50 with $3 million and a $1 million house. But this Reddit poster is having doubts about how well ... \nMART PRODUCTION from Pexels and kanchanachitkhamma\r\n<ul><li>A $3 million portfolio at age 50 can generate roughly $120,000 annually under a 4% withdrawal rate before taxes and health care costs.\r\n</l… [+5243 chars]",
+        "positive": 4.215384979033843e-05,
+        "negative": 0.9342765212059021,
+        "neutral": 0.06568137556314468
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbsnews.com/news/how-much-100000-home-equity-loan-cost-per-month-following-december-2025-fed-rate-cut/",
+        "timestamp": "2025-12-11T15:39:51+00:00",
+        "text": "How much does a $100,000 home equity loan cost per month following the December Fed rate cut? \nNew Fed rate cuts have lowered home equity borrowing costs. Here's how much a $100,000 home equity loan costs now. \nMonthly home equity loan costs have been declining alongside a cooler Federal funds rate.\r\nMuhammad Aqib/Getty Images\r\nBorrowing six figures' worth of home equity may not seem like the most obvious b… [+4291 chars]",
+        "positive": 0.0356963686645031,
+        "negative": 0.03337446600198746,
+        "neutral": 0.9309291243553162
+      },
+      {
+        "source": "news",
+        "id": "https://www.autosport.com/wec/news/rossi-wec-2026-bmw-lmgt3/10784182/",
+        "timestamp": "2025-12-11T15:39:45+00:00",
+        "text": "Rossi absent from BMW WEC LMGT3 line-up for 2026 \nWRT BMW has rejigged its driver line-up for the 2026 World Endurance Championship, with MotoGP legend Valentino Rossi departing the LMGT3 squad after two seasons.​Rossi had been a central figure in BMW’s LMGT3 programme since the inception of the category in … \nWRT BMW has rejigged its driver line-up for the 2026 World Endurance Championship, with MotoGP legend Valentino Rossi departing the LMGT3 squad after two seasons.\r\nRossi had been a central figure in … [+2014 chars]",
+        "positive": 0.0005675184074789286,
+        "negative": 0.014905918389558792,
+        "neutral": 0.984526515007019
+      },
+      {
+        "source": "news",
+        "id": "https://www.starsandstripesfc.com/usmnt/41786/u-s-soccer-announces-senegal-match-to-finalize-pre-world-cup-friendly-slate",
+        "timestamp": "2025-12-11T15:38:57+00:00",
+        "text": "U.S. Soccer announces Senegal match to finalize pre-World Cup friendly slate \nThe final pre-World Cup friendly is set. \nWhen U.S. Soccer announced the pre-World Cup slate of friendly matches for the United States Mens National Team back on December 2nd, there was one match on May 31st in Charlotte that was without an … [+2122 chars]",
+        "positive": 3.0473954666376812e-06,
+        "negative": 5.886129770260595e-07,
+        "neutral": 0.9999963045120239
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/economy/indicators/broad-based-revival-in-rural-demand-improvement-in-incomes-nabard-survey/articleshow/125916612.cms",
+        "timestamp": "2025-12-11T15:37:54+00:00",
+        "text": "Broad-based revival in rural demand improvement in incomes: Nabard Survey \nA NABARD survey reveals a significant boost in rural economic momentum, with 80% of households reporting higher consumption over the past year. This rise in prosperity is attributed to sustained welfare support, strong public investment, GST rate rationalizat… \nNew Delhi: In a clear sign of rural economic momentum, 80 per cent of rural households have consistently reported higher consumption over the last year - a hallmark of rising prosperity, according to… [+1780 chars]",
+        "positive": 1.0,
+        "negative": 3.430792094860635e-09,
+        "neutral": 8.376309423852035e-09
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-falls-after-fed-cuts-rate-why-sp-500-and-nasdaq-are-down-while-dow-gains-oracle-and-nvidia-lead-todays-biggest-tech-losses/articleshow/125916263.cms",
+        "timestamp": "2025-12-11T15:36:14+00:00",
+        "text": "US stock market today falls: S&P 500 and Nasdaq are down while Dow gains - Oracle and Nvidia lead today's biggest tech losses \nUS Stock market today opened mixed as tech stocks stumbled. Oracle earnings shocked investors. Cloud revenue missed. $15 billion data center spend announced. Shares dropped 15.6%. Nasdaq fell 0.7%, S&P 500 down 0.4%, Dow up 0.3%. AI spending fears hit tech va… \nUS Stock market today opened mixed as tech stocks tumbled and the Dow edged higher. Oracle earnings spooked investors after the company missed cloud revenue and announced a $15 billion hike in data c… [+5498 chars]",
+        "positive": 2.4463731733703753e-06,
+        "negative": 0.9999972581863403,
+        "neutral": 2.5251404167647706e-07
+      },
+      {
+        "source": "news",
+        "id": "https://en.protothema.gr/2025/12/11/great-greek-wines-at-the-masters-of-wine-auction-at-sothebys/",
+        "timestamp": "2025-12-11T15:35:50+00:00",
+        "text": "Great Greek wines at the Masters of wine auction at Sotheby’s \nGreek wine and its entry into the world of Fine Wines\nThe post Great Greek wines at the Masters of wine auction at Sotheby’s appeared first on ProtoThema English. \nThe auction of the Institute of Masters of Wine at Sothebys is considered one of the most recognized initiatives in the international wine community. It features rare bottles, special experiences, an… [+2673 chars]",
+        "positive": 0.1352664828300476,
+        "negative": 1.4032909348316025e-05,
+        "neutral": 0.8647194504737854
+      },
+      {
+        "source": "news",
+        "id": "https://www.project-syndicate.org/commentary/global-implications-of-japan-raising-interest-rates-by-barry-eichengreen-2025-12",
+        "timestamp": "2025-12-11T15:35:46+00:00",
+        "text": "The Japanese Canary in the Global Debt Coal Mine \nA prospective rise in Japanese interest rates could indicate that not only Japan, but also other heavily indebted economies, including the United States, could face sharply higher yields on government bonds. The only way out for Japan is to boost economic gro… \nA prospective rise in Japanese interest rates could indicate that not only Japan, but also other heavily indebted economies, including the United States, could face sharply higher yields on governmen… [+5272 chars]",
+        "positive": 0.667757511138916,
+        "negative": 0.3205484449863434,
+        "neutral": 0.011694087646901608
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-wire-news-releases-pmn/behavox-named-to-regtech100-2026-for-ai-powered-unified-compliance-platform",
+        "timestamp": "2025-12-11T15:35:16+00:00",
+        "text": "Behavox Named to RegTech100 2026 for AI-Powered Unified Compliance Platform \nLONDON & MONTREAL — Behavox, the AI company that transforms data into insights that safeguard and enhance businesses, today announced it has been named to RegTech100 2026, an annual list recognizing the most innovative tech companies driving the future of reg… \nLONDON &amp; MONTREAL Behavox, the AI company that transforms data into insights that safeguard and enhance businesses, today announced it has been named to RegTech100 2026, an annual list recognizin… [+6438 chars]",
+        "positive": 0.3987099528312683,
+        "negative": 6.437315460061654e-05,
+        "neutral": 0.6012256145477295
+      },
+      {
+        "source": "news",
+        "id": "https://abcnews.go.com/International/wireStory/shoot-us-nigerian-child-recalls-mass-school-abduction-128314470",
+        "timestamp": "2025-12-11T15:34:47+00:00",
+        "text": "'They said they'd shoot us': Nigerian child recalls how he was taken in mass school abduction \nWhen gunmen stormed St. Mary Catholic School in Nigeria's Papiri community, the children tried to escape but were told they would be shot if they ran away \nPAPIRI, Nigeria -- The children at St. Mary Catholic School in Nigeria's Papiri community were jolted from their sleep with a loud crash at the school gate. Half asleep and confused, they dashed out … [+5378 chars]",
+        "positive": 2.325884452147875e-06,
+        "negative": 2.5687819288577884e-05,
+        "neutral": 0.9999719858169556
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnn.com/2025/12/11/tech/disney-openai-sora-google",
+        "timestamp": "2025-12-11T15:34:06+00:00",
+        "text": "Disney is investing $1 billion in OpenAI and licensing its characters for Sora | CNN Business \nDisney is taking a $1 billion equity stake in OpenAI, while also striking a deal that would allow its famous characters be used on Sora, the AI company’s video generation platform. \nDisney is taking a $1 billion equity stake in OpenAI, while also striking a deal that would allow its famous characters be used on Sora, the AI companys video generation platform.\r\nDisneys investment… [+2589 chars]",
+        "positive": 4.6878103603376076e-05,
+        "negative": 2.242567234134185e-06,
+        "neutral": 0.9999508857727051
+      },
+      {
+        "source": "news",
+        "id": "https://abcnews.go.com/Business/wireStory/major-strike-portugal-severely-disrupts-travel-public-services-128313705",
+        "timestamp": "2025-12-11T15:33:59+00:00",
+        "text": "A major strike in Portugal severely disrupts travel and public services \nA strike called by Portugal’s two main trade union confederations has caused severe travel disruption and forced the cancellation of many medical appointments and school classes \nLISBON, Portugal -- A strike called by Portugals two main trade union confederations brought severe travel disruption Thursday and forced the cancellation of many medical appointments and school clas… [+3214 chars]",
+        "positive": 0.00010511105938348919,
+        "negative": 0.9997738003730774,
+        "neutral": 0.00012104924826417118
+      },
+      {
+        "source": "news",
+        "id": "https://www.motorsport.com/wec/news/valentino-rossi-drops-out-of-bmws-wec-lmgt3-line-up-in-2026/10784176/",
+        "timestamp": "2025-12-11T15:33:41+00:00",
+        "text": "Valentino Rossi drops out of BMW’s WEC LMGT3 line-up in 2026 \nRossi will not feature in BMW’s LMGT3 line-up in 2026 ahead of a likely switch to GTWCE \nWRT BMW has rejigged its driver line-up for the 2026 World Endurance Championship, with MotoGP legend Valentino Rossi departing the LMGT3 squad after two seasons.\r\nRossi had been a central figure in … [+1603 chars]",
+        "positive": 8.408441499341279e-05,
+        "negative": 0.0006427722983062267,
+        "neutral": 0.9992731213569641
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/economy/niti-calls-for-developing-corporate-bond-market-to-reduce-dependency-on-bank-led-debt/article70385124.ece",
+        "timestamp": "2025-12-11T15:33:37+00:00",
+        "text": "NITI calls for developing Corporate Bond Market to reduce dependency on bank led debt \nIndia’s corporate bond market stands at roughly $650 billion, whereas the United Kingdom—an economy smaller than India in GDP ranking—has a corporate bond market exceeding $4 trillion, nearly six times larger. \nNITI (National Institution for Transforming India) Aayog, the premier policy think tank of the Central Government, has called for developing Corporate Bond Market in India to meet the requirement of … [+3300 chars]",
+        "positive": 0.0005147938500158489,
+        "negative": 3.442646629991941e-05,
+        "neutral": 0.9994507431983948
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/sport/athletics/articles/cr7lmy28ljpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "timestamp": "2025-12-11T15:33:01+00:00",
+        "text": "Powell and Lyles helping Jamaica hurricane victims \nTwo-time 100m world record holder Asafa Powell teams up with Olympic gold-winning sprinter Noah Lyles to help Hurricane Melissa victims in Jamaica. \nTwo-time 100m world record holder Asafa Powell has teamed up with Olympic gold medal-winning sprinter Noah Lyles to help those affected by Hurricane Melissa in Jamaica.\r\nThe category-five hurricane h… [+1885 chars]",
+        "positive": 5.702954877051525e-05,
+        "negative": 0.000212589991861023,
+        "neutral": 0.9997302889823914
+      },
+      {
+        "source": "news",
+        "id": "https://www.bbc.com/sport/athletics/articles/cr7lmy28ljpo",
+        "timestamp": "2025-12-11T15:32:57+00:00",
+        "text": "Powell and Lyles helping Jamaica hurricane victims \nTwo-time 100m world record holder Asafa Powell teams up with Olympic gold-winning sprinter Noah Lyles to help Hurricane Melissa victims in Jamaica. \nLyles won the 100m gold medal at the 2024 Paris Games and is also a four-time 200m world champion. \r\nNow-retired Powell is pleased that the rivalry on the track between Jamaica and Lyles' US has brou… [+1123 chars]",
+        "positive": 0.9999967813491821,
+        "negative": 1.5026729727196653e-07,
+        "neutral": 3.0578132736991392e-06
+      },
+      {
+        "source": "news",
+        "id": "https://pagesix.com/2025/12/11/parents/blue-ivy-13-looks-just-like-mom-beyonce-during-la-lakers-game-with-dad-jay-z/",
+        "timestamp": "2025-12-11T15:32:22+00:00",
+        "text": "Blue Ivy, 13, looks just like mom Beyoncé during LA Lakers game with dad Jay-Z \n\"Beyoncé really copied and pasted herself, because Blue Ivy stole her whole face,\" a fan joked after the teen sat courtside with her dad Wednesday. \nShe’s her mini-bey. \r\nBlue Ivy looked just like her mom, Beyoncé, while attending an NBA game with her dad, Jay-Z.\r\nThe 13-year-old was seated courtside for Wednesday’s Los Angeles Lakers vs. San Ant… [+2795 chars]",
+        "positive": 3.919529990525916e-05,
+        "negative": 4.287251067580655e-05,
+        "neutral": 0.9999178647994995
+      },
+      {
+        "source": "news",
+        "id": "https://www.euractiv.com/news/eu-greenlights-indefinite-immobilisation-of-russian-assets/",
+        "timestamp": "2025-12-11T15:30:43+00:00",
+        "text": "EU greenlights indefinite immobilisation of Russian assets \nThe move comes a day after Belgian Prime Minister Bart De Wever openly questioned the legality of the European Commission’s proposal to permanently freeze the assets \nEU countries agreed to indefinitely immobilise Russian sovereign assets on Thursday, removing a major obstacle to providing a 210 billion reparations loan to Ukraine.\r\nThe decision by EU envoys came … [+1729 chars]",
+        "positive": 0.000342505460139364,
+        "negative": 0.3691582977771759,
+        "neutral": 0.6304992437362671
+      },
+      {
+        "source": "news",
+        "id": "https://www.forbes.com/sites/richardkestenbaum/2025/12/11/where-retail-ai-is-headed-in-2026/",
+        "timestamp": "2025-12-11T15:30:30+00:00",
+        "text": "Where Retail AI Is Headed In 2026 \nRetail AI in 2026 shifts from broad promises to function-specific tools; change management becomes a competitive edge and consolidation is near. \nThe impact of AI is going to be everywhere at retail. \r\nPhoto credit: Publicis Sapient \r\nEvery January, the National Retail Federation Big Show (NRF) brings retailers and technology vendors together … [+6850 chars]",
+        "positive": 0.0005304933292791247,
+        "negative": 7.772618118906394e-05,
+        "neutral": 0.9993917942047119
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/069c6f68eb4b9c31",
+        "timestamp": "2025-12-11T15:30:28+00:00",
+        "text": "Americans barely own gold — and that means prices could climb even further, Goldman says \nAmericans barely own gold. That could supercharge the metal's next move, according to Goldman Sachs.\n-\nGold ETFs are just 0.17% of US portfolios and physical gold buying is low.\n-\nThat means even small inflows into the metal could push prices sharply higher.\n… \nAmericans barely own gold. That could supercharge the metal's next move, according to Goldman Sachs.-Gold ETFs are just 0.17% of US portfolios and physical gold buying is low.-That means even small i… [+147 chars]",
+        "positive": 0.6797530055046082,
+        "negative": 0.08275674283504486,
+        "neutral": 0.23749025166034698
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/india/from-living-room-to-national-scale-how-tech-is-driving-indias-d2c-boom/articleshow/125916461.cms",
+        "timestamp": "2025-12-11T15:30:16+00:00",
+        "text": "From living room to national scale: How tech is driving India’s D2C boom \nIndia's digital commerce is evolving. Small online ventures are growing into a nationwide direct-to-consumer movement. This success relies on tech-first infrastructure. Affordable internet and UPI payments help brands start. But reliable systems are crucial f… \nIndias digital commerce economy is entering a new phase. What began as a wave of small online ventures, many launched from living rooms, garages or tiny workshops, is now maturing into a nationwide D… [+5196 chars]",
+        "positive": 0.44398632645606995,
+        "negative": 0.000548271113075316,
+        "neutral": 0.5554653406143188
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/4421ab45638ca354",
+        "timestamp": "2025-12-11T15:30:11+00:00",
+        "text": "Abrego Garcia Wins Latest Bid to Be Released From US Custody \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+738 chars]",
+        "positive": 0.004037460312247276,
+        "negative": 0.0007921967189759016,
+        "neutral": 0.9951702952384949
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/115ebaa25281b417",
+        "timestamp": "2025-12-11T15:30:11+00:00",
+        "text": "Bitcoin and equity futures fall alongside mining stocks as Oracle leads AI stock decline \nCryptocurrency prices and equity futures retreated on Thursday morning, signaling a negative start for major indices.\nBitcoin fell 2.11% to $90,090, setting a bearish tone for digital asset miners, while a sharp decline in Oracle shares weighed heavily on the… \nCryptocurrency prices and equity futures retreated on Thursday morning, signaling a negative start for major indices.Bitcoin fell 2.11% to $90,090, setting a bearish tone for digital asset miners, wh… [+148 chars]",
+        "positive": 1.27900757433963e-05,
+        "negative": 0.9999865293502808,
+        "neutral": 7.184088417488965e-07
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/284f34f9fbd7d628",
+        "timestamp": "2025-12-11T15:30:10+00:00",
+        "text": "Binance API update hints at stock perpetual contracts as exchanges eye TradFi markets \nBinance added a new API endpoint for signing a “TradFi-Perps agreement contract,” signaling early work for potential stock perpetual futures. \nBinance added a new API endpoint for signing a TradFi-Perps agreement contract, signaling early work for potential stock perpetual futures.\r\nThis story appeared on theblock.co, 2025-12-11 15:21:19.",
+        "positive": 0.0012865900062024593,
+        "negative": 7.776542588544544e-06,
+        "neutral": 0.9987056255340576
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/0c8afb8214b0ca10",
+        "timestamp": "2025-12-11T15:30:07+00:00",
+        "text": "Hong Kong's OSL Group to Offer U.S.-Regulated Stablecoin with Anchorage Digital \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+743 chars]",
+        "positive": 0.0004168293089605868,
+        "negative": 0.00011115559027530253,
+        "neutral": 0.9994720816612244
+      },
+      {
+        "source": "news",
+        "id": "https://thepointsguy.com/airline/how-to-get-upgraded-on-american-airlines-flights/",
+        "timestamp": "2025-12-11T15:30:04+00:00",
+        "text": "How to get upgraded on American Airlines flights \nHere's how to get upgraded on American Airlines flights, including by redeem AAdvantage miles, buying a paid upgrade offer and using systemwide upgrades. \nIt's relatively easy to get upgraded on American Airlines flights if you've booked via an eligible method.\r\nThere are four primary ways to secure an upgrade on an American Airlines flight: purchase a… [+6771 chars]",
+        "positive": 0.002604434732347727,
+        "negative": 3.9102618757169694e-05,
+        "neutral": 0.9973565340042114
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/big-short-michael-burry-fed-meeting-us-banks-balance-sheet-2025-12",
+        "timestamp": "2025-12-11T15:30:03+00:00",
+        "text": "'Big Short' investor Michael Burry says the latest Fed meeting points to trouble in the banking system \nMichael Burry pointed to the Fed's plan to start purchasing short-term Treasurys as a sign of weakness in the banking system. \nMichael Burry thinks he's spotted another sign of trouble in the US financial system.\r\nThe famed investor of \"The Big Short\" said he was eyeing one comment in particular that came out the Fed's meeti… [+2605 chars]",
+        "positive": 6.693965701742854e-07,
+        "negative": 0.9999897480010986,
+        "neutral": 9.612721441953909e-06
+      },
+      {
+        "source": "news",
+        "id": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Nearly-2-Despite-Wave-of-Bullish-News.html",
+        "timestamp": "2025-12-11T15:30:00+00:00",
+        "text": "Oil Prices Drop Nearly 2% Despite Wave of Bullish News \nOil prices slid nearly 2% on Thursday in a move that ran against a rare alignment of bullish signals—from OPEC’s upbeat December MOMR to a softer glut forecast from the IEA and fresh U.S. inventory draws.  Brent fell toward $61…  And WTI toward $57…  Extendin… \nA new S&amp;P Global Energy…\r\nA U.S. intervention in Venezuela…\r\nBy Julianne Geiger - Dec 11, 2025, 9:30 AM CSTOil prices slid nearly 2% on Thursday in a move that ran against a rare alignment of bul… [+1836 chars]",
+        "positive": 0.5069144368171692,
+        "negative": 0.488685667514801,
+        "neutral": 0.004399900324642658
+      },
+      {
+        "source": "news",
+        "id": "https://therealdeal.com/miami/2025/12/11/moishe-mana-relists-waterfront-miami-site-for-25-million/",
+        "timestamp": "2025-12-11T15:30:00+00:00",
+        "text": "Moishe Mana relists waterfront Venetian Islands site for $25M \nDeveloper Moishe Mana relisted a double lot on the Venetian Islands for $25 million, nearly three times what he paid to assemble the land a decade ago.  Mana, who has major portfolios in downtown Miami, Wynwood and Allapattah, is again looking to sell the 0.6… \nDeveloper Moishe Mana relisted a double lot on the Venetian Islands for $25 million, nearly three times what he paid to assemble the land a decade ago. \r\nMana, who has major portfolios in downtown Mi… [+1990 chars]",
+        "positive": 2.3618283648829674e-06,
+        "negative": 4.071971034136368e-06,
+        "neutral": 0.9999935626983643
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/11/3204082/0/en/SEGG-Media-Closes-2-5-Million-Funding-Agreement.html",
+        "timestamp": "2025-12-11T15:30:00+00:00",
+        "text": "SEGG Media Closes $2.5 Million Funding Agreement \nCompany’s 90-Day Key Initiatives are Focused on Completing Acquisitions and Strengthening Operations Company’s 90-Day Key Initiatives are Focused on Completing Acquisitions and Strengthening Operations \nFORT WORTH, Texas, Dec. 11, 2025 (GLOBE NEWSWIRE) -- SEGG Media Corporation (NASDAQ: SEGG, LTRYW)(the Company or SEGG Media), the global sports, entertainment, and gaming group, today announces that … [+9131 chars]",
+        "positive": 0.02739378996193409,
+        "negative": 2.9043883841950446e-05,
+        "neutral": 0.9725770950317383
+      },
+      {
+        "source": "news",
+        "id": "https://cointelegraph.com/news/prediction-markets-bet-bitcoin-wont-reach-100k-before-year-end",
+        "timestamp": "2025-12-11T15:30:00+00:00",
+        "text": "Prediction markets bet Bitcoin won’t reach $100K before year’s end \nBitcoin bull market optimism has suffered since the Oct. 10 crash, as chances of a short-term BTC price rally above $100,000 appeared to be fading. \nBitcoin (BTC) could remain pinned below $100,000 for the remainder of 2025 as the market weakened following the US Fed rate cut decision on Wednesday.\r\nKey takeaways:\r\n<ul><li>BTC price has only a 30… [+2878 chars]",
+        "positive": 6.166408638819121e-06,
+        "negative": 0.9999477863311768,
+        "neutral": 4.6085431677056476e-05
+      },
+      {
+        "source": "news",
+        "id": "https://cityxtra.co.uk/38296/match-officials-darren-england-to-referee-crystal-palace-vs-manchester-city/",
+        "timestamp": "2025-12-11T15:30:00+00:00",
+        "text": "Match Officials: Darren England to referee Crystal Palace vs Manchester City \nThe Premier League have confirmed Darren England will lead the team of match officials for Manchester City’s upcoming away clash at Crystal Palace.Pep Guardiola and his players travel to South Londo... \nThe Premier League have confirmed Darren England will lead the team of match officials for Manchester Citys upcoming away clash at Crystal Palace.\r\nPep Guardiola and his players travel to South Londo… [+2644 chars]",
+        "positive": 0.00026407180121168494,
+        "negative": 1.080770198313985e-05,
+        "neutral": 0.9997250437736511
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/11/3204081/0/en/KMX-Investors-Have-Opportunity-to-Lead-CarMax-Inc-Securities-Fraud-Lawsuit-with-the-Schall-Law-Firm.html",
+        "timestamp": "2025-12-11T15:30:00+00:00",
+        "text": "KMX Investors Have Opportunity to Lead CarMax, Inc. Securities Fraud Lawsuit with the Schall Law Firm \nKMX Investors Have Opportunity to Lead CarMax, Inc. Securities Fraud Lawsuit with the Schall Law Firm... \nLOS ANGELES, Dec. 11, 2025 (GLOBE NEWSWIRE) -- The Schall Law Firm\r\n, a national shareholder rights litigation firm, reminds investors of a class action lawsuit against CarMax, Inc. (CarMax or the Co… [+1847 chars]",
+        "positive": 0.010898316279053688,
+        "negative": 0.04011284187436104,
+        "neutral": 0.9489888548851013
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/11/3204080/0/en/Pre-Engineered-Buildings-Market-Set-to-Reach-US-41-87-Billion-by-2033-as-Rapid-Industrial-Expansion-and-Cost-Efficient-Construction-Drive-Massive-Adoption-Says-Astute-Analytica.html",
+        "timestamp": "2025-12-11T15:30:00+00:00",
+        "text": "Pre-Engineered Buildings Market Set to Reach US$ 41.87 Billion by 2033 as Rapid Industrial Expansion and Cost-Efficient Construction Drive Massive Adoption Says Astute Analytica \nThe market is currently witnessing a high-velocity expansion phase where industrial necessity meets commercial aesthetics. Record-breaking order books in India and massive public disbursement in Vietnam indicate a sector running at full capacity to meet deadl… \nChicago, Dec. 11, 2025 (GLOBE NEWSWIRE) -- The global pre-engineered buildings market was valued at US$ 18.5 billion in 2024 and is projected to reach US$ 41.87 billion by 2033, registering a dynamic… [+12998 chars]",
+        "positive": 0.9999357461929321,
+        "negative": 1.8971335293826996e-06,
+        "neutral": 6.237977504497394e-05
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/a2229ba263a28365",
+        "timestamp": "2025-12-11T15:29:59+00:00",
+        "text": "Trump’s tariffs have cost U.S. households $1,200 each, Democrats say \nSweeping taxes on imports have cost the average American household nearly $1,200 since Donald Trump returned to the White House this year, according to calculations by Democrats on Congress’ Joint Economic Committee.Using Treasury Department numbers on revenu… \nSweeping taxes on imports have cost the average American household nearly $1,200 since Donald Trump returned to the White House this year, according to calculations by Democrats on Congress Joint Eco… [+146 chars]",
+        "positive": 2.931959716079291e-05,
+        "negative": 0.0002018758241320029,
+        "neutral": 0.9997687935829163
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/71cbb04f191b9e7c",
+        "timestamp": "2025-12-11T15:29:58+00:00",
+        "text": "An \"Existential Crisis\" To Close 2025 \nAn \"Existential Crisis\" To Close 2025\n \nBy Michael Every of Rabobank\nThe Fed delivered what was expected – a 25bps rate cut to 3.75% and a deep public split over whether it should cut further because the labor market is weakening or keep policy tight because … \nAn \"Existential Crisis\" To Close 2025\r\nBy Michael Every of RabobankThe Fed delivered what was expected a 25bps rate cut to 3.75% and a deep public split over whether it should cut further because the… [+141 chars]",
+        "positive": 0.009069344960153103,
+        "negative": 0.2401546686887741,
+        "neutral": 0.7507759928703308
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/7fbca3f1486f47d7",
+        "timestamp": "2025-12-11T15:29:52+00:00",
+        "text": "US Stocks Fall as Oracle Revives Worries About Lofty AI Spending \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+742 chars]",
+        "positive": 0.03130831941962242,
+        "negative": 0.36506378650665283,
+        "neutral": 0.6036279797554016
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/grocery-retailer-empire-reports-159m-q2-profit-down-from-173m-a-year-ago",
+        "timestamp": "2025-12-11T15:29:51+00:00",
+        "text": "Grocery retailer Empire reports $159M Q2 profit, down from $173M a year ago \nEmpire Co. Ltd. says it earned $159 million in its latest quarter, down from $173 million in the same quarter last year. The company behind Sobeys says its profit amounted to 69 cents per diluted share for the quarter ended Nov. 1 compared with a profit of 73… \nEmpire Co. Ltd. says it earned $159 million in its latest quarter, down from $173 million in the same quarter last year.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the late… [+3732 chars]",
+        "positive": 4.224690655973973e-06,
+        "negative": 0.9876614809036255,
+        "neutral": 0.012334323488175869
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/59d238c5a7d9e277",
+        "timestamp": "2025-12-11T15:29:49+00:00",
+        "text": "Cboe Global Markets Stock: Is CBOE Outperforming the Financial Sector? \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+732 chars]",
+        "positive": 0.9802088737487793,
+        "negative": 4.466510654310696e-05,
+        "neutral": 0.019746510311961174
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/7aab8e8f85641018",
+        "timestamp": "2025-12-11T15:29:45+00:00",
+        "text": "Elliott Management Raises Stake in Toyota. No, Not the Car Company \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+689 chars]",
+        "positive": 0.006227550096809864,
+        "negative": 0.0014879830414429307,
+        "neutral": 0.9922844767570496
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/fact-file-posts-falsely-claim-canada-revoked-chinas-equal-trade-status",
+        "timestamp": "2025-12-11T15:29:36+00:00",
+        "text": "Fact File: Posts falsely claim Canada revoked China’s equal trade status \nChinese language posts that appeared on social media the past few weeks claimed Canada was one of 32 countries to revoke China’s “most favoured nation” trade status on Dec. 1. The claim originates from a 2021 rumour that conflates most favoured nation status … \nChinese language posts that appeared on social media the past few weeks claimed Canada was one of 32 countries to revoke Chinas most favoured nation trade status on Dec. 1.\r\nTHIS CONTENT IS RESERVED … [+5203 chars]",
+        "positive": 0.013956963084638119,
+        "negative": 0.08509541302919388,
+        "neutral": 0.900947630405426
+      },
+      {
+        "source": "news",
+        "id": "https://www.artnews.com/art-news/news/vancouver-art-gallery-and-modern-art-museum-in-paris-receive-major-gift-rare-illuminated-jewish-prayer-book-heads-to-auction-and-more-morning-links-for-december-11-2025-1234766179/",
+        "timestamp": "2025-12-11T15:29:33+00:00",
+        "text": "Vancouver Art Gallery and Modern Art Museum in Paris Receive Major Gift, Rare Illuminated Jewish Prayer Book Heads to Auction, and More: Morning Links for December 11, 2025 \nA rare Illuminated Jewish prayer book heads to auction, the Vancouver Art Gallery get a major gift, and more. \nTo receive Morning Links in your inbox every weekday, sign up for our Breakfast with ARTnews newsletter.\r\nGIVING TIME. A few notable museums have just announced landmark donations to their permanent … [+5938 chars]",
+        "positive": 1.703187263046857e-05,
+        "negative": 6.986947028053692e-06,
+        "neutral": 0.9999759197235107
+      },
+      {
+        "source": "news",
+        "id": "https://www.optimizely.com/insights/blog/5-ai-innovations-in-optimizely-revolutionizing-b2b-commerce/",
+        "timestamp": "2025-12-11T15:28:47+00:00",
+        "text": "5 AI innovations in Optimizely revolutionizing B2B commerce \nAI innovations within Optimizely Commerce that are driving substantial success for B2B businesses to unlock greater online adoption and revenue growth. \nFor B2B manufacturers and distributors, building engaging and loyal eCommerce experiences is a significant challenge. While AI is emerging as a powerful solution, many companies are only leveraging b… [+7926 chars]",
+        "positive": 1.0871647646126803e-05,
+        "negative": 0.9999575614929199,
+        "neutral": 3.15732104354538e-05
+      },
+      {
+        "source": "news",
+        "id": "https://rollingout.com/2025/12/11/broadcom-soars-76-as-ai-demand-drives/",
+        "timestamp": "2025-12-11T15:28:32+00:00",
+        "text": "Broadcom soars 76% as AI demand drives earnings report \nBroadcom is preparing to share its fiscal fourth-quarter earnings after the market closes today, and Wall Street is watching closely. Analysts are expecting the semiconductor giant to report revenue of $17.5 billion and adjusted earnings per share of $1.87, c… \nBroadcom is preparing to share its fiscal fourth-quarter earnings after the market closes today, and Wall Street is watching closely. Analysts are expecting the semiconductor giant to report revenue … [+4069 chars]",
+        "positive": 0.9546697735786438,
+        "negative": 5.649768809234956e-06,
+        "neutral": 0.04532453417778015
+      },
       {
         "source": "news",
         "id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/125916424.cms",
@@ -257,120 +959,12 @@
       },
       {
         "source": "news",
-        "id": "https://biztoc.com/x/9fde1620bf6fa440",
-        "timestamp": "2025-12-11T15:19:07+00:00",
-        "text": "European Stocks Gain With Rotation Into Economy-Linked Sectors \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+740 chars]",
-        "positive": 0.7571672201156616,
-        "negative": 0.0007596439681947231,
-        "neutral": 0.2420731484889984
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/054e4f99a9c8fd3d",
-        "timestamp": "2025-12-11T15:19:05+00:00",
-        "text": "U.S. May Seize More Oil Tankers Following Venezuela Operation, Analysts Say \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+707 chars]",
-        "positive": 0.0011007948778569698,
-        "negative": 0.0010098769562318921,
-        "neutral": 0.9978893399238586
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/f55d644643127e4d",
-        "timestamp": "2025-12-11T15:18:57+00:00",
-        "text": "Lindsey Vonn added 12 pounds of muscle to her frame and is ready for her Olympic season at age 41 \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+710 chars]",
-        "positive": 0.00021254974126350135,
-        "negative": 0.00019112636800855398,
-        "neutral": 0.9995962977409363
-      },
-      {
-        "source": "news",
-        "id": "https://finance.yahoo.com/news/braze-brze-soars-18-upbeat-151854029.html",
-        "timestamp": "2025-12-11T15:18:54+00:00",
-        "text": "Braze (BRZE) Soars 18% on Upbeat Outlook, Revenue Beat, PT Hike \nWe recently published 10 Stocks Boasting the Biggest Gains; 4 Hit Record Highs. Braze Inc. (NASDAQ:BRZE) is one of the best performers on Wednesday. Braze... \nWe recently published 10 Stocks Boasting the Biggest Gains; 4 Hit Record Highs. Braze Inc. (NASDAQ:BRZE) is one of the best performers on Wednesday.\r\nBraze climbed by 18.08 percent on Wednesday to cl… [+1604 chars]",
-        "positive": 1.0,
-        "negative": 6.735806135083067e-09,
-        "neutral": 9.913947884854224e-09
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/54366896b4737c0e",
-        "timestamp": "2025-12-11T15:18:47+00:00",
-        "text": "A Battery Dream That Never Lost Its Charge \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+705 chars]",
-        "positive": 0.027576861903071404,
-        "negative": 0.010041330941021442,
-        "neutral": 0.9623818397521973
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/7206b93cd5a08513",
-        "timestamp": "2025-12-11T15:18:44+00:00",
-        "text": "Video\nTaylor Swift was asked to name her top 5 Taylor Swift songs. It wasn’t easy\n1:07 \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+743 chars]",
-        "positive": 0.0006884794565849006,
-        "negative": 0.0009030566434375942,
-        "neutral": 0.9984084963798523
-      },
-      {
-        "source": "news",
         "id": "https://www.cbssports.com/olympics/news/2026-olympic-hockey-rink-size-controversy-nhl-players/",
         "timestamp": "2025-12-11T15:18:38+00:00",
         "text": "Explaining the Olympic hockey rink controversy: Why it might jeopardize the NHL's return to the Winter Games \nSubstandard rinks may jeopardize the NHL's return to the Olympics \nLately, there has been a lot of talk about rink size as it pertains to the NHL's Olympic return in 2026. A recent report from The Athletic revealed that -- among other issues -- the new rink being co… [+7257 chars]",
         "positive": 5.862845227966318e-06,
         "negative": 0.999423623085022,
         "neutral": 0.000570500735193491
-      },
-      {
-        "source": "news",
-        "id": "https://www.rigzone.com/news/gasbuddy_flags_fresh_multiyear_low_for_usa_gasoline_price-11-dec-2025-182513-article/",
-        "timestamp": "2025-12-11T15:18:30+00:00",
-        "text": "GasBuddy Flags 'Fresh Multi-Year Low' for USA Gasoline Price \n'Gas prices continued to decline in most states last week', GasBuddy Head of Petroleum Analysis Patrick De Haan said. \nIn a blog posted on GasBuddy’s website this week, the company outlined that the average U.S. gasoline price reached a “fresh multi-year low”.\r\n“Gas prices continued to decline in most states last wee… [+4474 chars]",
-        "positive": 0.001571842236444354,
-        "negative": 0.9970278143882751,
-        "neutral": 0.001400341046974063
-      },
-      {
-        "source": "news",
-        "id": "https://finance.yahoo.com/news/photronics-plab-soars-25-high-151828435.html",
-        "timestamp": "2025-12-11T15:18:28+00:00",
-        "text": "Photronics (PLAB) Soars to 25-Year High as Earnings Impress \nWe recently published 10 Stocks Boasting the Biggest Gains; 4 Hit Record Highs. Photronics, Inc. (NASDAQ:PLAB) is one of the best performers on Wednesday... \nWe recently published 10 Stocks Boasting the Biggest Gains; 4 Hit Record Highs. Photronics, Inc. (NASDAQ:PLAB) is one of the best performers on Wednesday.\r\nPhotronics surged to an over 25-year high o… [+1497 chars]",
-        "positive": 1.0,
-        "negative": 4.1335386669061336e-08,
-        "neutral": 1.2605114285690888e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.droidgamers.com/guides/how-to-find-the-forge-lightite/",
-        "timestamp": "2025-12-11T15:18:13+00:00",
-        "text": "How To Find The Forge Lightite – Multiplier, Location, and More! \nDiscover how to find The Forge Lightite ore in this complete guide to this legendary mineral, including stats, and frequently asked questions \nDiscover how to find Lightite Ore in The Forge using my completionist’s guide to this legendary mineral! Learn all about which nodes this Ore resides in, where to find those rocks, and all of the sta… [+1650 chars]",
-        "positive": 8.899559179553762e-05,
-        "negative": 2.878925897675799e-06,
-        "neutral": 0.9999080896377563
-      },
-      {
-        "source": "news",
-        "id": "https://post.rlsbb.to/wartales-the-curse-of-rigel-rune/",
-        "timestamp": "2025-12-11T15:16:58+00:00",
-        "text": "Wartales The Curse of Rigel-RUNE \nRelease Description:Hidden deep within the Alazar mountains lies the County of Rigel, a secluded valley where light barely pierces the canopy. Its people whisper of the Weald, an ancient forest so dense that no sunlight ever reaches the ground, warping the mi… \nRelease Description:Hidden deep within the Alazar mountains lies the County of Rigel, a secluded valley where light barely pierces the canopy. Its people whisper of the Weald, an ancient forest so de… [+2915 chars]",
-        "positive": 4.990461548004532e-06,
-        "negative": 3.133615246042609e-05,
-        "neutral": 0.999963641166687
-      },
-      {
-        "source": "news",
-        "id": "https://rollingout.com/2025/12/11/blue-ivy-carter-lakers-jay-z-beyonce/",
-        "timestamp": "2025-12-11T15:16:46+00:00",
-        "text": "Blue Ivy’s courtside moment leaves Jay-Z in the shade \nBlue Ivy Carter proved she inherited more than just talent from her superstar parents when she made a memorable appearance at the Los Angeles Lakers game on Wednesday night. The 13-year-old daughter of Beyonce and Jay-Z commanded attention while sitting court… \nBlue Ivy Carter proved she inherited more than just talent from her superstar parents when she made a memorable appearance at the Los Angeles Lakers game on Wednesday night. The 13-year-old daughter … [+5176 chars]",
-        "positive": 0.001983329188078642,
-        "negative": 0.00038593533099628985,
-        "neutral": 0.9976307153701782
-      },
-      {
-        "source": "news",
-        "id": "https://thefly.com/permalinks/entry.php/id4255061/CRML-Critical-Metals-says-Tanbreez-test-work-results-support-refinery-JV-in-Romania",
-        "timestamp": "2025-12-11T15:16:35+00:00",
-        "text": "Critical Metals says Tanbreez test work results support refinery JV in Romania \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nEarnings calls, analyst events, roadshows and more",
-        "positive": 0.043385814875364304,
-        "negative": 2.368218929404975e-06,
-        "neutral": 0.9566117525100708
       },
       {
         "source": "news",
@@ -392,15 +986,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/11/3204072/0/en/Critical-Metals-Corp-Confirms-Metallurgical-Test-Work-Results-at-Tanbreez-Support-Refinery-JV-in-Romania.html",
-        "timestamp": "2025-12-11T15:15:00+00:00",
-        "text": "Critical Metals Corp Confirms Metallurgical Test Work Results at Tanbreez Support Refinery JV in Romania \nProfessor Tony Tang appointed as the independent reviewer of metallurgical test work, process design and associated studies  2016 AMTEC/ALS TREEs recovery... \nProfessor Tony Tang appointed as the independent reviewer of metallurgical test work, process design and associated studies\r\n2016 AMTEC/ALS TREEs recovery results successfully replicated, with eudial… [+10312 chars]",
-        "positive": 0.43472549319267273,
-        "negative": 0.0003271408786531538,
-        "neutral": 0.5649473071098328
-      },
-      {
-        "source": "news",
         "id": "https://www.independent.ie/entertainment/television/tv-news/shane-lowry-and-hollywood-star-brendan-fraser-to-appear-on-late-late-show-christmas-special/a2076672496.html",
         "timestamp": "2025-12-11T15:14:38+00:00",
         "text": "Shane Lowry and Hollywood star Brendan Fraser to appear on Late Late Show Christmas Special \nIrish golfing hero Shane Lowry, dancer and presenter Oti Mabuse and Hollywood star Brendan Fraser are among the names that will join host Patrick Kielty on this weeks Late Late Show. \nIrish golfing hero Shane Lowry, dancer and presenter Oti Mabuse and Hollywood star Brendan Fraser are among the names that will join host Patrick Kielty on this weeks Late Late Show.Golfer Lowry will… [+1373 chars]",
@@ -419,30 +1004,12 @@
       },
       {
         "source": "news",
-        "id": "https://thefly.com/permalinks/entry.php/id4255057/$ECON;SPY;SPX;WBD;NFLX;GEMI;GS-Trump-Trade-Trump-says-Warner-Bros-sale-should-include-CNN",
-        "timestamp": "2025-12-11T15:14:02+00:00",
-        "text": "Trump Trade: Trump says Warner Bros. sale should include CNN \nSee the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor… \nNews and insights, exclusive to thefly.com\r\nView all On The Fly Stories »\r\nEarnings calls, analyst events, roadshows and more\r\nThis week’s upcoming IPOs and secondary offerings\r\n<table><tr><th>Mon</t… [+3357 chars]",
-        "positive": 0.002477591624483466,
-        "negative": 2.3122606762626674e-06,
-        "neutral": 0.9975201487541199
-      },
-      {
-        "source": "news",
         "id": "https://rollingout.com/2025/12/11/limiting-possessions-income-and-savings/",
         "timestamp": "2025-12-11T15:13:40+00:00",
         "text": "Why limiting possessions increases income and savings \nMinimalists who limit themselves to exactly one hundred possessions report significantly higher incomes and savings rates than the general population. This counterintuitive connection between owning less and earning more stems from multiple psychological and … \nMinimalists who limit themselves to exactly one hundred possessions report significantly higher incomes and savings rates than the general population. This counterintuitive connection between owning … [+4824 chars]",
         "positive": 0.10985307395458221,
         "negative": 0.0006010409560985863,
         "neutral": 0.8895458579063416
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/11/3204071/0/en/Marc-Steckel-Joins-SEDA-Bringing-Expertise-in-Bank-Supervision-Deposit-Insurance-and-Large-Bank-Resolution.html",
-        "timestamp": "2025-12-11T15:13:00+00:00",
-        "text": "Marc Steckel Joins SEDA, Bringing Expertise in Bank Supervision, Deposit Insurance, and Large-Bank Resolution \nSEDA Experts LLC, a leading expert witness firm providing world-class financial expert witness services, announced today that Marc Steckel joined the firm as Managing Director. SEDA Experts LLC, a leading expert witness firm providing world-class financial ex… \nNew York, NY, Dec. 11, 2025 (GLOBE NEWSWIRE) -- SEDA Experts LLC, a leading expert witness firm providing world-class financial expert witness services, announced today that Marc Steckel joined the f… [+3224 chars]",
-        "positive": 0.08856019377708435,
-        "negative": 0.00010302875307388604,
-        "neutral": 0.9113368988037109
       },
       {
         "source": "news",
@@ -482,24 +1049,6 @@
       },
       {
         "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/j-p-morgan-harnesses-blockchain-for-debt-issuance-amid-digital-asset-adoption-boost/articleshow/125916290.cms",
-        "timestamp": "2025-12-11T15:10:41+00:00",
-        "text": "J.P. Morgan harnesses blockchain for debt issuance amid digital asset adoption boost \nJ.P. Morgan said on Thursday that it issued a U.S. commercial paper for Galaxy Digital Holdings on the Solana blockchain, marking an important step in the broader institutional adoption of digital assets. \n(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
-        "positive": 0.006021680776029825,
-        "negative": 2.3590052933286643e-06,
-        "neutral": 0.9939759373664856
-      },
-      {
-        "source": "news",
-        "id": "https://blockspace.media/insight/bitcoin-and-equity-futures-fall-alongside-mining-stocks-as-oracle-leads-ai-stock-decline/",
-        "timestamp": "2025-12-11T15:09:49+00:00",
-        "text": "Bitcoin and equity futures fall alongside mining stocks as Oracle leads AI stock decline \nOracle shares plunged over 13% following a revenue miss, while Bitcoin’s slide below $91,000 exerted broad downward pressure on digital asset miners. \nCryptocurrency prices and equity futures retreated on Thursday morning, signaling a negative start for major indices.\r\nBitcoin fell 2.11% to $90,090, setting a bearish tone for digital asset miners, … [+1542 chars]",
-        "positive": 1.520920136499626e-06,
-        "negative": 0.9999984502792358,
-        "neutral": 5.107629874601116e-08
-      },
-      {
-        "source": "news",
         "id": "https://abcnews.go.com/US/wireStory/sharp-drop-oracle-wall-street-check-us-stocks-128303417",
         "timestamp": "2025-12-11T15:09:37+00:00",
         "text": "A sharp drop for Oracle keeps Wall Street in check as most US stocks rise \nMost U.S. stocks are rising, but a drop for Oracle is holding Wall Street back as investors question whether its big spending on artificial-intelligence technology will pay off \nNEW YORK -- Most U.S. stocks are rising on Thursday, but a drop for Oracle is holding Wall Street back as investors question whether its big spending on artificial-intelligence technology will pay of… [+3428 chars]",
@@ -536,132 +1085,6 @@
       },
       {
         "source": "news",
-        "id": "https://biztoc.com/x/b9b968f76606a027",
-        "timestamp": "2025-12-11T15:08:03+00:00",
-        "text": "The AI Trade Is Tanking as Anxieties Reemerge \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+697 chars]",
-        "positive": 0.003307135310024023,
-        "negative": 0.0019539305940270424,
-        "neutral": 0.9947389960289001
-      },
-      {
-        "source": "news",
-        "id": "https://www.gematsu.com/2025/12/fort-solis-coming-to-xbox-series-on-december-19",
-        "timestamp": "2025-12-11T15:08:03+00:00",
-        "text": "Fort Solis coming to Xbox Series on December 19 \nPublishers Feardemic and Dear Villagers, and developers Fallen Leaf and Black Drakkar Games will release open-ended, interactive science-fiction adventure game Fort Solis for Xbox Series via Micros… \nPublishers Feardemic and Dear Villagers, and developers Fallen Leaf and Black Drakkar Games will release open-ended, interactive science-fiction adventure gameFort Solis for Xbox Series via Microsoft… [+1190 chars]",
-        "positive": 0.0003247201966587454,
-        "negative": 6.823256626375951e-06,
-        "neutral": 0.9996684789657593
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/20644b853d73c8d2",
-        "timestamp": "2025-12-11T15:08:02+00:00",
-        "text": "The most asked questions of Alexa in 2025 \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+703 chars]",
-        "positive": 0.0007085182005539536,
-        "negative": 0.0010967704001814127,
-        "neutral": 0.9981947541236877
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/00c5eb8bdc392ae8",
-        "timestamp": "2025-12-11T15:08:00+00:00",
-        "text": "Top 3 Vanguard Bond ETF Picks for 2026 \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+697 chars]",
-        "positive": 0.0036219507455825806,
-        "negative": 0.0001718067069305107,
-        "neutral": 0.9962061643600464
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/ec3a080bc5415ee9",
-        "timestamp": "2025-12-11T15:07:57+00:00",
-        "text": "Oxford Industries Stock Plunges 20%. What’s Pummeling Shares of the Tommy Bahama Parent \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+698 chars]",
-        "positive": 0.004366477020084858,
-        "negative": 0.18613390624523163,
-        "neutral": 0.8094996213912964
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/dbfb57fd8c418d86",
-        "timestamp": "2025-12-11T15:07:54+00:00",
-        "text": "Home prices go negative for the first time in over 2 years — and may stay that way for a while \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+682 chars]",
-        "positive": 0.02018682472407818,
-        "negative": 0.9338374137878418,
-        "neutral": 0.04597574844956398
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/d266883600beffd8",
-        "timestamp": "2025-12-11T15:07:53+00:00",
-        "text": "Disney sends Google a cease-and-desist, accusing Google of copyright infringement on a “massive scale” and using AI to “exploit and distribute” the content \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+741 chars]",
-        "positive": 0.002366076223552227,
-        "negative": 0.005092516075819731,
-        "neutral": 0.9925414323806763
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/b28889efabc28493",
-        "timestamp": "2025-12-11T15:07:51+00:00",
-        "text": "Belgium deputy PM: Russian frozen assets to be used for Ukraine loan \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+737 chars]",
-        "positive": 0.0001962204260053113,
-        "negative": 0.0005519715487025678,
-        "neutral": 0.9992517828941345
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/2005962167aa764b",
-        "timestamp": "2025-12-11T15:07:49+00:00",
-        "text": "ESG hiring could bounce back in 2026. Here’s why \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+708 chars]",
-        "positive": 0.006033679470419884,
-        "negative": 0.006377075798809528,
-        "neutral": 0.9875892996788025
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/797f69e2a0a9da17",
-        "timestamp": "2025-12-11T15:07:46+00:00",
-        "text": "Tanzania Opposition Demands Annulment of Presidential Election \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+740 chars]",
-        "positive": 0.00098794128280133,
-        "negative": 0.002909422852098942,
-        "neutral": 0.9961025714874268
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/4fd2862f2e604123",
-        "timestamp": "2025-12-11T15:07:44+00:00",
-        "text": "American West art masterpieces from a billionaire Koch brother head to auction \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+736 chars]",
-        "positive": 0.0015184301882982254,
-        "negative": 0.0007480945205315948,
-        "neutral": 0.997733473777771
-      },
-      {
-        "source": "news",
-        "id": "https://www.techradar.com/pro/quantifying-the-hidden-costs-of-cloud-sovereignty-gaps",
-        "timestamp": "2025-12-11T15:07:42+00:00",
-        "text": "Quantifying the hidden costs of cloud sovereignty gaps \nRecent outages are symptoms of an over-reliance on US based hyperscalers. \nA recent AWS outage wreaked havoc on global IT systems, as a DNS error turned into widespread disruptions for businesses across a range of sectors. But this wasn’t an isolated incident.\r\nLast year’s … [+7070 chars]",
-        "positive": 0.00019721545686479658,
-        "negative": 0.999784529209137,
-        "neutral": 1.824470928113442e-05
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/d4b5d2a1e4b45718",
-        "timestamp": "2025-12-11T15:07:42+00:00",
-        "text": "Car prices are going up, but how much of it is from tariffs? \nBy Luke Ramseth, The Detroit News\nNew car prices didn’t spike after President Donald Trump announced sweeping tariffs in the spring, as some experts and dealers projected.\nRelated Articles\n \n \n \n US jobless benefit applications jump to 236,000, but continuing… \nBy Luke Ramseth, The Detroit NewsNew car prices didnt spike after President Donald Trump announced sweeping tariffs in the spring, as some experts and dealers projected.Related Articles\r\nUS jobless b… [+137 chars]",
-        "positive": 0.0032470477744936943,
-        "negative": 0.0026355385780334473,
-        "neutral": 0.9941174983978271
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/ca955e593c75e1b5",
-        "timestamp": "2025-12-11T15:07:40+00:00",
-        "text": "Brazil’s Durigan calls for fiscal-monetary convergence amid high rates \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock plummet recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cuts impact mar… [+745 chars]",
-        "positive": 0.0018531163223087788,
-        "negative": 0.0020878578070551157,
-        "neutral": 0.9960589408874512
-      },
-      {
-        "source": "news",
         "id": "https://www.argmin.net/p/prompts-for-open-problems",
         "timestamp": "2025-12-11T15:07:35+00:00",
         "text": "Prompts for Open Problems \nA few research problems the class inspired me to think about \nThis is a live blog of the final lecture of the 2025 edition of my graduate machine learning class Patterns, Predictions, and Actions. A full Table of Contents is here. I tried to summarize my semest… [+6142 chars]",
@@ -680,39 +1103,12 @@
       },
       {
         "source": "news",
-        "id": "https://apnews.com/article/museum-netherlands-amsterdam-eindhoven-asml-rijksmuseum-rembrandt-56baf65291acd2ba80d0d08940534fbf",
-        "timestamp": "2025-12-11T15:06:00+00:00",
-        "text": "Amsterdam’s Rijksmuseum To Open Its First Satellite \nAmsterdam's Rijksmuseum plans to open a new branch in Eindhoven. The museum announced this on Thursday. The new location will be supported by the Eindhoven municipality and Dutch semiconductor company ASML. The Rijksmuseum is home to over one million objects,… \nTHE HAGUE, Netherlands (AP) The landmark Dutch museum that holds some of the most famous paintings by Rembrandt and Vermeer announced Thursday that it is planning a new branch in the southern city of… [+2633 chars]",
-        "positive": 7.525309774791822e-05,
-        "negative": 4.593376161210472e-06,
-        "neutral": 0.999920129776001
-      },
-      {
-        "source": "news",
         "id": "https://www.ndtvprofit.com/global-economics/us-jobless-claims-jump-by-most-since-2020-after-holiday-drop",
         "timestamp": "2025-12-11T15:05:17+00:00",
         "text": "US Jobless Claims Jump By Most Since 2020 After Holiday Drop \nApplications for US unemployment benefits rose last week by the most since the onset of the pandemic, underscoring the volatile nature of claims at this time of year. \nAddressing media after the Dec. 10 FOMC decision, Fed Chair Jerome Powell said rates of job creation and job finding are extremely low and payrolls are running at a negative monthly pace a dynamic th… [+1208 chars]",
         "positive": 0.0004481346986722201,
         "negative": 0.9995362758636475,
         "neutral": 1.560215969220735e-05
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/11/3204066/0/en/Machine-Learning-s-Global-Scientific-Impact-New-Report-Reveals-How-ML-Shapes-Research-Across-125-Countries.html",
-        "timestamp": "2025-12-11T15:05:00+00:00",
-        "text": "Machine Learning’s Global Scientific Impact: New Report Reveals How ML Shapes Research Across 125 Countries \nNew York, NY, Dec. 11, 2025 (GLOBE NEWSWIRE) -- New data from Marktechpost uncovers how machine learning is transforming scientific discovery worldwide — and which countries and institutions are driving the shift. \nNew York, NY, Dec. 11, 2025 (GLOBE NEWSWIRE) -- New data from Marktechpost uncovers how machine learning is transforming scientific discovery worldwide and which countries and institutions are drivin… [+6203 chars]",
-        "positive": 0.0006591211422346532,
-        "negative": 2.6194832116743783e-06,
-        "neutral": 0.9993382096290588
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/ciri-congratulates-the-latest-graduates-of-its-certified-professional-in-investor-relations-program-for-achieving-the-prestigious-cpir-professional-designation",
-        "timestamp": "2025-12-11T15:04:23+00:00",
-        "text": "CIRI Congratulates the Latest Graduates of its Certified Professional in Investor Relations Program for Achieving the Prestigious CPIR Professional Designation \nTORONTO, Dec. 11, 2025 (GLOBE NEWSWIRE) — The Canadian Investor Relations Institute (CIRI) is proud to announce the newest recipients of the prestigious Certified Professional in Investor Relations (CPIR) professional designation. The CPIR designation is earn… \nTORONTO, Dec. 11, 2025 (GLOBE NEWSWIRE) The Canadian Investor Relations Institute (CIRI) is proud to announce the newest recipients of the prestigious Certified Professional in Investor Relations (CP… [+4479 chars]",
-        "positive": 0.9998824596405029,
-        "negative": 5.934799673923408e-07,
-        "neutral": 0.00011694927525240928
       },
       {
         "source": "news",
@@ -725,30 +1121,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.roadtovr.com/meta-quest-3-price-hike-report/",
-        "timestamp": "2025-12-11T15:04:14+00:00",
-        "text": "Meta Reportedly Set to Raise VR Headset Prices, Keep Existing Devices in Market Longer \nMeta appears to be planning to raise the price of its VR headsets moving forward, according to a recent internal memo, which company leaders hope will combat rising costs. Meta may also be retiring the Quest 3 and 3S line a little later than expected. The New… \nMeta appears to be planning to raise the price of its VR headsets moving forward, according to a recent internal memo, which company leaders hope will combat rising costs. Meta may also be retiring t… [+3905 chars]",
-        "positive": 0.0027294473256915808,
-        "negative": 0.000943204271607101,
-        "neutral": 0.9963273406028748
-      },
-      {
-        "source": "news",
         "id": "https://comicbookmovie.com/disney/disney-and-openai-sign-deal-to-bring-more-than-200-disney-marvel-and-star-wars-characters-to-sora-a225487",
         "timestamp": "2025-12-11T15:04:00+00:00",
         "text": "Disney And OpenAI Sign Deal To Bring More Than 200 Disney, Marvel, And STAR WARS Characters To Sora \nDisney and OpenAI have announced a $1 billion deal that will allow users to create videos and images of Disney, Marvel, and Star Wars characters, with over 200 characters confirmed. \nIt's been confirmed today that Disney and OpenAI are set to partner on a three-year licensing agreement. The deal will allow Sora to generate short, user-prompted social videos that can be viewed and… [+3087 chars]",
         "positive": 0.078978531062603,
         "negative": 6.969265086809173e-05,
         "neutral": 0.920951783657074
-      },
-      {
-        "source": "news",
-        "id": "https://urbanpitch.com/copa90s-search-for-the-next-great-football-storytellers/",
-        "timestamp": "2025-12-11T15:04:00+00:00",
-        "text": "COPA90’s Search for the Next Great Football Storytellers \nCOPA90 is launching a creator-driven initiative that elevates five emerging storytellers to redefine how the 2026 World Cup and North American soccer culture will be documented and experienced.As Nort... \nCOPA90 is launching a creator-driven initiative that elevates five emerging storytellers to redefine how the 2026 World Cup and North American soccer culture will be documented and experienced.\r\nAs N… [+7707 chars]",
-        "positive": 0.23342683911323547,
-        "negative": 0.00023138889810070395,
-        "neutral": 0.7663418054580688
       },
       {
         "source": "news",
@@ -761,33 +1139,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.marca.com/en/world-cup/2025/12/11/693adbb1e2704e9f768b45b4.html",
-        "timestamp": "2025-12-11T15:03:51+00:00",
-        "text": "Leo Messi leaves an opponent so surprised by his response on the pitch that he once again shows his valued personality \nAngola captain Fredy has revealed a gesture that reaffirms the humble image of Lionel Messi on and off the pitch. According to the player himself, the Argentine did not hesitate to \nAngola captain Fredy has revealed a gesture that reaffirms the humble image of Lionel Messi on and off the pitch. According to the player himself, the Argentine did not hesitate to give him his used … [+2647 chars]",
-        "positive": 0.002132982248440385,
-        "negative": 0.0017400337383151054,
-        "neutral": 0.9961270689964294
-      },
-      {
-        "source": "news",
-        "id": "https://metalinjection.net/tour-dates/creed-limp-bizkit-to-headline-summer-of-99-and-beyond-festival-2026",
-        "timestamp": "2025-12-11T15:03:37+00:00",
-        "text": "CREED & LIMP BIZKIT To Headline Summer Of '99 And Beyond Festival 2026 \nI'm sorry, what year is it that Creed and Limp Bizkit are headlining?\nThe post CREED & LIMP BIZKIT To Headline Summer Of '99 And Beyond Festival 2026 appeared first on Metal Injection. \nCreed and Limp Bizkit are set to headline the 3rd Annual Summer of '99 and Beyond Festival on July 18 and 19 at the Credit Union 1 Amphitheatre in Tinley Park, IL. Which really makes this whole thing… [+1144 chars]",
-        "positive": 1.6282772321574157e-06,
-        "negative": 1.0086748261528555e-05,
-        "neutral": 0.9999881982803345
-      },
-      {
-        "source": "news",
-        "id": "https://theweek.com/culture-life/theatre/the-sound-of-music-a-richly-entertaining-festive-treat",
-        "timestamp": "2025-12-11T15:03:34+00:00",
-        "text": "The Sound of Music: a ‘richly entertaining’ festive treat \nNikolai Foster’s captivating and beautifully designed revival ‘ripples with feeling’ \nHow do you solve a problem like Maria? In this handsome and wonderfully sung Christmas production at Leicester’s Curve – a venue with a “truly impressive musical pedigree” – Molly Lynch solves it wit… [+2599 chars]",
-        "positive": 0.9992832541465759,
-        "negative": 3.7726758819189854e-06,
-        "neutral": 0.0007129526929929852
-      },
-      {
-        "source": "news",
         "id": "https://www.bbc.com/news/articles/cy8jvll9j81o",
         "timestamp": "2025-12-11T15:03:30+00:00",
         "text": "From Iran to China to Venezuela - how seized tanker hid true location \nA seized tanker accused of smuggling sanctioned oil has long hidden its true location. BBC Verify examines how. \nJoshua Cheetham, Paul Brown, Richard Irvine-Brown &amp; Matt MurphyBBC Verify \r\nThe oil tanker seized by US forces on Wednesday had a track record of faking or concealing its location information, ap… [+5639 chars]",
@@ -797,30 +1148,12 @@
       },
       {
         "source": "news",
-        "id": "https://rollingout.com/2025/12/11/do-kwon-terraform-guilty-crypto-fraud/",
-        "timestamp": "2025-12-11T15:02:41+00:00",
-        "text": "Do Kwon faces sentencing for massive crypto fraud scheme \nA Manhattan courtroom will determine the fate of one of the most notorious figures in cryptocurrency history this Thursday as Do Kwon awaits sentencing for orchestrating a fraud that wiped out an estimated $40 billion in investor wealth. The 34-year-old South… \nA scheme built on deception\r\nThe heart of Kwon’s fraud centered on TerraUSD, marketed as a stablecoin that would maintain a consistent $1 value even as crypto markets swung wildly. This promise of st… [+3021 chars]",
-        "positive": 0.9733620285987854,
-        "negative": 0.0010302996961399913,
-        "neutral": 0.025607744231820107
-      },
-      {
-        "source": "news",
         "id": "https://www.bostonherald.com/2025/12/11/stock-market-oracle-ai-spending/",
         "timestamp": "2025-12-11T15:02:35+00:00",
         "text": "A sharp drop for Oracle keeps Wall Street in check as most US stocks rise \nOracle was one of the heaviest weights on the market after analysts said they were surprised by how much the tech giant plans to spend on AI infrastructure. \nBy STAN CHOE, Associated Press Business Writer\r\nNEW YORK (AP) Most U.S. stocks are rising on Thursday, but a drop for Oracle is holding Wall Street back as investors question whether its big spending… [+3470 chars]",
         "positive": 9.250252333004028e-05,
         "negative": 0.9997197985649109,
         "neutral": 0.0001876867754617706
-      },
-      {
-        "source": "news",
-        "id": "https://www.rigzone.com/news/wire/iea_cuts_forecast_of_record_oil_glut_for_1st_time_since_may-11-dec-2025-182511-article/",
-        "timestamp": "2025-12-11T15:02:32+00:00",
-        "text": "IEA Cuts Forecast of Record Oil Glut for 1st Time Since May \nThe International Energy Agency trimmed estimates for a global oil supply surplus this year and next for the first time in several months. \nThe International Energy Agency trimmed estimates for a global oil supply surplus this year and next for the first time in several months as demand strengthens and output growth slows.\r\nWorld supplie… [+3102 chars]",
-        "positive": 7.95198357081972e-05,
-        "negative": 0.9999147653579712,
-        "neutral": 5.716965461033396e-06
       },
       {
         "source": "news",
@@ -848,15 +1181,6 @@
         "positive": 0.04742291569709778,
         "negative": 0.04806431382894516,
         "neutral": 0.9045127630233765
-      },
-      {
-        "source": "news",
-        "id": "https://petapixel.com/2025/12/11/camp-snap-cs-pro-review-slightly-more-tolerable/",
-        "timestamp": "2025-12-11T15:01:20+00:00",
-        "text": "Camp Snap CS-Pro Review: Slightly More Tolerable \nEveryone wants a point-and-shoot digital camera. There is something to be said for having a compact, simple, fun, pocket camera that you can take photos with, just for the pure joy of it. Memories to be made, without having to know the exposure triangle, or s… \nEveryone wants a point-and-shoot digital camera. There is something to be said for having a compact, simple, fun, pocket camera that you can take photos with, just for the pure joy of it. Memories to… [+9434 chars]",
-        "positive": 0.008751251734793186,
-        "negative": 0.0007606134749948978,
-        "neutral": 0.9904881119728088
       },
       {
         "source": "news",
@@ -905,24 +1229,6 @@
       },
       {
         "source": "news",
-        "id": "http://deadline.com/2025/12/saudi-habbar-film-marketing-red-sea-1236645698/",
-        "timestamp": "2025-12-11T15:00:42+00:00",
-        "text": "Top Saudi Creative Agency Habbar Launches Film Marketing Arm – Red Sea \nOne of Saudi Arabia’s best-known creative agencies, Habbar, is getting into cinema. The Riyadh-based company has launched a new initiative bannered Habbar Film Marketing, aimed at connecting both local and international movies with Saudi audiences. Mohammed A… \nOne of Saudi Arabia’s best-known creative agencies, Habbar, is getting into cinema.\r\nThe Riyadh-based company has launched a new initiative bannered Habbar Film Marketing, aimed at connecting both lo… [+2517 chars]",
-        "positive": 0.02919912338256836,
-        "negative": 4.374017589725554e-05,
-        "neutral": 0.9707571864128113
-      },
-      {
-        "source": "news",
-        "id": "https://ambcrypto.com/inside-mstrs-msci-battle-could-it-trigger-bitcoins-next-catalyst/",
-        "timestamp": "2025-12-11T15:00:38+00:00",
-        "text": "Inside MSTR’s MSCI battle – Could it trigger Bitcoin’s next catalyst? \nStronger metrics and rising pressure put MSTR in focus. \nQ4 has turned out to be bearish, especially for Digital Asset Treasuries.\r\nFor context, DATs with single-assetheavy portfolios have come under increased scrutiny lately. And with Bitcoin [BTC] domina… [+2616 chars]",
-        "positive": 0.000171046398463659,
-        "negative": 0.9997984766960144,
-        "neutral": 3.050000850635115e-05
-      },
-      {
-        "source": "news",
         "id": "https://www.bostonherald.com/2025/12/11/car-prices/",
         "timestamp": "2025-12-11T15:00:36+00:00",
         "text": "Car prices are going up, but how much of it is from tariffs? \nExperts said it is likely tariffs will cost you in one way or another. \nBy Luke Ramseth, The Detroit News\r\nNew car prices didnt spike after President Donald Trump announced sweeping tariffs in the spring, as some experts and dealers projected.\r\nBut prices on many models … [+6561 chars]",
@@ -938,42 +1244,6 @@
         "positive": 0.0021585975773632526,
         "negative": 6.611111894017085e-05,
         "neutral": 0.9977752566337585
-      },
-      {
-        "source": "news",
-        "id": "https://bitcoinist.com/bitcoin-bullish-exhaustion/",
-        "timestamp": "2025-12-11T15:00:24+00:00",
-        "text": "Bitcoin Bullish Exhaustion? BTC Whales Close Long Positions After Extreme Upside Bets \nBitcoin’s price is gradually picking up pace following a broader market recovery, allowing the largest cryptocurrency asset to revisit the $92,000 mark on Wednesday. Even though the price is showing strength, key investors are currently moving in the opposite… \nBitcoins price is gradually picking up pace following a broader market recovery, allowing the largest cryptocurrency asset to revisit the $92,000 mark on Wednesday. Even though the price is showing s… [+3112 chars]",
-        "positive": 0.9997629523277283,
-        "negative": 5.341595897334628e-05,
-        "neutral": 0.00018366912263445556
-      },
-      {
-        "source": "news",
-        "id": "https://www.indiewire.com/gallery/best-scores-2025-film-tv-sinners-severance/",
-        "timestamp": "2025-12-11T15:00:24+00:00",
-        "text": "The 18 Best Film and Television Scores of 2025 \nThe IndieWire Craft team picks the best film and television scores from 2025, including \"Hamnet,\" \"Sinners,\" and Sirât.\" \n2025 is not a year that will be missed in many respects, but one of the few in which it might is when it comes to movie and television scores. There have been a lot of good ones this year, and of all… [+22213 chars]",
-        "positive": 0.9999854564666748,
-        "negative": 7.588039352413034e-07,
-        "neutral": 1.377350781694986e-05
-      },
-      {
-        "source": "news",
-        "id": "http://www.newsbtc.com/news/bitcoin/short-bitcoin-down-to-40000/",
-        "timestamp": "2025-12-11T15:00:19+00:00",
-        "text": "Why Now Is The Perfect Opportunity To Short Bitcoin Down To $40,000 \nA recent post by crypto analyst Stockmoney Lizards on X suggests that the current Bitcoin structure is giving bears “the perfect opportunity” to short the market down to $40,000. His message was paired with a chart showing Bitcoin falling below an important r… \nA recent post by crypto analyst Stockmoney Lizards on X suggests that the current Bitcoin structure is giving bears the perfect opportunity to short the market down to $40,000. His message was paired… [+2675 chars]",
-        "positive": 0.009229316376149654,
-        "negative": 0.0046697333455085754,
-        "neutral": 0.986100971698761
-      },
-      {
-        "source": "news",
-        "id": "https://www.aphotoeditor.com/2025/12/11/the-art-of-the-personal-project-melissa-ann-pinney/",
-        "timestamp": "2025-12-11T15:00:18+00:00",
-        "text": "The Art of the Personal Project: Melissa Ann Pinney \nThe Art of the Personal Project is a crucial element to let potential buyers see how you think creatively on your own.  I am drawn to personal projects that have an interesting vision or that show something I have never seen before.  In this thread, I’ll incl… \nThe Art of the Personal Project is a crucial element to let potential buyers see how you think creatively on your own.  I am drawn to personal projects that have an interesting vision or that show so… [+3593 chars]",
-        "positive": 0.00018180639017373323,
-        "negative": 0.00018368511518929154,
-        "neutral": 0.9996345043182373
       },
       {
         "source": "news",
@@ -1019,24 +1289,6 @@
         "positive": 0.003954695537686348,
         "negative": 0.20592597126960754,
         "neutral": 0.7901192903518677
-      },
-      {
-        "source": "news",
-        "id": "https://www.coindesk.com/business/2025/12/11/most-influential-shayne-coplan",
-        "timestamp": "2025-12-11T15:00:00+00:00",
-        "text": "Most Influential: Shayne Coplan \nOnce mired in legal trouble that included federal probes and law enforcement raids, Polymarket founder and CEO Shayne Coplan has emerged victorious this year, casting off the yoke of regulatory scrutiny and growing the prediction market he founded into a $9 b… \nWhen Shayne Coplan first made mainstream headlines in November 2024, it was far from a success story that drew the medias attention. In fact, many who heard about the Federal Bureau of Investigations… [+4514 chars]",
-        "positive": 0.97676020860672,
-        "negative": 0.022060401737689972,
-        "neutral": 0.0011793954763561487
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/11/3204057/0/en/Network-Monitoring-Technology-Market-Set-to-Reach-USD-4-75-Billion-by-2033-Driven-by-Rising-Cloud-Adoption-and-Real-Time-Performance-Demands-Research-by-SNS-Insider.html",
-        "timestamp": "2025-12-11T15:00:00+00:00",
-        "text": "Network Monitoring Technology Market Set to Reach USD 4.75 Billion by 2033, Driven by Rising Cloud Adoption and Real-Time Performance Demands | Research by SNS Insider \nNetwork Monitoring Technology Market Size and Segmentation By Offering, Bandwidth, Technology, End User, Regions and Global Market Forecast 2024-2033... \nAustin, Dec. 11, 2025 (GLOBE NEWSWIRE) -- The Network Monitoring Technology Market\r\n was valued at USD 2.78 billion in 2025E and is expected to reach USD 4.75 billion by 2033, growing at a CAGR of 6.… [+6759 chars]",
-        "positive": 0.7854189872741699,
-        "negative": 1.2967540897079743e-05,
-        "neutral": 0.21456801891326904
       },
       {
         "source": "news",
@@ -1298,249 +1550,6 @@
         "positive": 0.01784844882786274,
         "negative": 0.9278602004051208,
         "neutral": 0.05429137125611305
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/243131b615e71d52",
-        "timestamp": "2025-12-11T14:35:33+00:00",
-        "text": "Proposing this Christmas? Go for a yellow-gold ring \nProposing this Christmas? Go for a yellow-gold ring\nCelebrities and economic uncertainty have put the “precious” back in “precious metal”\nIF YOU HAVE ever used social media, chances are you will have seen someone post an ecstatic announcement of their engagem… \nProposing this Christmas? Go for a yellow-gold ringCelebrities and economic uncertainty have put the precious back in precious metalIF YOU HAVE ever used social media, chances are you will have seen … [+137 chars]",
-        "positive": 0.00015054276445880532,
-        "negative": 0.003380922367796302,
-        "neutral": 0.9964685440063477
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/0a4e52a4f5868c6f",
-        "timestamp": "2025-12-11T14:34:54+00:00",
-        "text": "Jim Cramer Says” Buy, Buy, Buy” This Recession-Resistant Dividend Aristocrat Stock \nQuick Read\n-\nMcDonald’s (MCD) trades at over 25 times forward earnings with a 2.39% dividend yield. The stock gained only 3.3% over the past year.\n-\nMcDonald’s gained 8.59% in 2008 as consumers traded down from casual dining during the recession.\n-\nCramer cit… \nQuick Read-McDonalds (MCD) trades at over 25 times forward earnings with a 2.39% dividend yield. The stock gained only 3.3% over the past year.-McDonalds gained 8.59% in 2008 as consumers traded down… [+143 chars]",
-        "positive": 0.0006564627401530743,
-        "negative": 0.9978848099708557,
-        "neutral": 0.00145871436689049
-      },
-      {
-        "source": "news",
-        "id": "https://www.disneyfoodblog.com/2025/12/11/disney-partners-with-openai-to-allow-disney-characters-in-user-generated-ai-content/",
-        "timestamp": "2025-12-11T14:34:51+00:00",
-        "text": "NEWS: Disney Partners with OpenAI To Allow Disney Characters in User-Generated AI Content \nThe Walt Disney Company and OpenAI have reached an agreement to bring Disney characters to Sora, OpenAI's generative video platform. \nThe Walt Disney Company and OpenAI have reached a deal for Disney to become “the first major content licensing partner on Sora,” OpenAI’s generative AI short-form video platform.\r\nMickey’s got some c… [+4012 chars]",
-        "positive": 0.001090346951968968,
-        "negative": 1.839920150814578e-05,
-        "neutral": 0.9988911747932434
-      },
-      {
-        "source": "news",
-        "id": "https://fortune.com/2025/12/11/how-much-money-to-be-wealthy-in-america-charles-schwab-survey/",
-        "timestamp": "2025-12-11T14:34:43+00:00",
-        "text": "What it takes to be wealthy in America: $2.3 million, Charles Schwab says \nSurvey respondents said it feels like it takes more money to feel wealthy today compared to last year. \nIf I had a million dollars Id be rich, the Barenaked Ladies sang in their hit 1988 song.At the time, a million dollars felt like a lot. But as inflation and tariffs have made essentially everything m… [+4279 chars]",
-        "positive": 4.062067819177173e-05,
-        "negative": 0.0006330421310849488,
-        "neutral": 0.9993263483047485
-      },
-      {
-        "source": "news",
-        "id": "https://reason.com/2025/12/11/congress-gives-the-military-8-billion-more-than-it-asked-for/",
-        "timestamp": "2025-12-11T14:33:54+00:00",
-        "text": "Congress Gives the Military $8 Billion More Than It Asked for \nThe version of the NDAA passed by the House is larger than the administration’s budget request. \nThe House of Representatives passed the National Defense Authorization Act (NDAA) for fiscal year 2026, giving the military a record $900.6 billion—more than the $892.6 billion base defense budget th… [+6012 chars]",
-        "positive": 0.12647895514965057,
-        "negative": 8.234985580202192e-05,
-        "neutral": 0.8734386563301086
-      },
-      {
-        "source": "news",
-        "id": "https://nypost.com/2025/12/11/shopping/grab-the-tiny-but-mighty-nanophone-for-just-90-while-you-can/",
-        "timestamp": "2025-12-11T14:32:46+00:00",
-        "text": "Grab the tiny (but mighty) Nanophone for just $90 while you can \nYou know what they say about big things and small packages. \nDiscover startups, services, products and more from our partner StackCommerce. New York Post edits this content, and may be compensated and/or receive an affiliate commission if you buy through our l… [+1745 chars]",
-        "positive": 1.2251764928805642e-05,
-        "negative": 7.164986982388655e-06,
-        "neutral": 0.9999805688858032
-      },
-      {
-        "source": "news",
-        "id": "https://dailyreckoning.com/the-consumer-credit-conundrum/",
-        "timestamp": "2025-12-11T14:30:53+00:00",
-        "text": "The Consumer Credit Conundrum \nThis post The Consumer Credit Conundrum appeared first on Daily Reckoning.\nEvery so often, Wall Street rediscovers something that’s been sitting in plain sight for years. Right now, it’s rediscovering the American consumer. Specifically, the consumer is lever… \nEvery so often, Wall Street rediscovers something thats been sitting in plain sight for years. Right now, its rediscovering the American consumer. Specifically, the consumer is leveraged to the hilt,… [+9493 chars]",
-        "positive": 2.5713521608849987e-05,
-        "negative": 1.497880930401152e-05,
-        "neutral": 0.9999592304229736
-      },
-      {
-        "source": "news",
-        "id": "https://variety.com/2025/music/news/taylor-swift-alex-warren-top-riaa-2025-multi-platinum-1236605986/",
-        "timestamp": "2025-12-11T14:30:00+00:00",
-        "text": "Taylor Swift’s ‘Showgirl’ and Alex Warren’s ‘Ordinary’ Top RIAA’s 2025 Multi-Platinum Lists \nThe Recording Industry Association of America has announced its annual tally of 2025 gold and platinum certifications for albums and singles, with Taylor Swift’s “Life of a Showgirl” and Alex Warren’s “Ordinary” topping the lists, respectively.   “RIAA is pro… \nThe Recording Industry Association of America has announced its annual tally of 2025 gold and platinum certifications for albums and singles, with Taylor Swift’s “Life of a Showgirl” and Alex Warren’… [+1500 chars]",
-        "positive": 7.036361057544127e-05,
-        "negative": 2.170795823985827e-06,
-        "neutral": 0.9999275207519531
-      },
-      {
-        "source": "news",
-        "id": "http://www.rollingstone.com/music/music-features/2026-grammys-song-of-the-year-predictions-who-will-win-1235478510/",
-        "timestamp": "2025-12-11T14:30:00+00:00",
-        "text": "Winning Song of the Year at 2026 Grammys Will Be Lady Gaga’s Magic Trick \nWho will win the Grammy for Song of the Year at the 2026 Grammy Awards? Lady Gaga is the one to beat. \nForecasting the Song of the Year is often a precarious and, some may say, foolhardy task, because if there’s one thing we know about Grammy voters, it’s that they like to keep us on our toes. \r\nLady … [+3792 chars]",
-        "positive": 4.588437877828255e-05,
-        "negative": 0.00047115524648688734,
-        "neutral": 0.9994829893112183
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbsnews.com/news/todays-mortgage-interest-rates-december-11-2025/",
-        "timestamp": "2025-12-11T14:27:52+00:00",
-        "text": "What are today's mortgage interest rates: December 11, 2025? \nWant to know how mortgage rates were impacted by Wednesday's Fed rate cut? Here's what you need to know now. \nMortgage interest rates have gradually but noticeably declined in 2025.\r\nOlemedia/Getty Images\r\nFor many homebuyers and owners looking to refinance, the holidays may have come a bit early this year. … [+3150 chars]",
-        "positive": 1.466835783503484e-05,
-        "negative": 0.000769899575971067,
-        "neutral": 0.9992154836654663
-      },
-      {
-        "source": "news",
-        "id": "https://www.bostonherald.com/2025/12/11/alaska-climate-mining-road-impact/",
-        "timestamp": "2025-12-11T14:27:15+00:00",
-        "text": "Climate change is straining Alaska’s Arctic. A new mining road may push the region past the brink \nIn Northwest Alaska, a proposed 211-mile mining road has divided an Inupiaq community already devastated by climate change. \nBy ANNIKA HAMMERSCHLAG, Associated Press\r\nAMBLER, Alaska (AP) Ice blocks drift past Tristen Pattees boat as he scans the banks of Northwest Alaskas Kobuk River for caribou. His great uncle Ernest ste… [+13950 chars]",
-        "positive": 8.28610936878249e-05,
-        "negative": 0.5443935990333557,
-        "neutral": 0.45552346110343933
-      },
-      {
-        "source": "news",
-        "id": "https://timesofindia.indiatimes.com/education/news/west-virginia-board-of-education-approves-closure-of-15-schools-across-six-counties/articleshow/125914966.cms",
-        "timestamp": "2025-12-11T14:26:51+00:00",
-        "text": "West Virginia Board of Education approves closure of 15 schools across six counties \nWest Virginia's Board of Education has approved the closure of 15 schools across six counties, citing mounting fiscal pressures and declining enrollment. This significant consolidation action, affecting Barbour, Logan, Randolph, Roane, Upshur, and Wetzel coun… \nWest Virginia's Board of Education has approved the closure of 15 schools across six counties, citing mounting fiscal pressures and declining enrollment. This significant consolidation action, affect… [+3438 chars]",
-        "positive": 0.00024878967087715864,
-        "negative": 0.920885443687439,
-        "neutral": 0.07886571437120438
-      },
-      {
-        "source": "news",
-        "id": "https://247wallst.com/investing/2025/12/11/jim-cramer-says-buy-buy-buy-this-recession-resistant-dividend-aristocrat-stock/",
-        "timestamp": "2025-12-11T14:26:30+00:00",
-        "text": "Jim Cramer Says” Buy, Buy, Buy” This Recession-Resistant Dividend Aristocrat Stock \nJim Cramer has built his reputation around energized analysis of growth stocks and whatever is trending at the moment, mostly because that’s what his... \nTulane Public Relations/Wikimedia Commons\r\n<ul><li>McDonalds (MCD) trades at over 25 times forward earnings with a 2.39% dividend yield. The stock gained only 3.3% over the past year.\r\n</li><li>McDon… [+4632 chars]",
-        "positive": 0.0011191625380888581,
-        "negative": 0.001452517113648355,
-        "neutral": 0.9974283576011658
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/companies/digital-lending-startup-stasfin-eyes-ipo-in-12-18-months-co-founder-says/article70385067.ece",
-        "timestamp": "2025-12-11T14:26:24+00:00",
-        "text": "Digital lending startup Stasfin eyes IPO in 12-18 months, co-founder says \nDigital lending startup Stasfin plans to launch an IPO in 12-18 months, targeting Rs 2,800-2,900 crore AUM by FY26. \nDigital lending start-up Stasfin is eyeing an initial public offering (IPO) over the next 12-18 months period, co-founder Shruti Aggarwal told businessline in an interaction.\r\nI think we are looking … [+2559 chars]",
-        "positive": 6.227376434253529e-05,
-        "negative": 2.460481709931628e-06,
-        "neutral": 0.9999352693557739
-      },
-      {
-        "source": "news",
-        "id": "https://www.medicaldaily.com/ways-stay-grounded-when-navigating-unplanned-medical-needs-474222",
-        "timestamp": "2025-12-11T14:25:22+00:00",
-        "text": "Ways to Stay Grounded When Navigating Unplanned Medical Needs \nStay calm during medical emergencies with smart financial strategies. Learn how to prepare with an emergency fund, insurance planning, debt control, budgeting, and document organization. \nMedical emergencies tend to enter our lives without warning like unannounced visitors who fail to knock. The next thing you know you're searching for urgent care facilities in your area while estimat… [+5827 chars]",
-        "positive": 8.271376827906352e-06,
-        "negative": 3.21450388582889e-05,
-        "neutral": 0.9999595880508423
-      },
-      {
-        "source": "news",
-        "id": "https://www.foxsports.com/stories/college-football/fired-michigan-football-coach-sherrone-moore-spent-night-county-jail",
-        "timestamp": "2025-12-11T14:24:16+00:00",
-        "text": "Fired Michigan Football Coach Sherrone Moore Spent Night in County Jail \nFormer Michigan Wolverines football coach Sherrone Moore was still jailed on Thursday morning, according to court records. \nFormer Michigan football coach Sherrone Moore was still jailed on Thursday morning, according to court records, less than 24 hours after he was fired for what the university said was an \"inappropriat… [+4442 chars]",
-        "positive": 8.209245834223111e-07,
-        "negative": 9.674124157754704e-06,
-        "neutral": 0.9999895095825195
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/courtney-hoffos-ski-cross-world-cup-december-11-9.7011587",
-        "timestamp": "2025-12-11T14:24:05+00:00",
-        "text": "Canada's Courtney Hoffos wins silver in World Cup ski cross opener \nCourtney Hoffos opened the World Cup ski cross season with a silver medal on at Val Thorens, France, on Thursday. \nCourtney Hoffos opened the World Cup ski cross season by landing on the podium.\r\nThe native of Windermere, B.C., finished second in Thursday's big final to pick up a silver medal at Val Thorens, Fran… [+855 chars]",
-        "positive": 7.406989880109904e-06,
-        "negative": 1.0895032573898789e-06,
-        "neutral": 0.9999915361404419
-      },
-      {
-        "source": "news",
-        "id": "https://indianexpress.com/article/cities/mumbai/solving-crime-blood-stains-brutal-murder-stepson-vasai-10415343/",
-        "timestamp": "2025-12-11T14:23:56+00:00",
-        "text": "Solving crime: How blood stains spotted by domestic helped uncover brutal murder by stepson in Vasai \nThe victim, Arshiya Khusro, resided in Periyar Apartment opposite D'Mart in Vasai (West) along with her husband and stepson Imran Khusro (32). \nA domestic worker’s alertness and a telling observation about blood stains in a Vasai house helped the crime branch officials of the Mira-Bhayander Vasai Virarto crack the murder of a 61-year-old hig… [+2697 chars]",
-        "positive": 0.00901940930634737,
-        "negative": 0.0006316264625638723,
-        "neutral": 0.9903489351272583
-      },
-      {
-        "source": "news",
-        "id": "https://newrepublic.com/post/204278/donald-trump-indiana-gerrymandering-republican-state-senator",
-        "timestamp": "2025-12-11T14:23:29+00:00",
-        "text": "Trump Melts Down Over Key Gerrymandering Scheme Ahead of Vote \nDonald Trump’s big mouth could cost him more Republican votes in Indiana as he pushes the Hoosier State to redistrict.Anxious about the 2026 midterms, Trump issued directives to several red states, including Indiana, to redraw their congressional maps in orde… \nEven under the Biden administration, the U.S. was hostile to the ICC, with Biden calling the arrest warrants for Gallant and Netanyahu outrageous, even though Israel has killed at least 69,000 Palest… [+811 chars]",
-        "positive": 0.0004622657143045217,
-        "negative": 0.738639771938324,
-        "neutral": 0.2608979642391205
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/eaf7679aa29f3628",
-        "timestamp": "2025-12-11T14:23:23+00:00",
-        "text": "Euro at highest against dollar since October 3 \nThe euro climbed to its highest point against the dollar in over two months on Thursday after the United States Federal Reserve decided to cut interest rates by 25 basis points yesterday. However, Fed... \nThe euro climbed to its highest point against the dollar in over two months on Thursday after the United States Federal Reserve decided to cut interest rates by 25 basis points yesterday. However, Fe… [+69 chars]",
-        "positive": 0.8944195508956909,
-        "negative": 0.010590901598334312,
-        "neutral": 0.0949895977973938
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/14bbb0bc2a4bfdd8",
-        "timestamp": "2025-12-11T14:23:19+00:00",
-        "text": "Fed Update Clears the Runway for a Year-End Rally \nInvestorPlace - Stock Market News, Stock Advice & Trading Tips\nThe Fed update just set the stage for a Santa Rally: how interest rates, dot-plot signals, and AI growth are aligning for year-end gains.\nThe post Fed Update Clears the Runway for a Year-End Rally… \nInvestorPlace - Stock Market News, Stock Advice &amp; Trading TipsThe Fed update just set the stage for a Santa Rally: how interest rates, dot-plot signals, and AI growth are aligning for year-end ga… [+143 chars]",
-        "positive": 0.9340536594390869,
-        "negative": 0.00010054177255369723,
-        "neutral": 0.06584575772285461
-      },
-      {
-        "source": "news",
-        "id": "https://www.thestar.com.my/news/world/2025/12/11/factbox-how-might-russia-react-to-any-eu-decision-to-use-its-frozen-assets-for-ukraine",
-        "timestamp": "2025-12-11T14:21:00+00:00",
-        "text": "Factbox-How might Russia react to any EU decision to use its frozen assets for Ukraine? \nMOSCOW, Dec 11 (Reuters) - The European Commission has proposed an unprecedented use of about 210 billion euros of frozen Russian sovereign assets to finance Ukraine. Read full story \nMOSCOW, Dec 11 (Reuters) - The European Commission has proposed an unprecedented use of about 210 billion euros of frozen Russian sovereign assets to finance Ukraine.\r\nRussia, which does not hold sig… [+3123 chars]",
-        "positive": 3.4540860269771656e-06,
-        "negative": 7.129477125999983e-06,
-        "neutral": 0.99998939037323
-      },
-      {
-        "source": "news",
-        "id": "https://www.yankodesign.com/2025/12/11/the-worlds-smallest-full-size-umbrella-has-an-oled-screen/",
-        "timestamp": "2025-12-11T14:20:56+00:00",
-        "text": "The World’s Smallest Full-Size Umbrella Has an OLED Screen \nThe World’s Smallest Full-Size Umbrella Has an OLED ScreenLook, I’ve broken my fair share of umbrellas. That satisfying snap when a gust of wind hits you at just the wrong angle, the metal... \nLook, I’ve broken my fair share of umbrellas. That satisfying snap when a gust of wind hits you at just the wrong angle, the metal rib poking through fabric like a broken bone, the awkward dance of t… [+3942 chars]",
-        "positive": 1.2336646250332706e-05,
-        "negative": 2.083212348225061e-05,
-        "neutral": 0.9999668598175049
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/11/3204004/0/en/Imperial-Petroleum-Inc-Reports-Third-Quarter-and-Nine-Months-2025-Financial-and-Operating-Results.html",
-        "timestamp": "2025-12-11T14:20:00+00:00",
-        "text": "Imperial Petroleum Inc. Reports Third Quarter and Nine Months 2025 Financial and Operating Results \nATHENS, Greece, Dec. 11, 2025 (GLOBE NEWSWIRE) -- IMPERIAL PETROLEUM INC. (NASDAQ: IMPP; the “Company”), a ship-owning company providing petroleum products, crude oil and dry bulk seaborne transportation services, announced today its unaudited financial and o… \nATHENS, Greece, Dec. 11, 2025 (GLOBE NEWSWIRE) -- IMPERIAL PETROLEUM INC. (NASDAQ: IMPP; the Company), a ship-owning company providing petroleum products, crude oil and dry bulk seaborne transportati… [+44943 chars]",
-        "positive": 2.7483489247970283e-05,
-        "negative": 2.6118018467968795e-06,
-        "neutral": 0.9999698400497437
-      },
-      {
-        "source": "news",
-        "id": "https://www.autosport.com/motogp/news/vinales-mentally-stronger-motogp-2025/10784151/",
-        "timestamp": "2025-12-11T14:18:53+00:00",
-        "text": "Vinales “mentally stronger” than ever after disrupted 2025 MotoGP campaign \nMaverick Vinales believes he made a major breakthrough in his psychological approach during the 2025 MotoGP season, claiming he feels “mentally stronger” than at any point in his career.Vinales left Aprilia at the end of last year to join Tech3 on a factory-s… \nMaverick Vinales believes he made a major breakthrough in his psychological approach during the 2025 MotoGP season, claiming he feels mentally stronger than at any point in his career.\r\nVinales left … [+3676 chars]",
-        "positive": 0.9999902248382568,
-        "negative": 4.7551304760418134e-07,
-        "neutral": 9.253491953131743e-06
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/the-reality-check-5-assets-delivering-proof-in-a-speculative-market",
-        "timestamp": "2025-12-11T14:18:25+00:00",
-        "text": "THE REALITY CHECK: 5 Assets Delivering Proof in a Speculative Market \nIssued on behalf of Quantum Security Encryption Corp. VANCOUVER, British Columbia, Dec. 11, 2025 (GLOBE NEWSWIRE) — EquityInsider.com Market Intelligence Brief The capital rotation is underway. After years of speculative excess, the market is exhausted by “po… \nIn a digital economy built on trust, QSE is selling the only thing that guarantees it: physics-grade security that even a quantum computer cannot solve. The encryption is not harder to break. It is i… [+6370 chars]",
-        "positive": 8.431132300756872e-05,
-        "negative": 7.92339924373664e-05,
-        "neutral": 0.9998364448547363
-      },
-      {
-        "source": "news",
-        "id": "https://247wallst.com/investing/2025/12/11/here-are-thursdays-top-wall-street-analyst-research-calls-american-eagle-outfitters-ferrari-intuitive-surgical-roku-paypal-synopsis-visa-and-more/",
-        "timestamp": "2025-12-11T14:17:06+00:00",
-        "text": "Here Are Thursday’s Top Wall Street Analyst Research Calls: American Eagle Outfitters, Ferrari, Intuitive Surgical, Roku, PayPal, Synopsis, Visa, and More \nPre-Market Stock Futures: Futures are trading lower after a big rate-cut rally on Wednesday was sideswiped by Oracle’s disappointing earnings after the bell ... \nChaay_Tee / iStock via Getty Images\r\n<ul><li>As expected, the Federal Reserve cut the Funds rate 25 basis points on Wednesday.\r\n</li><li>The rate cut lowered the Fed funds rate to 3.50%-3.75%, the lo… [+6870 chars]",
-        "positive": 0.00012115666322642937,
-        "negative": 0.9991028308868408,
-        "neutral": 0.0007760754670016468
       },
       {
         "source": "news",
@@ -22333,9 +22342,9 @@
         "neutral": 0.7501845359802246
       }
     ],
-    "nw": 0.3856320032537724,
-    "nw_norm": 69.28160016268862
+    "nw": 0.38077536955713526,
+    "nw_norm": 69.03876847785676
   },
-  "gsi": 69.28160016268862,
+  "gsi": 69.03876847785676,
   "classification": "Bullish"
 }
