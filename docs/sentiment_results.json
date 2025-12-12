@@ -1,8 +1,233 @@
 {
-  "timestamp": "2025-12-12T07:37:44.055988+00:00",
+  "timestamp": "2025-12-12T07:55:56.822184+00:00",
   "news": {
-    "count": 2477,
+    "count": 2488,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.rte.ie/news/business/2025/1211/1548365-coca-cola-names-new-ceo/",
+        "timestamp": "2025-12-11T07:45:57+00:00",
+        "text": "Coca-Cola names insider Braun as CEO, replacing Quincey \nCoca-Cola has named insider Henrique Braun as its new CEO, replacing James Quincey, as packaged food companies try to adjust their strategies to consumers looking for healthier and more affordable drinks and snacks. \nCoca-Cola has named insider Henrique Braun as its new CEO, replacing James Quincey, as packaged food companies try to adjust their strategies to consumers looking for healthier and more affordable dr… [+2376 chars]",
+        "positive": 0.00014759913028683513,
+        "negative": 0.0002050763287115842,
+        "neutral": 0.9996472597122192
+      },
+      {
+        "source": "news",
+        "id": "https://www.christiantoday.com/news/why-jesus-is-the-true-meaning-of-christmas",
+        "timestamp": "2025-12-11T07:44:00+00:00",
+        "text": "Why Jesus is the true meaning of Christmas \nHave we settled for the wrapping paper and missed the gift? \n(Photo: Getty/iStock)\r\nIts beginning to look a lot like Christmas everywhere you go. We all know the famous Bing Crosby lyric. But have you ever paused to ask yourself what, exactly, makes something … [+2947 chars]",
+        "positive": 3.286255378043279e-05,
+        "negative": 0.0017796166939660907,
+        "neutral": 0.9981874823570251
+      },
+      {
+        "source": "news",
+        "id": "https://www.kenyans.co.ke/news/118956-uganda-signs-massive-ksh297b-us-health-deal-just-days-after-kenya",
+        "timestamp": "2025-12-11T07:43:34+00:00",
+        "text": "Uganda Signs Massive Ksh297B U.S. Health Deal Just Days After Kenya \nThe deal also includes support for faith-based healthcare providers, as Trump seeks to counter China's influence on Africa, after being accused of neglecting the continent in his first term. \nUganda has secured a massive health agreement with the United States just days after Kenya signed a similar deal.\r\nThe government of Uganda signed a five-year, Ksh297 billion ($2.3 billion) health co… [+2501 chars]",
+        "positive": 0.013962427154183388,
+        "negative": 3.360780101502314e-05,
+        "neutral": 0.9860039353370667
+      },
+      {
+        "source": "news",
+        "id": "https://thesiswhisperer.com/2025/12/11/machines-are-talking-about-you-behind-your-back/",
+        "timestamp": "2025-12-11T07:43:32+00:00",
+        "text": "Machines are talking about you behind your back \nFor many years, this postcard was taped to my office door: It’s funny because it’s true. The machines really do talk about us behind our backs. Machines talking to machines helped me pay for the delicious cardamom buns I bought from the new branch of Under ba… \nFor many years, this postcard was taped to my office door:\r\n“MACHINES ARE TALKING ABOUT YOU BEHIND YOUR BACK”: a postcard from the exhibition “Hello Robot”. Quote by Douglas Coupland ‘Slogans for the… [+15123 chars]",
+        "positive": 0.00020237707940395921,
+        "negative": 0.00011425258708186448,
+        "neutral": 0.9996833801269531
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/d46d65734e0c85eb",
+        "timestamp": "2025-12-11T07:42:18+00:00",
+        "text": "Schneider Electric unveils $4 billion share buyback, pumps up margin forecast \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is SpaceX planning a massive IPO in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did the Federal Reserve… [+785 chars]",
+        "positive": 0.0004971168818883598,
+        "negative": 3.660994480014779e-05,
+        "neutral": 0.9994663596153259
+      },
+      {
+        "source": "news",
+        "id": "https://www.hurriyetdailynews.com/trump-launches-long-promised-gold-card-program-216688",
+        "timestamp": "2025-12-11T07:42:16+00:00",
+        "text": "Trump launches long-promised 'gold card' program \nPresident Donald Trump has announced that his long-promised “ gold card ” was officially going on sale, offering legal status and an eventual pathway to U.S. citizenship for individuals paying $1 million and corporations ponying up twice that per foreign-born… \nWASHINGTON\r\nPresident Donald Trump has announced that his long-promised  gold card  was officially going on sale, offering legal status and an eventual pathway to U.S. citizenship for individuals pay… [+1347 chars]",
+        "positive": 0.06216183677315712,
+        "negative": 2.488353129592724e-05,
+        "neutral": 0.9378132224082947
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/0b89d5a6748517b0",
+        "timestamp": "2025-12-11T07:42:12+00:00",
+        "text": "China's power grid, the world's largest, gives it an edge in the global AI contest, helping Chinese companies develop AI models more cheaply than US competitors \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is SpaceX planning a massive IPO in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did the Federal Reserve… [+777 chars]",
+        "positive": 0.9998927116394043,
+        "negative": 1.892630763222769e-07,
+        "neutral": 0.00010709117486840114
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/1f51e305853e3258",
+        "timestamp": "2025-12-11T07:42:02+00:00",
+        "text": "Fed cuts rate but future easing uncertain \nFed lowers interest rates but future cuts uncertain\nThe US Federal Reserve has lowered interest rates for the third time this year, even as internal divisions create uncertainty about additional cuts in the coming months.\nThe central bank said on Wednesday it… \nFed lowers interest rates but future cuts uncertainThe US Federal Reserve has lowered interest rates for the third time this year, even as internal divisions create uncertainty about additional cuts … [+146 chars]",
+        "positive": 1.823001184675377e-05,
+        "negative": 0.9999674558639526,
+        "neutral": 1.4323944924399257e-05
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/4cceba2814fe7241",
+        "timestamp": "2025-12-11T07:41:55+00:00",
+        "text": "UAE-EU free trade talks advancing rapidly, UAE state minister says \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is SpaceX planning a massive IPO in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did the Federal Reserve… [+783 chars]",
+        "positive": 0.009818791411817074,
+        "negative": 0.00012002472794847563,
+        "neutral": 0.9900611639022827
+      },
+      {
+        "source": "news",
+        "id": "https://www.ndtvprofit.com/markets/indias-labour-sectors-being-crushed-despite-pli-push-says-trinh-nguyen",
+        "timestamp": "2025-12-11T07:41:44+00:00",
+        "text": "India's Labour Sectors 'Being Crushed' Despite PLI Push, Says Trinh Nguyen \nIndia's Production Linked Incentive (PLI) is not offering enough cutting-edge to the country's capital-intensive industries and is actually leaving labour-intensive sectors struggling to compete against China, according to Trinh Nguyen, Senior Economist at Na… \nIndia's Production Linked Incentive (PLI) is not offering enough cutting-edge to the country's capital-intensive industries and is actually leaving labour-intensive sectors struggling to compete agai… [+1963 chars]",
+        "positive": 0.20229218900203705,
+        "negative": 0.2351609468460083,
+        "neutral": 0.5625467896461487
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/11/3203642/0/en/Selection-process-for-the-new-Management-Board-of-AB-Ignitis-grup%C4%97-has-been-announced.html",
+        "timestamp": "2025-12-11T07:40:00+00:00",
+        "text": "Selection process for the new Management Board of AB “Ignitis grupė” has been announced \nAB “Ignitis grupė” (hereinafter – the Group) informs that the Group’s Supervisory Board has made a decision to initiate a public selection process for the new Management Board, given that the term of office of the Group’s current Management Board (hereinafter… \nAB Ignitis grup (hereinafter the Group) informs that the Groups Supervisory Board has made a decision to initiate a public selection process for the new Management Board, given that the term of offic… [+2378 chars]",
+        "positive": 3.667685450636782e-05,
+        "negative": 2.5327162802568637e-06,
+        "neutral": 0.9999607801437378
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/11/3203643/0/en/Selection-process-for-the-new-Management-Board-of-AB-Ignitis-grup%C4%97-has-been-announced.html",
+        "timestamp": "2025-12-11T07:40:00+00:00",
+        "text": "Selection process for the new Management Board of AB “Ignitis grupė” has been announced \nAB “Ignitis grupė” (hereinafter – the Group) informs that the Group’s Supervisory Board has made a decision to initiate a public selection process for the new Management Board, given that the term of office of the Group’s current Management Board (hereinafter… \nAB Ignitis grup (hereinafter the Group) informs that the Groups Supervisory Board has made a decision to initiate a public selection process for the new Management Board, given that the term of offic… [+2378 chars]",
+        "positive": 3.667685450636782e-05,
+        "negative": 2.5327162802568637e-06,
+        "neutral": 0.9999607801437378
+      },
+      {
+        "source": "news",
+        "id": "https://www.computerweekly.com/feature/AI-drives-storage-array-makers-to-embrace-data-management",
+        "timestamp": "2025-12-11T07:39:00+00:00",
+        "text": "AI drives storage array makers to embrace data management \nWe look at the efforts of storage suppliers to move to data management, often driven by AI – but analysts highlight the contradiction between supplier and customer needs \nOne way of viewing efforts by storage suppliers to move into data management over the past couple of years is that storage technology is emerging from the backroom and wants to be at the centre of ef… [+6638 chars]",
+        "positive": 4.2167289393546525e-06,
+        "negative": 1.0472766007296741e-05,
+        "neutral": 0.9999853372573853
+      },
+      {
+        "source": "news",
+        "id": "https://www.digitimes.com/news/a20251211VL212/mexico-asia-exports-tariffs-policy-2025.html",
+        "timestamp": "2025-12-11T07:37:49+00:00",
+        "text": "Mexico breaks from free-trade tradition with sweeping tariffs on Asian imports \nMexico is preparing a major shift in its trade policy, approving broad tariffs on imports from Asian countries without free-trade agreements, including China, India, and South Korea. According to The Economic Times, the Senate passed the bill on December 10, … \nSave my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
+        "positive": 3.5734239645535126e-05,
+        "negative": 1.9867791706928983e-05,
+        "neutral": 0.9999443292617798
+      },
+      {
+        "source": "news",
+        "id": "https://www.sciencedaily.com/releases/2025/12/251210092015.htm",
+        "timestamp": "2025-12-11T07:36:56+00:00",
+        "text": "This 15 minute hepatitis C test could change everything \nNorthwestern scientists have created the fastest-ever hepatitis C diagnostic, delivering accurate results in only 15 minutes. The test uses the DASH rapid PCR system, originally developed for COVID, but adapted for whole blood samples. Independent testing sho… \nA new rapid test from Northwestern University can diagnose hepatitis C in just 15 minutes -- far faster than current options.<ul><li>Chronic hepatitis C infection affects an estimated 50 million peop… [+4185 chars]",
+        "positive": 0.11512777954339981,
+        "negative": 0.0009134786669164896,
+        "neutral": 0.8839586973190308
+      },
+      {
+        "source": "news",
+        "id": "https://en.antaranews.com/news/396061/buma-international-group-9m-2025-results-reflect-continued-recovery-with-stronger-qoq-performance",
+        "timestamp": "2025-12-11T07:35:16+00:00",
+        "text": "BUMA International Group 9M 2025 Results Reflect Continued Recovery with Stronger QoQ Performance \nPT BUMA Internasional Grup Tbk (BUMA International Group, IDX: DOID, &quot;the Group&quot;) reported continued operational and financial improvements for the ... \nJakarta, Indonesia (ANTARA/PRNewswire)- PT BUMA Internasional Grup Tbk (BUMA International Group, IDX: DOID, \"the Group\") reported continued operational and financial improvements for the nine months… [+7821 chars]",
+        "positive": 1.0,
+        "negative": 1.1425802526332518e-08,
+        "neutral": 2.635581974885781e-09
+      },
+      {
+        "source": "news",
+        "id": "https://www.spacedaily.com/reports/Leading_the_Odds_Five_Bookmakers_Transforming_Irelands_Modern_Betting_Landscape_999.html",
+        "timestamp": "2025-12-11T07:35:13+00:00",
+        "text": "Leading the Odds: Five Bookmakers Transforming Ireland's Modern Betting Landscape \nLondon, UK (SPX) Dec 11, 2025 - Discover how five innovative bookmakers are reshaping Ireland's betting industry through technology, transparency, and player-first design. A news-style deep dive into Ireland's evolving betting landscape. \nby Sophie JenkinsLondon, UK (SPX) Dec 11, 2025\r\nIreland's sports betting industry has undergone a dramatic transformation over the past decade, evolving from a traditional bookmaker model into a fast… [+9277 chars]",
+        "positive": 0.24997319281101227,
+        "negative": 0.0005166546907275915,
+        "neutral": 0.7495101690292358
+      },
+      {
+        "source": "news",
+        "id": "https://www.spacedaily.com/reports/ICE_CSIC_leads_a_pioneering_study_on_the_feasibility_of_asteroid_mining_999.html",
+        "timestamp": "2025-12-11T07:35:13+00:00",
+        "text": "ICE-CSIC leads a pioneering study on the feasibility of asteroid mining \nMadrid, Spain (SPX) Dec 11, 2025\n\n\nMuch remains to be known about the chemical composition of small asteroids. Their potential to harbour valuable metals, materials from the early solar system, and the possibility of obtaining a geochemical record of their pa… \nby Staff Writs for CSIC NewsMadrid, Spain (SPX) Dec 11, 2025\r\nMuch remains to be known about the chemical composition of small asteroids. Their potential to harbour valuable metals, materials from th… [+7032 chars]",
+        "positive": 0.0005281700869090855,
+        "negative": 4.98445842822548e-06,
+        "neutral": 0.9994668364524841
+      },
+      {
+        "source": "news",
+        "id": "https://skepticalscience.com/new_research_2025_50.html",
+        "timestamp": "2025-12-11T07:35:11+00:00",
+        "text": "Skeptical Science New Research for Week #50 2025 \nOpen access notables\n\nDetectability of Post-Net Zero Climate Changes and the Effects of Delay in Emissions Cessation, King et al., Earth's Future\n\nThere is growing interest in how the climate would change under net zero carbon dioxide emissions pathways as ma… \nPosted on 11 December 2025 by Doug Bostrom, Marc Kodack\r\nOpen access notables\r\nDetectability of Post-Net Zero Climate Changes and the Effects of Delay in Emissions Cessation, King et al., Earth's Fut… [+47020 chars]",
+        "positive": 0.005791548173874617,
+        "negative": 0.0007225656881928444,
+        "neutral": 0.9934858679771423
+      },
+      {
+        "source": "news",
+        "id": "https://financialpost.com/pmn/business-wire-news-releases-pmn/e3-lithium-closes-sale-of-non-core-saskatchewan-assets",
+        "timestamp": "2025-12-11T07:35:04+00:00",
+        "text": "E3 Lithium Closes Sale of Non-Core Saskatchewan Assets \nProceeds provide additional non-dilutive capital to advance Clearwater Project development CALGARY, Alberta — E3 LITHIUM LTD. (TSXV: ETL) (FSE: OW3) (OTCQX: EEMMF), “E3 Lithium” or the “Company,” a leader in Canadian lithium, has successfully closed its previ… \nProceeds provide additional non-dilutive capital to advance Clearwater Project development\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and acros… [+8514 chars]",
+        "positive": 0.9669086933135986,
+        "negative": 4.181722033536062e-06,
+        "neutral": 0.033087193965911865
+      },
+      {
+        "source": "news",
+        "id": "https://www.hospitalitynet.org/opinion/4130114.html",
+        "timestamp": "2025-12-11T07:35:00+00:00",
+        "text": "The Trends Reshaping How We Eat and Drink in 2026 \nIn the United States, food and beverage trends don’t just shift, they erupt, rewriting the rules of how we cook, sip, and gather. The question for 2026 isn’t what’s next, but how fast we’re willing to follow. \nIn the United States, food and beverage trends dont just shift, they erupt, rewriting the rules of how we cook, sip, and gather. The question for 2026 isnt whats next, but how fast were willing to fo… [+7746 chars]",
+        "positive": 4.80368089483818e-06,
+        "negative": 0.0002821494417730719,
+        "neutral": 0.9997130036354065
+      },
+      {
+        "source": "news",
+        "id": "https://www.standardmedia.co.ke/health/health-opinion/article/2001536249/jamii-imara-mashinani-ensures-better-health-outcomes-for-communities",
+        "timestamp": "2025-12-11T07:34:24+00:00",
+        "text": "Jamii Imara Mashinani ensures better health outcomes for communities \nJamii Imara Mashinani ensures better health outcomes for communitiesstandardmedia.co.ke \nPublic health and professional standards PS Mary Muthoni and Government spokesman Isaac Mwaura consult during a Jamii Imara Mashinani initiative session at Karucho primary school in Kirinyaga county.… [+3385 chars]",
+        "positive": 0.6427168846130371,
+        "negative": 2.9757422453258187e-05,
+        "neutral": 0.35725340247154236
+      },
+      {
+        "source": "news",
+        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180359943",
+        "timestamp": "2025-12-11T07:32:21+00:00",
+        "text": "Fed cuts rate but future easing uncertain - BBC \nFed cuts rate but future easing uncertainBBC Fed Cuts Rates Again, Signals It May Be Done for NowThe Wall Street Journal Fed signals pause on rate cuts as investors navigate data darkness and leadership changeReuters ‘Be careful what you wish for’: Top econom… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+        "positive": 9.311615940532647e-06,
+        "negative": 8.348746632691473e-05,
+        "neutral": 0.9999072551727295
+      },
+      {
+        "source": "news",
+        "id": "https://www.huffpost.com/entry/daily-show-desi-lydic-trump-miners-epstein_n_693a625ee4b053d6e8ee2a7c",
+        "timestamp": "2025-12-11T07:32:07+00:00",
+        "text": "'Daily Show' Spots The Wild Way Trump Is Reminding People About The Epstein Files \nThe \"Daily Show\" crowd erupted in laughter over a \"completely real\" error that aired on Fox News. \nDaily Show correspondent Desi Lydic on Wednesday joked that Donald Trump got a little off track during his so-called affordability rally held at a Pennsylvania-based casino and hotel this week.\r\nLydi… [+1120 chars]",
+        "positive": 0.08380404859781265,
+        "negative": 0.23919560015201569,
+        "neutral": 0.6770003437995911
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/de9c08834ed2d9ed",
+        "timestamp": "2025-12-11T07:31:26+00:00",
+        "text": "Trump Gets Thanks From Gemini CEO Tyler Winklevoss After Company Launches Prediction Markets — Shares Spike 13% After Hours \nGemini Space Station, Inc. (NASDAQ:GEMI) disclosed Wednesday that its subsidiary, Gemini Titan, LLC, has been cleared by the regulators to offer prediction markets to U.S. customers.\nGemini Enters Prediction Market Landscape\nGemini Titan received a Designated… \nGemini Space Station, Inc. (NASDAQ:GEMI) disclosed Wednesday that its subsidiary, Gemini Titan, LLC, has been cleared by the regulators to offer prediction markets to U.S. customers.Gemini Enters Pre… [+143 chars]",
+        "positive": 0.0003036417765542865,
+        "negative": 0.00011702146730385721,
+        "neutral": 0.9995793700218201
+      },
       {
         "source": "news",
         "id": "https://economictimes.indiatimes.com/tech/technology/amazons-layoffs-are-about-reducing-layers-says-amit-agarwal-amid-tech-giants-ai-push/articleshow/125905914.cms",
@@ -770,15 +995,6 @@
       },
       {
         "source": "news",
-        "id": "https://biztoc.com/x/27bf43c7ca7d1d7c",
-        "timestamp": "2025-12-11T06:46:22+00:00",
-        "text": "Bullish views rise on most Asia currencies, Indian rupee shorts spike \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is SpaceX planning a massive IPO in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did the Federal Reserve… [+781 chars]",
-        "positive": 0.9996029734611511,
-        "negative": 8.701114211362437e-07,
-        "neutral": 0.0003962565097026527
-      },
-      {
-        "source": "news",
         "id": "https://www.channelnewsasia.com/business/philippine-central-bank-cuts-policy-rate-25-bps-450-expected-5575771",
         "timestamp": "2025-12-11T06:46:01+00:00",
         "text": "Philippine central bank cuts policy rate by 25 bps to 4.50%, as expected \nMANILA, Dec 11 : The Philippine central bank cut its key policy rate by 25 basis points to a three-year low of 4.50 per cent on Thursday, as expected by markets, and said the outlook for growth had weakened while inflation was benign. It was the fifth success… \nMANILA, Dec 11 : The Philippine central bank cut its key policy rate by 25 basis points to a three-year low of 4.50 per cent on Thursday, as expected by markets, and said the outlook for growth had w… [+621 chars]",
@@ -794,15 +1010,6 @@
         "positive": 0.0019427367951720953,
         "negative": 0.08616270124912262,
         "neutral": 0.9118946194648743
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/11/3203626/0/en/Revised-full-year-2025-outlook.html",
-        "timestamp": "2025-12-11T06:46:00+00:00",
-        "text": "Revised full-year 2025 outlook \nUS market activity and, as a result, order intake in Nilfisk’s US business has not improved as expected in November and the beginning of December. In addition, short-term issues with one supplier have limited the capacity to ship full volume of two products, … \nUS market activity and, as a result, order intake in Nilfisks US business has not improved as expected in November and the beginning of December. In addition, short-term issues with one supplier have… [+1463 chars]",
-        "positive": 9.16602039069403e-06,
-        "negative": 0.9999767541885376,
-        "neutral": 1.4058993656362873e-05
       },
       {
         "source": "news",
@@ -833,15 +1040,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.archdaily.com/1036649/design-as-impact-adf-2026-honors-architecture-that-drives-change",
-        "timestamp": "2025-12-11T06:45:00+00:00",
-        "text": "Design as Impact: ADF 2026 Honors Architecture That Drives Change \nNPO Aoyama Design Forum (ADF), a non-profit organization, has announced the ADF Design Award 2026, celebrating architecture that does more than please the eye—it aims to make a meaningful impact on society, culture, and the environment. The award aims to reco… \nTonami Public Library / MIKAMI Architects. Image © Koji Horiuchi\r\nNPO Aoyama Design Forum (ADF), a non-profit organization, has announced the ADF Design Award 2026, celebrating architecture that does… [+8047 chars]",
-        "positive": 0.7188616991043091,
-        "negative": 0.00013156357454136014,
-        "neutral": 0.28100675344467163
-      },
-      {
-        "source": "news",
         "id": "https://www.thehindubusinessline.com/markets/mf-equity-inflows-jump-21-to-29911-cr-in-nov/article70383522.ece",
         "timestamp": "2025-12-11T06:44:30+00:00",
         "text": "MF equity inflows jump 21% to ₹29,911 cr in Nov \nEquity mutual fund inflows surged 21% in November to ₹29,911 crore, highlighting improved investor sentiment amid market uncertainties. \nInflows into the equity mutual funds increased 21 per cent last month to 29,911 crore against 24,690 crore logged in the October as investors sentiments improved with Nifty hitting a new high despite… [+1063 chars]",
@@ -857,15 +1055,6 @@
         "positive": 0.00012157174205640331,
         "negative": 0.00046766296145506203,
         "neutral": 0.99941086769104
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/is-fish-too-polluted-to-eat/",
-        "timestamp": "2025-12-11T06:41:02+00:00",
-        "text": "Is fish too polluted to eat? \nIs Fish Too Polluted To Eat? Navigating the Waters of Seafood Safety While the answer isn’t a simple yes or no, the short answer is: eating fish comes with risks, but the health benefits of fish often outweigh the potential dangers of pollution for most indiv… \nIs Fish Too Polluted To Eat? Navigating the Waters of Seafood Safety\r\nWhile the answer isn’t a simple yes or no, the short answer is: eating fish comes with risks, but the health benefits of fish oft… [+8500 chars]",
-        "positive": 0.001991829602047801,
-        "negative": 0.0011305655352771282,
-        "neutral": 0.9968775510787964
       },
       {
         "source": "news",
@@ -914,15 +1103,6 @@
       },
       {
         "source": "news",
-        "id": "https://www.bbc.com/news/articles/cm20l51rn79o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "timestamp": "2025-12-11T06:39:02+00:00",
-        "text": "Why do players love pickleball so much? \nOne club has seen participation grow by 2,000% in just over a year. \nIt's a sport that is seemingly taking over, with enough active players nationally to fill Manchester City's 55,000-capacity Etihad Stadium.\r\nCombining elements of tennis, badminton and table tennis, … [+4557 chars]",
-        "positive": 0.9984307885169983,
-        "negative": 3.4367612897767685e-06,
-        "neutral": 0.0015656796749681234
-      },
-      {
-        "source": "news",
         "id": "https://timesofindia.indiatimes.com/auto/cars/tata-sierra-1-5-litre-turbo-petrol-achieves-29-9-kmpl-efficiency-details/articleshow/125904362.cms",
         "timestamp": "2025-12-11T06:36:43+00:00",
         "text": "Tata Sierra 1.5-litre turbo petrol achieves 29.9 kmpl efficiency: Details \nThe new Tata Sierra is offered with three engine options: a 1.5-litre Kryotec turbo diesel with 118 hp and 280 nm of torque. Another two engines are the newly developed 1.5-litre NA petrol engine with 106 hp and 145 nm torque, and the 1.5-litre Hyperion turbo… \nThe new Tata Sierra is offered with three engine options: a 1.5-litre Kryotec turbo diesel with 118 hp and 280 nm of torque. Another two engines are the newly developed 1.5-litre NA petrol engine wit… [+3574 chars]",
@@ -938,51 +1118,6 @@
         "positive": 0.004725378938019276,
         "negative": 0.004162876401096582,
         "neutral": 0.991111695766449
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/0dd21846233fed5d",
-        "timestamp": "2025-12-11T06:35:43+00:00",
-        "text": "India Draws $52 Billion From Amazon, Microsoft in Tech Expansion \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is SpaceX planning a massive IPO in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did the Federal Reserve… [+781 chars]",
-        "positive": 0.0001969948352780193,
-        "negative": 8.613485988462344e-06,
-        "neutral": 0.9997944235801697
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/6cb88bbeed361fe7",
-        "timestamp": "2025-12-11T06:35:42+00:00",
-        "text": "Crypto Drop Wipes Out $370M in Bullish Bets as BTC, ETH Give Back Gains \nCrypto Drop Wipes Out $370M in Bullish Bets as BTC, ETH Give Back Gains\nBinance, Hyperliquid, and Bybit were the most affected exchanges, comprising 72% of all forced unwinds.\nWhat to know:\n- Crypto markets experienced a significant leverage reset with over $… \nCrypto Drop Wipes Out $370M in Bullish Bets as BTC, ETH Give Back GainsBinance, Hyperliquid, and Bybit were the most affected exchanges, comprising 72% of all forced unwinds.What to know:- Crypto mar… [+139 chars]",
-        "positive": 0.3617054522037506,
-        "negative": 0.026179397478699684,
-        "neutral": 0.612115204334259
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/1473ea7e640979a2",
-        "timestamp": "2025-12-11T06:35:41+00:00",
-        "text": "Novo Nordisk Is Trading as If Obesity Drug Craze Never Happened \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is SpaceX planning a massive IPO in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did the Federal Reserve… [+782 chars]",
-        "positive": 5.592088200501166e-05,
-        "negative": 6.3440362282563e-05,
-        "neutral": 0.9998806715011597
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/35da841c994b9261",
-        "timestamp": "2025-12-11T06:35:31+00:00",
-        "text": "UBS Fund Management acquires 10% voting rights in SIG Group \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is SpaceX planning a massive IPO in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did the Federal Reserve… [+765 chars]",
-        "positive": 0.0003108020464424044,
-        "negative": 1.1789084055635612e-05,
-        "neutral": 0.9996774196624756
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/52720b0796a9f598",
-        "timestamp": "2025-12-11T06:35:27+00:00",
-        "text": "India’s Adviser Nageswaran Sees US Trade Deal Signed by March \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is SpaceX planning a massive IPO in 2026? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did the Federal Reserve… [+780 chars]",
-        "positive": 1.8238106349599548e-05,
-        "negative": 8.991166396299377e-06,
-        "neutral": 0.9999728202819824
       },
       {
         "source": "news",
@@ -1469,42 +1604,6 @@
         "positive": 0.36716577410697937,
         "negative": 0.29364076256752014,
         "neutral": 0.3391934037208557
-      },
-      {
-        "source": "news",
-        "id": "https://post.rlsbb.to/expedition-unknown-s16e06-1080p-disc-web-dl-h264-rawr/",
-        "timestamp": "2025-12-11T05:46:22+00:00",
-        "text": "Expedition Unknown S16E06 1080p DISC WEB-DL H264-RAWR \nSeason 16, Episode 06 – “Vanderbilts Lost Steamship”Josh braves Nicaragua’s croc-infested waters and snake-filled jungle to find the wreckage of the Orus. Chasing Gold Rush-era fortune, Vanderbilt’s ship crashed on its maiden attempt to create a new route bet… \nSeason 16, Episode 06 “Vanderbilts Lost Steamship”Josh braves Nicaragua’s croc-infested waters and snake-filled jungle to find the wreckage of the Orus. Chasing Gold Rush-era fortune, Vanderbilt’s sh… [+349 chars]",
-        "positive": 8.887209332897328e-06,
-        "negative": 0.00021607064991258085,
-        "neutral": 0.9997749924659729
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/8cbffd535bafb689",
-        "timestamp": "2025-12-11T05:39:51+00:00",
-        "text": "Can Costco’s Earnings Report Silence Skeptics? What Could Revive the Stock \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did the Federal Reserve cut interest rates again? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Coca-Colas… [+745 chars]",
-        "positive": 0.0020786512177437544,
-        "negative": 0.004383611958473921,
-        "neutral": 0.9935377240180969
-      },
-      {
-        "source": "news",
-        "id": "https://www.ndtvprofit.com/markets/capri-global-eyes-3540-growth-in-q3-asset-quality-to-stay-strong-says-md-rajesh-sharma",
-        "timestamp": "2025-12-11T05:39:00+00:00",
-        "text": "Capri Global Eyes 35–40% Growth In Q3; Asset Quality To Stay Strong, Says MD Rajesh Sharma \nRajesh Sharma, Managing Director of Capri Global Capital Ltd., expects robust momentum in the third quarter with growth in the range of 35–40%, driven by strong traction in gold loans, MSME financing, and affordable housing. \nRajesh Sharma, Managing Director of Capri Global Capital Ltd., expects robust momentum in the third quarter with growth in the range of 3540%, driven by strong traction in gold loans, MSME financing,… [+1503 chars]",
-        "positive": 1.0,
-        "negative": 2.0446337956059324e-09,
-        "neutral": 1.1162464730318788e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.channelnewsasia.com/world/us-trump-gold-card-programme-expedited-visa-1-million-5575296",
-        "timestamp": "2025-12-11T05:39:00+00:00",
-        "text": "Trump launches gold card programme for expedited visas with a US$1 million price tag \nWASHINGTON: United States President Donald Trump's administration officially launched his Trump Gold Card visa programme on Wednesday (Dec 10) to provide a pathway, with a steep price, for non-US \nWASHINGTON: United States President Donald Trump's administration officially launched his Trump Gold Card visa programme on Wednesday (Dec 10) to provide a pathway, with a steep price, for non-US cit… [+660 chars]",
-        "positive": 0.004089702852070332,
-        "negative": 7.54275561121176e-06,
-        "neutral": 0.9959027171134949
       },
       {
         "source": "news",
@@ -22297,9 +22396,9 @@
         "neutral": 0.7501845359802246
       }
     ],
-    "nw": 0.26851254031585625,
-    "nw_norm": 63.42562701579282
+    "nw": 0.2529043726770791,
+    "nw_norm": 62.64521863385395
   },
-  "gsi": 63.42562701579282,
+  "gsi": 62.64521863385395,
   "classification": "Bullish"
 }
