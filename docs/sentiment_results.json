@@ -1,8 +1,269 @@
 {
-  "timestamp": "2025-12-13T05:26:14.342534+00:00",
+  "timestamp": "2025-12-13T05:48:13.566691+00:00",
   "news": {
-    "count": 2475,
+    "count": 2471,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/news/world/india-frees-up-visas-for-chinese-professionals-in-key-step-to-boost-ties/article70387501.ece",
+        "timestamp": "2025-12-12T05:42:06+00:00",
+        "text": "India frees up visas for Chinese professionals in key step to boost ties \nNew Delhi drops extra vetting layer, cutting approval times to under a month in bid to revive business ties and curb production losses \nHighlights\r\n<ul><li>\r\n India to issue Chinese business visas within a month -officials </li><li>\r\n Curbs cost an estimated $15 billion in lost electronics output </li><li>\r\n India reworks China ties … [+3545 chars]",
+        "positive": 0.08741596341133118,
+        "negative": 0.20139111578464508,
+        "neutral": 0.7111929059028625
+      },
+      {
+        "source": "news",
+        "id": "https://www.yahoo.com/news/articles/hong-kong-media-mogul-jimmy-054048708.html",
+        "timestamp": "2025-12-12T05:40:48+00:00",
+        "text": "Hong Kong media mogul Jimmy Lai verdict set for Monday \nA Hong Kong court will issue a verdict Monday in the national security trial of pro-democracy media tycoon Jimmy Lai, a case widely criticised as a sign of... \nA Hong Kong court will issue a verdict Monday in the national security trial of pro-democracy media tycoon Jimmy Lai, a case widely criticised as a sign of erosion of political freedoms in the Chines… [+3007 chars]",
+        "positive": 3.553944770828821e-05,
+        "negative": 0.0013634125934913754,
+        "neutral": 0.9986010193824768
+      },
+      {
+        "source": "news",
+        "id": "https://www.straitstimes.com/business/companies-markets/ringgit-hits-highest-in-4-years-on-growth-optimism",
+        "timestamp": "2025-12-12T05:40:36+00:00",
+        "text": "Ringgit hits highest in 4 years on growth optimism \nAgainst the Singapore dollar, the ringgit gained 0.3 per cent overnight to 3.1709 per Singdollar. Read more at straitstimes.com. Read more at straitstimes.com. \nKUALA LUMPUR The Malaysian ringgit reached the strongest level against the US dollar in more than four years, reflecting optimism on its economy and linkages to the global tech cycle.\r\nThe ringgit ro… [+1940 chars]",
+        "positive": 0.9999963045120239,
+        "negative": 1.3961630429548677e-06,
+        "neutral": 2.2326969428831944e-06
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/canada/lululemon-ceo-calvin-mcdonald-resigns-after-7-years-stock-surges-in-after-hours-trading/articleshow/125926751.cms",
+        "timestamp": "2025-12-12T05:39:33+00:00",
+        "text": "Who is Lululemon CEO Calvin McDonald and why is he stepping down? \nLululemon CEO Calvin McDonald is stepping down in January after nearly seven years, with finance chief Meghan Frank and André Maestrini appointed co-interim CEOs. The company's shares rose following the announcement, despite recent challenges including declin… \nLululemon CEO Calvin McDonald: Calvin McDonald, the CEO of Lululemon Athletica, will step down in January, concluding nearly seven years at the helm of the Canadian activewear giant. Reuters reported… [+2676 chars]",
+        "positive": 0.0019439810421317816,
+        "negative": 0.05923495814204216,
+        "neutral": 0.938821017742157
+      },
+      {
+        "source": "news",
+        "id": "https://apnews.com/article/whistleblower-china-surveillance-tech-silicon-valley-adbd0bcfbb0892bfcb85948acb3f515f",
+        "timestamp": "2025-12-12T05:39:01+00:00",
+        "text": "Chinese whistleblower in the US is being hunted by Beijing with the help of Silicon Valley tech \nRetired Chinese official Li Chuanliang fled to the U.S. seeking asylum, fearing persecution from the Chinese government. He was warned not to return to China after being accused of corruption. Li claims he is targeted for criticizing the government. The Assoc… \nMIDLAND, Texas (AP) Retired Chinese official Li Chuanliang was recuperating from cancer on a Korean resort island when he got an urgent call: Dont return to China, a friend warned. Youre now a fugiti… [+20231 chars]",
+        "positive": 0.0018669463461264968,
+        "negative": 0.16836754977703094,
+        "neutral": 0.8297654986381531
+      },
+      {
+        "source": "news",
+        "id": "https://decrypt.co/352125/youtube-us-creators-take-earnings-paypals-stablecoin",
+        "timestamp": "2025-12-12T05:37:31+00:00",
+        "text": "YouTube Now Lets US Creators Take Earnings in PayPal's Stablecoin: Report \nYouTube has reportedly adopted the feature shortly after PayPal enabled PYUSD as a payout method for recipients in the third quarter. \nIn brief\r\n<ul><li>YouTube enabled U.S. creators to receive earnings in PYUSD, according to a Fortune exclusive.</li><li>Big Tech only adopts new payment rails when they're \"operationally mature and l… [+3231 chars]",
+        "positive": 1.2152051567682065e-05,
+        "negative": 1.4492837863144814e-06,
+        "neutral": 0.9999864101409912
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/769fd6fa61a663ae",
+        "timestamp": "2025-12-12T05:37:29+00:00",
+        "text": "Will it be a hike next year? Five questions for the ECB \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Disney invest $1 billion in OpenAI? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's AI regulator… [+757 chars]",
+        "positive": 0.000191210609045811,
+        "negative": 0.0004144796112086624,
+        "neutral": 0.9993942975997925
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/tech/technology/ignoring-ai-bubble-fears-investors-bet-nvidia-and-google-will-fuel-taiwan-stocks-to-record/articleshow/125926791.cms",
+        "timestamp": "2025-12-12T05:37:22+00:00",
+        "text": "Ignoring AI bubble fears, investors bet Nvidia and Google will fuel Taiwan stocks to record \nTaiwan's benchmark index is poised to breach a record 30,000 points in 2026, investors say, extending a three-year surge that has seen the stock market nearly double as the island rides a wave of demand for chips that power artificial intelligence. \nTaiwan's tech-heavy stocks show few signs of slowing a rally even as AI bubble worries cast a shadow over global markets, underscoring home-grown confidence in the structural advantages in AI that fo… [+4604 chars]",
+        "positive": 0.9996194839477539,
+        "negative": 0.0003711319004651159,
+        "neutral": 9.372933163831476e-06
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/12/3204435/0/en/Bitget-Launchpool-adds-Talus-US-with-17-5M-in-Token-Rewards.html",
+        "timestamp": "2025-12-12T05:35:00+00:00",
+        "text": "Bitget Launchpool adds Talus (US) with 17.5M in Token Rewards \nBitget adds Talus to Launchpool and spot trading, offering 17.5M US rewards through BGB and US locking pools.... \nVICTORIA, Seychelles, Dec. 12, 2025 (GLOBE NEWSWIRE) -- Bitget, the worlds largest Universal Exchange (UEX), has announced the addition of Talus (US) to Bitget Launchpool and adding it to spot tradin… [+4394 chars]",
+        "positive": 0.0020998758263885975,
+        "negative": 9.458104841542081e-07,
+        "neutral": 0.9978991746902466
+      },
+      {
+        "source": "news",
+        "id": "https://www.naftemporiki.gr/english/2045641/titan-cement-190-million-dollar-deal-for-tracim-cement-in-turkey/",
+        "timestamp": "2025-12-12T05:34:19+00:00",
+        "text": "Titan Cement: 190-million-dollar deal for Traçim Cement in Turkey \nTitan SA has signed a share purchase agreement, subject to customary closing conditions, to acquire 100% of Traçim Çimento Sanayi ve Ticaret Anonim Şirketi, a company operating in the greater…\nTitan Cement: 190-million-dollar deal for Traçim Cement in Turkey … \nTitan SA has signed a share purchase agreement, subject to customary closing conditions, to acquire 100% of Traçim Çimento Sanayi ve Ticaret Anonim irketi, a company operating in the greater Istanbul… [+1369 chars]",
+        "positive": 0.0003654184110928327,
+        "negative": 1.845792940002866e-05,
+        "neutral": 0.9996160268783569
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/is-cod-the-healthiest-fish/",
+        "timestamp": "2025-12-12T05:33:45+00:00",
+        "text": "Is cod the healthiest fish? \nIs Cod the Healthiest Fish? A Deep Dive into Nutritional Benefits and Considerations Cod certainly ranks among the healthiest fish options, boasting a lean protein profile, essential nutrients, and versatility; however, whether it’s definitively the healthies… \nIs Cod the Healthiest Fish? A Deep Dive into Nutritional Benefits and Considerations\r\nCod certainly ranks among the healthiest fish options, boasting a lean protein profile, essential nutrients, and … [+8247 chars]",
+        "positive": 0.007724914234131575,
+        "negative": 6.0709048739227e-06,
+        "neutral": 0.9922690987586975
+      },
+      {
+        "source": "news",
+        "id": "https://pointalize.com/ana-mileage-club-the-ultimate-guide-2026/#article",
+        "timestamp": "2025-12-12T05:32:59+00:00",
+        "text": "ANA Mileage Club: The Ultimate Guide (2026) \nThe ultimate 2026 guide to ANA Mileage Club. Learn how to navigate the new one-way awards, beat the 2024 devaluation, and book Business Class for 100k miles. \nQuick Summary: The 2026 ANA Mileage Club Landscape\r\n<ul><li>The Big Change: As of June 2025, Round the World (RTW) awards are discontinued, but ANA finally allows one-way award bookings.</li><li>Swee… [+9522 chars]",
+        "positive": 3.925355485989712e-05,
+        "negative": 7.3699839049368165e-06,
+        "neutral": 0.9999533891677856
+      },
+      {
+        "source": "news",
+        "id": "https://english.khabarhub.com/2025/12/511222/",
+        "timestamp": "2025-12-12T05:32:34+00:00",
+        "text": "Gold and silver prices see sharp rises \nKATHMANDU: Prices of gold and silver witnessed a significant rise in the domestic market on Friday. According to the Federation of Nepal Gold and Silver Dealers Association, the price of gold increased by Rs 3,500 per tola, while silver rose by Rs 100 per tol… \nKATHMANDU: Prices of gold and silver witnessed a significant rise in the domestic market on Friday.\r\nAccording to the Federation of Nepal Gold and Silver Dealers Association, the price of gold increa… [+495 chars]",
+        "positive": 0.693108081817627,
+        "negative": 0.0042945160530507565,
+        "neutral": 0.30259737372398376
+      },
+      {
+        "source": "news",
+        "id": "https://www.helpnetsecurity.com/2025/12/12/gsma-mobile-network-security-pressures-report/",
+        "timestamp": "2025-12-12T05:30:11+00:00",
+        "text": "Uneven regulatory demands expose gaps in mobile security \nMobile networks carry a great deal of the world’s digital activity, which makes operators a frequent target for attacks. A study released by the GSMA shows that operators spend between $15 and $19 billion a year on core cybersecurity functions. Spending could… \nMobile networks carry a great deal of the worlds digital activity, which makes operators a frequent target for attacks. A study released by the GSMA shows that operators spend between $15 and $19 bil… [+5071 chars]",
+        "positive": 0.017289061099290848,
+        "negative": 0.04282894730567932,
+        "neutral": 0.9398819208145142
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/business/irish-banks-and-atm-operators-warned-of-potential-sanctions-breaches/a1045425673.html",
+        "timestamp": "2025-12-12T05:30:00+00:00",
+        "text": "Irish banks and ATM operators warned of potential sanctions breaches \nIrish banks and ATM operators have been warned by the Central Bank to ensure that they are not being used for sanctions-busting. \nThe Central Bank of Ireland says banks need to ensure designated entities are blocked\r\nIrish banks and ATM operators have been warned by the Central Bank to ensure that they are not being used for sa… [+3123 chars]",
+        "positive": 0.0004110521113034338,
+        "negative": 0.9655517339706421,
+        "neutral": 0.03403721749782562
+      },
+      {
+        "source": "news",
+        "id": "https://www.independent.ie/world-news/latin-america/nobel-peace-prize-winner-maria-corina-machado-says-she-will-return-to-venezuela-and-continue-push-for-democracy/a1668846888.html",
+        "timestamp": "2025-12-12T05:30:00+00:00",
+        "text": "Nobel Peace Prize winner Maria Corina Machado says she will return to Venezuela and continue push for democracy \nVenezuelan dissident Maria Corina Machado said she plans to ultimately go back home and disappear from authorities to continue fighting for democracy. \nVenezuelan dissident Maria Corina Machado said she plans to ultimately go back home and disappear from authorities to continue fighting for democracy.Speaking at a news conference in Oslo yesterday, … [+3310 chars]",
+        "positive": 0.00030396520742215216,
+        "negative": 0.0008499939576722682,
+        "neutral": 0.9988459348678589
+      },
+      {
+        "source": "news",
+        "id": "https://www.computerweekly.com/news/366636231/Digital-Ethics-Summit-2025-open-sourcing-and-assuring-AI",
+        "timestamp": "2025-12-12T05:30:00+00:00",
+        "text": "Digital Ethics Summit 2025: Open sourcing and assuring AI \nAt trade association TechUK’s ninth annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the ethical challenges associated with assuring AI systems, and how open source approaches can challenge concentration… \nOpen sourcing artificial intelligence (AI) can help combat concentrations of capital and power that currently define its development, while nascent assurance practices need regulation to define what … [+11323 chars]",
+        "positive": 0.053649596869945526,
+        "negative": 0.00011299947800580412,
+        "neutral": 0.946237325668335
+      },
+      {
+        "source": "news",
+        "id": "https://www.lifesciencesworld.com/what-organs-does-the-lateral-line-of-fishes-contain-to-detect-vibration/",
+        "timestamp": "2025-12-12T05:26:50+00:00",
+        "text": "What organs does the lateral line of fishes contain to detect vibration? \nWhat Organs Does the Lateral Line of Fishes Contain to Detect Vibration? The lateral line system in fish relies on specialized sensory organs called neuromasts which contain hair cells that are exquisitely sensitive to water displacement and vibrations. These… \nWhat Organs Does the Lateral Line of Fishes Contain to Detect Vibration?\r\nThe lateral line system in fish relies on specialized sensory organs called neuromasts which contain hair cells that are exqu… [+11421 chars]",
+        "positive": 1.0338333567005975e-07,
+        "negative": 6.010397100908449e-06,
+        "neutral": 0.9999939203262329
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/861d3f0aec32b8aa",
+        "timestamp": "2025-12-12T05:26:23+00:00",
+        "text": "Malaysia Seeks Ex-Goldman Banker Extradition to Face 1MDB Trial \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Disney invest $1 billion in OpenAI? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's AI regulator… [+772 chars]",
+        "positive": 9.237474296241999e-05,
+        "negative": 4.529512443696149e-05,
+        "neutral": 0.9998623132705688
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/60421dc443a091ce",
+        "timestamp": "2025-12-12T05:26:22+00:00",
+        "text": "Is silver the new gold? \nThe surge in the precious metal’s price could have ominous implications for the markets \nThe surge in the precious metals price could have ominous implications for the markets\r\nThis story appeared on ft.com, 2025-12-12 05:00:14.",
+        "positive": 0.001052374136634171,
+        "negative": 0.5281533598899841,
+        "neutral": 0.47079429030418396
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/59b8fa1513ae364c",
+        "timestamp": "2025-12-12T05:26:22+00:00",
+        "text": "Czech Billionaire Wants to Create Europe’s Defense Giant \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Disney invest $1 billion in OpenAI? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's AI regulator… [+787 chars]",
+        "positive": 2.755111563601531e-05,
+        "negative": 1.1242666914768051e-05,
+        "neutral": 0.999961256980896
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/bf3ca8c7455b45a7",
+        "timestamp": "2025-12-12T05:26:21+00:00",
+        "text": "Economists Agree With ECB’s Schnabel That Next Move Will Be Hike \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Disney invest $1 billion in OpenAI? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's AI regulator… [+773 chars]",
+        "positive": 2.859308006009087e-05,
+        "negative": 1.9743125449167565e-05,
+        "neutral": 0.9999516010284424
+      },
+      {
+        "source": "news",
+        "id": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/womens-basketball/2025/12/12/pat-summitt-lady-vols-candace-parker-dawn-staley/87621758007/",
+        "timestamp": "2025-12-12T05:26:01+00:00",
+        "text": "How Candace Parker, Dawn Staley honored Pat Summitt's legacy once again \nPat Summitt's legacy was celebrated with a live show at the Tennessee Theatre featuring Candace Parker, Dawn Staley, Andraya Carter and Nikki Fargas. \nThere was no better way to end the star-studded evening than filling the Tennessee Theatre with the sound of a crowd belting \"Rocky Top,\" led by none other than Lady Vols coach Pat Summitt herself.\r\n… [+4813 chars]",
+        "positive": 0.029626909643411636,
+        "negative": 5.5622575018787757e-05,
+        "neutral": 0.9703174829483032
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/indias-maritime-sector-at-inflection-point-a-structural-opportunity-unfolds/articleshow/125926629.cms",
+        "timestamp": "2025-12-12T05:25:58+00:00",
+        "text": "India’s maritime sector at inflection point: A structural opportunity unfolds \nIndia’s maritime sector is entering a structural growth phase, supported by ambitious national visions, strong policy incentives, rising demand aggregation, and expanding shipbuilding and port capacity. As global trade shifts toward Asia and greener vessels, … \nThe ancient adage, He who commands the sea commands everything, holds profound relevance even today, with 90-95% of global trade traversing ocean waves. For India, the shipping industry is now positi… [+5212 chars]",
+        "positive": 0.9991559982299805,
+        "negative": 0.00013699615374207497,
+        "neutral": 0.0007070567226037383
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/markets/stocks/news/indias-maritime-sector-at-inflection-point-a-structural-opportunity-unfolds/articleshow/125932489.cms",
+        "timestamp": "2025-12-12T05:25:58+00:00",
+        "text": "India’s maritime sector at inflection point: A structural opportunity unfolds \nIndia’s maritime sector is entering a structural growth phase, supported by ambitious national visions, strong policy incentives, rising demand aggregation, and expanding shipbuilding and port capacity. As global trade shifts toward Asia and greener vessels, … \nThe ancient adage, He who commands the sea commands everything, holds profound relevance even today, with 90-95% of global trade traversing ocean waves. For India, the shipping industry is now positi… [+5212 chars]",
+        "positive": 0.9991559982299805,
+        "negative": 0.00013699615374207497,
+        "neutral": 0.0007070567226037383
+      },
+      {
+        "source": "news",
+        "id": "https://www.wsbradio.com/news/national/abrego-garcia-won/DZDHTFWNPQYYVPDXGDNO2F2XIA/",
+        "timestamp": "2025-12-12T05:24:15+00:00",
+        "text": "A day after release, Kilmar Abrego Garcia must check in with immigration officials \nKilmar Abrego Garcia has walked away after a scheduled appointment at an Immigration and Customs Enforcement field office after a federal judge ordered that officials could not detain him \nBALTIMORE — A federal judge blocked U.S. immigration authorities on Friday from re-detaining Kilmar Abrego Garcia, saying she feared they might take him into custody again just hours after she had or… [+6514 chars]",
+        "positive": 0.0003687466960400343,
+        "negative": 0.2673450708389282,
+        "neutral": 0.7322862148284912
+      },
+      {
+        "source": "news",
+        "id": "https://www.hurriyetdailynews.com/israels-syria-actions-delaying-sdf-deal-with-damascus-turkish-fm-216719",
+        "timestamp": "2025-12-12T05:21:57+00:00",
+        "text": "Israel's Syria actions delaying SDF deal with Damascus: Turkish FM \nForeign Minister Hakan Fidan stated that Israel's heightened activities in Syria are prompting the YPG/PKK-led Syrian Democratic Forces (SDF) to postpone fulfilling a March 10 agreement with the Syrian government. \nANKARA\r\nForeign Minister Hakan Fidan stated that Israel's heightened activities in Syria are prompting the YPG/PKK-led Syrian Democratic Forces (SDF) to postpone fulfilling a March 10 agreement with … [+3823 chars]",
+        "positive": 0.0017035928322002292,
+        "negative": 0.46657073497772217,
+        "neutral": 0.5317256450653076
+      },
+      {
+        "source": "news",
+        "id": "https://www.mmafighting.com/ufc/461248/ufc-bjj-4-results-andrew-tackett-gets-quick-tap-calls-out-michael-chandler",
+        "timestamp": "2025-12-12T05:20:26+00:00",
+        "text": "UFC BJJ 4 results: Andrew Tackett gets quick tap, calls out Michael Chandler \nThree title fights headlined UFC BJJ 4 in Las Vegas \nAndrew Tackett cemented himself as one of the biggest stars of UFC BJJ with a successful defense of his welterweight title in the main event of UFC BJJ 4 and called for a big-name next: UFC lightweig… [+3459 chars]",
+        "positive": 0.9948906898498535,
+        "negative": 4.8456953663844615e-05,
+        "neutral": 0.00506080687046051
+      },
+      {
+        "source": "news",
+        "id": "https://cointelegraph.com/news/cftc-withdraws-crypto-actual-delivery-guidance",
+        "timestamp": "2025-12-12T05:20:26+00:00",
+        "text": "CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges \nThe CFTC has scrapped its guidance on how crypto is delivered in a transaction, giving “way more flexibility for exchanges,” says StarkWare's Katherine Kirkpatrick Bos. \nUS Commodity Futures Trading Commission Acting Chairman Caroline Pham has scrapped outdated guidance on the delivery of crypto, which has been applauded for offering exchanges more flexibility.\r\nElim… [+2477 chars]",
+        "positive": 0.0006697163917124271,
+        "negative": 7.389065285678953e-05,
+        "neutral": 0.999256432056427
+      },
       {
         "source": "news",
         "id": "http://www.newsbtc.com/analysis/doge/dogecoin-doge-turns-soft-0-145/",
@@ -671,15 +932,6 @@
       },
       {
         "source": "news",
-        "id": "https://m.economictimes.com/news/india/where-celebs-like-ananya-janhvi-amp-kiara-vacation-by-the-sea/bollywoods-beach-escapes/slideshow/125926039.cms",
-        "timestamp": "2025-12-12T04:44:07+00:00",
-        "text": "Where Celebs Like Ananya, Janhvi & Kiara Vacation by the Sea \nCelebrities love ocean escapes for their peace, beauty, and total disconnect from city chaos. Explore the beach destinations Bollywood stars choose again and again for vacations, celebrations, and digital detox retreats. Bollywood’s beach escapes \nDec 12, 2025, 10:14:56 AM IST\r\nCelebrities love ocean\r\n escapes for their peace, beauty, and total disconnect from city chaos. Explore the beach destinations Bollywood stars choose again and again fo… [+1798 chars]",
-        "positive": 2.96840198643622e-06,
-        "negative": 1.9853198409691686e-06,
-        "neutral": 0.9999949932098389
-      },
-      {
-        "source": "news",
         "id": "https://www.globenewswire.com/news-release/2025/12/12/3204433/0/en/Ascot-Announces-Share-Consolidation-Effective-Date.html",
         "timestamp": "2025-12-12T04:44:00+00:00",
         "text": "Ascot Announces Share Consolidation Effective Date \nVANCOUVER, British Columbia, Dec. 11, 2025 (GLOBE NEWSWIRE) -- Ascot Resources Ltd. (TSXV: AOT.H; OTCID: AOTVF) (“Ascot” or the “Company”) announces that the effective date for the previously announced share consolidation (the “Consolidation”) will be Decembe… \nVANCOUVER, British Columbia, Dec. 11, 2025 (GLOBE NEWSWIRE) -- Ascot Resources Ltd. (TSXV: AOT.H; OTCID: AOTVF) (Ascot or the Company) announces that the effective date for the previously announced s… [+8886 chars]",
@@ -707,24 +959,6 @@
       },
       {
         "source": "news",
-        "id": "https://biztoc.com/x/d02ab5dbcf14279f",
-        "timestamp": "2025-12-12T04:41:59+00:00",
-        "text": "The Eurovision Song Contest Has Lost Its Harmony \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Disney invest $1 billion in OpenAI? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's AI regulator… [+782 chars]",
-        "positive": 0.0017652985407039523,
-        "negative": 0.17415419220924377,
-        "neutral": 0.8240805268287659
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/ac80a92e54f6ff81",
-        "timestamp": "2025-12-12T04:41:55+00:00",
-        "text": "Sumitomo to Put $1.3 Billion Into India Renewable Power Projects \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Disney invest $1 billion in OpenAI? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's AI regulator… [+772 chars]",
-        "positive": 3.461851520114578e-05,
-        "negative": 1.3018790923524648e-05,
-        "neutral": 0.9999524354934692
-      },
-      {
-        "source": "news",
         "id": "https://www.rte.ie/news/world/2025/1212/1548561-us-venezuela-trump/",
         "timestamp": "2025-12-12T04:40:07+00:00",
         "text": "Land strikes on Venezuela drug shipments 'soon' - Trump \nUS President Donald Trump has said the United States will soon begin strikes to interdict narcotics shipments making their way from Venezuela to the US via land routes. \nUS President Donald Trump has said the United States will soon begin strikes to interdict narcotics shipments making their way from Venezuela to the US via land routes.\r\nMr Trump has repeatedly threa… [+4561 chars]",
@@ -743,51 +977,6 @@
       },
       {
         "source": "news",
-        "id": "https://decrypt.co/352113/bitcoins-persistent-long-term-buyers-market-struggles-liquidity",
-        "timestamp": "2025-12-12T04:39:16+00:00",
-        "text": "Bitcoin's Persistent Long-Term Buyers Step In as Market Struggles For Liquidity \nExperts remain cautiously optimistic as macro hurdles clear amid Bitcoin whale accumulation and liquidity drying up ahead of the holidays. \nIn brief\r\n<ul><li>So-called \"accumulator\" whales bought 75,000 BTC from December 1 to 10 as short-term holder losses mount, signaling wealth transfer to strong hands.</li><li>The Fed's new liquidity … [+3355 chars]",
-        "positive": 0.9985359907150269,
-        "negative": 0.0010272254003211856,
-        "neutral": 0.0004367167130112648
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-banks-seek-to-double-cap-on-merger-finance-as-deals-soar/articleshow/125925921.cms",
-        "timestamp": "2025-12-12T04:38:59+00:00",
-        "text": "India banks seek to double cap on merger finance as deals soar \nIndian banks are seeking to increase their merger financing limits. Lenders want to raise the cap to 20% of core capital from 10%. This move aims to help them compete better in a growing deals market. The Reserve Bank of India is considering the proposal. Thi… \nIndian banks are pushing to relax a key cap on financing for mergers, according to people familiar with the matter, as domestic lenders seek to win more business from global rivals in a surging deals… [+1516 chars]",
-        "positive": 0.5886279344558716,
-        "negative": 0.00014296600420493633,
-        "neutral": 0.41122913360595703
-      },
-      {
-        "source": "news",
-        "id": "https://www.techpowerup.com/344004/qwertykeys-reveals-neo98-and-neo75-enthusiast-wireless-mechanical-keyboards",
-        "timestamp": "2025-12-12T04:37:56+00:00",
-        "text": "Qwertykeys Reveals Neo98 and Neo75 Enthusiast Wireless Mechanical Keyboards \nHot on the heels of the recent launch of the QK65 Mk3, Qwertykeys has announced its next two keyboard launches, the Qwertykeys Neo98 and Neo75. The Neo98 will be an 1800 layout mechanical keyboard—meaning it includes a full-size number pad and a navigation cl… \nHot on the heels of the recent launch of the QK65 Mk3, Qwertykeys has announced its next two keyboard launches, the Qwertykeys Neo98 and Neo75. The Neo98 will be an 1800 layout mechanical keyboardmea… [+1880 chars]",
-        "positive": 0.0026898058131337166,
-        "negative": 3.732568438863382e-05,
-        "neutral": 0.9972729086875916
-      },
-      {
-        "source": "news",
-        "id": "https://www.livemint.com/industry/banking/mint-18th-bfsi-summit-live-updates-12-dec-rbi-deputy-governor-t-rabi-sankar-tuhin-kanta-pandey-sebi-sundeep-sikka-amfi-11765513472774.html",
-        "timestamp": "2025-12-12T04:35:43+00:00",
-        "text": "18th Mint BFSI Summit LIVE Updates: RBI deputy governor T Rabi Sankar to deliver keynote address today \n18th Mint BFSI Summit LIVE Updates: RBI's deputy governor T Rabi Sankar will deliver the keynote address today. The ‘Finance’s Next Frontier’ theme will bring together India’s influential voices to discuss how banking, markets, insurance, and fintech can prep… \nReserve Bank of India's deputy governor T Rabi Sankar will deliver the keynote address at the 18th Mint BFSI Summit 2025 in Mumbai today.\r\nWith the theme of Finances Next Frontier, the event brings t… [+115 chars]",
-        "positive": 0.0008645971538498998,
-        "negative": 1.372470705973683e-06,
-        "neutral": 0.9991340041160583
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/expert-view/market-headed-for-tough-times-in-next-6-12-months-why-unmesh-sharma-sees-a-largecap-driven-range-bound-market/articleshow/125925733.cms",
-        "timestamp": "2025-12-12T04:33:36+00:00",
-        "text": "Market headed for tough times in next 6-12 months; Unmesh Sharma sees a largecap-driven, range-bound market \nHDFC Securities’ Unmesh Sharma says Indian markets face a challenging 6–12 months as global FPI selling, rupee weakness and uncertainty around the India–US trade deal contrast sharply with strong domestic inflows. With valuations still elevated and midcaps un… \nIn a volatile market marked by conflicting global and domestic cues, investors should brace for a tough and highly selective environment over the next few quarters, says Unmesh Sharma, Senior Executi… [+2577 chars]",
-        "positive": 0.478887140750885,
-        "negative": 0.4911094903945923,
-        "neutral": 0.030003394931554794
-      },
-      {
-        "source": "news",
         "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180366801",
         "timestamp": "2025-12-12T04:33:09+00:00",
         "text": "US sanctions Maduro’s nephews and shipping companies it says move Venezuelan oil - CNN \nUS sanctions Maduro’s nephews and shipping companies it says move Venezuelan oilCNN White House says US intends to keep seized tanker's oil, hits Maduro family with new sanctionsABC News U.S. Issues New Sanctions Targeting Maduro’s Family and the Oil SectorTh… \nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
@@ -797,147 +986,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.fisiologiadelejercicio.com/ejercicio-fisico-como-herramienta-terapeutica-de-impacto-biologico-en-el-tratamiento-del-cancer/",
-        "timestamp": "2025-12-12T04:32:08+00:00",
-        "text": "Ejercicio físico como herramienta terapéutica de impacto biológico en el tratamiento del cáncer \nNash DM, Terry LV, Febbraio MA. Exercising through cancer: Physical activity as medicine for cancer care. Cancer Cell. 2025 Nov 13:S1535-6108(25)00450-7. doi: 10.1016/j.ccell.2025.10.009. El ejercicio… \nNash DM, Terry LV, Febbraio MA. Exercising through cancer: Physical activity as medicine for cancer care. Cancer Cell. 2025 Nov 13:S1535-6108(25)00450-7. doi: 10.1016/j.ccell.2025.10.009. \r\nEl ejerci… [+7891 chars]",
-        "positive": 2.4188163934013573e-06,
-        "negative": 1.8073301362164784e-06,
-        "neutral": 0.9999958276748657
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/ae7a49faa8128f42",
-        "timestamp": "2025-12-12T04:31:05+00:00",
-        "text": "Trump Repeals Biden Land Protections in Alaska, Other States \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Disney invest $1 billion in OpenAI? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's AI regulator… [+768 chars]",
-        "positive": 0.000818506523501128,
-        "negative": 0.0002241074398625642,
-        "neutral": 0.9989573955535889
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/39f7e8fd0bf16b1a",
-        "timestamp": "2025-12-12T04:30:40+00:00",
-        "text": "Terra Founder Do Kwon Receives 15-Year Prison Sentence For 'Epic' $40 Billion Crypto Fraud \nCryptocurrency fraudster Do Kwon was handed a 15-year prison sentence Thursday for abetting the infamous Terra (CRYPTO: LUNA) collapse that triggered one of the market’s worst crashes.\n‘A Generational Fraud’\nU.S. District Judge Paul A. Engelmayer, who pronoun… \nCryptocurrency fraudster Do Kwon was handed a 15-year prison sentence Thursday for abetting the infamous Terra (CRYPTO: LUNA) collapse that triggered one of the markets worst crashes.A Generational F… [+138 chars]",
-        "positive": 0.00039987865602597594,
-        "negative": 0.0021727459970861673,
-        "neutral": 0.9974274039268494
-      },
-      {
-        "source": "news",
-        "id": "https://ahouseinthehills.com/diy-disinfectant-spray-that-kills-germs-not-just-smells-good/",
-        "timestamp": "2025-12-12T04:27:33+00:00",
-        "text": "DIY Disinfectant Spray That Kills Germs (Not Just Smells Good) \nYou spray, you wipe, and you assume the germs are gone. But is your DIY disinfectant actually killing anything? Most homemade recipes don’t work. Vinegar and essential oils smell great, but they won’t kill harmful viruses or bacteria. Worse, ineffective spray… \nYou spray, you wipe, and you assume the germs are gone. But is your DIY disinfectant actually killing anything?\r\nMost homemade recipes don’t work. Vinegar and essential oils smell great, but they won… [+9409 chars]",
-        "positive": 0.00038285780465230346,
-        "negative": 0.00972992368042469,
-        "neutral": 0.9898872971534729
-      },
-      {
-        "source": "news",
-        "id": "https://theconversation.com/government-reveals-taxpayer-funded-deal-to-keep-australias-largest-aluminium-smelter-open-how-long-we-will-pay-271943",
-        "timestamp": "2025-12-12T04:27:32+00:00",
-        "text": "Government reveals taxpayer-funded deal to keep Australia’s largest aluminium smelter open. How long we will pay? \nThe federal government has done a deal - underwritten by the taxpayer - to keep Australia’s largest aluminum smelter open. What’s the exit strategy if it doesn’t go to plan? \nIt seemed inevitable – politically at least – that the federal government would step in to save Tomago Aluminium in New South Wales, Australia’s largest aluminium smelter. \n\nRio Tinto, the owners of … [+4623 chars]",
-        "positive": 1.3803523870592471e-05,
-        "negative": 0.0005244205822236836,
-        "neutral": 0.9994617104530334
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/news/variety/netflix-is-buying-warner-bros-is-this-the-end-of-cinema/article70387303.ece",
-        "timestamp": "2025-12-12T04:26:14+00:00",
-        "text": "Netflix is buying Warner Bros. Is this the end of cinema? \nNetflix’s $82.7 bn move to buy Warner Bros has triggered backlash from creators and regulators, raising fresh concerns over cinema attendance, streaming dominance and antitrust risks. \nThe worlds dominant streaming service, Netflix, has announced its planned acquisition of Warner Bros with a deal valued at US$82.7 billion (A$124.5 billion).\r\nThe acquisition has provoked criticism f… [+5297 chars]",
-        "positive": 2.2292782887234353e-05,
-        "negative": 0.9977802634239197,
-        "neutral": 0.0021974551491439342
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/stocks/news/lt-shares-rise-over-2-as-goldman-sachs-upgrades-to-buy-check-target-price-upside/articleshow/125925610.cms",
-        "timestamp": "2025-12-12T04:25:53+00:00",
-        "text": "L&T shares rise over 2% as Goldman Sachs upgrades to Buy. Check target price, upside \nLarsen & Toubro shares surged 2.5% to Rs 4,109 after Goldman Sachs upgraded the stock to 'Buy' with a Rs 5,000 target price. The brokerage cited strong growth visibility across segments, a healthy order backlog, and emerging sectors like defence and green hyd… \nShares of Larsen and Toubro (L&amp;T) rallied as much as 2.5% to their days high of Rs 4,109 in morning deals on December 12 after Goldman Sachs upgraded the stock to Buy from Neutral and raised the … [+2211 chars]",
-        "positive": 1.0,
-        "negative": 5.287156490396683e-09,
-        "neutral": 1.6678459724417394e-09
-      },
-      {
-        "source": "news",
-        "id": "https://www.linkedin.com/pulse/france-ai-content-marketing-tools-market-size-2026-risk-5brgf",
-        "timestamp": "2025-12-12T04:25:17+00:00",
-        "text": "France AI Content Marketing Tools Market Size 2026 | Risk, Tech & Regions 2033 \n Download Sample  Get Special Discount France AI Content Marketing Tools Market Size, Strategic Opportunities & Forecast (2026-2033) Market size (2024): USD 5.5 billion · Forecast (2033): USD 15. \nDownload SampleGet Special Discount\r\nFrance AI Content Marketing Tools Market Size, Strategic Opportunities &amp; Forecast (2026-2033) Market size (2024): USD 5.5 billion · Forecast (2033): USD 15.2 … [+24517 chars]",
-        "positive": 1.387594693369465e-05,
-        "negative": 7.772955541440751e-07,
-        "neutral": 0.9999853372573853
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/expert-view/cyclical-sectors-poised-to-lead-markets-through-2026-varun-goel/articleshow/125925572.cms",
-        "timestamp": "2025-12-12T04:25:10+00:00",
-        "text": "Cyclical sectors poised to lead markets through 2026: Varun Goel \nSmall and midcap stocks are poised for a strong recovery. Earnings are expected to grow significantly over the next four to six quarters. Cyclical sectors like banking, financial services, and automobiles will lead the market. Oil marketing companies are set … \nIn a market environment struggling to find clear direction, small and midcap stocks have been at the center of investor anxiety. ET Now spoke with Varun Goel from Mirae Asset Investment Managers who … [+2949 chars]",
-        "positive": 1.0,
-        "negative": 2.1314150444595725e-08,
-        "neutral": 4.4003051868912735e-08
-      },
-      {
-        "source": "news",
-        "id": "https://www.ibtimes.com.au/crypto-fraudster-do-kwon-gets-15-years-40-billion-terra-luna-collapse-that-triggered-2022-crash-1861065",
-        "timestamp": "2025-12-12T04:25:09+00:00",
-        "text": "Crypto Fraudster Do Kwon Gets 15 Years for $40 Billion Terra/Luna Collapse That Triggered 2022 Crash \nTerraform Labs co-founder Do Kwon sentenced to 15 years for orchestrating $40B Terra/Luna collapse. Judge said he committed \"fraud on epic, generational scale.\" \nDo Kwon, the disgraced cryptocurrency entrepreneur whose Terraform Labs created the TerraUSD stablecoin and Luna token that spectacularly collapsed in May 2022, has been sentenced to 15 years in fede… [+12290 chars]",
-        "positive": 0.0023340433835983276,
-        "negative": 0.14930149912834167,
-        "neutral": 0.8483644127845764
-      },
-      {
-        "source": "news",
-        "id": "https://www.ibtimes.com/crypto-fraudster-do-kwon-gets-15-years-40-billion-terra-luna-collapse-that-triggered-2022-crash-3792451",
-        "timestamp": "2025-12-12T04:24:15+00:00",
-        "text": "Crypto Fraudster Do Kwon Gets 15 Years for $40 Billion Terra/Luna Collapse That Triggered 2022 Crash \nTerraform Labs co-founder Do Kwon sentenced to 15 years for orchestrating $40B Terra/Luna collapse. Judge said he committed \"fraud on epic, generational scale.\" \nDo Kwon, the disgraced cryptocurrency entrepreneur whose Terraform Labs created the TerraUSD stablecoin and Luna token that spectacularly collapsed in May 2022, has been sentenced to 15 years in fede… [+12257 chars]",
-        "positive": 0.0021660791244357824,
-        "negative": 0.164642333984375,
-        "neutral": 0.8331915736198425
-      },
-      {
-        "source": "news",
-        "id": "https://www.darkhorizons.com/the-2025-game-awards-winners/",
-        "timestamp": "2025-12-12T04:22:09+00:00",
-        "text": "The 2025 Game Awards Winners \nThe Game Awards winners for 2025 have been announced and fan favourite “Clair Obscur: Expedition 33” swept the ceremony and unsurprisingly took the top honor of Game of the Year. Heading into the event with a record-breaking thirteen nominations – the most no… \nThe Game Awards winners for 2025 have been announced and fan favourite Clair Obscur: Expedition 33 swept the ceremony and unsurprisingly took the top honor of Game of the Year.\r\nHeading into the even… [+7570 chars]",
-        "positive": 0.7900076508522034,
-        "negative": 0.001095902523957193,
-        "neutral": 0.20889639854431152
-      },
-      {
-        "source": "news",
         "id": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-to-a-record-low-of-9055-against-us-dollar/article70387304.ece",
         "timestamp": "2025-12-12T04:20:29+00:00",
         "text": "Rupee falls to a record low of ₹90.55 against US dollar \nThe rupee is Asia’s worst performer this year. The currency has fallen nearly 6% against the dollar year-to-date, as steep US tariffs of up to 50% on Indian goods hurt exports to its biggest market, while also diminishing the appeal of local equities for fore… \nThe Indian rupee hit a record low on Friday, as sentiment remained bogged down by the absence of a trade deal with the U.S. and portfolio outflows, drawing likely intervention by the Reserve Bank of … [+2323 chars]",
         "positive": 2.4790475436020643e-05,
         "negative": 0.9999713897705078,
         "neutral": 3.843820650217822e-06
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/d13149395fa14f81",
-        "timestamp": "2025-12-12T04:19:53+00:00",
-        "text": "Thai Military Says Border Fight Unhindered by PM’s Election Move \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Disney invest $1 billion in OpenAI? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's AI regulator… [+773 chars]",
-        "positive": 9.710034646559507e-05,
-        "negative": 9.976561705116183e-05,
-        "neutral": 0.9998031258583069
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/094b75882d2b652b",
-        "timestamp": "2025-12-12T04:19:40+00:00",
-        "text": "Indonesia expects to complete tariff negotiations with U.S. by year end, official says \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Disney invest $1 billion in OpenAI? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's AI regulator… [+786 chars]",
-        "positive": 4.4668449845630676e-05,
-        "negative": 1.0710188689699862e-05,
-        "neutral": 0.9999445676803589
-      },
-      {
-        "source": "news",
-        "id": "https://punchng.com/?p=2007576",
-        "timestamp": "2025-12-12T04:19:05+00:00",
-        "text": "Crypto mogul Do Kwon sentenced to 15 years for fraud \nA US court sentenced cryptocurrency tycoon Do Kwon to 15 years in prison on Thursday over fraud linked to his company’s failure, which wiped out $40 billion of investors’ money and shook global crypto markets. Kwon, who nurtured two digital currencies central… \nA US court sentenced cryptocurrency tycoon Do Kwon to 15 years in prison on Thursday over fraud linked to his company’s failure, which wiped out $40 billion of investors’ money and shook global crypt… [+2793 chars]",
-        "positive": 8.755485760048032e-05,
-        "negative": 0.0018584171775728464,
-        "neutral": 0.998054027557373
       },
       {
         "source": "news",
@@ -1397,96 +1451,6 @@
         "positive": 1.9957294625783106e-06,
         "negative": 0.9999945163726807,
         "neutral": 3.4503243568906328e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.fool.com.au/2025/12/12/does-macquarie-rate-transurban-group-shares-a-buy-hold-or-sell/",
-        "timestamp": "2025-12-12T02:19:55+00:00",
-        "text": "Does Macquarie rate Transurban Group shares a buy, hold or sell? \nCan Transurban drive returns for investors?\nThe post Does Macquarie rate Transurban Group shares a buy, hold or sell? appeared first on The Motley Fool Australia. \nTransurban Group (ASX: TCL) shares give investors the chance to invest in one of the world's largest toll road businesses. Analysts at Macquarie have revealed whether they think the ASX dividend shar… [+2643 chars]",
-        "positive": 0.011733723804354668,
-        "negative": 1.1432768587837927e-05,
-        "neutral": 0.9882549047470093
-      },
-      {
-        "source": "news",
-        "id": "https://pagesix.com/2025/12/11/celebrity-news/jessica-alba-models-bikinis-on-vacation-with-her-kids/",
-        "timestamp": "2025-12-12T02:17:43+00:00",
-        "text": "Jessica Alba beats the heat in variety of bikinis on tropical vacation with kids \nAlba filed for divorce from Cash Warren in February. \nJessica Alba is still basking in the glow of her Thanksgiving vacation. \r\nThe “Honey” actress was pictured rocking a variety of string bikinis while soaking up the sun on a tropical vacation over Tha… [+3019 chars]",
-        "positive": 9.3244576419238e-05,
-        "negative": 1.8151587937609293e-05,
-        "neutral": 0.9998886585235596
-      },
-      {
-        "source": "news",
-        "id": "https://www.lifesciencesworld.com/why-zoos-are-so-good/",
-        "timestamp": "2025-12-12T02:16:25+00:00",
-        "text": "Why zoos are so good? \nWhy Zoos Are So Good: A Vital Role in Conservation and Education Zoos are undeniably valuable because they play a crucial role in wildlife conservation, educating the public about the natural world, and providing opportunities for scientific research, thereby… \nWhy Zoos Are So Good: A Vital Role in Conservation and Education\r\nZoos are undeniably valuable because they play a crucial role in wildlife conservation, educating the public about the natural world,… [+8446 chars]",
-        "positive": 0.8729831576347351,
-        "negative": 0.0002705844526644796,
-        "neutral": 0.1267462521791458
-      },
-      {
-        "source": "news",
-        "id": "https://english.khabarhub.com/2025/12/511180/",
-        "timestamp": "2025-12-12T02:15:26+00:00",
-        "text": "Economic Digest: Nepal’s Business News in a Snap \nKATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. Nepal’s economic landscape reflects a mix of structural strain and regulatory shifts, with muted capi… \nKATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries.\r\nNepals economic landscape reflects a mix… [+14219 chars]",
-        "positive": 0.00021960910817142576,
-        "negative": 6.408417448255932e-06,
-        "neutral": 0.9997739195823669
-      },
-      {
-        "source": "news",
-        "id": "https://dailycaller.com/2025/12/11/newt-gingrich-americans-feel-trump-boom/",
-        "timestamp": "2025-12-12T02:13:52+00:00",
-        "text": "Newt Gingrich Pinpoints Exact Date Next Year When He Says Americans Will Feel ‘Trump Boom’ \nFormer House Speaker Newt Gingrich predicted Thursday that Americans will begin to feel a \"Trump boom\" by July 4th of next year. \nFormer House Speaker Newt Gingrich predicted Thursday that Americans will feel a “Trump boom” by July 4 of next year.\r\nPresident Donald Trump told supporters at a Pennsylvania rally Tuesday that data… [+2875 chars]",
-        "positive": 2.7116269848193042e-05,
-        "negative": 1.8394319340586662e-05,
-        "neutral": 0.9999545812606812
-      },
-      {
-        "source": "news",
-        "id": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-up-on-us-venezuela-tensions-but-set-for-weekly-decline/articleshow/125924094.cms",
-        "timestamp": "2025-12-12T02:12:49+00:00",
-        "text": "Oil prices up on US-Venezuela tensions, but set for weekly decline \nOil prices saw an increase on Friday due to worries about more Venezuelan oil tankers being intercepted. However, prices are still set for a weekly drop. This is because of hopes for a peace deal between Russia and Ukraine. A peace agreement could boost Russi… \nOil prices rose on Friday as the prospect of the U.S. intercepting more Venezuelan oil tankers deepened supply concerns, but remained on track for a weekly decline amid optimism over a possible Russi… [+2221 chars]",
-        "positive": 0.9042344093322754,
-        "negative": 0.09272121638059616,
-        "neutral": 0.003044356591999531
-      },
-      {
-        "source": "news",
-        "id": "https://slashdot.org/firehose.pl?op=view&amp;id=180366093",
-        "timestamp": "2025-12-12T02:12:11+00:00",
-        "text": "Ten years after The Witness, Jonathan Blow's next massive puzzle game is almost ready for primetime \nMany of the big announcements at The Game Awards are for completely new projects, some of which are total surprises (if you had an Okami sequel on your bingo card last year, you're either in the know or probably used up all your luck for the next few years). … \nMany of the big announcements at The Game Awards are for completely new projects, some of which are total surprises (if you had an Okami sequel on your bingo card last year, you're either in the know… [+7384 chars]",
-        "positive": 0.0008030612953007221,
-        "negative": 0.00032682044547982514,
-        "neutral": 0.9988700747489929
-      },
-      {
-        "source": "news",
-        "id": "https://truthout.org/articles/2024-eurovision-winner-returns-trophy-to-protest-israels-inclusion-in-contest/",
-        "timestamp": "2025-12-12T02:10:59+00:00",
-        "text": "2024 Eurovision Winner Returns Trophy to Protest Israel’s Inclusion in Contest \nEurovision has been “used to soften the image of a state accused of severe wrongdoing,” said Swiss artist Nemo. \nTruthouts December fundraiser is our most important of the year and will determine the scale of work we will be able to do in 2026. Please support us with a tax-deductible donation today.\r\nLast years… [+3956 chars]",
-        "positive": 3.778478276217356e-05,
-        "negative": 5.6532771850470454e-05,
-        "neutral": 0.9999057054519653
-      },
-      {
-        "source": "news",
-        "id": "https://www.channelnewsasia.com/business/oil-prices-up-us-venezuela-tensions-set-weekly-decline-5577751",
-        "timestamp": "2025-12-12T02:05:22+00:00",
-        "text": "Oil prices up on US-Venezuela tensions, but set for weekly decline \nTOKYO, Dec 12 : Oil prices rose on Friday as the prospect of the U.S. intercepting more Venezuelan oil tankers deepened supply concerns, but remained on track for a weekly decline amid optimism over a possible Russia-Ukraine peace agreement.Brent crude future… \nTOKYO, Dec 12 : Oil prices rose on Friday as the prospect of the U.S. intercepting more Venezuelan oil tankers deepened supply concerns, but remained on track for a weekly decline amid optimism over … [+2258 chars]",
-        "positive": 0.7749764919281006,
-        "negative": 0.048288799822330475,
-        "neutral": 0.17673474550247192
-      },
-      {
-        "source": "news",
-        "id": "https://www.zdnet.com/article/ai-project-success-data-foundation-storytelling-artificial-intelligence/",
-        "timestamp": "2025-12-12T02:00:40+00:00",
-        "text": "This company's AI success was built on 5 essential steps - see how they work for you \nFrom data foundations to storytelling techniques, here's how to turn your AI projects into valuable production services. \nSwillklitch/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Successful AI projects are built on strong foundations. </… [+8022 chars]",
-        "positive": 0.9999970197677612,
-        "negative": 1.785737140380661e-07,
-        "neutral": 2.864611360564595e-06
       },
       {
         "source": "news",
@@ -22279,9 +22243,9 @@
         "neutral": 0.7501845359802246
       }
     ],
-    "nw": 0.4291259213316705,
-    "nw_norm": 71.45629606658352
+    "nw": 0.3980415000127885,
+    "nw_norm": 69.90207500063943
   },
-  "gsi": 71.45629606658352,
+  "gsi": 69.90207500063943,
   "classification": "Bullish"
 }
