@@ -1,8 +1,314 @@
 {
-  "timestamp": "2025-12-13T13:43:30.084079+00:00",
+  "timestamp": "2025-12-13T13:54:28.718019+00:00",
   "news": {
-    "count": 2472,
+    "count": 2473,
     "documents": [
+      {
+        "source": "news",
+        "id": "https://timesofindia.indiatimes.com/education/news/graduating-in-the-us-how-trumps-gold-card-can-help-international-students-stay-on/articleshow/125935127.cms",
+        "timestamp": "2025-12-12T13:48:03+00:00",
+        "text": "Graduating in the US? How Trump’s Gold Card can help international students stay on \nThe Trump administration launched a \"Gold Card\" visa program, allowing individuals and corporations to pay for expedited US residency. Priced at $1 million for individuals and $2 million per employee for companies, the program aims to retain top international… \nThe Trump administration launched a \"Gold Card\" visa program, allowing individuals and corporations to pay for expedited US residency. Priced at $1 million for individuals and $2 million per employee… [+287 chars]",
+        "positive": 0.007180542219430208,
+        "negative": 5.220555976848118e-06,
+        "neutral": 0.9928142428398132
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/2048f37cf2f897f0",
+        "timestamp": "2025-12-12T13:47:18+00:00",
+        "text": "Gilead, Arcus scrap late-stage trial of cancer drug combo \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Indiana reject Trump's redistricting plan? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Disney's Open… [+747 chars]",
+        "positive": 0.0002834485494531691,
+        "negative": 0.0003343877906445414,
+        "neutral": 0.9993821382522583
+      },
+      {
+        "source": "news",
+        "id": "https://www.hospitalitynet.org/opinion/4130171.html",
+        "timestamp": "2025-12-12T13:47:18+00:00",
+        "text": "Holiday Shopping 2025: More Spending, More Stress, More AI \nHoliday shoppers are preparing to spend more this season, but there’s a catch. Accenture’s 19th Annual Holiday Shopping Survey reveals that much of this increased spending reflects higher prices, not higher confidence. The result is a stressed-out shopper bas… \nHoliday shoppers are preparing to spend more this season, but there's a catch. Accenture's 19th Annual Holiday Shopping Survey reveals that much of this increased spending reflects higher prices, not… [+5374 chars]",
+        "positive": 0.02305085025727749,
+        "negative": 0.0011005623964592814,
+        "neutral": 0.9758485555648804
+      },
+      {
+        "source": "news",
+        "id": "https://indianexpress.com/article/cities/mumbai/global-citizenship-modern-concept-gallery-csmvs-india-global-10417129/",
+        "timestamp": "2025-12-12T13:47:17+00:00",
+        "text": "Is global citizenship a modern concept? A new gallery at CSMVS shows how India went global 5,000 years ago \nThree hundred archaeological objects from 15 institutions trace long-distance trade, shared beliefs and cultural exchange across the world. \nAs one enters Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS) in Mumbai, a warm yellow glow draws the eye to a large circular model of the Harappan city of Dholavira a UNESCO World Heritage si… [+9580 chars]",
+        "positive": 0.0006875918479636312,
+        "negative": 2.5047263534361264e-06,
+        "neutral": 0.9993098974227905
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/5946d6aa14e81f22",
+        "timestamp": "2025-12-12T13:47:14+00:00",
+        "text": "Nasdaq futures slide as Broadcom weighs on tech stocks \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Indiana reject Trump's redistricting plan? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Disney's Open… [+783 chars]",
+        "positive": 0.00012740671809297055,
+        "negative": 0.0008122716681100428,
+        "neutral": 0.999060332775116
+      },
+      {
+        "source": "news",
+        "id": "https://www.rte.ie/sport/racing/2025/1212/1548659-derby-prize-money-rises-as-jockey-club-revamps-classic/",
+        "timestamp": "2025-12-12T13:47:11+00:00",
+        "text": "Derby prize money rises as Jockey Club revamps Classic \nThe Jockey Club has announced significant changes to the Betfred Derby Festival for 2026, with prize-money for the premier Classic boosted to £2million. \nThe Jockey Club has announced significant changes to the Betfred Derby Festival for 2026, with prize-money for the premier Classic boosted to £2million.\r\nAmong a host of alterations to the two-day me… [+3246 chars]",
+        "positive": 0.0008646936621516943,
+        "negative": 0.00041751613025553524,
+        "neutral": 0.9987177848815918
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/c16a8ab81725c9bf",
+        "timestamp": "2025-12-12T13:47:10+00:00",
+        "text": "Fed's Paulson says tariffs drove inflation rise \nFederal Reserve Bank of Philadelphia President Anna Paulson said on Friday that tariffs were the main reason inflation exceeded the Federal Reserve's 2% target this year, speaking at the Delaware Stat... \nFederal Reserve Bank of Philadelphia President Anna Paulson said on Friday that tariffs were the main reason inflation exceeded the Federal Reserve's 2% target this year, speaking at the Delaware Sta… [+69 chars]",
+        "positive": 0.0016707541653886437,
+        "negative": 0.00011480636021587998,
+        "neutral": 0.9982144832611084
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/2931c4922b945c68",
+        "timestamp": "2025-12-12T13:46:58+00:00",
+        "text": "Euroclear can offset its assets seized by Russia with Russia's assets -EU \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Indiana reject Trump's redistricting plan? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Disney's Open… [+738 chars]",
+        "positive": 0.00012721901293843985,
+        "negative": 8.981899554783013e-06,
+        "neutral": 0.999863862991333
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/e18355cc8a254336",
+        "timestamp": "2025-12-12T13:46:55+00:00",
+        "text": "Goolsbee: Fed should have waited before rate cut \nFederal Reserve Bank of Chicago President Austan Goolsbee stated that policymakers should have held off on further easing until they had more economic data to be certain that the US tariffs' impact on... \nFederal Reserve Bank of Chicago President Austan Goolsbee stated that policymakers should have held off on further easing until they had more economic data to be certain that the US tariffs' impact o… [+69 chars]",
+        "positive": 0.00020898637012578547,
+        "negative": 0.0034479827154427767,
+        "neutral": 0.9963429570198059
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/c4d2d1fbf26daab7",
+        "timestamp": "2025-12-12T13:46:54+00:00",
+        "text": "Swiss to reduce F-35 fighter jet order from US as costs rise \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Indiana reject Trump's redistricting plan? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Disney's Open… [+734 chars]",
+        "positive": 0.003002698300406337,
+        "negative": 0.001455571735277772,
+        "neutral": 0.9955417513847351
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/03d91b513feb9968",
+        "timestamp": "2025-12-12T13:46:53+00:00",
+        "text": "Fed's Schmid says dissented because inflation is too hot, policy should be modestly restrictive \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Indiana reject Trump's redistricting plan? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Disney's Open… [+741 chars]",
+        "positive": 0.0007281668367795646,
+        "negative": 0.004449681844562292,
+        "neutral": 0.9948221445083618
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/46c83384549982c7",
+        "timestamp": "2025-12-12T13:46:46+00:00",
+        "text": "Sources: Nvidia tells its Chinese clients that it is considering adding production capacity for its H200 chips in response to robust demand \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Indiana reject Trump's redistricting plan? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Disney's Open… [+750 chars]",
+        "positive": 0.1668887585401535,
+        "negative": 8.447330765193328e-05,
+        "neutral": 0.8330267071723938
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/ce3b38270ec32170",
+        "timestamp": "2025-12-12T13:46:44+00:00",
+        "text": "Bailed-out farmers don’t want to live on Trump welfare: ‘they don’t want to go to the mailbox and get a check from the government’ \nWhen Donald Trump promised new tariffs while running for president, Gene Stehly worried that trade disputes would jeopardize his international sales of corn, soybeans and wheat.\nA little more than a year later, Stehly said his fears have become a reality, and… \nWhen Donald Trump promised new tariffs while running for president, Gene Stehly worried that trade disputes would jeopardize his international sales of corn, soybeans and wheat.A little more than a y… [+141 chars]",
+        "positive": 7.347518112510443e-05,
+        "negative": 0.9997820258140564,
+        "neutral": 0.00014447666762862355
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/55dc00a3f21f646f",
+        "timestamp": "2025-12-12T13:46:44+00:00",
+        "text": "TechInsights: Huawei's Kirin 9030 processor, used in its Mate 80 Pro Max phone, is China's most advanced chip to date and produced with SMIC's updated 7nm tech \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Indiana reject Trump's redistricting plan? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Disney's Open… [+1027 chars]",
+        "positive": 0.00024048030900303274,
+        "negative": 1.3090276297589298e-05,
+        "neutral": 0.9997463822364807
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/65d9ad7a35e39e1e",
+        "timestamp": "2025-12-12T13:46:39+00:00",
+        "text": "Chinese EV Maker Geely Opens World’s Biggest Car Safety Center \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Indiana reject Trump's redistricting plan? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Disney's Open… [+738 chars]",
+        "positive": 0.00015229175915010273,
+        "negative": 5.31262339791283e-05,
+        "neutral": 0.9997945427894592
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/5a721230a432a7eb",
+        "timestamp": "2025-12-12T13:46:35+00:00",
+        "text": "Soybeans Falling to Start Friday \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Indiana reject Trump's redistricting plan? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Disney's Open… [+694 chars]",
+        "positive": 7.929987623356283e-05,
+        "negative": 8.753444853937253e-05,
+        "neutral": 0.9998332262039185
+      },
+      {
+        "source": "news",
+        "id": "https://biztoc.com/x/8a7c1853fb716fd4",
+        "timestamp": "2025-12-12T13:46:28+00:00",
+        "text": "Eurovision champion Nemo returns the winner's trophy to protest Israel's inclusion \n{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Indiana reject Trump's redistricting plan? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Disney's Open… [+721 chars]",
+        "positive": 0.00035717812716029584,
+        "negative": 9.754896018421277e-05,
+        "neutral": 0.999545156955719
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/lived-in-europe-lost-american-habits-lifestyle-work-culture-meals-2025-12",
+        "timestamp": "2025-12-12T13:45:27+00:00",
+        "text": "After living in Europe for 7 years, I brought 4 new habits back to the US — but there's one American trait I never lost \nI returned to the US after living in Europe for years, and noticed a lot of lifestyle changes, including the way I grocery shopped, worked, and ate. \ncaptiontkDenae McGaha\r\n<ul><li>I spent seven years living abroad in Budapest before returning to the United States.</li><li>I noticed many of my habits changed, like the way I viewed work and how I s… [+4883 chars]",
+        "positive": 0.00013693720393348485,
+        "negative": 0.000685320992488414,
+        "neutral": 0.9991776347160339
+      },
+      {
+        "source": "news",
+        "id": "https://noworkalltravel.com/2025/12/12/2025-lomas-appreciation-week-in-cancun-mexico/",
+        "timestamp": "2025-12-12T13:45:16+00:00",
+        "text": "2025 LOMAS Appreciation Week in Cancun, Mexico \nDisclaimer: I was invited to experience 2025 LOMAS Appreciation Week at the El Dorado Royale all-inclusive hotel in Cancun, Mexico. The nice group of folks over at FERRCONN, a Cancun/NYC area-based marketing team, helped organize the event. I had never heard … \nDisclaimer: I was invited to experience 2025 LOMAS Appreciation Week at the El Dorado Royale all-inclusive hotel in Cancun, Mexico. The nice group of folks over at FERRCONN, a Cancun/NYC area-based m… [+5077 chars]",
+        "positive": 0.009839197620749474,
+        "negative": 6.996064621489495e-05,
+        "neutral": 0.9900908470153809
+      },
+      {
+        "source": "news",
+        "id": "https://www.cnbc.com/2025/12/12/credit-score-average-signs-of-distress.html",
+        "timestamp": "2025-12-12T13:45:01+00:00",
+        "text": "Credit score average is ‘pretty healthy,’ VantageScore CEO says — but high earners are masking signs of financial distress \nThe CEO of VantageScore explains how the average credit score is masking some financial stress and gives the outlook for consumer credit in 2026. \nEven as some households take on more debt, consumer credit scores broadly remain strong. Experts say that may be masking signs of trouble: The so-called \"K-shaped\" economic divide has lower-income bo… [+4204 chars]",
+        "positive": 0.9985790252685547,
+        "negative": 0.0011644103797152638,
+        "neutral": 0.00025647718575783074
+      },
+      {
+        "source": "news",
+        "id": "https://www.thestar.com.my/news/world/2025/12/12/swiss-to-reduce-f-35-fighter-jet-order-from-us-as-costs-rise",
+        "timestamp": "2025-12-12T13:45:00+00:00",
+        "text": "Swiss to reduce F-35 fighter jet order from US as costs rise \nZURICH, Dec 12 (Reuters) - Switzerland said on Friday it would reduce the number of Lockheed Martin F-35A Lightning II fighter jets it is buying from the United States so it can stick to the original budget plan after the cost of the order rose. Read full sto… \nZURICH, Dec 12 (Reuters) - Switzerland said on Friday it would reduce the number of Lockheed Martin F-35A Lightning II fighter jets it is buying from the United States so it can stick to the original… [+1597 chars]",
+        "positive": 0.6641987562179565,
+        "negative": 0.009767591953277588,
+        "neutral": 0.32603365182876587
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/12/3204646/0/en/Global-Vein-Finder-Market-Projected-to-Reach-USD-106-66-Million-by-2033-SNS-Insider.html",
+        "timestamp": "2025-12-12T13:45:00+00:00",
+        "text": "Global Vein Finder Market Projected to Reach USD 106.66 Million by 2033 – SNS Insider \nAdvancements in NIR and AI-enhanced imaging, growing pediatric and geriatric populations, and expanded adoption in hospitals and ambulatory surgical centers fuel robust market growth. Advancements in NIR and AI-enhanced imaging, growing pediatric and geriatri… \nAustin, Texas, Dec. 12, 2025 (GLOBE NEWSWIRE) -- SNS Insider reported that global Vein Finder Market size estimated at USD 55.66 million in 2025 and is projected to reach USD 106.66 million by 2033, … [+8899 chars]",
+        "positive": 0.9999997615814209,
+        "negative": 3.831912920304603e-08,
+        "neutral": 2.6373743367003044e-07
+      },
+      {
+        "source": "news",
+        "id": "https://www.yahoo.com/news/articles/iran-arrests-nobel-peace-prize-134449072.html",
+        "timestamp": "2025-12-12T13:44:49+00:00",
+        "text": "Iran arrests Nobel Peace Prize laureate Narges Mohammadi, supporters say \nIran has arrested Nobel Peace Prize laureate Narges Mohammadi, her supporters said Friday.  A foundation in her name said she was detained in Mashhad, some... \nDUBAI, United Arab Emirates (AP) Iran has arrested Nobel Peace Prize laureate Narges Mohammadi, her supporters said Friday.\r\nA foundation in her name said she was detained in Mashhad, some 680 kilome… [+5164 chars]",
+        "positive": 0.00016143223911058158,
+        "negative": 0.0004885183880105615,
+        "neutral": 0.9993500113487244
+      },
+      {
+        "source": "news",
+        "id": "http://foreignpolicy.com/2025/12/12/europe-democracy-welfare-state-spending-authoritarianism-populism/",
+        "timestamp": "2025-12-12T13:43:50+00:00",
+        "text": "The Welfare State Saved Capitalism. Now It Can Save European Democracy. \nA growing skepticism of social spending risks undermining a post-war pillar of Europe’s stability. \nAs Europe confronts a new wave of fiscal strain, the European welfare state is once again portrayed by critics as an unsustainable liability. In France, where political volatility has seen four prime… [+10579 chars]",
+        "positive": 7.308225758606568e-05,
+        "negative": 0.9986989498138428,
+        "neutral": 0.0012279333313927054
+      },
+      {
+        "source": "news",
+        "id": "https://www.democracynow.org/2025/12/12/trump_gold_card",
+        "timestamp": "2025-12-12T13:43:45+00:00",
+        "text": "Trump Gold/Platinum Card: Amid Immigrant Crackdown, U.S. Sells Visas for Up to $5 Million \nAs the Trump administration expands its immigration crackdown nationwide, President Trump is simultaneously creating new pathways for wealthy noncitizens to obtain U.S. visas. Earlier this week, Trump officially launched a program allowing affluent visitors t… \nAMYGOODMAN: This is Democracy Now!, democracynow.org. I’m Amy Goodman, with Juan González.\r\nAs the Trump administration expands its immigration crackdown around the country, President Trump is making… [+5284 chars]",
+        "positive": 0.039350926876068115,
+        "negative": 8.815744513412938e-05,
+        "neutral": 0.9605608582496643
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/money-and-banking/insurance-reforms-will-give-global-scale-to-industry-help-designing-of-specialised-products-experts/article70389055.ece",
+        "timestamp": "2025-12-12T13:43:25+00:00",
+        "text": "Insurance reforms will give global scale to industry, help designing of specialised products: Experts \nInsurance reforms, including 100% FDI and a composite license, promise global scaling and innovative products for India's insurance sector. \nThe insurance reforms, including the provision of 100 percent foreign direct investment (FDI) and the composite licence framework, will go a long way in scaling up the Indian insurance to the global … [+3300 chars]",
+        "positive": 0.9998254179954529,
+        "negative": 3.2685265978216194e-06,
+        "neutral": 0.00017142236174549907
+      },
+      {
+        "source": "news",
+        "id": "https://www.cbsnews.com/video/eye-opener-record-breaking-floods-force-evacuations-pacific-northwest/",
+        "timestamp": "2025-12-12T13:42:00+00:00",
+        "text": "Eye Opener: Record-breaking floods force evacuations in Pacific Northwest \nFlooding in Washington state has forced evacuations and water rescues as rivers are still rising. Plus, the White House announces new sanctions on Venezuela and plans to seize more tankers. All that and all that matters in today's Eye Opener. \nCopyright ©2025 CBS Interactive Inc. All rights reserved.",
+        "positive": 0.0072051119059324265,
+        "negative": 0.0007767396746203303,
+        "neutral": 0.9920181632041931
+      },
+      {
+        "source": "news",
+        "id": "https://www.thelocal.se/20251212/our-christmas-ham-has-run-away-ten-of-swedens-best-holiday-hits",
+        "timestamp": "2025-12-12T13:41:13+00:00",
+        "text": "'Our Christmas ham has run away': Ten of Sweden's best holiday hits \nSick of Last Christmas and All I Want for Christmas is You? We've put together a list of Swedish Christmas songs, including standard hits and more unusual offerings, for you to add to your playlist this year. \nSick of Last Christmas and All I Want for Christmas is You? We've put together a list of Swedish Christmas songs, including standard hits and more unusual offerings, for you to add to your playlist t… [+4430 chars]",
+        "positive": 2.62874368672783e-06,
+        "negative": 9.315248803432041e-07,
+        "neutral": 0.9999964237213135
+      },
+      {
+        "source": "news",
+        "id": "https://www.globenewswire.com/news-release/2025/12/12/3204644/0/en/BlinkBot-Launches-Seamless-One-Click-Crypto-Trading-Tipping-and-Prediction-on-X.html",
+        "timestamp": "2025-12-12T13:40:00+00:00",
+        "text": "BlinkBot Launches Seamless One-Click Crypto Trading, Tipping and Prediction on X \nBlinkBot Launches Seamless One-Click Crypto Trading, Tipping and Prediction on X... \nDubai, UAE, Dec. 12, 2025 (GLOBE NEWSWIRE) -- BlinkBot is a new AI-powered trading and transaction assistant on X.com. It removes the friction from on-chain crypto actions, allowing users to manage t… [+5534 chars]",
+        "positive": 0.03497263044118881,
+        "negative": 1.776877797965426e-05,
+        "neutral": 0.9650096893310547
+      },
+      {
+        "source": "news",
+        "id": "https://www.thehindubusinessline.com/economy/india-eu-fta-to-bring-predictability-to-difficult-global-situation-swedish-ambassador-to-india-jan-thesleff/article70388970.ece",
+        "timestamp": "2025-12-12T13:39:27+00:00",
+        "text": "India-EU FTA to bring predictability to difficult global situation: Swedish Ambassador to India Jan Thesleff \nThe proposed India-EU free trade agreement (FTA) will be a game changer for both sides as it will bring in predictability in a very difficult global situation where there is so much uncertainty, Swedish Ambassador to India Jan Thesleff has said. \nThe proposed India-EU free trade agreement (FTA) will be a game changer for both sides as it will bring in predictability in a very difficult global situation where there is so much uncertainty, Swed… [+2638 chars]",
+        "positive": 0.04245927557349205,
+        "negative": 0.06498851627111435,
+        "neutral": 0.8925522565841675
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/news/international/us/social-security-payment-december-17-2025-who-all-get-social-security-checks-of-up-to-4018/articleshow/125934656.cms",
+        "timestamp": "2025-12-12T13:39:06+00:00",
+        "text": "Social Security payment December 17, 2025: Who all get Social Security checks of up to $4,018? \nSocial Security payment of up to $4,018 arrives on December 17, 2025: The Social Security Administration is preparing one of its final payments of the year, with checks of up to $4,018 scheduled to arrive on December 17, 2025. This deposit is part of the regu… \nSocial Security payment of up to $4,018 arrives on December 17, 2025: Millions of Americans will receive their next Social Security payment on December 17, 2025. This deposit is part of the SSAs regu… [+5894 chars]",
+        "positive": 3.697331339935772e-05,
+        "negative": 7.418346285703592e-06,
+        "neutral": 0.9999556541442871
+      },
+      {
+        "source": "news",
+        "id": "https://nypost.com/2025/12/12/entertainment/inside-dick-van-dykes-hometown-visit-ahead-of-100th-birthday/",
+        "timestamp": "2025-12-12T13:38:20+00:00",
+        "text": "Inside Dick Van Dyke’s hometown visit ahead of his milestone 100th birthday \n\"He packed a tight suitcase when he left Danville, but he had all the right elements in that suitcase.\" \nEven legends like Dick Van Dyke have to start somewhere.\r\nAlthough the Mary Poppins star was born in West Plains, Missouri, in 1925, the comedy icon spent his formative years in the working-class tow… [+6209 chars]",
+        "positive": 2.1165662928979145e-06,
+        "negative": 4.994151458959095e-05,
+        "neutral": 0.9999479055404663
+      },
+      {
+        "source": "news",
+        "id": "https://www.businessinsider.com/taylor-swift-street-style-outfits-photos",
+        "timestamp": "2025-12-12T13:38:01+00:00",
+        "text": "The best street-style outfits Taylor Swift has ever worn \nTaylor Swift is known for her glamorous red-carpet looks and sparkling stage outfits. In her everyday life, she's equally fashionable and flashy. \nTaylor Swift in New York City on December 10, 2025.Patricia Schlein/Getty Images\r\n<ul><li>Outside music, Taylor Swift is widely known for her sparkling red-carpet outfits and stage costumes.</li><li>… [+13319 chars]",
+        "positive": 0.0030104038305580616,
+        "negative": 3.3256872029596707e-06,
+        "neutral": 0.9969863295555115
+      },
+      {
+        "source": "news",
+        "id": "https://economictimes.indiatimes.com/industry/banking/finance/insure/floodgates-open-what-100-fdi-means-for-insurance-you-and-india/articleshow/125934985.cms",
+        "timestamp": "2025-12-12T13:37:53+00:00",
+        "text": "Floodgates open: What 100% FDI means for insurance, you and India \nIndia has approved 100% foreign direct investment in the insurance sector, a significant reform aimed at boosting capital inflows and enhancing service quality. This move is expected to intensify competition, drive innovation, and expand insurance access to m… \nIndias decision to allow 100% foreign direct investment (FDI) in insurance marks one of the most consequential reforms in the countrys financial sector in recent years. The much-anticipated move was … [+5781 chars]",
+        "positive": 0.9611580967903137,
+        "negative": 0.00041754680569283664,
+        "neutral": 0.03842442110180855
+      },
       {
         "source": "news",
         "id": "https://www.thestar.com.my/news/world/2025/12/12/euroclear-can-offset-its-assets-seized-by-russia-with-russia039s-assets--eu",
@@ -761,39 +1067,12 @@
       },
       {
         "source": "news",
-        "id": "https://es.cointelegraph.com/news/uk-lawmakers-bank-of-england-stablecoin-rules-offshore-risk",
-        "timestamp": "2025-12-12T13:12:54+00:00",
-        "text": "Diputados del Reino Unido advierten que los planes del Banco de Inglaterra sobre las stablecoins podrían impulsar la innovación hacia el extranjero \nDiputados de varios partidos y miembros de la Cámara de los Lores han instado a la Canciller del Reino Unido, Rachel Reeves, a frenar el régimen propuesto por el Banco de Inglaterra para las stablecoins sistémicas.\n A cross-party group of members of the House… \nA cross-party group of members of the House of Commons and the House of Lords in the United Kingdom, including former Defense Secretary Sir Gavin Williamson, shadow Science and Tech (AI) Minister Vis… [+8781 chars]",
-        "positive": 1.1392727174097672e-05,
-        "negative": 5.5686708947177976e-05,
-        "neutral": 0.9999328851699829
-      },
-      {
-        "source": "news",
         "id": "https://www.on3.com/high-school/news/former-brunswick-ga-head-football-coach-lands-new-job/",
         "timestamp": "2025-12-12T13:12:37+00:00",
         "text": "Former Brunswick (Ga.) head football coach lands new job \nIt didn’t take Garrett Grady long to find himself a high school football coaching job in South Georgia after his exit from Brunswick (Ga.) earlier this week. According to a post by the Coffee Trojans (Ga.) football team via X, formerly known as Twitter, Grady… \nIt didnt take Garrett Grady long to find himself a high school football coaching job in South Georgia after his exit from Brunswick (Ga.) earlier this week.\r\nAccording to a post by the Coffee Trojans… [+1879 chars]",
         "positive": 0.000228933960897848,
         "negative": 0.0006278359214775264,
         "neutral": 0.9991432428359985
-      },
-      {
-        "source": "news",
-        "id": "https://www.geeky-gadgets.com/build-and-self-host-an-ai-saas-app/",
-        "timestamp": "2025-12-12T13:12:34+00:00",
-        "text": "Learn How to Build a Full Stack AI SaaS & Deploy it Safely on Your VPS \nWhat if you could turn an idea into a fully functional, scalable AI-powered application without feeling overwhelmed by the complexity of development? The rise of AI SaaS applications has opened doors for entrepreneurs and developers to create innovative solut… \nWhat if you could turn an idea into a fully functional, scalable AI-powered application without feeling overwhelmed by the complexity of development? The rise of AI SaaS applications has opened doors… [+8721 chars]",
-        "positive": 0.03364589810371399,
-        "negative": 2.8777380066458136e-05,
-        "neutral": 0.9663252830505371
-      },
-      {
-        "source": "news",
-        "id": "https://www.thehindubusinessline.com/companies/waaree-energies-adds-15-gw-solar-module-manufacturing-capacity-at-samakhiali-plant/article70388402.ece",
-        "timestamp": "2025-12-12T13:12:10+00:00",
-        "text": "Waaree Energies adds 1.5 GW solar module manufacturing capacity at Samakhiali plant \nWaaree Energies expands its Samakhiali plant by 1.5 GW, boosting total solar module capacity to 3 GW. \nWaaree Energies Ltd on Friday said it has added 1.5 GW of solar module manufacturing capacity at its Samakhiali plant in Kutch, Gujarat, further strengthening its domestic production capabilities.\r\nW… [+1701 chars]",
-        "positive": 0.9999911785125732,
-        "negative": 6.644781080922257e-08,
-        "neutral": 8.693903509993106e-06
       },
       {
         "source": "news",
@@ -806,66 +1085,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.cnbc.com/2025/12/12/swiss-chocolatier-lderach-rules-out-us-production-despite-tariffs.html",
-        "timestamp": "2025-12-12T13:10:49+00:00",
-        "text": "High-end Swiss chocolatier Läderach rules out U.S. production despite tariff shock \nThe chocolate maker makes its products exclusively in its home country as \"consumers want Swiss chocolates to be made in Switzerland.\" \nFamily-run Swiss company Läderach is committed to producing its luxury chocolate exclusively in its home country, even after being hit by U.S. tariffs that briefly surged to nearly 40%. \r\nCEO Johanne… [+2434 chars]",
-        "positive": 0.003165634348988533,
-        "negative": 3.09639835904818e-05,
-        "neutral": 0.9968034029006958
-      },
-      {
-        "source": "news",
-        "id": "https://www.saastr.com/the-first-100000000-arr-at-samsara-how-founder-ceo-sanjit-biswas-built-a-platform-giant-by-digitizing-the-physical-world/",
-        "timestamp": "2025-12-12T13:10:44+00:00",
-        "text": "The First $100,000,000 ARR at Samsara: How Founder CEO Sanjit Biswas Built a Platform Giant by Digitizing the Physical World \nSamsara is one of the most successful vertical SaaS companies of all time.  They’ve just crossed a stunning $1.75 Billion in ARR — growing 29%. That’s about as good as it gets, folks. CEO Sanjit Biswas, the co-founder and CEO of Samsara sat down with SaaStr a… \nSamsara is one of the most successful vertical SaaS companies of all time.  They’ve just crossed a stunning $1.75 Billion in ARR — growing 29%. That’s about as good as it gets, folks.\r\nCEO Sanjit Bis… [+14781 chars]",
-        "positive": 0.9999269247055054,
-        "negative": 7.044050107651856e-07,
-        "neutral": 7.233452924992889e-05
-      },
-      {
-        "source": "news",
         "id": "https://abcnews.go.com/Politics/wireStory/belarus-leader-hosts-us-envoy-seeks-improve-countrys-128341470",
         "timestamp": "2025-12-12T13:10:24+00:00",
         "text": "Belarus leader hosts US envoy as he seeks to improve his country's ties with the West \nBelarus President Alexander Lukashenko has hosted a U.S. envoy for talks in Minsk, the latest step in the isolated leader’s effort to improve ties with the West \nAuthoritarian President Alexander Lukashenko on Friday hosted a U.S. envoy for talks in the Belarus capital of Minsk, the latest step in the isolated leader's effort to improve ties with the West.\r\nL… [+3024 chars]",
         "positive": 0.13116636872291565,
         "negative": 2.1182182535994798e-05,
         "neutral": 0.8688124418258667
-      },
-      {
-        "source": "news",
-        "id": "https://madriduniversal.com/real-madrid-closely-tracking-20-year-old-ligue-1-defensive-talent-report/",
-        "timestamp": "2025-12-12T13:10:00+00:00",
-        "text": "Real Madrid closely tracking 20-year-old Ligue 1 defensive talent – report \nJournalist Matteo Moretto (h/t Madrid Xtra) has revealed that Real Madrid have started to monitor one of the most exciting young centre-backs emerging in Europe – Jeremy Jacquet of Rennes. The 20-y... \nJournalist Matteo Moretto (h/t Madrid Xtra) has revealed that Real Madrid have started to monitor one of the most exciting young centre-backs emerging in Europe Jeremy Jacquet of Rennes.\r\nThe 20-year… [+2044 chars]",
-        "positive": 0.00021209768601693213,
-        "negative": 1.2846566278312821e-05,
-        "neutral": 0.9997749924659729
-      },
-      {
-        "source": "news",
-        "id": "https://dailyhodl.com/2025/12/12/btcc-exchange-wins-best-centralized-exchange-community-choice-at-beincrypto-100-awards-2025/",
-        "timestamp": "2025-12-12T13:09:51+00:00",
-        "text": "BTCC Exchange Wins Best Centralized Exchange (Community Choice) at BeInCrypto 100 Awards 2025 \nVilnius, Lithuania, 12th December 2025, Chainwire \nDecember 12th, 2025 Vilnius, Lithuania\r\nBTCC, the world’s longest-serving cryptocurrency exchange, has been named Best Centralized Exchange in the Community Choice category at The BeInCrypto 100 Awar… [+3808 chars]",
-        "positive": 0.002745178295299411,
-        "negative": 2.412944468233036e-06,
-        "neutral": 0.9972524046897888
-      },
-      {
-        "source": "news",
-        "id": "https://abcnews.go.com/International/wireStory/new-permanent-exhibition-auschwitz-museum-personal-objects-show-128341103",
-        "timestamp": "2025-12-12T13:09:45+00:00",
-        "text": "New permanent exhibition at Auschwitz museum uses personal objects to show daily life of prisoners \nThe Auschwitz museum has introduced a new permanent exhibition showcasing items from the concentration camp \nWARSAW, Poland -- Animal-shaped stencils a mother made from a concentration camp shoe and gave to her son for Christmas are among items in a new permanent exhibition at the Auschwitz museum, located … [+2887 chars]",
-        "positive": 1.4075144463276956e-06,
-        "negative": 1.381942297484784e-06,
-        "neutral": 0.9999971389770508
-      },
-      {
-        "source": "news",
-        "id": "https://www.bbc.com/sport/articles/cvg1104qvqno?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "timestamp": "2025-12-12T13:07:57+00:00",
-        "text": "'Inconsistent Rangers not at Europa League level' \nIf you look at Rangers' season as a whole it's been inconsistent. The domestic results have been a lot better but I just don't feel this Rangers squad is at the level to compete in the higher positions of the league phase. Rangers were undone by basic defendi… \nScott Allan on Radio Scotland Breakfast\r\nIf you look at Rangers' season as a whole it's been inconsistent. The domestic results have been a lot better but I just don't feel this Rangers squad is at t… [+778 chars]",
-        "positive": 0.07435352355241776,
-        "negative": 0.9231026768684387,
-        "neutral": 0.0025437851436436176
       },
       {
         "source": "news",
@@ -878,30 +1103,12 @@
       },
       {
         "source": "news",
-        "id": "https://www.theregister.com/2025/12/12/microsoft_cat_cloud_licensing/",
-        "timestamp": "2025-12-12T13:07:09+00:00",
-        "text": "Here we go again: Microsoft in UK court over cloud licensing \nCompetition Appeal Tribunal to decide if multibillion-pound overcharging case can go to trial\nStop us if you've heard this one before. Microsoft is in court regarding allegedly sharp software licensing practices.… \nStop us if you've heard this one before. Microsoft is in court regarding allegedly sharp software licensing practices.\r\nThe hearing before the UK's Competition Appeal Tribunal (CAT) concerns a case b… [+2585 chars]",
-        "positive": 2.4978622604976408e-05,
-        "negative": 0.0008347391849383712,
-        "neutral": 0.9991402626037598
-      },
-      {
-        "source": "news",
         "id": "https://www.androidauthority.com/smartphone-ram-spec-downgrade-rumor-3624814/",
         "timestamp": "2025-12-12T13:07:04+00:00",
         "text": "Blame AI: Phone specs could go backward in 2026 \nReports warn that RAM inflation will cause 2026 smartphones to not only be more expensive, but also come with lesser RAM. Read on! \n<ul><li>Due to soaring RAM prices, smartphones in 2026 are expected to be more expensive while featuring less RAM than 2025 models.</li><li>High-end 16GB RAM models may nearly disappear, and 12GB and… [+3058 chars]",
         "positive": 0.0009981318144127727,
         "negative": 0.4008259177207947,
         "neutral": 0.5981759428977966
-      },
-      {
-        "source": "news",
-        "id": "https://www.cnbc.com/2025/12/12/5-things-to-know-before-the-stock-market-opens.html",
-        "timestamp": "2025-12-12T13:07:03+00:00",
-        "text": "Broadcom earnings, Lululemon CEO steps down, 'fibermaxxing' and more in Morning Squawk \nHere are five key things investors need to know to start the trading day. \nFILE PHOTO: A Broadcom logo and a computer motherboard appear in this illustration taken August 25, 2025. \r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your… [+4927 chars]",
-        "positive": 1.0618619853630662e-05,
-        "negative": 2.398621745669516e-06,
-        "neutral": 0.999987006187439
       },
       {
         "source": "news",
@@ -914,30 +1121,12 @@
       },
       {
         "source": "news",
-        "id": "https://cointelegraph.com/news/uk-lawmakers-bank-of-england-stablecoin-rules-offshore-risk",
-        "timestamp": "2025-12-12T13:06:33+00:00",
-        "text": "UK MPs warn Bank of England stablecoin plans could drive innovation offshore \nUK MPs warn the Bank of England’s stablecoin plans with caps, interest ban, and wholesale limits risk driving tokenization and pound stablecoin innovation offshore. \nA cross-party group of members of the House of Commons and the House of Lords in the United Kingdom, including former Defense Secretary Sir Gavin Williamson, shadow Science and Tech (AI) Minister Vis… [+3959 chars]",
-        "positive": 8.50242668093415e-06,
-        "negative": 4.829901808989234e-05,
-        "neutral": 0.9999432563781738
-      },
-      {
-        "source": "news",
         "id": "https://timesofindia.indiatimes.com/india/election-2-0-ai-is-the-new-political-guru-in-town-and-it-doesnt-eat-sleep-or-blink/articleshow/125933799.cms",
         "timestamp": "2025-12-12T13:06:23+00:00",
         "text": "Election 2.0: There's a new political guru in town, and it doesn't eat, sleep or blink \nIndia News: NEW DELHI: For a decade, Prashant Kishor has been India’s undisputed master craftsman of elections, the strategist who could bend narratives, stitch c. \n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Election 2.0: There's a new political guru in town, and it doesn't eat, sleep or blink</li></ul>\r\nFollow Us On Social Media\r\nGhost village: How a tribal wo… [+1631 chars]",
         "positive": 5.7286088122054935e-06,
         "negative": 5.746172519138781e-06,
         "neutral": 0.9999885559082031
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/12/3204618/0/en/Sintana-Energy-Inc-Announces-Court-Sanction-of-Scheme-of-Arrangement-and-Issue-of-Shares.html",
-        "timestamp": "2025-12-12T13:06:00+00:00",
-        "text": "Sintana Energy Inc. Announces Court Sanction of Scheme of Arrangement and Issue of Shares \nTORONTO, Dec. 12, 2025 (GLOBE NEWSWIRE) -- Sintana Energy Inc. (TSX-V: SEI, OTCQX: SEUSF) (“Sintana” or the “Company”) announces that Challenger and Sintana (TSXV:SEI) are pleased to announce that earlier today the recommended acquisition by Sintana of the en… \nTORONTO, Dec. 12, 2025 (GLOBE NEWSWIRE) -- Sintana Energy Inc. (TSX-V: SEI, OTCQX: SEUSF) (Sintana or the Company) announces that Challenger and Sintana (TSXV:SEI) are pleased to announce that earlie… [+31341 chars]",
-        "positive": 0.010353640653192997,
-        "negative": 1.1767333489842713e-05,
-        "neutral": 0.9896345734596252
       },
       {
         "source": "news",
@@ -959,33 +1148,6 @@
       },
       {
         "source": "news",
-        "id": "https://fortune.com/2025/12/12/netflix-warner-paramount-antitrust-follow-evidence-not-politics/",
-        "timestamp": "2025-12-12T13:05:00+00:00",
-        "text": "Netflix, Warner, Paramount and antitrust: Entertainment megadeal’s outcome must follow the evidence, not politics or fear of integration \nEven President Trump is concerned about this situation. But the answers aren’t obvious. \nLast week, Warner Bros. Discovery (WBD) announced plans to sell Warner Bros. Pictures, DC Studios and streaming service HBO Max to Netflix, following a bidding war that also ended with a hostile take… [+5152 chars]",
-        "positive": 8.554031956009567e-05,
-        "negative": 0.008508929051458836,
-        "neutral": 0.9914054870605469
-      },
-      {
-        "source": "news",
-        "id": "https://www.calculatedriskblog.com/2025/12/2nd-look-at-local-housing-markets-in.html",
-        "timestamp": "2025-12-12T13:05:00+00:00",
-        "text": "2nd Look at Local Housing Markets in November \nToday, in the Calculated Risk Real Estate Newsletter: 2nd Look at Local Housing Markets in November  A brief excerpt: Tracking local data gi... \nToday, in the Calculated Risk Real Estate Newsletter: 2nd Look at Local Housing Markets in November\nA brief excerpt: Tracking local data gives an early look at what happened the previous month and al… [+753 chars]",
-        "positive": 3.283149965227494e-07,
-        "negative": 2.698982086712931e-07,
-        "neutral": 0.9999994039535522
-      },
-      {
-        "source": "news",
-        "id": "https://www.searchenginejournal.com/seo-pulse-december-core-update-preferred-sources-social-data/563139/",
-        "timestamp": "2025-12-12T13:04:45+00:00",
-        "text": "SEO Pulse: December Core Update, Preferred Sources & Social Data via @sejournal, @MattGSouthern \nGoogle's December 2025 core update leads this week's SEO Pulse, alongside Preferred Sources expansion and social insights in Search Console.\nThe post SEO Pulse: December Core Update, Preferred Sources & Social Data appeared first on Search Engine Journal. \nThe December 2025 core update is the main story this week.\r\nGoogle confirmed a new broad ranking update, clarified how often core changes happen, expanded Preferred Sources in Top Stories, and starte… [+11125 chars]",
-        "positive": 0.004792782012373209,
-        "negative": 1.0508338164072484e-05,
-        "neutral": 0.9951966404914856
-      },
-      {
-        "source": "news",
         "id": "https://www.yahoo.com/news/articles/belarus-leader-hosts-us-envoy-130416855.html",
         "timestamp": "2025-12-12T13:04:16+00:00",
         "text": "Belarus leader hosts US envoy as he seeks to improve his country's ties with the West \nAuthoritarian President Alexander Lukashenko on Friday hosted a U.S. envoy for talks in the Belarus capital of Minsk, the latest step in the isolated... \nAuthoritarian President Alexander Lukashenko on Friday hosted a U.S. envoy for talks in the Belarus capital of Minsk, the latest step in the isolated leader's effort to improve ties with the West.\r\nL… [+3266 chars]",
@@ -1004,75 +1166,12 @@
       },
       {
         "source": "news",
-        "id": "https://zycrypto.com/fallen-crypto-mogul-do-kwon-sentenced-to-15-years-in-prison-for-colossal-40b-terra-luna-fraud/",
-        "timestamp": "2025-12-12T13:03:56+00:00",
-        "text": "Fallen Crypto Mogul Do Kwon Sentenced To 15 Years In Prison For Colossal $40B Terra-Luna Fraud \nThe sentence slightly surpassed the 12-year sentence prosecutors had requested earlier and is much greater than the 5-year sentence proposed by Kwon’s lawyers. \nDisgraced Terra creator and onetime fugitive Do Kwon was sentenced to 15 years behind bars on Thursday for his role in a massive fraud that saw about $40 billion wiped from the crypto ecosystem over … [+3020 chars]",
-        "positive": 0.9707014560699463,
-        "negative": 0.0032542762346565723,
-        "neutral": 0.026044204831123352
-      },
-      {
-        "source": "news",
-        "id": "https://www.ibtimes.com/lululemon-stock-surge-1b-buyback-ceo-exit-allegedly-protects-consumers-3792472",
-        "timestamp": "2025-12-12T13:03:14+00:00",
-        "text": "Lululemon Stock Surge: $1B Buyback and CEO Exit Allegedly Protects Consumers \nLululemon Athletica shares surged during after-hours trading after the company reported better-than-expected Q3 results and announced the departure of CEO Calvin McDonald. \nLululemon Athletica (Nasdaq: LULU), renowned for its premium leggings and athleisure, reported late Thursday a 7% increase in revenue for fiscal Q3 to $2.6 billion (£1.9 billion). However, diluted ea… [+3871 chars]",
-        "positive": 0.9999997615814209,
-        "negative": 4.238451722926584e-08,
-        "neutral": 2.432818746456178e-07
-      },
-      {
-        "source": "news",
         "id": "https://cointelegraph.com/news/bitcoin-decouples-stocks-second-half-2025",
         "timestamp": "2025-12-12T13:03:06+00:00",
         "text": "Bitcoin decouples from stocks in second half of 2025 \nBitcoin broke away from US equities in late 2025, even as three Fed rate cuts fueled a rally in traditional markets. \nThe US Federal Reserve announced its third interest rate cut of the year on Wednesday, lifting US equities while Bitcoin (BTC) slipped before bouncing back.\r\nThat dynamic has defined the second half … [+7820 chars]",
         "positive": 0.9854946136474609,
         "negative": 0.0063700564205646515,
         "neutral": 0.008135383017361164
-      },
-      {
-        "source": "news",
-        "id": "http://comicbook.com/tv-shows/feature/23-years-ago-today-this-sci-fi-masterpiece-was-stupidly-cancelled-it-was-all-the-networks-fault/",
-        "timestamp": "2025-12-12T13:03:03+00:00",
-        "text": "23 Years Ago Today, This Sci-Fi Masterpiece Was Stupidly Cancelled (& It Was All the Network’s Fault) \nSome Sci-Fi shows are lucky enough to run for years, or even decades, becoming franchises that spawn multiple iterations, like Star Trek and Doctor Who. Some run what could be considered the perfect amount of time, being brilliant from beginning to end, like … \nSome Sci-Fi shows are lucky enough to run for years, or even decades, becoming franchises that spawn multiple iterations, like Star Trek and Doctor Who. Some run what could be considered the perfect … [+3528 chars]",
-        "positive": 0.14711792767047882,
-        "negative": 0.11220716685056686,
-        "neutral": 0.7406748533248901
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/saga-metals-completes-phase-2-of-major-drill-program-at-the-radar-project-in-labrador-confirms-extensive-oxide-mineralization-in-all-drill-locations-at-trapper-north-and-south-zones-provides-corpor",
-        "timestamp": "2025-12-12T13:03:00+00:00",
-        "text": "SAGA Metals Completes Phase 2 of Major Drill Program at the Radar Project in Labrador–Confirms Extensive Oxide Mineralization in All Drill Locations at Trapper North and South Zones & Provides Corporate Update \nVANCOUVER, British Columbia, Dec. 12, 2025 (GLOBE NEWSWIRE) — SAGA Metals Corp. (“SAGA” or the “Company”) (TSXV: SAGA) (OTCQB: SAGMF) (FSE: 20H), a North American exploration company advancing critical mineral discoveries, is pleased to announce the successfu… \nCorporate Update\r\nFurther to the Companys October 10, 2025 news release, the Company also wishes to announce that it has increased the maximum budget of its October 10, 2025 engagement with i2i Marke… [+5146 chars]",
-        "positive": 0.9999827146530151,
-        "negative": 1.0363349645103881e-07,
-        "neutral": 1.7129103071056306e-05
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/caseware-leader-celebrated-in-2025-accounting-today-influencer-list",
-        "timestamp": "2025-12-12T13:02:51+00:00",
-        "text": "Caseware Leader Celebrated in 2025 Accounting Today Influencer List \nSVP Danielle Supkis Cheek recognized among the most powerful voices shaping the future of accounting in Accounting Today’s highly coveted annual ranking Toronto, Dec. 12, 2025 (GLOBE NEWSWIRE) — Caseware™, a leading global provider of AI-powered audit and ass… \nSVP Danielle Supkis Cheek recognized among the most powerful voices shaping the future of accounting in Accounting Todays highly coveted annual ranking\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r… [+5350 chars]",
-        "positive": 0.9958857893943787,
-        "negative": 7.601756351505173e-06,
-        "neutral": 0.004106626380234957
-      },
-      {
-        "source": "news",
-        "id": "https://www.ibtimes.com/cathie-wood-sells-tesla-shares-after-stock-downgrade-following-michael-burrys-valuation-concerns-3792468",
-        "timestamp": "2025-12-12T13:02:43+00:00",
-        "text": "Cathie Wood Sells Tesla Shares After Stock Downgrade Following Michael Burry's Valuation Concerns \nCathie Wood's Ark Invest sold close to $1 million worth of Tesla shares recently amid a Morgan Stanley downgrade after Michael Burry warned the stock is 'ridiculously overvalued.' \nCathie Wood is a long-time Tesla (Nasdaq:TSLA) bull and a supporter of Elon Musk. She has fiercely defended Musk's $1 trillion (£747.2 billion) pay package, and even said he is the 'Thomas Edison of … [+3083 chars]",
-        "positive": 0.0038347363006323576,
-        "negative": 0.926697850227356,
-        "neutral": 0.06946735084056854
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/29925f2461a2cc7b",
-        "timestamp": "2025-12-12T13:02:28+00:00",
-        "text": "Zoom, Coeur Mining, Netskope And An Industrial Stock On CNBC's 'Final Trades' \nOn CNBC's “Halftime Report Final Trades,” on Thursday, Malcolm Ethridge, managing partner at Capital Area Planning Group, named Netskope, Inc. (NASDAQ:NTSK) as his final trade.\nNetskope reported third-quarter losses of 10 cents per share, which beat the analy… \nOn CNBC's Halftime Report Final Trades, on Thursday, Malcolm Ethridge, managing partner at Capital Area Planning Group, named Netskope, Inc. (NASDAQ:NTSK) as his final trade.Netskope reported third-q… [+139 chars]",
-        "positive": 7.822958286851645e-05,
-        "negative": 0.9982309937477112,
-        "neutral": 0.0016907465178519487
       },
       {
         "source": "news",
@@ -1370,96 +1469,6 @@
         "positive": 6.241728988243267e-05,
         "negative": 0.01669933646917343,
         "neutral": 0.9832382202148438
-      },
-      {
-        "source": "news",
-        "id": "https://apnews.com/article/russia-frozen-assets-belgium-eu-euroclear-sanctions-b378cb2bf74bd79175930b8ca991c1cc",
-        "timestamp": "2025-12-12T12:32:49+00:00",
-        "text": "Russia's Central Bank sues Belgian financial institution as EU mulls using Moscow's frozen assets \nRussia’s Central Bank says it has filed a lawsuit against Belgian financial institution Euroclear. That's the Brussels-based clearing house that holds most of Moscow’s frozen assets in Europe. It wasn’t immediately clear what the lawsuit could achieve since i… \nRussias Central Bank has filed a lawsuit against Belgian financial institution Euroclear, the Brussels-based clearing house that holds most of Moscows frozen assets in Europe, the bank said Friday.\r\n… [+1827 chars]",
-        "positive": 0.0038496621418744326,
-        "negative": 0.686004638671875,
-        "neutral": 0.31014570593833923
-      },
-      {
-        "source": "news",
-        "id": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/lindsey-vonn-downhill-st-moritz-world-cup-december-12-9.7013152",
-        "timestamp": "2025-12-12T12:32:47+00:00",
-        "text": "Lindsey Vonn wins World Cup downhill at age 41 to start her Olympic season \nLindsey Vonn raced to a stunning fast win in a World Cup downhill on Friday in St. Moritz, Switzerland, to earn her first victory in nearly eight years — and the first in her comeback with titanium implants in her right knee after a five-year retirement. \nThe queen of downhill skiing is well and truly back.\r\nLindsey Vonn raced to a stunning fast win in a World Cup downhill on Friday in St. Moritz, Switzerland, to earn her first victory in nearly eight… [+2537 chars]",
-        "positive": 0.999915599822998,
-        "negative": 3.893217581207864e-06,
-        "neutral": 8.048357994994149e-05
-      },
-      {
-        "source": "news",
-        "id": "https://financialpost.com/globe-newswire/streamex-corp-nasdaq-stex-to-provide-corporate-update-webinar-highlighting-2025-milestones-and-2026-strategic-roadmap-on-december-16th-at-1100am-est",
-        "timestamp": "2025-12-12T12:32:19+00:00",
-        "text": "Streamex Corp. (NASDAQ: STEX) to Provide Corporate Update Webinar Highlighting 2025 Milestones and 2026 Strategic Roadmap on December 16th at 11:00am EST \nLOS ANGELES, Dec. 12, 2025 (GLOBE NEWSWIRE) — Streamex Corp. (“Streamex” or the “Company”) (NASDAQ: STEX), a leader in institutional-grade tokenization and digital asset infrastructure, today announced that it will host a corporate update webinar on December … \nStrengthened Capital Position for Long-Term Growth\r\nStreamex enters 2026 with a strong, well-capitalized balance sheet, giving the Company the resources to scale for years to come.\r\nThis capital foun… [+3800 chars]",
-        "positive": 0.9999959468841553,
-        "negative": 1.8558573344762408e-08,
-        "neutral": 3.996467057731934e-06
-      },
-      {
-        "source": "news",
-        "id": "https://www.foxnews.com/politics/why-us-could-snatch-venezuelan-tanker-not-under-wartime-authority-used-cartel-strikes",
-        "timestamp": "2025-12-12T12:30:52+00:00",
-        "text": "Why the US could snatch a Venezuelan tanker — and not under ‘wartime’ authority used in cartel strikes \nTrump administration uses sanctions law, not military authority, to seize Venezuelan oil tanker tied to Iran network supporting terrorist groups. \nThe Trump administration is relying on a sharply different legal justification for seizing a Venezuelan oil tanker than striking alleged narco-traffickers, even if both moves are intended to ramp up … [+3460 chars]",
-        "positive": 3.0176190193742514e-05,
-        "negative": 0.0004966781125403941,
-        "neutral": 0.9994731545448303
-      },
-      {
-        "source": "news",
-        "id": "https://www.irishtimes.com/your-money/2025/12/12/bridging-finance-is-back-on-the-table-for-irelands-homebuyers/",
-        "timestamp": "2025-12-12T12:30:29+00:00",
-        "text": "Bridging finance is back on the table for Ireland’s homebuyers \nLoan allowing people to confirm purchase of a new home when they have yet to complete the sale of their existing home designed to boost market liquidity \nBridging Finance is back in the news. Once a standard item in the property finance toolbox, it will be an exotic mystery to the generation of homebuyers in the market since the financial crash 16 yea… [+7638 chars]",
-        "positive": 0.00031946314265951514,
-        "negative": 0.0002957635442726314,
-        "neutral": 0.9993846416473389
-      },
-      {
-        "source": "news",
-        "id": "https://www.memeorandum.com/251212/p11",
-        "timestamp": "2025-12-12T12:30:01+00:00",
-        "text": "U.S. Issues New Sanctions Targeting Maduro's Family and the Oil Sector (New York Times) \nNew York Times:\nU.S. Issues New Sanctions Targeting Maduro's Family and the Oil Sector  —  The United States is escalating its pressure campaign on Venezuela's leader, Nicolás Maduro, after seizing an oil tanker off the coast.  —  The United States on Thursda… \nmemeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]",
-        "positive": 4.947624802298378e-06,
-        "negative": 8.333669393323362e-05,
-        "neutral": 0.9999116659164429
-      },
-      {
-        "source": "news",
-        "id": "https://www.globenewswire.com/news-release/2025/12/12/3204588/22558/en/Streamex-Corp-NASDAQ-STEX-to-Provide-Corporate-Update-Webinar-Highlighting-2025-Milestones-and-2026-Strategic-Roadmap-on-December-16th-at-11-00am-EST.html",
-        "timestamp": "2025-12-12T12:30:00+00:00",
-        "text": "Streamex Corp. (NASDAQ: STEX) to Provide Corporate Update Webinar Highlighting 2025 Milestones and 2026 Strategic Roadmap on December 16th at 11:00am EST \nLOS ANGELES, Dec. 12, 2025 (GLOBE NEWSWIRE) -- Streamex Corp. (“Streamex” or the “Company”) (NASDAQ: STEX), a leader in institutional-grade tokenization and digital asset infrastructure, today announced that it will host a corporate update webinar on December… \nLOS ANGELES, Dec. 12, 2025 (GLOBE NEWSWIRE) -- Streamex Corp. (Streamex or the Company) (NASDAQ: STEX), a leader in institutional-grade tokenization and digital asset infrastructure, today announced … [+7943 chars]",
-        "positive": 0.00043927851947955787,
-        "negative": 1.3355630699152243e-06,
-        "neutral": 0.9995593428611755
-      },
-      {
-        "source": "news",
-        "id": "https://www.irishtimes.com/world/europe/2025/12/12/bulgaria-faces-political-turmoil-on-the-eve-of-euro-entry/",
-        "timestamp": "2025-12-12T12:29:49+00:00",
-        "text": "Bulgaria faces political turmoil on the eve of euro entry \nSnap election likely as prime minister resigns after less than a year running a minority government \nBulgaria faces a fresh wave of political turmoil after street protests over rampant corruption led to the resignation of the prime minister just weeks before the country joins the euro.\r\nThe departur… [+3337 chars]",
-        "positive": 5.7782503972703125e-06,
-        "negative": 0.9998458623886108,
-        "neutral": 0.00014831569569651037
-      },
-      {
-        "source": "news",
-        "id": "https://biztoc.com/x/10da45a9a3d0fef0",
-        "timestamp": "2025-12-12T12:29:11+00:00",
-        "text": "US escalates Venezuela campaign \nThe US escalated its campaign against Venezuela with a series of moves that risk sparking an international crisis.\nWashington imposed sanctions on the family of President Nicolás Maduro — whom the Trump administration claims is running a drug cartel — and vow… \nThe US escalated its campaign against Venezuela with a series of moves that risk sparking an international crisis.Washington imposed sanctions on the family of President Nicolás Maduro whom the Trump… [+132 chars]",
-        "positive": 0.0028187045827507973,
-        "negative": 0.2530584931373596,
-        "neutral": 0.7441228032112122
-      },
-      {
-        "source": "news",
-        "id": "https://www.livemint.com/money/personal-finance/understanding-how-asset-management-companies-invest-your-mutual-fund-money-for-smarter-wealth-creation-11765539496286.html",
-        "timestamp": "2025-12-12T12:26:33+00:00",
-        "text": "Understanding how asset management companies invest your mutual fund money for smarter wealth creation \nAn Asset Management Company manages pooled investments through research-driven portfolios, transparent costs and regulatory oversight, helping investors access diversified mutual fund opportunities while understanding AMC functions, benefits and key considera… \nMutual fund investors often hear the term \"Asset Management Company\" (AMC), but few fully understand its exact role. What do these companies actually do with the funds provided to them, and how do th… [+3783 chars]",
-        "positive": 0.0021858743857592344,
-        "negative": 2.9669429295609007e-06,
-        "neutral": 0.9978111386299133
       },
       {
         "source": "news",
@@ -22252,9 +22261,9 @@
         "neutral": 0.7501845359802246
       }
     ],
-    "nw": 0.3187538333616623,
-    "nw_norm": 65.93769166808312
+    "nw": 0.3195509306776338,
+    "nw_norm": 65.97754653388169
   },
-  "gsi": 65.93769166808312,
+  "gsi": 65.97754653388169,
   "classification": "Bullish"
 }
